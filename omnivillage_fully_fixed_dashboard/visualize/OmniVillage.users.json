@@ -1,0 +1,1552 @@
+[{
+  "_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "first_name": "Kinley",
+  "last_name": "Tshering",
+  "village_name": "rukha",
+  "number_of_members": 5,
+  "members": [
+    {
+      "name": "gyeltshen",
+      "age": 62,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b2ff6c65a8ac9a674b3b43"
+      },
+      "_id": {
+        "$oid": "6645ad0eba80bcf5f9947497"
+      }
+    },
+    {
+      "name": "chado lham",
+      "age": 57,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b3000765a8ac9a674b3db1"
+      },
+      "_id": {
+        "$oid": "6645ad0eba80bcf5f9947498"
+      }
+    },
+    {
+      "name": "kinley tshering",
+      "age": 28,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b3001c65a8ac9a674b3e62"
+      },
+      "_id": {
+        "$oid": "6645ad0eba80bcf5f9947499"
+      }
+    },
+    {
+      "name": "xzeyang choki wangmo",
+      "age": 3,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b3005d65a8ac9a674b3ed4"
+      },
+      "_id": {
+        "$oid": "6645ad0eba80bcf5f994749a"
+      }
+    },
+    {
+      "name": "nir mala rai",
+      "age": 3,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b3007f65a8ac9a674b3f6c"
+      },
+      "_id": {
+        "$oid": "6645ad0eba80bcf5f994749b"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 17587419,
+  "document_type": "Pasport (Passport)",
+  "social_security_number": "11901000989",
+  "address": "27.218268225337777,90.18155571073294",
+  "address_proof": "uploads/1715842308481.png",
+  "total_land": 426848.8,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "square feet",
+  "land_measurement_symbol": "sq ft",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 130668
+    },
+    "trees": 130668,
+    "poultry": 871.12,
+    "fishery": 0,
+    "storage": 871.12
+  },
+  "street_address": "Rukha",
+  "createdAt": {
+    "$date": "2024-05-16T06:46:39.200Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:04:42.008Z"
+  },
+  "__v": 0,
+  "type": "villager",
+  "is_landholding_data": true,
+  "is_business_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true
+},
+{
+  "_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "first_name": "Tsha",
+  "last_name": "Gay",
+  "village_name": "rukha",
+  "number_of_members": 4,
+  "members": [
+    {
+      "name": "pem",
+      "age": 44,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b2b53165a8ac9a674a9f22"
+      },
+      "_id": {
+        "$oid": "6645b3f36d743eccd9b190a6"
+      }
+    },
+    {
+      "name": "gyelmo",
+      "age": 96,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b2b74e65a8ac9a674aa1f9"
+      },
+      "_id": {
+        "$oid": "6645b3f36d743eccd9b190a7"
+      }
+    },
+    {
+      "name": "tsagay",
+      "age": 38,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b455f65e4b738d894d45c2"
+      },
+      "_id": {
+        "$oid": "6645b3f36d743eccd9b190a8"
+      }
+    },
+    {
+      "name": "gyem tshering ",
+      "age": 25,
+      "gender": "male",
+      "demographic_id": null,
+      "_id": {
+        "$oid": "6645b3f36d743eccd9b190a9"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 77384957,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901001043",
+  "address": "27.217921773106927,90.18053110688925",
+  "address_proof": "uploads/1715844060572.png",
+  "total_land": 85892.432,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "square feet",
+  "land_measurement_symbol": "sq ft",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 78139.464
+    },
+    "trees": 5662.28,
+    "poultry": 435.56,
+    "fishery": 0,
+    "storage": 435.56
+  },
+  "street_address": "Rukha",
+  "createdAt": {
+    "$date": "2024-05-16T07:17:04.085Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:42:14.725Z"
+  },
+  "__v": 0,
+  "type": "villager",
+  "is_landholding_data": true,
+  "is_business_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true
+},
+{
+  "_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "first_name": "Dorji",
+  "last_name": "Nil",
+  "village_name": "rukha",
+  "number_of_members": 2,
+  "members": [
+    {
+      "name": "tenzin lham",
+      "age": 29,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b343385e4b738d894cf1a0"
+      },
+      "_id": {
+        "$oid": "6645b5bc12fdfcb0f5d70fd8"
+      }
+    },
+    {
+      "name": "dorji",
+      "age": 43,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b345745e4b738d894cf2b9"
+      },
+      "_id": {
+        "$oid": "67b1c92a65a8ac9a674a7e7f"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 77416994,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901000720",
+  "address": "27.21467932155898,90.18371421843767",
+  "address_proof": "uploads/1715844532892.png",
+  "total_land": 44427.12,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "square feet",
+  "land_measurement_symbol": "sq ft",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 26133.6
+    },
+    "trees": 8711.2,
+    "poultry": 3048.92,
+    "fishery": 0,
+    "storage": 6533.4
+  },
+  "street_address": "Rukha",
+  "createdAt": {
+    "$date": "2024-05-16T07:27:02.842Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:10:44.099Z"
+  },
+  "__v": 0,
+  "type": "villager",
+  "is_landholding_data": true,
+  "is_business_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true
+},
+{
+  "_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "first_name": "Gyeltshen",
+  "last_name": "Nill",
+  "village_name": "rukha",
+  "number_of_members": 6,
+  "members": [
+    {
+      "name": "gyeltshen ",
+      "age": 452,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b318af535126c1f565e3e2"
+      },
+      "_id": {
+        "$oid": "6645bdbadf633f228df3f8db"
+      }
+    },
+    {
+      "name": "dorji dem",
+      "age": 43,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b31a45535126c1f565e6bd"
+      },
+      "_id": {
+        "$oid": "6645bdbadf633f228df3f8dc"
+      }
+    },
+    {
+      "name": "chador dem",
+      "age": 19,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b31b6a535126c1f565e7e9"
+      },
+      "_id": {
+        "$oid": "67b2e19065a8ac9a674af897"
+      }
+    },
+    {
+      "name": "sonam dem",
+      "age": 33,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b31e27535126c1f565ed45"
+      },
+      "_id": {
+        "$oid": "67b2e19065a8ac9a674af898"
+      }
+    },
+    {
+      "name": "karma jamtsho ",
+      "age": 34,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b321d3535126c1f565f495"
+      },
+      "_id": {
+        "$oid": "67b2e19065a8ac9a674af899"
+      }
+    },
+    {
+      "name": "chenga lham",
+      "age": 16,
+      "gender": "female",
+      "demographic_id": null,
+      "_id": {
+        "$oid": "67b2e19065a8ac9a674af89a"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 77716035,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "119010001042",
+  "address": "27.2149967,90.1857617",
+  "address_proof": "uploads/1715846584317.png",
+  "total_land": 1088890,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "square feet",
+  "land_measurement_symbol": "sq ft",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 87112
+    },
+    "trees": 130066.8,
+    "poultry": 217.78,
+    "fishery": 0,
+    "storage": 435.56
+  },
+  "street_address": "Rukha",
+  "createdAt": {
+    "$date": "2024-05-16T08:00:59.713Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:47:31.853Z"
+  },
+  "__v": 0,
+  "type": "villager",
+  "is_landholding_data": true,
+  "is_business_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true
+},
+{
+  "_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "first_name": "Sangay",
+  "last_name": "Wangmo",
+  "village_name": "rukha",
+  "number_of_members": 2,
+  "members": [
+    {
+      "name": "sangay wangmo",
+      "age": 54,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b3fa3f5e4b738d894d0730"
+      },
+      "_id": {
+        "$oid": "6645bea05f92efa587c87f94"
+      }
+    },
+    {
+      "name": "sonam dorji",
+      "age": 55,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b3fb8b5e4b738d894d0766"
+      },
+      "_id": {
+        "$oid": "67b3f8525e4b738d894d06d6"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 77725707,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901000976",
+  "address": "27.2164633,90.1769",
+  "address_proof": "uploads/1715846810228.png",
+  "total_land": 7622300,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "square feet",
+  "land_measurement_symbol": "sq ft",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 7621864.44
+    },
+    "trees": 435.56,
+    "poultry": 0,
+    "fishery": 0,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "createdAt": {
+    "$date": "2024-05-16T08:04:41.638Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:48:07.631Z"
+  },
+  "__v": 0,
+  "type": "villager",
+  "is_landholding_data": true,
+  "is_business_data": false,
+  "is_housing_data": true,
+  "is_mobility_data": true
+},
+{
+  "_id": {
+    "$oid": "67adaa5a1af3159cf5d561e7"
+  },
+  "first_name": "Singye Namgay",
+  "last_name": "Primary school",
+  "village_name": "rukha",
+  "number_of_members": 1,
+  "members": [
+    {
+      "name": "karma thinley",
+      "age": 30,
+      "gender": "male",
+      "demographic_id": null,
+      "_id": {
+        "$oid": "67adab1fc12fa16a4a078c1a"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 17991072,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11512002926",
+  "address": "27.216224380126505,90.15255432575941",
+  "address_proof": "uploads/1739434781347.png",
+  "total_land": 259593.76,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "square feet",
+  "land_measurement_symbol": "sq ft",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 0
+    },
+    "trees": 20000,
+    "poultry": 0,
+    "fishery": 0,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": false,
+  "is_housing_data": false,
+  "is_mobility_data": false,
+  "is_business_data": false,
+  "createdAt": {
+    "$date": "2025-02-13T08:16:27.005Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-20T05:31:22.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "first_name": "Tshering",
+  "last_name": "Pem",
+  "village_name": "rukha",
+  "number_of_members": 5,
+  "members": [
+    {
+      "name": "kinga ",
+      "age": 60,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b1a2a9db1ebb70cb7e0e2b"
+      },
+      "_id": {
+        "$oid": "67b17ff8b9aa2904b4d00e8a"
+      }
+    },
+    {
+      "name": "phub",
+      "age": 60,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b1a5e3db1ebb70cb7e0e8f"
+      },
+      "_id": {
+        "$oid": "67b17ff8b9aa2904b4d00e8b"
+      }
+    },
+    {
+      "name": "nima zangmo",
+      "age": 28,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b1a7c1db1ebb70cb7e0ec9"
+      },
+      "_id": {
+        "$oid": "67b17ff8b9aa2904b4d00e8c"
+      }
+    },
+    {
+      "name": "dawa zangmo",
+      "age": 28,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b1a951db1ebb70cb7e0eed"
+      },
+      "_id": {
+        "$oid": "67b17ff8b9aa2904b4d00e8d"
+      }
+    },
+    {
+      "name": "tshering pem",
+      "age": 19,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b1ab93db1ebb70cb7e0f21"
+      },
+      "_id": {
+        "$oid": "67b17ff8b9aa2904b4d00e8e"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 77858353,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "118007002246",
+  "address": "27.2181361,90.1854427",
+  "address_proof": "uploads/1739685877354.png",
+  "total_land": 2.05,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "acre",
+  "land_measurement_symbol": "ac",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 2
+    },
+    "trees": 0.05,
+    "poultry": 0,
+    "fishery": 0,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true,
+  "is_business_data": true,
+  "createdAt": {
+    "$date": "2025-02-16T06:00:52.070Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:32:43.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "first_name": "Namgay",
+  "last_name": "Dema",
+  "village_name": "rukha",
+  "number_of_members": 2,
+  "members": [
+    {
+      "name": "namgay dema",
+      "age": 25,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b1c40c65a8ac9a674a7c76"
+      },
+      "_id": {
+        "$oid": "67b1b7b1db1ebb70cb7e185d"
+      }
+    },
+    {
+      "name": "dorji mo ",
+      "age": 53,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b1c5c965a8ac9a674a7c97"
+      },
+      "_id": {
+        "$oid": "67b1b7b1db1ebb70cb7e185e"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 17575870,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901001008",
+  "address": "27.217612290771,90.18625628203154",
+  "address_proof": "uploads/1739700142804.png",
+  "total_land": 1.626,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "acre",
+  "land_measurement_symbol": "ac",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 1.376
+    },
+    "trees": 0.15,
+    "poultry": 0,
+    "fishery": 0.1,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true,
+  "is_business_data": false,
+  "createdAt": {
+    "$date": "2025-02-16T09:58:56.797Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T12:04:57.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "first_name": "Nim",
+  "last_name": "Zam",
+  "village_name": "rukha",
+  "number_of_members": 3,
+  "members": [
+    {
+      "name": "bechu",
+      "age": 58,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b2c6bb65a8ac9a674ac0e7"
+      },
+      "_id": {
+        "$oid": "67b2a6ae65a8ac9a674a9261"
+      }
+    },
+    {
+      "name": "pema lhaden",
+      "age": 58,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b2c74465a8ac9a674ac3fe"
+      },
+      "_id": {
+        "$oid": "67b2a6ae65a8ac9a674a9262"
+      }
+    },
+    {
+      "name": "nim zam",
+      "age": 22,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b2cede65a8ac9a674ad901"
+      },
+      "_id": {
+        "$oid": "67b2a6ae65a8ac9a674a9263"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 17491060,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901001144",
+  "address": "27.215579167228437,90.18654998391867",
+  "address_proof": "uploads/1739761322624.png",
+  "total_land": 1.8,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "acre",
+  "land_measurement_symbol": "ac",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 1.4
+    },
+    "trees": 0,
+    "poultry": 0.3,
+    "fishery": 0.1,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true,
+  "is_business_data": true,
+  "createdAt": {
+    "$date": "2025-02-17T02:59:11.844Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:44:49.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "first_name": "Ugyen",
+  "last_name": "Choden",
+  "village_name": "rukha",
+  "number_of_members": 2,
+  "members": [
+    {
+      "name": "ugyen choden",
+      "age": 20,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b2d3e265a8ac9a674ae4ee"
+      },
+      "_id": {
+        "$oid": "67b2b04065a8ac9a674a97f5"
+      }
+    },
+    {
+      "name": "chador dem",
+      "age": 34,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b2d53065a8ac9a674ae62f"
+      },
+      "_id": {
+        "$oid": "67b2b04065a8ac9a674a97f6"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 77850609,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901001397",
+  "address": "27.215625083611783,90.18827866762878",
+  "address_proof": "uploads/1739763769312.png",
+  "total_land": 1.486,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "acre",
+  "land_measurement_symbol": "ac",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 1.086
+    },
+    "trees": 0.2,
+    "poultry": 0.2,
+    "fishery": 0,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true,
+  "is_business_data": true,
+  "createdAt": {
+    "$date": "2025-02-17T03:38:36.783Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:08:44.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "first_name": "Kinzang",
+  "last_name": "Kinzang",
+  "village_name": "rukha",
+  "number_of_members": 2,
+  "members": [
+    {
+      "name": "kinzang",
+      "age": 54,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b2c56b65a8ac9a674abccb"
+      },
+      "_id": {
+        "$oid": "67b2b0d665a8ac9a674a98ff"
+      }
+    },
+    {
+      "name": "lham",
+      "age": 55,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b2c95365a8ac9a674ac7f2"
+      },
+      "_id": {
+        "$oid": "67b2b0d665a8ac9a674a9900"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 17968926,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "1190100095",
+  "address": "27.2157885,90.1873867",
+  "address_proof": "uploads/1739763921746.png",
+  "total_land": 2,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "hectare",
+  "land_measurement_symbol": "ha",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 2
+    },
+    "trees": 0.15,
+    "poultry": 0.1,
+    "fishery": 0.15,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true,
+  "is_business_data": true,
+  "createdAt": {
+    "$date": "2025-02-17T03:42:10.956Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:09:31.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "first_name": "Yeshi",
+  "last_name": "Lham",
+  "village_name": "rukha",
+  "number_of_members": 2,
+  "members": [
+    {
+      "name": "yeshi lham",
+      "age": 36,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b2f8f865a8ac9a674b27d9"
+      },
+      "_id": {
+        "$oid": "67b2e6de65a8ac9a674afc37"
+      }
+    },
+    {
+      "name": "tsechu",
+      "age": 38,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b2fa6965a8ac9a674b2a24"
+      },
+      "_id": {
+        "$oid": "67b2e6de65a8ac9a674afc38"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 77786805,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901001004",
+  "address": "27.217251823266917,90.18689565360546",
+  "address_proof": "uploads/1739777754426.png",
+  "total_land": 1.5,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "acre",
+  "land_measurement_symbol": "ac",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 1.5
+    },
+    "trees": 0.1,
+    "poultry": 0,
+    "fishery": 0.36,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true,
+  "is_business_data": false,
+  "createdAt": {
+    "$date": "2025-02-17T07:32:29.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:42:33.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "first_name": "Bakhum",
+  "last_name": "Bakhum",
+  "village_name": "rukha",
+  "number_of_members": 2,
+  "members": [
+    {
+      "name": "bakhum",
+      "age": 66,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b2f64765a8ac9a674b2073"
+      },
+      "_id": {
+        "$oid": "67b2e84365a8ac9a674afd6f"
+      }
+    },
+    {
+      "name": "passang",
+      "age": 60,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b2f80665a8ac9a674b259b"
+      },
+      "_id": {
+        "$oid": "67b2e84365a8ac9a674afd70"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 77394723,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901001039",
+  "address": "27.218289095919694,90.18464092165232",
+  "address_proof": "uploads/1739778112750.png",
+  "total_land": 4.912,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "acre",
+  "land_measurement_symbol": "ac",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 4.912
+    },
+    "trees": 0,
+    "poultry": 0,
+    "fishery": 0,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true,
+  "is_business_data": true,
+  "createdAt": {
+    "$date": "2025-02-17T07:39:20.278Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:13:19.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "first_name": "Kinzang",
+  "last_name": "Tshering",
+  "village_name": "rukha",
+  "number_of_members": 3,
+  "members": [
+    {
+      "name": "kinzang tshering ",
+      "age": 41,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b30eaa65a8ac9a674b6db9"
+      },
+      "_id": {
+        "$oid": "67b2f37665a8ac9a674b14cc"
+      }
+    },
+    {
+      "name": "wangchuk dem",
+      "age": 40,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b30f5165a8ac9a674b6f9b"
+      },
+      "_id": {
+        "$oid": "67b2f37665a8ac9a674b14cd"
+      }
+    },
+    {
+      "name": "kingzang tshoki dema",
+      "age": 5,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b3119c65a8ac9a674b711a"
+      },
+      "_id": {
+        "$oid": "67b2f37665a8ac9a674b14ce"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 77281101,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901001070",
+  "address": "27.218102453148344,90.18299002200365",
+  "address_proof": "uploads/1739780979877.png",
+  "total_land": 1.1,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "acre",
+  "land_measurement_symbol": "ac",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 0.9
+    },
+    "trees": 0.04,
+    "poultry": 0.15,
+    "fishery": 0,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true,
+  "is_business_data": false,
+  "createdAt": {
+    "$date": "2025-02-17T08:25:57.673Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:14:34.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "first_name": "Peldon",
+  "last_name": "Peldon",
+  "village_name": "rukha",
+  "number_of_members": 2,
+  "members": [
+    {
+      "name": "peldon ",
+      "age": 29,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b31962535126c1f565e42d"
+      },
+      "_id": {
+        "$oid": "67b30d5e65a8ac9a674b6c3a"
+      }
+    },
+    {
+      "name": "yeshi dorji ",
+      "age": 36,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b30efc65a8ac9a674b6f64"
+      },
+      "_id": {
+        "$oid": "67b30d5e65a8ac9a674b6c3b"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 17753792,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901000722",
+  "address": "-0.0010598078369475558,-0.01147449016571045",
+  "address_proof": "uploads/1739787611213.png",
+  "total_land": 5,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "acre",
+  "land_measurement_symbol": "ac",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 5
+    },
+    "trees": 0.1,
+    "poultry": 0.01,
+    "fishery": 0,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true,
+  "is_business_data": true,
+  "createdAt": {
+    "$date": "2025-02-17T10:17:40.476Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:38:59.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "first_name": "Pempa",
+  "last_name": "Lham",
+  "village_name": "rukha",
+  "number_of_members": 1,
+  "members": [
+    {
+      "name": "pempa lham",
+      "age": 22,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b342915e4b738d894cf154"
+      },
+      "_id": {
+        "$oid": "67b30d4b65a8ac9a674b6be6"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 17756909,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901000969",
+  "address": "27.217774187707143,90.18233489245176",
+  "address_proof": "uploads/1739787592969.png",
+  "total_land": 4.832,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "acre",
+  "land_measurement_symbol": "ac",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 4.502
+    },
+    "trees": 0.33,
+    "poultry": 0,
+    "fishery": 0,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true,
+  "is_business_data": true,
+  "createdAt": {
+    "$date": "2025-02-17T10:17:48.810Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:35:42.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "first_name": "Nima",
+  "last_name": "Nil",
+  "village_name": "rukha",
+  "number_of_members": 4,
+  "members": [
+    {
+      "name": "dorji",
+      "age": 80,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b417b35e4b738d894d2bf1"
+      },
+      "_id": {
+        "$oid": "67b3faab5e4b738d894d073e"
+      }
+    },
+    {
+      "name": "chador",
+      "age": 44,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b41a265e4b738d894d2d74"
+      },
+      "_id": {
+        "$oid": "67b3faab5e4b738d894d073f"
+      }
+    },
+    {
+      "name": "nima",
+      "age": 39,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b417d95e4b738d894d2c47"
+      },
+      "_id": {
+        "$oid": "67b3faab5e4b738d894d0740"
+      }
+    },
+    {
+      "name": "nima wangchuk",
+      "age": 20,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b41b2d5e4b738d894d2e17"
+      },
+      "_id": {
+        "$oid": "67b3faab5e4b738d894d0741"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 77269643,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901000948",
+  "address": "27.217535069129266,90.17558980733156",
+  "address_proof": "uploads/1739848311092.png",
+  "total_land": 118472.32,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "square feet",
+  "land_measurement_symbol": "sq ft",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 76223
+    },
+    "trees": 1306.68,
+    "poultry": 1306.68,
+    "fishery": 0,
+    "storage": 1306.68
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true,
+  "is_business_data": false,
+  "createdAt": {
+    "$date": "2025-02-18T03:07:33.605Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:31:26.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "first_name": "Migmar",
+  "last_name": "Lham",
+  "village_name": "rukha",
+  "number_of_members": 1,
+  "members": [
+    {
+      "name": "migmar lham",
+      "age": 46,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b408af5e4b738d894d0ee2"
+      },
+      "_id": {
+        "$oid": "67b401635e4b738d894d09b6"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 77397152,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901001030",
+  "address": "27.2180983,90.1829617",
+  "address_proof": "uploads/1739850079012.png",
+  "total_land": 1,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "acre",
+  "land_measurement_symbol": "ac",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 1
+    },
+    "trees": 0,
+    "poultry": 0,
+    "fishery": 0,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true,
+  "is_business_data": false,
+  "createdAt": {
+    "$date": "2025-02-18T03:39:13.340Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:42:48.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "first_name": "Phub",
+  "last_name": "Dorji",
+  "village_name": "rukha",
+  "number_of_members": 5,
+  "members": [
+    {
+      "name": "chokila",
+      "age": 58,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b432a85e4b738d894d38e8"
+      },
+      "_id": {
+        "$oid": "67b406785e4b738d894d0bf8"
+      }
+    },
+    {
+      "name": "namsey mo",
+      "age": 50,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b434fe5e4b738d894d3914"
+      },
+      "_id": {
+        "$oid": "67b406785e4b738d894d0bf9"
+      }
+    },
+    {
+      "name": "kinley mo",
+      "age": 87,
+      "gender": "female",
+      "demographic_id": {
+        "$oid": "67b4371f5e4b738d894d3941"
+      },
+      "_id": {
+        "$oid": "67b406785e4b738d894d0bfa"
+      }
+    },
+    {
+      "name": "tshering wangyel norbu",
+      "age": 5,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b438725e4b738d894d3970"
+      },
+      "_id": {
+        "$oid": "67b406785e4b738d894d0bfb"
+      }
+    },
+    {
+      "name": "phub dorji",
+      "age": 33,
+      "gender": "male",
+      "demographic_id": {
+        "$oid": "67b43b245e4b738d894d39a0"
+      },
+      "_id": {
+        "$oid": "67b406785e4b738d894d0bfc"
+      }
+    }
+  ],
+  "country_code": "+975",
+  "phone": 77433033,
+  "document_type": "Kad Pengenalan / MyKad (Identity Card)",
+  "social_security_number": "11901001105",
+  "address": "27.21496018868135,90.18521290272474",
+  "address_proof": "uploads/1739851382830.png",
+  "total_land": 5,
+  "currency": "BTN",
+  "country": "Bhutan",
+  "land_measurement": "acre",
+  "land_measurement_symbol": "ac",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 1
+    },
+    "trees": 0.5,
+    "poultry": 0.05,
+    "fishery": 0.5,
+    "storage": 0
+  },
+  "street_address": "Rukha",
+  "is_landholding_data": true,
+  "is_housing_data": true,
+  "is_mobility_data": true,
+  "is_business_data": false,
+  "createdAt": {
+    "$date": "2025-02-18T03:56:51.283Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:01:57.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b6aa1eeaac34c6f63045aa"
+  },
+  "first_name": "-",
+  "last_name": "-",
+  "village_name": "-",
+  "number_of_members": 0,
+  "members": [],
+  "country_code": "+60",
+  "phone": 123164736,
+  "document_type": "-",
+  "social_security_number": "-",
+  "address": "-",
+  "address_proof": "-",
+  "total_land": 0,
+  "currency": "MYR",
+  "country": "Malaysia",
+  "land_measurement": "-",
+  "land_measurement_symbol": "-",
+  "sub_area": {
+    "cultivation": {
+      "distribution": {
+        "once": 0,
+        "twice": 0,
+        "thrice": 0
+      },
+      "land": 0
+    },
+    "trees": 0,
+    "poultry": 0,
+    "fishery": 0,
+    "storage": 0
+  },
+  "street_address": "-",
+  "is_landholding_data": false,
+  "is_housing_data": false,
+  "is_mobility_data": false,
+  "is_business_data": false,
+  "createdAt": {
+    "$date": "2025-02-20T04:05:50.939Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-20T04:05:50.939Z"
+  },
+  "__v": 0
+}]

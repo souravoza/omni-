@@ -1,0 +1,231 @@
+[{
+  "_id": {
+    "$oid": "679c5940e6b5e001dd4c89e6"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "type": {
+    "$oid": "6739df6da4cfd8cc1f107f15"
+  },
+  "distance_travelled_within_village": 250,
+  "distance_travelled_outside": 1000,
+  "purpose_use_of_vehicle": [
+    "6739df1da4cfd8cc1f107efb",
+    "6739df27a4cfd8cc1f107eff"
+  ],
+  "frequency_of_usage": "daily",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-31T05:01:52.744Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T05:01:52.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c5944e6b5e001dd4c8a0d"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "type": {
+    "$oid": "6786d3ad854845415d4a8149"
+  },
+  "distance_travelled_within_village": 28,
+  "distance_travelled_outside": 52,
+  "purpose_use_of_vehicle": [
+    "6739df1da4cfd8cc1f107efb",
+    "6739df27a4cfd8cc1f107eff",
+    "6739df2da4cfd8cc1f107f01"
+  ],
+  "frequency_of_usage": "monthly",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-31T05:01:56.363Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T05:01:56.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cf00cd3c8a746909e0bd0"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "type": {
+    "$oid": "6739df71a4cfd8cc1f107f17"
+  },
+  "distance_travelled_within_village": 100,
+  "distance_travelled_outside": 20,
+  "purpose_use_of_vehicle": [
+    "6739df21a4cfd8cc1f107efd"
+  ],
+  "frequency_of_usage": "daily",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-31T15:45:16.526Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T15:45:16.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cfec7d3c8a746909e0ef6"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "type": {
+    "$oid": "6739df71a4cfd8cc1f107f17"
+  },
+  "distance_travelled_within_village": 100,
+  "distance_travelled_outside": 100,
+  "purpose_use_of_vehicle": [
+    "6739df27a4cfd8cc1f107eff",
+    "6739df3da4cfd8cc1f107f07"
+  ],
+  "frequency_of_usage": "daily",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-31T16:48:07.667Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T16:48:07.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeb74c3a0c8b7971dafabc"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": {
+    "$oid": "6739df5ca4cfd8cc1f107f0d"
+  },
+  "distance_travelled_within_village": 25,
+  "distance_travelled_outside": 25,
+  "purpose_use_of_vehicle": [
+    "6739df27a4cfd8cc1f107eff",
+    "6739df1da4cfd8cc1f107efb",
+    "6739df3da4cfd8cc1f107f07"
+  ],
+  "frequency_of_usage": "Monthly",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-14T03:23:56.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:45:22.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d09c65a8ac9a674adece"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": {
+    "$oid": "6786d3ad854845415d4a8149"
+  },
+  "distance_travelled_within_village": 400,
+  "distance_travelled_outside": 1000,
+  "purpose_use_of_vehicle": [
+    "6739df18a4cfd8cc1f107ef9"
+  ],
+  "frequency_of_usage": "Several Times a Week",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T06:01:00.148Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:01:00.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b346f45e4b738d894cf41b"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": {
+    "$oid": "6739df5ca4cfd8cc1f107f0d"
+  },
+  "distance_travelled_within_village": 9,
+  "distance_travelled_outside": 20,
+  "purpose_use_of_vehicle": [
+    "6739df21a4cfd8cc1f107efd"
+  ],
+  "frequency_of_usage": "Weekly",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T14:25:56.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:25:56.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b411775e4b738d894d22dc"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": {
+    "$oid": "6786d3ad854845415d4a8149"
+  },
+  "distance_travelled_within_village": 0,
+  "distance_travelled_outside": 35,
+  "purpose_use_of_vehicle": [
+    "6739df18a4cfd8cc1f107ef9"
+  ],
+  "frequency_of_usage": "Occasionally / Rarely",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T04:49:59.171Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:49:59.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b46fb95e4b738d894d4ea9"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": {
+    "$oid": "6739df5ca4cfd8cc1f107f0d"
+  },
+  "distance_travelled_within_village": 50,
+  "distance_travelled_outside": 500,
+  "purpose_use_of_vehicle": [
+    "6739df18a4cfd8cc1f107ef9"
+  ],
+  "frequency_of_usage": "Monthly",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T11:32:09.051Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:32:09.051Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,3100 @@
+[{
+  "_id": {
+    "$oid": "65744f6b298d847f43c9651f"
+  },
+  "name": {
+    "en": "pumpkin",
+    "ms": "labu",
+    "dz": "kakuru"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:43.215Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:30:03.613Z"
+  },
+  "__v": 0,
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6b298d847f43c96522"
+  },
+  "name": {
+    "en": "chillies",
+    "ms": "lada",
+    "dz": "ema"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:43.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:30:11.331Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6b298d847f43c96524"
+  },
+  "name": {
+    "en": "sweet potato",
+    "ms": "ubi manis",
+    "dz": "sweet potato"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:43.530Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:30:15.974Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6b298d847f43c96526"
+  },
+  "name": {
+    "en": "corn",
+    "ms": "jagung",
+    "dz": "corn"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:43.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:30:22.877Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6b298d847f43c96528"
+  },
+  "name": {
+    "en": "rice",
+    "ms": "nasi",
+    "dz": "chhumm"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:43.707Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:30:29.352Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6b298d847f43c9652a"
+  },
+  "name": {
+    "en": "wheat",
+    "ms": "gandum",
+    "dz": "ka "
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:43.791Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:31:39.015Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6b298d847f43c9652c"
+  },
+  "name": {
+    "en": "ginger",
+    "ms": "halia",
+    "dz": "sagga"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:43.875Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:33:01.654Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6b298d847f43c9652e"
+  },
+  "name": {
+    "en": "bitter gourd",
+    "ms": "peria",
+    "dz": "bitter gourd"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:43.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:32:16.473Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6c298d847f43c96530"
+  },
+  "name": {
+    "en": "tomato",
+    "ms": "tomato",
+    "dz": "lamendha"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:44.051Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:36:02.179Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6c298d847f43c96532"
+  },
+  "name": {
+    "en": "yam",
+    "ms": "keladi",
+    "dz": "yam"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:44.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:36:38.026Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6c298d847f43c96534"
+  },
+  "name": {
+    "en": "cassava",
+    "ms": "ubi kayu",
+    "dz": "cassava"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:44.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:32:34.499Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6c298d847f43c96536"
+  },
+  "name": {
+    "en": "coriander",
+    "ms": "ketumbar",
+    "dz": "wu-so"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:44.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:32:47.787Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6c298d847f43c96538"
+  },
+  "name": {
+    "en": "onion",
+    "ms": "bawang merah",
+    "dz": "gop"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:44.407Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:34:42.339Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6c298d847f43c9653a"
+  },
+  "name": {
+    "en": "garlic",
+    "ms": "bawang putih",
+    "dz": "cha-gop"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:44.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:33:07.864Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6c298d847f43c9653c"
+  },
+  "name": {
+    "en": "lemongrass",
+    "ms": "serai",
+    "dz": "hum-chung"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:44.581Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:33:59.995Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6c298d847f43c9653e"
+  },
+  "name": {
+    "en": "turmeric",
+    "ms": "kunyit",
+    "dz": "yong-la"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:44.670Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:36:10.471Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6c298d847f43c96540"
+  },
+  "name": {
+    "en": "cabbage",
+    "ms": "kobis",
+    "dz": "dha-ma-kopi"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:44.754Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:32:28.954Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6c298d847f43c96542"
+  },
+  "name": {
+    "en": "long bean",
+    "ms": "kacang panjang",
+    "dz": "long bean"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:44.839Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:34:09.641Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6c298d847f43c96544"
+  },
+  "name": {
+    "en": "okra",
+    "ms": "kacang bendi",
+    "dz": "okra"
+  },
+  "country": [
+    "india",
+    "bhutan",
+    "malaysia"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:44.924Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:34:37.794Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6d298d847f43c96546"
+  },
+  "name": {
+    "en": "cucumber",
+    "ms": "timun",
+    "dz": "gyan"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:45.010Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:33:15.186Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6d298d847f43c96548"
+  },
+  "name": {
+    "en": "bottle gourd",
+    "ms": "labu air",
+    "dz": "bottle gourd"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:45.096Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:32:21.267Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6d298d847f43c9654a"
+  },
+  "name": {
+    "en": "eggplant",
+    "ms": "terung",
+    "dz": "dho lom"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:45.182Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:33:32.322Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6d298d847f43c9654e"
+  },
+  "name": {
+    "en": "pepper",
+    "ms": "lada hitam",
+    "dz": "pepper"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:45.357Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:35:07.205Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6d298d847f43c96550"
+  },
+  "name": {
+    "en": "mushroom",
+    "ms": "cendawan",
+    "dz": "shamu"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:45.442Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:34:28.571Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6d298d847f43c96552"
+  },
+  "name": {
+    "en": "bakchoi",
+    "ms": "bakchoi",
+    "dz": "bakchoi"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:45.524Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:32:06.304Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6d298d847f43c96554"
+  },
+  "name": {
+    "en": "spinach",
+    "ms": "sawi",
+    "dz": "hen-tshey"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:45.608Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:35:45.801Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6d298d847f43c96556"
+  },
+  "name": {
+    "en": "choy sum",
+    "ms": "choy sum",
+    "dz": "choy sum"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:45.692Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:32:53.033Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6d298d847f43c96558"
+  },
+  "name": {
+    "en": "kangkung",
+    "ms": "kangkung",
+    "dz": "kangkung"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:45.777Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:33:41.963Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6d298d847f43c9655a"
+  },
+  "name": {
+    "en": "spring onion",
+    "ms": "daun sup",
+    "dz": "cha-gop"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:45.864Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:35:51.727Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6d298d847f43c9655c"
+  },
+  "name": {
+    "en": "potato",
+    "ms": "ubi kentang",
+    "dz": "kewa"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:45.949Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:35:27.562Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6e298d847f43c9655e"
+  },
+  "name": {
+    "en": "pineapple",
+    "ms": "nenas",
+    "dz": "pineapple"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:46.036Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:35:21.641Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6e298d847f43c96560"
+  },
+  "name": {
+    "en": "watermelon",
+    "ms": "tembikai",
+    "dz": "apa guuto"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:46.120Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:36:27.809Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6e298d847f43c96562"
+  },
+  "name": {
+    "en": "peanuts",
+    "ms": "kacang tanah",
+    "dz": "peanuts"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:46.201Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:34:58.893Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6e298d847f43c96564"
+  },
+  "name": {
+    "en": "melon",
+    "ms": "melon",
+    "dz": "melon"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:46.282Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:34:17.219Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6e298d847f43c96566"
+  },
+  "name": {
+    "en": "sawi",
+    "ms": "sawi",
+    "dz": "sawi"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:46.366Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:35:37.879Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6e298d847f43c96568"
+  },
+  "name": {
+    "en": "keriting",
+    "ms": "keriting",
+    "dz": "keriting"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:46.448Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:33:48.325Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6e298d847f43c9656a"
+  },
+  "name": {
+    "en": "misai kucing",
+    "ms": "misai kucing",
+    "dz": "misai kucing"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:46.530Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:34:23.256Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6e298d847f43c9656c"
+  },
+  "name": {
+    "en": "curry leaves",
+    "ms": "daun kari",
+    "dz": "curry leaves"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:46.612Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:33:22.639Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6e298d847f43c9656e"
+  },
+  "name": {
+    "en": "suja",
+    "ms": "suja",
+    "dz": "suja"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c5"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:46.700Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:05:37.199Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6e298d847f43c96570"
+  },
+  "name": {
+    "en": "pandan",
+    "ms": "pandan",
+    "dz": "pandan"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:46.784Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:34:51.344Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6e298d847f43c96572"
+  },
+  "name": {
+    "en": "vanilla",
+    "ms": "vanilla",
+    "dz": "vanilla"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:46.868Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:36:18.648Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6e298d847f43c96574"
+  },
+  "name": {
+    "en": "dragonfruit",
+    "ms": "buah naga",
+    "dz": "dragonfruit"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:46.956Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:33:28.100Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6f298d847f43c96576"
+  },
+  "name": {
+    "en": "kundul",
+    "ms": "kundul",
+    "dz": "kundul"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:47.040Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:33:54.130Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65744f6f298d847f43c96578"
+  },
+  "name": {
+    "en": "petola",
+    "ms": "petola",
+    "dz": "petola"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:28:47.138Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:35:14.814Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "658e4d84d162d46fa9afbca2"
+  },
+  "name": {
+    "en": "jowar",
+    "ms": "jowar",
+    "dz": "jowar"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-29T04:39:32.091Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:50:52.893Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "65cd72620b0b31fd6b4a8e29"
+  },
+  "name": {
+    "en": "paddy ",
+    "ms": "paddy ",
+    "dz": "paddy "
+  },
+  "country": [
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-02-15T02:09:38.429Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:25:52.785Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644c6d203c6074d0c1fc0cc"
+  },
+  "name": {
+    "en": "maize",
+    "ms": "maize",
+    "dz": "gayza"
+  },
+  "country": [
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T14:29:38.556Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:51:11.942Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644cd1803c6074d0c1fc0fc"
+  },
+  "name": {
+    "en": "barley",
+    "ms": "barley",
+    "dz": "nang"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T14:56:24.219Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T14:56:24.219Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644cd5a03c6074d0c1fc0ff"
+  },
+  "name": {
+    "en": "buckwheat",
+    "ms": "buckwheat",
+    "dz": "jowg"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T14:57:30.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T14:57:30.100Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644cd9203c6074d0c1fc102"
+  },
+  "name": {
+    "en": "cardamom",
+    "ms": "cardamon",
+    "dz": "kakula"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T14:58:26.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:28:55.642Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644cdbe03c6074d0c1fc105"
+  },
+  "name": {
+    "en": "millet",
+    "ms": "millet",
+    "dz": "khong-po"
+  },
+  "country": [
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T14:59:10.608Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:28:15.699Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644ceef03c6074d0c1fc115"
+  },
+  "name": {
+    "en": "beans",
+    "ms": "beans",
+    "dz": "sem-chung"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:04:15.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:04:15.380Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644cf3303c6074d0c1fc11a"
+  },
+  "name": {
+    "en": "cauliflower",
+    "ms": "cauliflower",
+    "dz": "meto-kopi"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:05:23.726Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:05:23.726Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644cf8203c6074d0c1fc120"
+  },
+  "name": {
+    "en": "broccoli",
+    "ms": "brocolli",
+    "dz": "meto hen-tshey"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:06:42.629Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:07:01.236Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644cfc203c6074d0c1fc125"
+  },
+  "name": {
+    "en": "radish",
+    "ms": "radish",
+    "dz": "la phu"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:07:46.023Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:07:46.023Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644cfe003c6074d0c1fc128"
+  },
+  "name": {
+    "en": "carrot",
+    "ms": "carrot",
+    "dz": "la phu marp"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:08:16.914Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:08:16.914Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644cff903c6074d0c1fc12b"
+  },
+  "name": {
+    "en": "asparagus",
+    "ms": "asparagus",
+    "dz": "nya khak chung"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:08:41.924Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:08:41.924Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d01703c6074d0c1fc12e"
+  },
+  "name": {
+    "en": "sichuan pepper",
+    "ms": "sichuan pepper",
+    "dz": "thingye"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:09:11.723Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:09:11.723Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d0f703c6074d0c1fc142"
+  },
+  "name": {
+    "en": "red rice",
+    "ms": "red rice",
+    "dz": "chhumm marp"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:12:55.377Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:12:55.377Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d13603c6074d0c1fc145"
+  },
+  "name": {
+    "en": "turnip",
+    "ms": "turnip",
+    "dz": "yyen dho"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:13:58.836Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:13:58.836Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d17503c6074d0c1fc148"
+  },
+  "name": {
+    "en": "peas",
+    "ms": "peas",
+    "dz": "dho sem"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:15:01.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:15:01.707Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d1a403c6074d0c1fc14b"
+  },
+  "name": {
+    "en": "apples",
+    "ms": "apples",
+    "dz": "apples"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:15:48.477Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:15:48.477Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d1f603c6074d0c1fc14f"
+  },
+  "name": {
+    "en": "peaches",
+    "ms": "peaches",
+    "dz": "kham"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:17:10.605Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:17:10.605Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d22503c6074d0c1fc152"
+  },
+  "name": {
+    "en": "walnut",
+    "ms": "walnut",
+    "dz": "ta go"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:17:57.745Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:17:57.745Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d26b03c6074d0c1fc155"
+  },
+  "name": {
+    "en": "mangoes",
+    "ms": "mangoes",
+    "dz": "ayum chu kuli"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:19:07.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:19:07.180Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d2b503c6074d0c1fc158"
+  },
+  "name": {
+    "en": "bananas",
+    "ms": "bananas",
+    "dz": "ngagla"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:20:21.038Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:20:21.038Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d2c403c6074d0c1fc15b"
+  },
+  "name": {
+    "en": "oranges",
+    "ms": "oranges",
+    "dz": "tshalu"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:20:36.834Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:20:36.834Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d2f403c6074d0c1fc15e"
+  },
+  "name": {
+    "en": "avocado",
+    "ms": "avocado",
+    "dz": "goli"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:21:24.485Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:21:24.485Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d30903c6074d0c1fc161"
+  },
+  "name": {
+    "en": "papaya",
+    "ms": "papaya",
+    "dz": "modhu pha la"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:21:45.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:21:45.094Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d32903c6074d0c1fc164"
+  },
+  "name": {
+    "en": "lichi",
+    "ms": "lichi",
+    "dz": "lichi"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:22:17.269Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:22:17.269Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d37003c6074d0c1fc168"
+  },
+  "name": {
+    "en": "sugarcane",
+    "ms": "sugarcane",
+    "dz": "gyun cha"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:23:28.626Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:23:28.626Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d39803c6074d0c1fc16b"
+  },
+  "name": {
+    "en": "apricot",
+    "ms": "apricot",
+    "dz": "marig lham "
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:24:08.157Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:24:08.157Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d3b203c6074d0c1fc16e"
+  },
+  "name": {
+    "en": "persimmon",
+    "ms": "persimmon",
+    "dz": "ann dhay"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:24:34.759Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:24:34.759Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d3e203c6074d0c1fc171"
+  },
+  "name": {
+    "en": "slippery gloud",
+    "ms": "slippery gloud",
+    "dz": "olachoto"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:25:22.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:25:22.276Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6644d40d03c6074d0c1fc174"
+  },
+  "name": {
+    "en": "fiddlehead",
+    "ms": "fiddlehead",
+    "dz": "nan kayy"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T15:26:05.588Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T15:26:05.588Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645b854df633f228df3f700"
+  },
+  "name": {
+    "en": "lentils",
+    "ms": "lentils",
+    "dz": "lentils"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:40:04.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:40:04.714Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645b891df633f228df3f719"
+  },
+  "name": {
+    "en": "chickpeas",
+    "ms": "chickpeas",
+    "dz": "chickpeas"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:41:05.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:41:05.041Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645b8abcae777c16e946a76"
+  },
+  "name": {
+    "en": "red kidney bean",
+    "ms": "red kidney bean",
+    "dz": "red kidney bean"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:41:31.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:41:31.420Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645b9c4df633f228df3f744"
+  },
+  "name": {
+    "en": "soybeans",
+    "ms": "soybeans",
+    "dz": "soybeans"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:46:12.995Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:46:12.995Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645bc5612fdfcb0f5d71362"
+  },
+  "name": {
+    "en": "broad beans",
+    "ms": "broad beans",
+    "dz": "broad beans"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:57:10.485Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:57:10.485Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645be3212fdfcb0f5d7143b"
+  },
+  "name": {
+    "en": "tomato sauce",
+    "ms": "tomato sauce",
+    "dz": "tomato sauce"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:05:06.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:05:06.713Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645be5c12fdfcb0f5d71441"
+  },
+  "name": {
+    "en": "instant noodles ",
+    "ms": "instant noodles ",
+    "dz": "instant noodles "
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:05:48.789Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:05:48.789Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645bf14d247cfc835b7c5a8"
+  },
+  "name": {
+    "en": "soy sauce",
+    "ms": "soy sauce",
+    "dz": "soy sauce"
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:08:52.666Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:08:52.666Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645bf265f92efa587c87fb2"
+  },
+  "name": {
+    "en": "oyster sauce",
+    "ms": "oyster sauce",
+    "dz": "oyster sauce"
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:09:10.886Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:09:10.886Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645bf3012fdfcb0f5d7146f"
+  },
+  "name": {
+    "en": "fish sauce",
+    "ms": "fish sauce",
+    "dz": "fish sauce"
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:09:20.228Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:09:20.228Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645bfb3df633f228df3f968"
+  },
+  "name": {
+    "en": "ezay",
+    "ms": "ezay",
+    "dz": "ezay"
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:11:31.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:11:31.712Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645bfc112fdfcb0f5d7148d"
+  },
+  "name": {
+    "en": "chilli sauce",
+    "ms": "chilli sauce",
+    "dz": "chilli sauce"
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:11:45.496Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:11:45.496Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645c1b1df633f228df3fa19"
+  },
+  "name": {
+    "en": "butter",
+    "ms": "butter",
+    "dz": "butter"
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:20:01.432Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:52:09.959Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645c1bdd998b0a9ba012ddd"
+  },
+  "name": {
+    "en": "mustard oil",
+    "ms": "mustard oil",
+    "dz": "mustard oil"
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:20:13.739Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:20:13.739Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645c216df633f228df3fabf"
+  },
+  "name": {
+    "en": "coconut oil",
+    "ms": "coconut oil",
+    "dz": "coconut oil"
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:21:42.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:21:42.820Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "6645c222df633f228df3faf2"
+  },
+  "name": {
+    "en": "ghee",
+    "ms": "ghee",
+    "dz": "ghee"
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:21:54.832Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:21:54.832Z"
+  },
+  "__v": 0,
+  "category": "cultivation"
+},
+{
+  "_id": {
+    "$oid": "67ab97ee45495d1ec9702326"
+  },
+  "name": {
+    "en": "rajma beans ",
+    "ms": "rajma beans ",
+    "dz": "rajma beans "
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:33:18.945Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:25:21.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab989545495d1ec970232a"
+  },
+  "name": {
+    "en": "beans dry ",
+    "ms": "beans dry ",
+    "dz": "beans dry "
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:36:05.150Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T18:36:05.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab991745495d1ec970232d"
+  },
+  "name": {
+    "en": "groundnut ",
+    "ms": "groundnut ",
+    "dz": "groundnut "
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:38:15.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T18:38:15.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9a1945495d1ec9702331"
+  },
+  "name": {
+    "en": "ground apple ",
+    "ms": "ground apple ",
+    "dz": "ground apple "
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:42:33.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:24:07.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9ac745495d1ec9702336"
+  },
+  "name": {
+    "en": "onion bulb",
+    "ms": "onion bulb",
+    "dz": "onion bulb"
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:45:27.156Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:23:57.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9aff45495d1ec970233a"
+  },
+  "name": {
+    "en": "chili",
+    "ms": "chili",
+    "dz": "chili"
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:46:23.739Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:23:51.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9b5645495d1ec970233f"
+  },
+  "name": {
+    "en": "beetroot",
+    "ms": "beetroot",
+    "dz": "beetroot"
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:47:50.356Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:23:40.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0d5a5b9aa2904b4cfec7c"
+  },
+  "name": {
+    "en": "white indian rice",
+    "ms": "white indian rice",
+    "dz": "white indian rice"
+  },
+  "country": [
+    "bhutan",
+    "india",
+    "malaysia"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T17:57:57.599Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T17:57:57.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0d8efb9aa2904b4cfed9f"
+  },
+  "name": {
+    "en": "local rice (red & white)",
+    "ms": "local rice (red & white)",
+    "dz": "local rice (red & white)"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:11:59.208Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:11:59.208Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0d8efb9aa2904b4cfeda0"
+  },
+  "name": {
+    "en": "maize (corn)",
+    "ms": "maize (corn)",
+    "dz": "maize (corn)"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:11:59.209Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:11:59.209Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0f403b9aa2904b4cffd29"
+  },
+  "name": {
+    "en": "sunflower oil",
+    "ms": "sunflower oil",
+    "dz": "sunflower oil"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:07:31.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:07:31.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f413b9aa2904b4cffd2d"
+  },
+  "name": {
+    "en": "soya bean oil",
+    "ms": "soya bean oil",
+    "dz": "soya bean oil"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:07:47.682Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:07:47.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f424b9aa2904b4cffd30"
+  },
+  "name": {
+    "en": "olive oil",
+    "ms": "olive oil",
+    "dz": "olive oil"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:08:04.047Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:08:04.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f432b9aa2904b4cffd33"
+  },
+  "name": {
+    "en": "refined vegetable oil",
+    "ms": "refined vegetable oil",
+    "dz": "refined vegetable oil"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:08:18.813Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:08:18.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f43cb9aa2904b4cffd36"
+  },
+  "name": {
+    "en": "canola oil",
+    "ms": "canola oil",
+    "dz": "canola oil"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:08:28.559Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:08:28.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f44ab9aa2904b4cffd39"
+  },
+  "name": {
+    "en": "sesame oil",
+    "ms": "sesame oil",
+    "dz": "sesame oil"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:08:42.014Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:08:42.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1e3c965a8ac9a674a8b4e"
+  },
+  "name": {
+    "en": "mustard",
+    "ms": "mustard",
+    "dz": "mustard"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-16T13:10:33.708Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T13:10:33.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1e5c765a8ac9a674a8b68"
+  },
+  "name": {
+    "en": "pear",
+    "ms": "pear",
+    "dz": "pear"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-16T13:19:03.459Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T13:19:03.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1e60a65a8ac9a674a8b7c"
+  },
+  "name": {
+    "en": "plum",
+    "ms": "plum",
+    "dz": "plum"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-16T13:20:10.029Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T13:20:10.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1e69265a8ac9a674a8b90"
+  },
+  "name": {
+    "en": "pomegranate ",
+    "ms": "pomegranate ",
+    "dz": "pomegranate "
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-16T13:22:26.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T13:22:26.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1e74d65a8ac9a674a8bbc"
+  },
+  "name": {
+    "en": "pomelo",
+    "ms": "pomelo",
+    "dz": "pomelo"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-16T13:25:33.988Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T13:25:33.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1e83465a8ac9a674a8bd0"
+  },
+  "name": {
+    "en": "limes",
+    "ms": "limes",
+    "dz": "limes"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-16T13:29:24.811Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T13:29:24.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1e8b665a8ac9a674a8be4"
+  },
+  "name": {
+    "en": "gauva",
+    "ms": "gauva",
+    "dz": "gauva"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-16T13:31:34.832Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T13:31:34.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ec3765a8ac9a674b00e6"
+  },
+  "name": {
+    "en": "guli",
+    "ms": "guli",
+    "dz": "guli"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-17T07:58:47.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:58:47.678Z"
+  },
+  "__v": 0
+}]

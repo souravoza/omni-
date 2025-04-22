@@ -1,0 +1,400 @@
+[{
+  "_id": {
+    "$oid": "6799e40c8bbdaac5708ebe7e"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "other_business_apart_farming": true,
+  "plan_to_start_business": true,
+  "business_wish_to_start": {
+    "$oid": "6736117ecb51156c2f52383e"
+  },
+  "require_land": "yes",
+  "land_already_owned": "yes",
+  "purpose_of_business": "6hh",
+  "createdAt": {
+    "$date": "2025-01-29T08:17:16.841Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T05:35:12.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799e4dc8bbdaac5708ebf28"
+  },
+  "user_id": {
+    "$oid": "678dfe492f36950c8ce7b330"
+  },
+  "other_business_apart_farming": true,
+  "plan_to_start_business": true,
+  "business_wish_to_start": {
+    "$oid": "6736117ecb51156c2f52683e"
+  },
+  "require_land": "no",
+  "land_already_owned": "no",
+  "purpose_of_business": "security ",
+  "createdAt": {
+    "$date": "2025-01-29T08:20:44.833Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T22:15:41.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679a03c13639a81dbfeb6518"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "other_business_apart_farming": true,
+  "plan_to_start_business": true,
+  "business_wish_to_start": {
+    "$oid": "673db1328310fcf665ad6894"
+  },
+  "require_land": "no",
+  "land_already_owned": "no",
+  "purpose_of_business": "Nothing ",
+  "createdAt": {
+    "$date": "2025-01-29T10:32:33.626Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:03:59.382Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b9e83e6b5e001dd4c7b30"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "other_business_apart_farming": true,
+  "plan_to_start_business": true,
+  "business_wish_to_start": null,
+  "require_land": "no",
+  "land_already_owned": "no",
+  "purpose_of_business": null,
+  "createdAt": {
+    "$date": "2025-01-30T15:45:07.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T15:45:07.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c5cb9e6b5e001dd4c8e43"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "other_business_apart_farming": true,
+  "plan_to_start_business": true,
+  "business_wish_to_start": {
+    "$oid": "6736117ecb51156c2f52383e"
+  },
+  "require_land": "yes",
+  "land_already_owned": "no",
+  "purpose_of_business": "medical ",
+  "createdAt": {
+    "$date": "2025-01-31T05:16:41.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T05:34:26.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaefa945495d1ec9701e3b"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "other_business_apart_farming": true,
+  "plan_to_start_business": true,
+  "business_wish_to_start": null,
+  "require_land": "no",
+  "land_already_owned": "no",
+  "purpose_of_business": null,
+  "createdAt": {
+    "$date": "2025-02-11T06:35:21.143Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T06:35:21.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b07bba1f93ee4d2d06c2fd"
+  },
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "other_business_apart_farming": true,
+  "plan_to_start_business": true,
+  "business_wish_to_start": null,
+  "require_land": "no",
+  "land_already_owned": "no",
+  "purpose_of_business": null,
+  "createdAt": {
+    "$date": "2025-02-15T11:34:18.945Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T11:47:22.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1b0bbdb1ebb70cb7e173e"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "other_business_apart_farming": false,
+  "plan_to_start_business": true,
+  "business_wish_to_start": {
+    "$oid": "6736117ecb51156c2f52683e"
+  },
+  "require_land": "no",
+  "land_already_owned": "no",
+  "purpose_of_business": "tourism home stay",
+  "createdAt": {
+    "$date": "2025-02-16T09:32:43.280Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:33:55.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c6e265a8ac9a674ac18b"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "other_business_apart_farming": false,
+  "plan_to_start_business": true,
+  "business_wish_to_start": {
+    "$oid": "6736117ecb51156c2f52383e"
+  },
+  "require_land": "no",
+  "land_already_owned": "no",
+  "purpose_of_business": "Personal Development ",
+  "createdAt": {
+    "$date": "2025-02-17T05:19:30.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:23:08.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d29b65a8ac9a674ae337"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "other_business_apart_farming": true,
+  "plan_to_start_business": false,
+  "business_wish_to_start": null,
+  "require_land": "no",
+  "land_already_owned": "no",
+  "purpose_of_business": null,
+  "createdAt": {
+    "$date": "2025-02-17T06:09:31.725Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:09:31.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d85865a8ac9a674aed73"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "other_business_apart_farming": false,
+  "plan_to_start_business": true,
+  "business_wish_to_start": null,
+  "require_land": "no",
+  "land_already_owned": "no",
+  "purpose_of_business": null,
+  "createdAt": {
+    "$date": "2025-02-17T06:34:00.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:34:00.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2dae165a8ac9a674af2ad"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "other_business_apart_farming": false,
+  "plan_to_start_business": true,
+  "business_wish_to_start": {
+    "$oid": "6736117ecb51156c2f52683e"
+  },
+  "require_land": "yes",
+  "land_already_owned": "no",
+  "purpose_of_business": "Small General shop that benefits the local community.",
+  "createdAt": {
+    "$date": "2025-02-17T06:44:49.723Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:46:37.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fd3a65a8ac9a674b347b"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "other_business_apart_farming": false,
+  "plan_to_start_business": true,
+  "business_wish_to_start": null,
+  "require_land": "no",
+  "land_already_owned": "no",
+  "purpose_of_business": null,
+  "createdAt": {
+    "$date": "2025-02-17T09:11:22.190Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:12:36.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3092a65a8ac9a674b5f62"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "other_business_apart_farming": false,
+  "plan_to_start_business": true,
+  "business_wish_to_start": {
+    "$oid": "6736117ecb51156c2f52383e"
+  },
+  "require_land": "yes",
+  "land_already_owned": "no",
+  "purpose_of_business": "Economy boost",
+  "createdAt": {
+    "$date": "2025-02-17T10:02:18.659Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:03:19.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b312b165a8ac9a674b736c"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "other_business_apart_farming": false,
+  "plan_to_start_business": true,
+  "business_wish_to_start": {
+    "$oid": "6736117ecb51156c2f52683e"
+  },
+  "require_land": "yes",
+  "land_already_owned": "no",
+  "purpose_of_business": "Commercial ",
+  "createdAt": {
+    "$date": "2025-02-17T10:42:57.544Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:43:41.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31f93535126c1f565f11c"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "other_business_apart_farming": false,
+  "plan_to_start_business": true,
+  "business_wish_to_start": {
+    "$oid": "6736117ecb51156c2f52683e"
+  },
+  "require_land": "yes",
+  "land_already_owned": "no",
+  "purpose_of_business": "for self sufficient ",
+  "createdAt": {
+    "$date": "2025-02-17T11:37:55.831Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:38:58.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b349125e4b738d894cf5e1"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "other_business_apart_farming": true,
+  "plan_to_start_business": false,
+  "business_wish_to_start": null,
+  "require_land": "no",
+  "land_already_owned": "no",
+  "purpose_of_business": null,
+  "createdAt": {
+    "$date": "2025-02-17T14:34:58.307Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:35:13.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3513b5e4b738d894cfd0e"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "other_business_apart_farming": true,
+  "plan_to_start_business": true,
+  "business_wish_to_start": {
+    "$oid": "6736117ecb51156c2f52383e"
+  },
+  "require_land": "yes",
+  "land_already_owned": "no",
+  "purpose_of_business": "financial purposes ",
+  "createdAt": {
+    "$date": "2025-02-17T15:09:47.251Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:10:43.903Z"
+  },
+  "__v": 0
+}]

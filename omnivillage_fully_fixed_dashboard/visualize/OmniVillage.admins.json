@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65f72f09810767587eceae20"
+  },
+  "name": "Anas Alam",
+  "email": "anasalam027@gmail.com",
+  "password": "$2b$10$/BfXhj7alvSdCibiDyvEku6Ty3IhhHty32dgMq473Rdoe32xm40SG",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-03-17T17:57:29.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T15:35:17.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f7329b1fb1ab08a0601395"
+  },
+  "name": "Admin",
+  "email": "oneearthbalancesheet@gmail.com",
+  "password": "$2b$10$jK86tHJEPjD9PEMU4xgu0.rKBGsMyiOFWndornQNbsl8nDObvJMFO",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-03-17T18:12:43.124Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-17T18:12:43.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f732ba1fb1ab08a0601397"
+  },
+  "name": "Viewer",
+  "email": "dashboardadmin@yopmail.com",
+  "password": "$2b$10$IY9baVp65.HsbnTu8t5Lo.rQAkEK4g8z5BGxoUfVIImIIG3azfcsO",
+  "role": "viewer",
+  "createdAt": {
+    "$date": "2024-03-17T18:13:14.040Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-17T18:13:14.040Z"
+  },
+  "__v": 0
+}]

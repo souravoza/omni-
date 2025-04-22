@@ -1,0 +1,3096 @@
+[{
+  "_id": {
+    "$oid": "673db0028310fcf665ad6850"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "antiperspirant / deodorant",
+    "ms": "antiperspirant / deodorant",
+    "dz": "antiperspirant / deodorant"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:46:42.289Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:20:03.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673db1088310fcf665ad687f"
+  },
+  "type": "medicine_produce",
+  "name": {
+    "en": "herbal teas (leafy herbs)",
+    "ms": "herbal teas (leafy herbs)",
+    "dz": "herbal teas (leafy herbs)"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:51:04.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:17:29.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67880571650d18f99ddadd49"
+  },
+  "type": "medicine_produce",
+  "name": {
+    "en": "medicinal flowers",
+    "ms": "medicinal flowers",
+    "dz": "medicinal flowers"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T18:58:57.655Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:17:42.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67880590650d18f99ddadd4c"
+  },
+  "type": "medicine_produce",
+  "name": {
+    "en": "spices with therapeutic properties",
+    "ms": "spices with therapeutic properties",
+    "dz": "spices with therapeutic properties"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T18:59:28.608Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:18:07.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678805a5650d18f99ddadd4f"
+  },
+  "type": "medicine_produce",
+  "name": {
+    "en": "medicinal roots / tubers",
+    "ms": "medicinal roots / tubers",
+    "dz": "medicinal roots / tubers"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T18:59:49.088Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:18:17.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678805bf650d18f99ddadd52"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "aluminum foil",
+    "ms": "aluminum foil",
+    "dz": "aluminum foil"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T19:00:15.838Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:25:14.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678805e7650d18f99ddadd56"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "napkins",
+    "ms": "napkins",
+    "dz": "napkins"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T19:00:55.421Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:25:29.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67880600650d18f99ddadd59"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "non-stick spray",
+    "ms": "non-stick spray",
+    "dz": "non-stick spray"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T19:01:20.329Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:25:56.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67880610650d18f99ddadd5c"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "paper towels",
+    "ms": "paper towels",
+    "dz": "paper towels"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T19:01:36.143Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:26:14.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6788062f650d18f99ddadd5f"
+  },
+  "type": "other_items",
+  "name": {
+    "en": "compost / organic fertilizers",
+    "ms": "compost / organic fertilizers",
+    "dz": "compost / organic fertilizers"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T19:02:07.703Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:23:24.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67880642650d18f99ddadd62"
+  },
+  "type": "other_items",
+  "name": {
+    "en": "herbal cosmetics",
+    "ms": "herbal cosmetics",
+    "dz": "herbal cosmetics"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T19:02:26.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:23:39.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67880668650d18f99ddadd65"
+  },
+  "type": "other_items",
+  "name": {
+    "en": "homegrown building materials",
+    "ms": "homegrown building materials",
+    "dz": "homegrown building materials"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T19:03:04.059Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:23:56.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6788067b650d18f99ddadd68"
+  },
+  "type": "other_items",
+  "name": {
+    "en": "homemade soaps",
+    "ms": "homemade soaps",
+    "dz": "homemade soaps"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T19:03:23.911Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:24:11.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799c9ec0e76731996b85bb6"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "packet",
+    "ms": "packet",
+    "dz": "packet"
+  },
+  "createdAt": {
+    "$date": "2025-01-29T06:25:48.978Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:53:02.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c7eace6b5e001dd4c9330"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "antiperspirant / deodorant",
+    "ms": "antiperspirant / deodorant",
+    "dz": "antiperspirant / deodorant"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:41:32.923Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:15:58.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c7edbe6b5e001dd4c9346"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "bath soap / hand soap",
+    "ms": "bath soap / hand soap",
+    "dz": "bath soap / hand soap"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:42:19.168Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:42:19.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c7f3be6b5e001dd4c9349"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "condoms / other b.c.",
+    "ms": "condoms / other b.c.",
+    "dz": "condoms / other b.c."
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:43:55.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:45:20.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c7f65e6b5e001dd4c934c"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "cosmetics",
+    "ms": "cosmetics",
+    "dz": "cosmetics"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:44:37.215Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:44:37.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c7face6b5e001dd4c9353"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "cotton swabs / balls",
+    "ms": "cotton swabs / balls",
+    "dz": "cotton swabs / balls"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:45:48.396Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:45:48.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c7fcde6b5e001dd4c9368"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "facial cleanser",
+    "ms": "facial cleanser",
+    "dz": "facial cleanser"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:46:21.275Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:46:21.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c7fe9e6b5e001dd4c9376"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "facial tissue",
+    "ms": "facial tissue",
+    "dz": "facial tissue"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:46:49.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:46:49.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8012e6b5e001dd4c937a"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "feminine products- sanitary napkins/cups etc",
+    "ms": "feminine products- sanitary napkins/cups etc",
+    "dz": "feminine products- sanitary napkins/cups etc"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:47:30.095Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:17:19.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c802de6b5e001dd4c9388"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "floss",
+    "ms": "floss",
+    "dz": "floss"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:47:57.976Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:47:57.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c804be6b5e001dd4c938b"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "hair gel / spray",
+    "ms": "hair gel / spray",
+    "dz": "hair gel / spray"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:48:27.144Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:48:27.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8069e6b5e001dd4c938e"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "lip balm",
+    "ms": "lip balm",
+    "dz": "lip balm"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:48:57.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:48:57.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c808de6b5e001dd4c9391"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "moisturizing lotion",
+    "ms": "moisturizing lotion",
+    "dz": "moisturizing lotion"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:49:33.017Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:49:33.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c80b9e6b5e001dd4c9394"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "mouthwash",
+    "ms": "mouthwash",
+    "dz": "mouthwash"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:50:17.280Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:50:17.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c80d8e6b5e001dd4c93a9"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "razors / shaving cream",
+    "ms": "razors / shaving cream",
+    "dz": "razors / shaving cream"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:50:48.173Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:50:48.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8100e6b5e001dd4c93ac"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "shampoo / conditioner",
+    "ms": "shampoo / conditioner",
+    "dz": "shampoo / conditioner"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:51:28.826Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:51:28.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c811ae6b5e001dd4c93af"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "sunblock",
+    "ms": "sunblock",
+    "dz": "sunblock"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:51:54.797Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:51:54.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c813fe6b5e001dd4c93b2"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "toilet paper",
+    "ms": " toilet paper",
+    "dz": "toilet paper"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:52:31.443Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:52:31.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c815fe6b5e001dd4c93b6"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "toothpaste",
+    "ms": "toothpaste",
+    "dz": "toothpaste"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:53:03.420Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:53:03.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8178e6b5e001dd4c93b9"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "vitamins / supplements",
+    "ms": "vitamins / supplements",
+    "dz": "vitamins / supplements"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:53:28.888Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:18:15.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c819be6b5e001dd4c93bc"
+  },
+  "type": "cleaning_products_produce",
+  "name": {
+    "en": "air freshener",
+    "ms": "air freshener",
+    "dz": "air freshener"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:54:03.318Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:03:39.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c81bde6b5e001dd4c93bf"
+  },
+  "type": "cleaning_products_produce",
+  "name": {
+    "en": "bathroom cleaner",
+    "ms": "bathroom cleaner",
+    "dz": "bathroom cleaner"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:54:37.524Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:03:45.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c81dbe6b5e001dd4c93c2"
+  },
+  "type": "cleaning_products_produce",
+  "name": {
+    "en": "bleach / detergent",
+    "ms": "bleach / detergent",
+    "dz": "bleach / detergent"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:55:07.298Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:03:51.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c81f3e6b5e001dd4c93c5"
+  },
+  "type": "cleaning_products_produce",
+  "name": {
+    "en": "dish / dishwasher soap",
+    "ms": "dish / dishwasher soap",
+    "dz": "dish / dishwasher soap"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:55:31.988Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:03:55.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8210e6b5e001dd4c93c8"
+  },
+  "type": "cleaning_products_produce",
+  "name": {
+    "en": "garbage bags",
+    "ms": "garbage bags",
+    "dz": "garbage bags"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:56:00.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:04:03.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c822ee6b5e001dd4c93cb"
+  },
+  "type": "cleaning_products_produce",
+  "name": {
+    "en": "glass cleaner",
+    "ms": "glass cleaner",
+    "dz": "glass cleaner"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:56:30.121Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:04:11.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c824de6b5e001dd4c93ce"
+  },
+  "type": "cleaning_products_produce",
+  "name": {
+    "en": "mop head / vacuum bags",
+    "ms": "mop head / vacuum bags",
+    "dz": "mop head / vacuum bags"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:57:01.520Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:04:16.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8275e6b5e001dd4c93d1"
+  },
+  "type": "cleaning_products_produce",
+  "name": {
+    "en": "sponges / scrubbers· sponges / scrubbers",
+    "ms": "sponges / scrubbers",
+    "dz": "sponges / scrubbers"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:57:41.071Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:04:21.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c82a4e6b5e001dd4c93d5"
+  },
+  "type": "office_supplies_produce",
+  "name": {
+    "en": "cdrs / dvdrs",
+    "ms": "cdrs / dvdrs",
+    "dz": "cdrs / dvdrs"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:58:28.130Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:58:28.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c82bde6b5e001dd4c93d8"
+  },
+  "type": "office_supplies_produce",
+  "name": {
+    "en": "notepad / envelopes",
+    "ms": "notepad / envelopes",
+    "dz": "notepad / envelopes"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T07:58:53.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T07:58:53.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8336e6b5e001dd4c93db"
+  },
+  "type": "office_supplies_produce",
+  "name": {
+    "en": "glue / tape",
+    "ms": "glue / tape",
+    "dz": "glue / tape"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:00:54.803Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:00:54.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8353e6b5e001dd4c93de"
+  },
+  "type": "office_supplies_produce",
+  "name": {
+    "en": "printer paper",
+    "ms": "printer paper",
+    "dz": "printer paper"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:01:23.939Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:01:23.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c836fe6b5e001dd4c93e1"
+  },
+  "type": "office_supplies_produce",
+  "name": {
+    "en": "pens / pencils",
+    "ms": "pens / pencils",
+    "dz": "pens / pencils"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:01:51.335Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:01:51.335Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8386e6b5e001dd4c93e4"
+  },
+  "type": "office_supplies_produce",
+  "name": {
+    "en": "postage stamps",
+    "ms": "postage stamps",
+    "dz": "postage stamps"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:02:14.597Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:02:14.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c83dfe6b5e001dd4c93e8"
+  },
+  "type": "medicine",
+  "name": {
+    "en": "allergy",
+    "ms": "allergy",
+    "dz": "allergy"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:03:43.312Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:03:43.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c83f9e6b5e001dd4c93eb"
+  },
+  "type": "medicine",
+  "name": {
+    "en": "antibiotic",
+    "ms": "antibiotic",
+    "dz": "antibiotic"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:04:09.470Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:04:47.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c840fe6b5e001dd4c93ee"
+  },
+  "type": "medicine",
+  "name": {
+    "en": "antidiarrheal",
+    "ms": "antidiarrheal",
+    "dz": "antidiarrheal"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:04:31.120Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:04:31.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8437e6b5e001dd4c93f3"
+  },
+  "type": "medicine",
+  "name": {
+    "en": "aspirin",
+    "ms": "aspirin",
+    "dz": "aspirin"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:05:11.364Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:05:11.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c845ae6b5e001dd4c93f6"
+  },
+  "type": "medicine",
+  "name": {
+    "en": "antacid",
+    "ms": "antacid",
+    "dz": "antacid"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:05:46.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:05:46.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8482e6b5e001dd4c93f9"
+  },
+  "type": "medicine",
+  "name": {
+    "en": "band-aids / medical",
+    "ms": "band-aids / medical",
+    "dz": "band-aids / medical"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:06:26.752Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:06:26.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c849ee6b5e001dd4c93fc"
+  },
+  "type": "medicine",
+  "name": {
+    "en": "cold / flu / sinus",
+    "ms": "cold / flu / sinus",
+    "dz": "cold / flu / sinus"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:06:54.829Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:06:54.829Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c84f9e6b5e001dd4c93ff"
+  },
+  "type": "medicine",
+  "name": {
+    "en": "pain reliever",
+    "ms": "pain reliever",
+    "dz": "pain reliever"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:08:25.437Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:08:25.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8519e6b5e001dd4c9403"
+  },
+  "type": "medicine",
+  "name": {
+    "en": "prescription pick-up",
+    "ms": "prescription pick-up",
+    "dz": "prescription pick-up"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:08:57.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:08:57.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c856be6b5e001dd4c9406"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "aluminum foil",
+    "ms": "aluminum foil",
+    "dz": "aluminum foil"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:10:19.826Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:10:19.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c858ce6b5e001dd4c9409"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "napkins",
+    "ms": "napkins",
+    "dz": "napkins"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:10:52.314Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:10:52.314Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c85a4e6b5e001dd4c940c"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "non-stick spray",
+    "ms": "non-stick spray",
+    "dz": "non-stick spray"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:11:16.422Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:11:16.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c85c5e6b5e001dd4c940f"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "paper towels",
+    "ms": "paper towels",
+    "dz": "paper towels"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:11:49.845Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:11:49.845Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8650e6b5e001dd4c9413"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "sandwich / freezer bags",
+    "ms": "sandwich / freezer bags",
+    "dz": "sandwich / freezer bags"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:14:08.764Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:22:40.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8674e6b5e001dd4c9416"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "wax paper",
+    "ms": "wax paper",
+    "dz": "wax paper"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:14:44.753Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:14:44.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c86bbe6b5e001dd4c9419"
+  },
+  "type": "other_items",
+  "name": {
+    "en": "natural dyes & pigments",
+    "ms": "natural dyes & pigments",
+    "dz": "natural dyes & pigments"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:15:55.325Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:24:31.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8751e6b5e001dd4c9428"
+  },
+  "type": "other_items",
+  "name": {
+    "en": "pickles",
+    "ms": "pickles",
+    "dz": "pickles"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:18:25.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:24:50.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c8773e6b5e001dd4c942b"
+  },
+  "type": "other_items",
+  "name": {
+    "en": "textiles & clothing",
+    "ms": "textiles & clothing",
+    "dz": "textiles & clothing"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T08:18:59.145Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:25:08.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae75993a0c8b7971daf58a"
+  },
+  "type": "personal_care",
+  "name": {
+    "en": "other",
+    "ms": "other",
+    "dz": "other"
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:43:37.921Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:43:37.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae75e33a0c8b7971daf58d"
+  },
+  "type": "cleaning_products_produce",
+  "name": {
+    "en": "brooms ",
+    "ms": "brooms ",
+    "dz": "brooms "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:44:51.390Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:05:52.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae76873a0c8b7971daf596"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "rice cookers ",
+    "ms": "rice cookers ",
+    "dz": "rice cookers "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:47:35.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:47:35.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae769d3a0c8b7971daf59a"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "pressure cookers ",
+    "ms": "pressure cookers ",
+    "dz": "pressure cookers "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:47:57.853Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:47:57.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae76af3a0c8b7971daf59d"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "refrigerator ",
+    "ms": "refrigerator ",
+    "dz": "refrigerator "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:48:15.339Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:49:56.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae76cd3a0c8b7971daf5a0"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "sauce pan / frying pan",
+    "ms": "sauce pan / frying pan",
+    "dz": "sauce pan / frying pan"
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:48:45.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:50:03.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae76e53a0c8b7971daf5a3"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "steamer ",
+    "ms": "steamer ",
+    "dz": "steamer "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:49:09.400Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:50:10.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae76f73a0c8b7971daf5a6"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "mortar & pestle ",
+    "ms": "mortar & pestle ",
+    "dz": "mortar & pestle "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:49:27.178Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:50:17.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77043a0c8b7971daf5a9"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "traditional wood fired stove",
+    "ms": "traditional wood fired stove",
+    "dz": "traditional wood fired stove"
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:49:40.378Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:49:40.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77403a0c8b7971daf5b4"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "spatulas & ladles ",
+    "ms": "spatulas & ladles ",
+    "dz": "spatulas & ladles "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:50:40.721Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:50:40.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77543a0c8b7971daf5b7"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "wooden churner (for making suja) ",
+    "ms": "wooden churner (for making suja) ",
+    "dz": "wooden churner (for making suja) "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:51:00.062Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:51:00.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77643a0c8b7971daf5ba"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "plate & bowls ",
+    "ms": "plate & bowls ",
+    "dz": "plate & bowls "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:51:16.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:51:16.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77763a0c8b7971daf5bd"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "spoon & forks ",
+    "ms": "spoon & forks ",
+    "dz": "spoon & forks "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:51:34.681Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:51:34.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77873a0c8b7971daf5c0"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "glasses & cups",
+    "ms": "glasses & cups",
+    "dz": "glasses & cups"
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:51:51.642Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:51:51.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77953a0c8b7971daf5c3"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "airtight container",
+    "ms": "airtight container",
+    "dz": "airtight container"
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:52:05.434Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:52:05.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77a33a0c8b7971daf5c6"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "jars (for preserves & pickles) ",
+    "ms": "jars (for preserves & pickles) ",
+    "dz": "jars (for preserves & pickles) "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:52:19.118Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:52:19.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77b33a0c8b7971daf5c9"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "electric kettle ",
+    "ms": "electric kettle ",
+    "dz": "electric kettle "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:52:35.281Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:52:35.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77c03a0c8b7971daf5cc"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "water boiler ",
+    "ms": "water boiler ",
+    "dz": "water boiler "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:52:48.269Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:52:48.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77cc3a0c8b7971daf5d0"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "gas stove ",
+    "ms": "gas stove ",
+    "dz": "gas stove "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:53:00.927Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:53:00.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77de3a0c8b7971daf5d3"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "gas cylinder ",
+    "ms": "gas cylinder ",
+    "dz": "gas cylinder "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:53:18.088Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:53:18.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77ee3a0c8b7971daf5d6"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "electric oven ",
+    "ms": "electric oven ",
+    "dz": "electric oven "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:53:34.794Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:53:34.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae77fc3a0c8b7971daf5d9"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "butter churner machine ",
+    "ms": "butter churner machine ",
+    "dz": "butter churner machine "
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:53:48.145Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:53:48.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae780a3a0c8b7971daf5dc"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "induction stove",
+    "ms": "induction stove",
+    "dz": "induction stove"
+  },
+  "createdAt": {
+    "$date": "2025-02-13T22:54:02.509Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:54:02.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc1a501f33d7cb6707856"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "bath soap / hand soap",
+    "ms": "bath soap / hand soap",
+    "dz": "bath soap / hand soap"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:20:21.138Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:20:21.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc1b901f33d7cb6707859"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "condoms / other b.c.",
+    "ms": "condoms / other b.c.",
+    "dz": "condoms / other b.c."
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:20:41.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:20:41.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc1cb01f33d7cb670785c"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "cosmetics",
+    "ms": "cosmetics",
+    "dz": "cosmetics"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:20:59.443Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:20:59.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc1d601f33d7cb670785f"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "cotton swabs / balls",
+    "ms": "cotton swabs / balls",
+    "dz": "cotton swabs / balls"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:21:10.745Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:21:10.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc1e401f33d7cb6707863"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "facial cleanser",
+    "ms": "facial cleanser",
+    "dz": "facial cleanser"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:21:24.815Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:21:24.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc1f101f33d7cb6707866"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "facial tissue",
+    "ms": "facial tissue",
+    "dz": "facial tissue"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:21:37.089Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:21:37.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc1fb01f33d7cb6707869"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "feminine products- sanitary napkins/cups etc",
+    "ms": "feminine products- sanitary napkins/cups etc",
+    "dz": "feminine products- sanitary napkins/cups etc"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:21:47.893Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:21:47.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc20a01f33d7cb670786c"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "floss",
+    "ms": "floss",
+    "dz": "floss"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:22:02.335Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:22:02.335Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc21501f33d7cb670786f"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "hair gel / spray",
+    "ms": "hair gel / spray",
+    "dz": "hair gel / spray"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:22:13.509Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:22:13.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc22301f33d7cb6707872"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "lip balm",
+    "ms": "lip balm",
+    "dz": "lip balm"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:22:27.250Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:22:27.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc22d01f33d7cb6707875"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "moisturizing lotion",
+    "ms": "moisturizing lotion",
+    "dz": "moisturizing lotion"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:22:37.279Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:22:37.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc23701f33d7cb6707878"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "mouthwash",
+    "ms": "mouthwash",
+    "dz": "mouthwash"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:22:47.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:22:47.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc24501f33d7cb670787b"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "razors / shaving cream",
+    "ms": "razors / shaving cream",
+    "dz": "razors / shaving cream"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:23:01.067Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:23:01.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc25001f33d7cb670787e"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "shampoo / conditioner",
+    "ms": "shampoo / conditioner",
+    "dz": "shampoo / conditioner"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:23:12.198Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:23:12.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc25a01f33d7cb6707881"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "sunblock",
+    "ms": "sunblock",
+    "dz": "sunblock"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:23:22.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:23:22.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc26701f33d7cb6707884"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "toilet paper",
+    "ms": "toilet paper",
+    "dz": "toilet paper"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:23:35.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:23:35.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc27301f33d7cb6707887"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "toothpaste",
+    "ms": "toothpaste",
+    "dz": "toothpaste"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:23:47.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:23:47.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc27e01f33d7cb670788a"
+  },
+  "type": "personal_care_produce",
+  "name": {
+    "en": "vitamins / supplements",
+    "ms": "vitamins / supplements",
+    "dz": "vitamins / supplements"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:23:58.472Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:23:58.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc82901f33d7cb67078ca"
+  },
+  "type": "cleaning_products",
+  "name": {
+    "en": "air freshener",
+    "ms": "air freshener",
+    "dz": "air freshener"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:48:09.094Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:48:09.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc95d01f33d7cb670793e"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "jars",
+    "ms": "jars",
+    "dz": "jars"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:53:17.785Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:53:17.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afc97401f33d7cb6707941"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "kg",
+    "ms": "kg",
+    "dz": "kg"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:53:40.101Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:53:40.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdd5601f33d7cb67079a2"
+  },
+  "type": "medicine_produce",
+  "name": {
+    "en": "aromatic / essential oil plants",
+    "ms": "aromatic / essential oil plants",
+    "dz": "aromatic / essential oil plants"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:18:30.208Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:18:30.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdd5f01f33d7cb67079a5"
+  },
+  "type": "medicine_produce",
+  "name": {
+    "en": "medicinal mushrooms (cultivated)",
+    "ms": "medicinal mushrooms (cultivated)",
+    "dz": "medicinal mushrooms (cultivated)"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:18:39.527Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:18:39.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdd6a01f33d7cb67079a8"
+  },
+  "type": "medicine_produce",
+  "name": {
+    "en": "shrubs / trees with healing properties",
+    "ms": "shrubs / trees with healing properties",
+    "dz": "shrubs / trees with healing properties"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:18:50.492Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:18:50.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdea501f33d7cb67079c4"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "plastic wrap",
+    "ms": "plastic wrap",
+    "dz": "plastic wrap"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:24:05.334Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:24:05.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdec101f33d7cb67079c7"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "napkins",
+    "ms": "napkins",
+    "dz": "napkins"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:24:33.226Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:24:33.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdecd01f33d7cb67079cb"
+  },
+  "type": "kitchen_items",
+  "name": {
+    "en": "aluminum foil",
+    "ms": "aluminum foil",
+    "dz": "aluminum foil"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:24:45.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:24:45.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdf4401f33d7cb67079d8"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "plastic wrap",
+    "ms": "plastic wrap",
+    "dz": "plastic wrap"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:26:44.926Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:26:44.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdf5101f33d7cb67079db"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "sandwich / freezer bags",
+    "ms": "sandwich / freezer bags",
+    "dz": "sandwich / freezer bags"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:26:57.019Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:26:57.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdf5a01f33d7cb67079de"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "wax paper",
+    "ms": "wax paper",
+    "dz": "wax paper"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:27:06.691Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:27:06.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdf6401f33d7cb67079e1"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "rice cookers ",
+    "ms": "rice cookers ",
+    "dz": "rice cookers "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:27:16.879Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:27:16.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdf7001f33d7cb67079e4"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "pressure cookers ",
+    "ms": "pressure cookers ",
+    "dz": "pressure cookers "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:27:28.388Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:27:28.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdf7a01f33d7cb67079e7"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "refrigerator ",
+    "ms": "refrigerator ",
+    "dz": "refrigerator "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:27:38.259Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:27:38.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdf8601f33d7cb67079ea"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "sauce pan / frying pan",
+    "ms": "sauce pan / frying pan",
+    "dz": "sauce pan / frying pan"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:27:50.388Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:27:50.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdf9001f33d7cb67079ed"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "steamer ",
+    "ms": "steamer ",
+    "dz": "steamer "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:28:00.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:28:00.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdf9a01f33d7cb67079f0"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "mortar & pestle ",
+    "ms": "mortar & pestle ",
+    "dz": "mortar & pestle "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:28:10.173Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:28:10.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdfa701f33d7cb67079f3"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "traditional wood fired stove ",
+    "ms": "traditional wood fired stove ",
+    "dz": "traditional wood fired stove "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:28:23.944Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:28:23.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdfb201f33d7cb67079f6"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "spatulas & ladles ",
+    "ms": "spatulas & ladles ",
+    "dz": "spatulas & ladles "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:28:34.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:28:34.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdfbd01f33d7cb67079f9"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "wooden churner (for making suja) ",
+    "ms": "wooden churner (for making suja) ",
+    "dz": "wooden churner (for making suja) "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:28:45.884Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:28:45.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdfc701f33d7cb67079fc"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "plate & bowls ",
+    "ms": "plate & bowls ",
+    "dz": "plate & bowls "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:28:55.888Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:28:55.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdfd101f33d7cb67079ff"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "spoon & forks ",
+    "ms": "spoon & forks ",
+    "dz": "spoon & forks "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:29:05.307Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:29:05.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdfe901f33d7cb6707a02"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "glasses & cups",
+    "ms": "glasses & cups",
+    "dz": "glasses & cups"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:29:29.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:29:29.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afdff601f33d7cb6707a05"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "airtight container ",
+    "ms": "airtight container ",
+    "dz": "airtight container "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:29:42.534Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:29:42.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe00301f33d7cb6707a09"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": " jars (for preserves & pickles) ",
+    "ms": " jars (for preserves & pickles) ",
+    "dz": " jars (for preserves & pickles) "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:29:55.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:29:55.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe00e01f33d7cb6707a0c"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "electric kettle ",
+    "ms": "electric kettle ",
+    "dz": "electric kettle "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:30:06.301Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:30:06.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe01801f33d7cb6707a0f"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "water boiler ",
+    "ms": "water boiler ",
+    "dz": "water boiler "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:30:16.816Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:30:16.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe02201f33d7cb6707a12"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "gas stove ",
+    "ms": "gas stove ",
+    "dz": "gas stove "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:30:26.989Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:30:26.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe02d01f33d7cb6707a15"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "gas cylinder ",
+    "ms": "gas cylinder ",
+    "dz": "gas cylinder "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:30:37.180Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:30:37.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe03a01f33d7cb6707a18"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "electric oven ",
+    "ms": "electric oven ",
+    "dz": "electric oven "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:30:50.512Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:30:50.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe04601f33d7cb6707a1b"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "butter churner machine ",
+    "ms": "butter churner machine ",
+    "dz": "butter churner machine "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:31:02.565Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:31:02.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe05301f33d7cb6707a1e"
+  },
+  "type": "kitchen_items_produce",
+  "name": {
+    "en": "induction stove",
+    "ms": "induction stove",
+    "dz": "induction stove"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:31:15.004Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:31:15.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe65101f33d7cb6707a4b"
+  },
+  "type": "other_items_produce",
+  "name": {
+    "en": "textiles & clothing",
+    "ms": "textiles & clothing",
+    "dz": "textiles & clothing"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:56:49.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:56:49.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe66701f33d7cb6707a4e"
+  },
+  "type": "other_items_produce",
+  "name": {
+    "en": "homemade soaps",
+    "ms": "homemade soaps",
+    "dz": "homemade soaps"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:57:11.148Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:57:11.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe67d01f33d7cb6707a51"
+  },
+  "type": "other_items_produce",
+  "name": {
+    "en": "herbal cosmetics",
+    "ms": "herbal cosmetics",
+    "dz": "herbal cosmetics"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:57:33.278Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:57:33.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe69401f33d7cb6707a54"
+  },
+  "type": "other_items_produce",
+  "name": {
+    "en": "pickles",
+    "ms": "pickles",
+    "dz": "pickles"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:57:56.904Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:57:56.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe6a501f33d7cb6707a57"
+  },
+  "type": "other_items_produce",
+  "name": {
+    "en": "natural dyes & pigments",
+    "ms": "natural dyes & pigments",
+    "dz": "natural dyes & pigments"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:58:13.668Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:58:13.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe6b601f33d7cb6707a5a"
+  },
+  "type": "other_items_produce",
+  "name": {
+    "en": "homegrown building materials",
+    "ms": "homegrown building materials",
+    "dz": "homegrown building materials"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:58:30.427Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:58:30.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe6cb01f33d7cb6707a5d"
+  },
+  "type": "other_items_produce",
+  "name": {
+    "en": "compost / organic fertilizers",
+    "ms": "compost / organic fertilizers",
+    "dz": "compost / organic fertilizers"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T00:58:51.693Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T00:58:51.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02d4c01f33d7cb6707bcc"
+  },
+  "type": "cleaning_products",
+  "name": {
+    "en": "air freshener",
+    "ms": "air freshener",
+    "dz": "air freshener"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T05:59:40.946Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T05:59:40.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02d5d01f33d7cb6707bcf"
+  },
+  "type": "cleaning_products",
+  "name": {
+    "en": "bathroom cleaner",
+    "ms": "bathroom cleaner",
+    "dz": "bathroom cleaner"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T05:59:57.865Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T05:59:57.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02d6801f33d7cb6707bd2"
+  },
+  "type": "cleaning_products",
+  "name": {
+    "en": "bleach / detergent",
+    "ms": "bleach / detergent",
+    "dz": "bleach / detergent"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:00:08.171Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:00:08.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02d7201f33d7cb6707bd5"
+  },
+  "type": "cleaning_products",
+  "name": {
+    "en": "dish / dishwasher soap",
+    "ms": "dish / dishwasher soap",
+    "dz": "dish / dishwasher soap"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:00:18.849Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:00:18.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02d8101f33d7cb6707bd8"
+  },
+  "type": "cleaning_products",
+  "name": {
+    "en": "garbage bags",
+    "ms": "garbage bags",
+    "dz": "garbage bags"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:00:33.913Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:00:33.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02d8d01f33d7cb6707bdb"
+  },
+  "type": "cleaning_products",
+  "name": {
+    "en": "glass cleaner",
+    "ms": "glass cleaner",
+    "dz": "glass cleaner"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:00:45.179Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:00:45.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02d9601f33d7cb6707bde"
+  },
+  "type": "cleaning_products",
+  "name": {
+    "en": "mop head / vacuum bags",
+    "ms": "mop head / vacuum bags",
+    "dz": "mop head / vacuum bags"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:00:54.106Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:00:54.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02da201f33d7cb6707be1"
+  },
+  "type": "cleaning_products",
+  "name": {
+    "en": "brooms",
+    "ms": "brooms",
+    "dz": "brooms"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:01:06.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:01:06.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02dac01f33d7cb6707be4"
+  },
+  "type": "cleaning_products",
+  "name": {
+    "en": "sponges / scrubbers",
+    "ms": "sponges / scrubbers",
+    "dz": "sponges / scrubbers"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:01:16.496Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:01:16.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02db501f33d7cb6707be7"
+  },
+  "type": "cleaning_products",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:01:25.793Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:01:25.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02ecd01f33d7cb6707c0d"
+  },
+  "type": "cleaning_products_produce",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:06:05.458Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:06:05.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02f8f01f33d7cb6707c21"
+  },
+  "type": "office_supplies_produce",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:09:19.109Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:09:19.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02faf01f33d7cb6707c24"
+  },
+  "type": "office_supplies",
+  "name": {
+    "en": "cdrs / dvdrs",
+    "ms": "cdrs / dvdrs",
+    "dz": "cdrs / dvdrs"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:09:51.061Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:09:51.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02fb701f33d7cb6707c27"
+  },
+  "type": "office_supplies",
+  "name": {
+    "en": "notepad / envelopes",
+    "ms": "notepad / envelopes",
+    "dz": "notepad / envelopes"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:09:59.545Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:09:59.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02fc001f33d7cb6707c2a"
+  },
+  "type": "office_supplies",
+  "name": {
+    "en": "glue / tape",
+    "ms": "glue / tape",
+    "dz": "glue / tape"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:10:08.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:10:08.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02fcb01f33d7cb6707c2d"
+  },
+  "type": "office_supplies",
+  "name": {
+    "en": "printer paper",
+    "ms": "printer paper",
+    "dz": "printer paper"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:10:19.010Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:10:19.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02fd401f33d7cb6707c30"
+  },
+  "type": "office_supplies",
+  "name": {
+    "en": "pens / pencils",
+    "ms": "pens / pencils",
+    "dz": "pens / pencils"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:10:28.821Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:10:28.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02fde01f33d7cb6707c33"
+  },
+  "type": "office_supplies",
+  "name": {
+    "en": "postage stamps",
+    "ms": "postage stamps",
+    "dz": "postage stamps"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:10:38.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:10:38.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b02fe501f33d7cb6707c36"
+  },
+  "type": "office_supplies",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T06:10:45.017Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:10:45.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b046ac01f33d7cb670875e"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "dozen",
+    "ms": "dozen",
+    "dz": "dozen"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:47:56.997Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:47:56.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b046bc01f33d7cb6708761"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "bottle",
+    "ms": "bottle",
+    "dz": "bottle"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:48:12.296Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:48:12.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b046c601f33d7cb6708764"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "tube",
+    "ms": "tube",
+    "dz": "tube"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:48:22.342Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:48:22.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b046da01f33d7cb6708767"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "number",
+    "ms": "number",
+    "dz": "number"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:48:42.564Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:48:42.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b046ee01f33d7cb670876a"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "liters (l)",
+    "ms": "liters (l)",
+    "dz": "liters (l)"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:49:02.708Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:49:02.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b046f701f33d7cb670876d"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "ml",
+    "ms": "ml",
+    "dz": "ml"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:49:11.537Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:49:11.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b047a801f33d7cb670879a"
+  },
+  "type": "office_supplies_produce",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:52:08.234Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:52:08.234Z"
+  },
+  "__v": 0
+}]

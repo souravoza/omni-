@@ -1,0 +1,897 @@
+[{
+  "_id": {
+    "$oid": "659a5f50718211331fc18549"
+  },
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da19805"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 20,
+    "type_of_feed": "snails"
+  },
+  "production_information": {
+    "total_feed": 10,
+    "production_output": 10,
+    "self_consumed": 2,
+    "sold_to_neighbours": 2,
+    "sold_for_industrial_use": 2,
+    "wastage": 4,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 250,
+    "expenditure_on_inputs": 100,
+    "yeild": 0.5
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:22:40.952Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:22:40.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5f8f718211331fc18558"
+  },
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da1980f"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 20,
+    "type_of_feed": "insects"
+  },
+  "production_information": {
+    "total_feed": 35,
+    "production_output": 46,
+    "self_consumed": 20,
+    "sold_to_neighbours": 20,
+    "sold_for_industrial_use": 3,
+    "wastage": 3,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 3500,
+    "expenditure_on_inputs": 1500,
+    "yeild": 2.3
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:23:43.060Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:23:43.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5fbf718211331fc18572"
+  },
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da19811"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 35,
+    "type_of_feed": "frogs"
+  },
+  "production_information": {
+    "total_feed": 5,
+    "production_output": 34,
+    "self_consumed": 16,
+    "sold_to_neighbours": 4,
+    "sold_for_industrial_use": 10,
+    "wastage": 4,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 676,
+    "expenditure_on_inputs": 245,
+    "yeild": 0.9714285714285714
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:24:31.478Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:24:31.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a6030718211331fc185a8"
+  },
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da19817"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 250,
+    "type_of_feed": "worms"
+  },
+  "production_information": {
+    "total_feed": 35,
+    "production_output": 46,
+    "self_consumed": 6,
+    "sold_to_neighbours": 6,
+    "sold_for_industrial_use": 4,
+    "wastage": 30,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 359,
+    "expenditure_on_inputs": 69,
+    "yeild": 0.184
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:26:24.835Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:26:24.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5fe7718211331fc1858a"
+  },
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da19815"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 25,
+    "type_of_feed": "worms"
+  },
+  "production_information": {
+    "total_feed": 6,
+    "production_output": 20,
+    "self_consumed": 2,
+    "sold_to_neighbours": 2,
+    "sold_for_industrial_use": 2,
+    "wastage": 14,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 649,
+    "expenditure_on_inputs": 620,
+    "yeild": 0.8
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:25:11.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:25:11.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a6065718211331fc185c2"
+  },
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da19819"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 35,
+    "type_of_feed": "insect larvae"
+  },
+  "production_information": {
+    "total_feed": 24,
+    "production_output": 120,
+    "self_consumed": 20,
+    "sold_to_neighbours": 20,
+    "sold_for_industrial_use": 60,
+    "wastage": 20,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 497,
+    "expenditure_on_inputs": 150,
+    "yeild": 3.4285714285714284
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:27:17.876Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:27:17.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614ecf426e1647c6caee67d"
+  },
+  "user_id": {
+    "$oid": "6614d32bb949a41cf1de2539"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da1980f"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 20,
+    "type_of_feed": "worms"
+  },
+  "production_information": {
+    "total_feed": 210,
+    "production_output": 50,
+    "self_consumed": 10,
+    "sold_to_neighbours": 10,
+    "sold_for_industrial_use": 20,
+    "wastage": 10,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 4000,
+    "expenditure_on_inputs": 2500,
+    "yeild": 2.5
+  },
+  "processing_method": true,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-04-09T07:23:32.071Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T07:23:32.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614ed8326e1647c6caee6ca"
+  },
+  "user_id": {
+    "$oid": "6614d32bb949a41cf1de2539"
+  },
+  "fishery_type": "river",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da19819"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 50,
+    "type_of_feed": "worms"
+  },
+  "production_information": {
+    "production_output": 50,
+    "self_consumed": 5,
+    "sold_to_neighbours": 5,
+    "sold_for_industrial_use": 40,
+    "wastage": 5,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 10000,
+    "expenditure_on_inputs": 2000,
+    "yeild": 1,
+    "total_feed": null
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-04-09T07:25:55.426Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T07:25:55.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799f3a48bbdaac5708ec503"
+  },
+  "user_id": {
+    "$oid": "664397de2395171e7da3dc73"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da19805"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 120,
+    "type_of_feed": "worms"
+  },
+  "production_information": {
+    "total_feed": 50,
+    "production_output": 200,
+    "self_consumed": 50,
+    "sold_to_neighbours": 20,
+    "sold_for_industrial_use": 100,
+    "wastage": 30,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 5000,
+    "expenditure_on_inputs": 2000,
+    "yeild": 1.6666666666666667
+  },
+  "processing_method": true,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-29T09:23:48.921Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:23:48.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799f3c08bbdaac5708ec52b"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "6644edb8ba80bcf5f99472e5"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 100,
+    "type_of_feed": "worms"
+  },
+  "production_information": {
+    "total_feed": 20,
+    "production_output": 200,
+    "self_consumed": 50,
+    "sold_to_neighbours": 50,
+    "sold_for_industrial_use": 50,
+    "wastage": 30,
+    "other": "Friends ",
+    "other_value": 20,
+    "income_from_sale": 20000,
+    "expenditure_on_inputs": 30000,
+    "yeild": 2
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-29T09:24:16.971Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:24:16.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799f4018bbdaac5708ec559"
+  },
+  "user_id": {
+    "$oid": "664397de2395171e7da3dc73"
+  },
+  "fishery_type": "river",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da19811"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 500,
+    "type_of_feed": "Others"
+  },
+  "production_information": {
+    "production_output": 1500,
+    "self_consumed": 100,
+    "sold_to_neighbours": 100,
+    "sold_for_industrial_use": 1200,
+    "wastage": 100,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 5000,
+    "expenditure_on_inputs": 1500,
+    "yeild": 3,
+    "total_feed": null
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-29T09:25:21.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:25:21.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799f4228bbdaac5708ec580"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "fishery_type": "river",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da19811"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 200,
+    "type_of_feed": "Others"
+  },
+  "production_information": {
+    "production_output": 400,
+    "self_consumed": 200,
+    "sold_to_neighbours": 100,
+    "sold_for_industrial_use": 100,
+    "wastage": 0,
+    "other": "0",
+    "other_value": null,
+    "income_from_sale": 50000,
+    "expenditure_on_inputs": 60000,
+    "yeild": 2,
+    "total_feed": null
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-29T09:25:54.037Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:25:54.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a440683e7696ea7339b274"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da19815"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 50,
+    "type_of_feed": "frogs"
+  },
+  "production_information": {
+    "total_feed": 30,
+    "production_output": 40,
+    "self_consumed": 10,
+    "sold_to_neighbours": 10,
+    "sold_for_industrial_use": 10,
+    "wastage": 10,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 200,
+    "expenditure_on_inputs": 50,
+    "yeild": 0.8
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-06T04:54:00.521Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T04:54:00.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a4b7ca3e7696ea7339bfaa"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "fishery_type": "river",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da1980f"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 50,
+    "type_of_feed": "frogs"
+  },
+  "production_information": {
+    "production_output": 50,
+    "self_consumed": 10,
+    "sold_to_neighbours": 10,
+    "sold_for_industrial_use": 10,
+    "wastage": 20,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 1000,
+    "expenditure_on_inputs": 200,
+    "yeild": 1,
+    "total_feed": null
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-06T13:23:22.746Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T13:23:22.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae3d645495d1ec970186c"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da19819"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 50,
+    "type_of_feed": "worms"
+  },
+  "production_information": {
+    "total_feed": 20,
+    "production_output": 20,
+    "self_consumed": 5,
+    "sold_to_neighbours": 5,
+    "sold_for_industrial_use": 0,
+    "wastage": 5,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 200,
+    "expenditure_on_inputs": 899,
+    "yeild": 0.4
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-11T05:44:54.088Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T05:44:54.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adbf49709bafb634c1f031"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da19805"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 12,
+    "type_of_feed": "fish"
+  },
+  "production_information": {
+    "total_feed": 12,
+    "production_output": 12,
+    "self_consumed": 1,
+    "sold_to_neighbours": 0,
+    "sold_for_industrial_use": 11,
+    "wastage": 0,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 11,
+    "expenditure_on_inputs": 1,
+    "yeild": 1
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-13T09:45:45.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:45:45.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adbf8cf2e352cfd5e0be4e"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "fishery_type": "river",
+  "fishery_crop_id": {
+    "$oid": "67adbf63f2e352cfd5e0be48"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 12,
+    "type_of_feed": "fish"
+  },
+  "production_information": {
+    "production_output": 12,
+    "self_consumed": 10,
+    "sold_to_neighbours": 1,
+    "sold_for_industrial_use": 1,
+    "wastage": 0,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 12,
+    "expenditure_on_inputs": 1,
+    "yeild": 1,
+    "total_feed": null
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-13T09:46:52.311Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:46:52.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0bc1fb9aa2904b4cfe442"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da1980f"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 25,
+    "type_of_feed": "frogs"
+  },
+  "production_information": {
+    "total_feed": 25,
+    "production_output": 25,
+    "self_consumed": 25,
+    "sold_to_neighbours": 0,
+    "sold_for_industrial_use": 0,
+    "wastage": 0,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 2500,
+    "expenditure_on_inputs": 0,
+    "yeild": 1
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-15T16:09:03.092Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:09:03.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0bc72b9aa2904b4cfe488"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "fishery_type": "river",
+  "fishery_crop_id": {
+    "$oid": "657450323b8cf3812da19805"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 2500,
+    "type_of_feed": "Others"
+  },
+  "production_information": {
+    "production_output": 2500,
+    "self_consumed": 2500,
+    "sold_to_neighbours": 0,
+    "sold_for_industrial_use": 0,
+    "wastage": 0,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 2500,
+    "expenditure_on_inputs": 0,
+    "yeild": 1,
+    "total_feed": null
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-15T16:10:26.635Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:10:26.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bde665a8ac9a674aadb5"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "6706522910b1aaf64dc323d9"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 2800,
+    "type_of_feed": "none"
+  },
+  "production_information": {
+    "total_feed": 3,
+    "production_output": 0,
+    "self_consumed": 0,
+    "sold_to_neighbours": 0,
+    "sold_for_industrial_use": 0,
+    "wastage": 2600,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 0,
+    "expenditure_on_inputs": 0,
+    "yeild": 0
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T04:41:10.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:41:10.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f03665a8ac9a674b07e7"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "67ab9ffb45495d1ec97023b2"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 0,
+    "type_of_feed": "none"
+  },
+  "production_information": {
+    "total_feed": 0,
+    "production_output": 0,
+    "self_consumed": 0,
+    "sold_to_neighbours": 0,
+    "sold_for_industrial_use": 0,
+    "wastage": 0,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 0,
+    "expenditure_on_inputs": 0,
+    "yeild": 0
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:15:50.345Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:15:50.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b426245e4b738d894d32db"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "67b0ec6cb9aa2904b4cff676"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 50,
+    "type_of_feed": "none"
+  },
+  "production_information": {
+    "total_feed": 45,
+    "production_output": 50,
+    "self_consumed": 10,
+    "sold_to_neighbours": 40,
+    "sold_for_industrial_use": 0,
+    "wastage": 0,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 30000,
+    "expenditure_on_inputs": 2000,
+    "yeild": 1
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T06:18:12.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T06:18:12.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b426c35e4b738d894d32fc"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "fishery_type": "pond",
+  "fishery_crop_id": {
+    "$oid": "67ab9ffb45495d1ec97023b2"
+  },
+  "fishery_crop_name": "",
+  "important_information": {
+    "number_of_fishes": 600,
+    "type_of_feed": "none"
+  },
+  "production_information": {
+    "total_feed": 50,
+    "production_output": 500,
+    "self_consumed": 30,
+    "sold_to_neighbours": 470,
+    "sold_for_industrial_use": 0,
+    "wastage": 0,
+    "other": "",
+    "other_value": null,
+    "income_from_sale": 60000,
+    "expenditure_on_inputs": 20000,
+    "yeild": 0.8333333333333334
+  },
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T06:20:51.177Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T06:20:51.177Z"
+  },
+  "__v": 0
+}]

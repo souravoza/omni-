@@ -1,0 +1,4457 @@
+[{
+  "_id": {
+    "$oid": "67b1ade2db1ebb70cb7e10ea"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67aee23e3a0c8b7971db030f"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f3c1f93ee4d2d06bccb"
+  },
+  "expense": 500,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:20:34.200Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:20:34.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1adfcdb1ebb70cb7e112c"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67b03d4a01f33d7cb6708192"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f3c1f93ee4d2d06bccb"
+  },
+  "expense": 500,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:21:00.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:21:00.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1ae13db1ebb70cb7e1165"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67aee2343a0c8b7971db030c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f3c1f93ee4d2d06bccb"
+  },
+  "expense": 500,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:21:23.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:21:23.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1ae39db1ebb70cb7e119e"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f3c1f93ee4d2d06bccb"
+  },
+  "expense": 15000,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:22:01.800Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:22:08.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1ae59db1ebb70cb7e123e"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:22:33.507Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:22:33.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1ae74db1ebb70cb7e1277"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "general_information",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": true,
+  "water_scarcity_severity": {
+    "$oid": "6736125ccb51156c2f52385c"
+  },
+  "months_of_year_of_scarcity": [
+    "April",
+    "June",
+    "March",
+    "May"
+  ],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:23:00.197Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:23:00.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d1e565a8ac9a674a8468"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67aee1903a0c8b7971db0301"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7243a0c8b7971db03c8"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-16T11:54:13.232Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:54:13.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d20e65a8ac9a674a8497"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67b03d5301f33d7cb6708196"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7243a0c8b7971db03c8"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-16T11:54:54.612Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:54:54.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d23065a8ac9a674a84e5"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67aee2343a0c8b7971db030c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7243a0c8b7971db03c8"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-16T11:55:28.112Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:55:28.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d26565a8ac9a674a8511"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d5301f33d7cb6708196"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 750,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-16T11:56:21.270Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:56:21.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d29165a8ac9a674a8540"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "others",
+  "yearly_consumption": {
+    "$oid": "67b03d5301f33d7cb6708196"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 0,
+  "other_name": "fish pond",
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-16T11:57:05.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:57:05.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d2b465a8ac9a674a8580"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-16T11:57:40.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:57:40.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d2de65a8ac9a674a85b3"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "general_information",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": true,
+  "water_scarcity_severity": {
+    "$oid": "67aeedde3a0c8b7971db052a"
+  },
+  "months_of_year_of_scarcity": [
+    "February",
+    "January",
+    "December"
+  ],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-16T11:58:22.677Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:58:22.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bbc565a8ac9a674aa81a"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67aee2103a0c8b7971db0304"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7243a0c8b7971db03c8"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T04:32:05.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:32:05.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bbf365a8ac9a674aa893"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67aee23e3a0c8b7971db030f"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7243a0c8b7971db03c8"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T04:32:51.573Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:32:51.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bc0665a8ac9a674aa8cc"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67aee23e3a0c8b7971db030f"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7243a0c8b7971db03c8"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T04:33:10.347Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:33:10.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bc7265a8ac9a674aa96b"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7243a0c8b7971db03c8"
+  },
+  "expense": 300,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T04:34:58.554Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:34:58.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bc9065a8ac9a674aa9d5"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "water_harvesting_capacity",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "type_of_harvesting": [
+    {
+      "type": {
+        "$oid": "67aeea963a0c8b7971db04d9"
+      },
+      "capacity": 0,
+      "_id": {
+        "$oid": "67b2bc9065a8ac9a674aa9d6"
+      }
+    }
+  ],
+  "other_harvesting": "",
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T04:35:28.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:35:28.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bca365a8ac9a674aaa5c"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T04:35:47.019Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:35:47.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bcd765a8ac9a674aaaef"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "general_information",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": true,
+  "water_scarcity_severity": {
+    "$oid": "67aeedde3a0c8b7971db052a"
+  },
+  "months_of_year_of_scarcity": [
+    "July",
+    "June",
+    "August"
+  ],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T04:36:39.434Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:36:39.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c4af65a8ac9a674abbd6"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67b03d5301f33d7cb6708196"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f3c1f93ee4d2d06bccb"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:10:07.515Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:10:07.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c4cf65a8ac9a674abc0e"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67aee23e3a0c8b7971db030f"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f3c1f93ee4d2d06bccb"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:10:39.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:10:39.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c4fc65a8ac9a674abc48"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67b03d5e01f33d7cb6708199"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f3c1f93ee4d2d06bccb"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:11:24.447Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:11:24.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c54f65a8ac9a674abc88"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 750,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:12:47.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:12:47.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c58d65a8ac9a674abd3c"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:13:49.515Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:13:49.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c5b965a8ac9a674abdba"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "water_harvesting_capacity",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "type_of_harvesting": [
+    {
+      "type": {
+        "$oid": "67aeea963a0c8b7971db04d9"
+      },
+      "capacity": 0,
+      "_id": {
+        "$oid": "67b2c5b965a8ac9a674abdbb"
+      }
+    }
+  ],
+  "other_harvesting": "",
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T05:14:33.955Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:14:33.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c62865a8ac9a674abf39"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "general_information",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": true,
+  "water_scarcity_severity": {
+    "$oid": "6736125ccb51156c2f52385c"
+  },
+  "months_of_year_of_scarcity": [
+    "October",
+    "November"
+  ],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:16:24.628Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:16:24.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cd3465a8ac9a674ad13d"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7373a0c8b7971db03ce"
+  },
+  "expense": 250,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:46:28.546Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:46:28.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cd4f65a8ac9a674ad180"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67aee24a3a0c8b7971db0312"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7373a0c8b7971db03ce"
+  },
+  "expense": 250,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:46:55.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:46:55.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cd6565a8ac9a674ad1ff"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7373a0c8b7971db03ce"
+  },
+  "expense": 250,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:47:17.637Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:47:17.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cd8565a8ac9a674ad2ca"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67aee24a3a0c8b7971db0312"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f2d1f93ee4d2d06bcc8"
+  },
+  "expense": 800,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:47:49.926Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:47:49.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cd9665a8ac9a674ad314"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:48:06.247Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:48:06.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cdbd65a8ac9a674ad369"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "general_information",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": true,
+  "water_scarcity_severity": {
+    "$oid": "67aeedde3a0c8b7971db052a"
+  },
+  "months_of_year_of_scarcity": [
+    "February",
+    "January",
+    "April"
+  ],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:48:45.930Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:48:45.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d43565a8ac9a674ae50e"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67aee23e3a0c8b7971db030f"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7193a0c8b7971db03c5"
+  },
+  "expense": 215,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:16:21.326Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:16:21.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d47265a8ac9a674ae527"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67aee2103a0c8b7971db0304"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:17:22.360Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:17:22.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d49265a8ac9a674ae55a"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67aee1903a0c8b7971db0301"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:17:54.105Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:17:54.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d4d065a8ac9a674ae57c"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d5301f33d7cb6708196"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 750,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:18:56.504Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:18:56.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d51d65a8ac9a674ae5f4"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "others",
+  "yearly_consumption": {
+    "$oid": "67b03d5301f33d7cb6708196"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 0,
+  "other_name": "Fish pond",
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:20:13.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:20:13.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d54165a8ac9a674ae66d"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:20:49.721Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:20:49.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fa6665a8ac9a674b29f3"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67aee2343a0c8b7971db030c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f3c1f93ee4d2d06bccb"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T08:59:18.648Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:59:18.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fa7f65a8ac9a674b2a7f"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67aee23e3a0c8b7971db030f"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f3c1f93ee4d2d06bccb"
+  },
+  "expense": 500,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T08:59:43.907Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:59:43.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fa9765a8ac9a674b2aba"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67aee23e3a0c8b7971db030f"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f3c1f93ee4d2d06bccb"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:00:07.087Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:00:07.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fab865a8ac9a674b2b33"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d4a01f33d7cb6708192"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 750,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:00:40.670Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:00:40.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fac865a8ac9a674b2b57"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:00:56.680Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:00:56.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fe3665a8ac9a674b37ba"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7373a0c8b7971db03ce"
+  },
+  "expense": 250,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:15:34.718Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:15:34.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fe5965a8ac9a674b381f"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7373a0c8b7971db03ce"
+  },
+  "expense": 250,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:16:09.825Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:16:09.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fe6e65a8ac9a674b3870"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7373a0c8b7971db03ce"
+  },
+  "expense": 250,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:16:30.920Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:16:30.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fe8865a8ac9a674b38f3"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67aee24a3a0c8b7971db0312"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f2d1f93ee4d2d06bcc8"
+  },
+  "expense": 750,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:16:56.589Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:16:56.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fe9f65a8ac9a674b393d"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:17:19.690Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:17:19.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2febe65a8ac9a674b3994"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "general_information",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": true,
+  "water_scarcity_severity": {
+    "$oid": "67aeedde3a0c8b7971db052a"
+  },
+  "months_of_year_of_scarcity": [
+    "June",
+    "July",
+    "December"
+  ],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:17:50.286Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:17:50.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b303be65a8ac9a674b48ff"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67b03d5301f33d7cb6708196"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee72f3a0c8b7971db03cb"
+  },
+  "expense": 375,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:39:10.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:39:10.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b303db65a8ac9a674b49d7"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67b03d5301f33d7cb6708196"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "67aee48e3a0c8b7971db03af"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7193a0c8b7971db03c5"
+  },
+  "expense": 375,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:39:39.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:39:39.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b303f765a8ac9a674b4a7e"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67aee2343a0c8b7971db030c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "67aee48e3a0c8b7971db03af"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7193a0c8b7971db03c5"
+  },
+  "expense": 375,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:40:07.540Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:40:07.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3041a65a8ac9a674b4b50"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "67aee48e3a0c8b7971db03af"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7373a0c8b7971db03ce"
+  },
+  "expense": 375,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:40:42.896Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:08:23.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3043865a8ac9a674b4bf5"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "water_harvesting_capacity",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "type_of_harvesting": [
+    {
+      "type": {
+        "$oid": "67aeea963a0c8b7971db04d9"
+      },
+      "capacity": 0,
+      "_id": {
+        "$oid": "67b3043865a8ac9a674b4bf6"
+      }
+    }
+  ],
+  "other_harvesting": "",
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:41:12.540Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:41:12.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3044265a8ac9a674b4c5c"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:41:22.555Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:41:22.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3046765a8ac9a674b4d04"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "general_information",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": true,
+  "water_scarcity_severity": {
+    "$oid": "67aeedde3a0c8b7971db052a"
+  },
+  "months_of_year_of_scarcity": [
+    "July",
+    "June",
+    "August"
+  ],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:41:59.642Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:41:59.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3085965a8ac9a674b5b2b"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67b03d4a01f33d7cb6708192"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a0cb51156c2f523846"
+    },
+    {
+      "$oid": "6786c82e854845415d4a810a"
+    },
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7193a0c8b7971db03c5"
+  },
+  "expense": 800,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:58:49.643Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:58:49.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b308d865a8ac9a674b5d3b"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67b03d4a01f33d7cb6708192"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a0cb51156c2f523846"
+    },
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 800,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T10:00:56.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:00:56.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3090565a8ac9a674b5e71"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67aee1903a0c8b7971db0301"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a0cb51156c2f523846"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T10:01:41.900Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:01:41.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3093765a8ac9a674b5fc0"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    },
+    {
+      "$oid": "673611a0cb51156c2f523846"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T10:02:31.553Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:02:31.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3095165a8ac9a674b6036"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "water_harvesting_capacity",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "type_of_harvesting": [
+    {
+      "type": {
+        "$oid": "67aeea963a0c8b7971db04d9"
+      },
+      "capacity": 0,
+      "_id": {
+        "$oid": "67b3095165a8ac9a674b6037"
+      }
+    }
+  ],
+  "other_harvesting": "",
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T10:02:57.054Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:02:57.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3097e65a8ac9a674b6257"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T10:03:42.393Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:03:42.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b309f065a8ac9a674b65b2"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "general_information",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": true,
+  "water_scarcity_severity": {
+    "$oid": "67aeeded3a0c8b7971db052d"
+  },
+  "months_of_year_of_scarcity": [
+    "June",
+    "May"
+  ],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T10:05:36.808Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:05:36.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b317ee535126c1f565e2a2"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67aee2343a0c8b7971db030c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f3c1f93ee4d2d06bccb"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:05:18.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:05:18.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3180b535126c1f565e2d8"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67b03d5e01f33d7cb6708199"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f3c1f93ee4d2d06bccb"
+  },
+  "expense": 500,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:05:47.921Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:05:47.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31822535126c1f565e305"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67b03d4a01f33d7cb6708192"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f3c1f93ee4d2d06bccb"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:06:10.681Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:06:10.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31849535126c1f565e32a"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d5e01f33d7cb6708199"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 750,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:06:49.409Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:06:49.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31861535126c1f565e352"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:07:13.141Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:07:13.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31c22535126c1f565e965"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7373a0c8b7971db03ce"
+  },
+  "expense": 250,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:23:14.305Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:23:14.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31c37535126c1f565e99a"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7373a0c8b7971db03ce"
+  },
+  "expense": 250,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:23:35.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:23:35.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31c49535126c1f565e9d1"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67aee24a3a0c8b7971db0312"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7373a0c8b7971db03ce"
+  },
+  "expense": 250,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:23:53.356Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:23:53.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31c68535126c1f565ea00"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67aee24a3a0c8b7971db0312"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f2d1f93ee4d2d06bcc8"
+  },
+  "expense": 800,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:24:24.276Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:24:24.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31c7b535126c1f565ea37"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:24:43.032Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:24:43.032Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31c93535126c1f565ea66"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "general_information",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": true,
+  "water_scarcity_severity": {
+    "$oid": "67aeedde3a0c8b7971db052a"
+  },
+  "months_of_year_of_scarcity": [
+    "December",
+    "July",
+    "June"
+  ],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:25:07.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:25:07.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b344ea5e4b738d894cf22e"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67aee2343a0c8b7971db030c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:17:14.949Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:19:15.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b344ff5e4b738d894cf246"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67b03d5301f33d7cb6708196"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:17:35.258Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:17:35.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b345215e4b738d894cf25e"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:18:09.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:18:09.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b345575e4b738d894cf277"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f2d1f93ee4d2d06bcc8"
+  },
+  "expense": 750,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:19:03.468Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:19:03.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3457d5e4b738d894cf2cd"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:19:41.226Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:19:41.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b345a15e4b738d894cf2f9"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67aee23e3a0c8b7971db030f"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:20:17.320Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:20:17.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b349e35e4b738d894cf6ca"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67aee2343a0c8b7971db030c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7193a0c8b7971db03c5"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:38:27.264Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:38:27.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34a095e4b738d894cf6fd"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67aee2343a0c8b7971db030c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:39:05.176Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:39:05.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34a285e4b738d894cf72b"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67aee2343a0c8b7971db030c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:39:36.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:39:36.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34a635e4b738d894cf780"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d4a01f33d7cb6708192"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:40:35.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:40:35.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34a7a5e4b738d894cf7a0"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "water_harvesting_capacity",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "type_of_harvesting": [
+    {
+      "type": {
+        "$oid": "67aeea963a0c8b7971db04d9"
+      },
+      "capacity": 0,
+      "_id": {
+        "$oid": "67b34a7a5e4b738d894cf7a1"
+      }
+    }
+  ],
+  "other_harvesting": "",
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T14:40:58.909Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:40:58.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34ad15e4b738d894cf7ed"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "general_information",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": true,
+  "water_scarcity_severity": {
+    "$oid": "67aeedde3a0c8b7971db052a"
+  },
+  "months_of_year_of_scarcity": [
+    "December",
+    "November",
+    "January"
+  ],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:42:25.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:42:25.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40d285e4b738d894d1586"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67aee2103a0c8b7971db0304"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "67361194cb51156c2f523842"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 700,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:31:36.056Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:31:36.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40d495e4b738d894d1666"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67aee23e3a0c8b7971db030f"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "67361194cb51156c2f523842"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 700,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:32:09.445Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:32:09.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40d755e4b738d894d16d7"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67aee23e3a0c8b7971db030f"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "67361194cb51156c2f523842"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 700,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:32:53.172Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:32:53.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40d8e5e4b738d894d16f8"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67aee2343a0c8b7971db030c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 500,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:33:18.114Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:33:18.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40d985e4b738d894d1778"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "67361194cb51156c2f523842"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 700,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:33:28.101Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:33:28.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40dac5e4b738d894d17ef"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "water_harvesting_capacity",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "type_of_harvesting": [
+    {
+      "type": {
+        "$oid": "67aeea963a0c8b7971db04d9"
+      },
+      "capacity": 0,
+      "_id": {
+        "$oid": "67b40dac5e4b738d894d17f0"
+      }
+    }
+  ],
+  "other_harvesting": "",
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T04:33:48.983Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:33:48.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40db95e4b738d894d1806"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67aee2343a0c8b7971db030c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 500,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:34:01.564Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:34:01.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40dcd5e4b738d894d186f"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    },
+    {
+      "$oid": "6786c96e854845415d4a812f"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:34:21.177Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:34:21.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40ddc5e4b738d894d188b"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67aee2343a0c8b7971db030c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 500,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:34:36.247Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:34:36.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40df45e4b738d894d1906"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "general_information",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": true,
+  "water_scarcity_severity": {
+    "$oid": "67aeedfd3a0c8b7971db0530"
+  },
+  "months_of_year_of_scarcity": [
+    "May"
+  ],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:35:00.633Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:35:00.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40df65e4b738d894d192e"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d5301f33d7cb6708196"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 0,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:35:02.197Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:35:02.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40e0b5e4b738d894d19ad"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "water_harvesting_capacity",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "type_of_harvesting": [
+    {
+      "type": {
+        "$oid": "67aeea963a0c8b7971db04d9"
+      },
+      "capacity": 0,
+      "_id": {
+        "$oid": "67b40e0b5e4b738d894d19ae"
+      }
+    }
+  ],
+  "other_harvesting": "",
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T04:35:23.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:35:23.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40e345e4b738d894d1a12"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c991854845415d4a8135"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:36:04.321Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:36:04.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40e745e4b738d894d1ada"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7373a0c8b7971db03ce"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:37:08.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:37:08.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40e8b5e4b738d894d1b0e"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7373a0c8b7971db03ce"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:37:31.819Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:37:31.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40e9f5e4b738d894d1b35"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7373a0c8b7971db03ce"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:37:51.825Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:37:51.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40eb45e4b738d894d1b5a"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67aee24a3a0c8b7971db0312"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f2d1f93ee4d2d06bcc8"
+  },
+  "expense": 800,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:38:12.459Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:38:12.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40ebf5e4b738d894d1b7d"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:38:23.160Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:38:23.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40ed35e4b738d894d1ba4"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "general_information",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": true,
+  "water_scarcity_severity": {
+    "$oid": "67aeedde3a0c8b7971db052a"
+  },
+  "months_of_year_of_scarcity": [
+    "December",
+    "February",
+    "November",
+    "March"
+  ],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:38:43.466Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:38:43.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43cb65e4b738d894d3b33"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "cooking_and_drinking",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7243a0c8b7971db03c8"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T07:54:30.458Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T07:54:30.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43cd95e4b738d894d3b8c"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "sanitation_and_bathing",
+  "yearly_consumption": {
+    "$oid": "67b03d6701f33d7cb670819c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee7243a0c8b7971db03c8"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T07:55:05.071Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T07:55:05.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43cfd5e4b738d894d3bd9"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67aee2343a0c8b7971db030c"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67b05f2d1f93ee4d2d06bcc8"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T07:55:41.395Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T07:55:49.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43d295e4b738d894d3c99"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "irrigation",
+  "yearly_consumption": {
+    "$oid": "67b03d4a01f33d7cb6708192"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 750,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T07:56:25.106Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T07:56:25.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43d505e4b738d894d3d01"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "waste_water_disposal",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [
+    {
+      "$oid": "6786c982854845415d4a8132"
+    }
+  ],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T07:57:04.004Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T07:57:04.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b470d15e4b738d894d510b"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "cleaning",
+  "yearly_consumption": {
+    "$oid": "67aee1903a0c8b7971db0301"
+  },
+  "water_sourced_from": [
+    {
+      "$oid": "673611a4cb51156c2f523848"
+    }
+  ],
+  "water_quality": {
+    "$oid": "67aee6ec3a0c8b7971db03c2"
+  },
+  "expense": 200,
+  "other_name": null,
+  "other_harvesting": null,
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "type_of_harvesting": [],
+  "createdAt": {
+    "$date": "2025-02-18T11:36:49.321Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:36:49.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b470e45e4b738d894d5199"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "water_harvesting_capacity",
+  "yearly_consumption": null,
+  "water_sourced_from": [],
+  "water_quality": null,
+  "expense": null,
+  "other_name": null,
+  "type_of_harvesting": [
+    {
+      "type": {
+        "$oid": "67aeea4d3a0c8b7971db049e"
+      },
+      "capacity": 20,
+      "_id": {
+        "$oid": "67b470ea5e4b738d894d51fb"
+      }
+    }
+  ],
+  "other_harvesting": "",
+  "wastewater_disposal_methods": [],
+  "water_recycle": false,
+  "water_recycling_methods": [],
+  "other_recycling": null,
+  "water_meter": false,
+  "water_scarcity": false,
+  "water_scarcity_severity": null,
+  "months_of_year_of_scarcity": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T11:37:08.647Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:37:14.793Z"
+  },
+  "__v": 0
+}]

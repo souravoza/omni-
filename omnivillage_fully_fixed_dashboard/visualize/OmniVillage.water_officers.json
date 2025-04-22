@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "6768dce6d8a22eaa77137235"
+  },
+  "moderator_id": {
+    "$oid": "67a1d4654e2c70adacf19d01"
+  },
+  "village_id": {
+    "$oid": "64fdaf9463838e6402d95583"
+  },
+  "water_source_available": [
+    {
+      "type": {
+        "$oid": "67617306a1f082163586feee"
+      },
+      "condition": {
+        "$oid": "6761730fa1f082163586fef1"
+      },
+      "tapped_into": {
+        "$oid": "676173c2a1f082163586fefa"
+      },
+      "sustainable_yearly_supply": 36,
+      "yearly_consumption": 25,
+      "storage_capacity": 32,
+      "distribution_method": {
+        "$oid": "676174c97c844e272b1b53fe"
+      },
+      "storage_method": {
+        "$oid": "676174da7c844e272b1b5401"
+      },
+      "rate_of_replenishment": 6,
+      "_id": {
+        "$oid": "6768dce6d8a22eaa77137236"
+      }
+    }
+  ],
+  "sewage_treatment": true,
+  "capacity": 36,
+  "treated_water_discharged": {
+    "$oid": "676174e17c844e272b1b5404"
+  },
+  "number_of_houses": 85,
+  "createdAt": {
+    "$date": "2024-12-23T03:45:42.610Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T13:08:43.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67908556854b12a936ff7e71"
+  },
+  "moderator_id": {
+    "$oid": "678f9ebff44d3633d5453c30"
+  },
+  "village_id": {
+    "$oid": "64feafb1febc84c6a1c211da"
+  },
+  "water_source_available": [
+    {
+      "type": {
+        "$oid": "6778e923dffd345c02c43797"
+      },
+      "condition": {
+        "$oid": "6761730fa1f082163586fef1"
+      },
+      "tapped_into": {
+        "$oid": "676173c2a1f082163586fefa"
+      },
+      "sustainable_yearly_supply": 10,
+      "yearly_consumption": 10,
+      "storage_capacity": 20,
+      "distribution_method": {
+        "$oid": "676174c97c844e272b1b53fe"
+      },
+      "storage_method": {
+        "$oid": "676174da7c844e272b1b5401"
+      },
+      "rate_of_replenishment": 5,
+      "_id": {
+        "$oid": "67908556854b12a936ff7e72"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6778e936dffd345c02c4379d"
+      },
+      "condition": {
+        "$oid": "6761730fa1f082163586fef1"
+      },
+      "tapped_into": {
+        "$oid": "676173c2a1f082163586fefa"
+      },
+      "sustainable_yearly_supply": 6,
+      "yearly_consumption": 6,
+      "storage_capacity": 20,
+      "distribution_method": {
+        "$oid": "676174c97c844e272b1b53fe"
+      },
+      "storage_method": {
+        "$oid": "676174da7c844e272b1b5401"
+      },
+      "rate_of_replenishment": 5,
+      "_id": {
+        "$oid": "67908556854b12a936ff7e73"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6778e90adffd345c02c43794"
+      },
+      "condition": {
+        "$oid": "6761730fa1f082163586fef1"
+      },
+      "tapped_into": {
+        "$oid": "676173c2a1f082163586fefa"
+      },
+      "sustainable_yearly_supply": 5,
+      "yearly_consumption": 5,
+      "storage_capacity": 20,
+      "distribution_method": {
+        "$oid": "676174c97c844e272b1b53fe"
+      },
+      "storage_method": {
+        "$oid": "676174da7c844e272b1b5401"
+      },
+      "rate_of_replenishment": 5,
+      "_id": {
+        "$oid": "67908556854b12a936ff7e74"
+      }
+    }
+  ],
+  "sewage_treatment": true,
+  "capacity": 25,
+  "treated_water_discharged": {
+    "$oid": "676174e17c844e272b1b5404"
+  },
+  "number_of_houses": 5,
+  "createdAt": {
+    "$date": "2025-01-22T05:42:46.354Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-22T05:42:46.354Z"
+  },
+  "__v": 0
+}]

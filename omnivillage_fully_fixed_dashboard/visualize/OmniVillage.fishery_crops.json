@@ -1,0 +1,452 @@
+[{
+  "_id": {
+    "$oid": "657450323b8cf3812da19805"
+  },
+  "name": {
+    "en": "salarong",
+    "ms": "salarong",
+    "dz": "salarong"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:32:02.152Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:12:35.102Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "fishery"
+},
+{
+  "_id": {
+    "$oid": "657450323b8cf3812da1980f"
+  },
+  "name": {
+    "en": "tilapia",
+    "ms": "tilapia",
+    "dz": "tilapia"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:32:02.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:12:42.303Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "fishery"
+},
+{
+  "_id": {
+    "$oid": "657450323b8cf3812da19811"
+  },
+  "name": {
+    "en": "sultan",
+    "ms": "sultan",
+    "dz": "sultan"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:32:02.758Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:12:48.726Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "fishery"
+},
+{
+  "_id": {
+    "$oid": "657450323b8cf3812da19815"
+  },
+  "name": {
+    "en": "gourami",
+    "ms": "gourami",
+    "dz": "gourami"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:32:02.833Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:12:53.486Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "fishery"
+},
+{
+  "_id": {
+    "$oid": "657450323b8cf3812da19817"
+  },
+  "name": {
+    "en": "tarap",
+    "ms": "tarap",
+    "dz": "tarap"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:32:02.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:13:01.442Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "fishery"
+},
+{
+  "_id": {
+    "$oid": "657450323b8cf3812da19819"
+  },
+  "name": {
+    "en": "duria",
+    "ms": "duria",
+    "dz": "duria"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:32:02.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:13:07.726Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "fishery"
+},
+{
+  "_id": {
+    "$oid": "6644ed57ba80bcf5f99472da"
+  },
+  "name": {
+    "en": "brown trout ",
+    "ms": "brown trout ",
+    "dz": "brown trout "
+  },
+  "country": [
+    "bhutan",
+    "malaysia",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T17:13:59.319Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:13:17.726Z"
+  },
+  "__v": 0,
+  "category": "fishery"
+},
+{
+  "_id": {
+    "$oid": "6644ed95ba80bcf5f99472df"
+  },
+  "name": {
+    "en": "golden mahseer ",
+    "ms": "golden mahseer ",
+    "dz": "golden mahseer "
+  },
+  "country": [
+    "bhutan",
+    "india",
+    "malaysia"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T17:15:01.569Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:13:23.862Z"
+  },
+  "__v": 0,
+  "category": "fishery"
+},
+{
+  "_id": {
+    "$oid": "6644eda9ba80bcf5f99472e2"
+  },
+  "name": {
+    "en": " himalaya trout ",
+    "ms": " himalaya trout ",
+    "dz": " himalaya trout"
+  },
+  "country": [
+    "bhutan",
+    "india",
+    "malaysia"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T17:15:21.039Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:13:33.266Z"
+  },
+  "__v": 0,
+  "category": "fishery"
+},
+{
+  "_id": {
+    "$oid": "6644edb8ba80bcf5f99472e5"
+  },
+  "name": {
+    "en": "salmo trout",
+    "ms": "salmo trout",
+    "dz": "salmo trout"
+  },
+  "country": [
+    "bhutan",
+    "malaysia",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T17:15:36.219Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:13:43.954Z"
+  },
+  "__v": 0,
+  "category": "fishery"
+},
+{
+  "_id": {
+    "$oid": "6706522910b1aaf64dc323d9"
+  },
+  "name": {
+    "en": "rohu",
+    "ms": "rohu",
+    "dz": "rohu"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-10-09T09:51:37.231Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:33:36.172Z"
+  },
+  "__v": 0,
+  "category": "fishery"
+},
+{
+  "_id": {
+    "$oid": "67ab9ffb45495d1ec97023b2"
+  },
+  "name": {
+    "en": "others",
+    "ms": "others",
+    "dz": "others"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": null,
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:07:39.356Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T19:07:39.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adbf63f2e352cfd5e0be48"
+  },
+  "name": {
+    "en": "salmon ",
+    "ms": "salmon ",
+    "dz": "salmon "
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-13T09:46:11.743Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:33:52.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ec6cb9aa2904b4cff676"
+  },
+  "name": {
+    "en": "smoked fish made from snowtrout (nya dosem)",
+    "ms": "smoked fish made from snowtrout (nya dosem)",
+    "dz": "smoked fish made from snowtrout (nya dosem)"
+  },
+  "country": [
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T19:35:08.323Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:35:08.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ef6ab9aa2904b4cff94c"
+  },
+  "name": {
+    "en": "ro",
+    "ms": "ro",
+    "dz": "ro"
+  },
+  "country": [
+    "india"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T19:47:54.556Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:47:54.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b18a91b9aa2904b4d0145b"
+  },
+  "name": {
+    "en": "fr",
+    "ms": "fr",
+    "dz": "fr"
+  },
+  "country": [
+    "india"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-16T06:49:53.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:49:53.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b18bc4b9aa2904b4d01542"
+  },
+  "name": {
+    "en": "sf",
+    "ms": "sf",
+    "dz": "sf"
+  },
+  "country": [
+    "india"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-16T06:55:00.963Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:55:00.963Z"
+  },
+  "__v": 0
+}]

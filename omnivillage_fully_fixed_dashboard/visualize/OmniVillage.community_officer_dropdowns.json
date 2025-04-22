@@ -1,0 +1,2322 @@
+[{
+  "_id": {
+    "$oid": "676179407ba54e3fd9e4120d"
+  },
+  "type": "capacity_of_parking",
+  "name": {
+    "en": "10-20",
+    "ms": "10-20",
+    "dz": "10-20"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:14:40.723Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:08:24.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676179477ba54e3fd9e41210"
+  },
+  "type": "type_of_children_playground",
+  "name": {
+    "en": "nature / natural playground",
+    "ms": "nature / natural playground",
+    "dz": "nature / natural playground"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:14:47.371Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:03:40.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761794f7ba54e3fd9e41213"
+  },
+  "type": "type_of_senile_center",
+  "name": {
+    "en": "daycare center",
+    "ms": "daycare center",
+    "dz": "daycare center"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:14:55.072Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:05:22.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676179547ba54e3fd9e41216"
+  },
+  "type": "type_of_mobility",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:15:00.393Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:15:00.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761795a7ba54e3fd9e41219"
+  },
+  "type": "capacity_of_water_storage",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:15:06.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:15:06.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676179607ba54e3fd9e4121c"
+  },
+  "type": "type_of_cold_storage",
+  "name": {
+    "en": "private vehicles",
+    "ms": "private vehicles",
+    "dz": "private vehicles"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:15:12.305Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:20:38.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676179667ba54e3fd9e4121f"
+  },
+  "type": "capacity_of_cold_storage",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:15:18.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:15:18.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761796e7ba54e3fd9e41222"
+  },
+  "type": "type_of_energy_and_battery_house",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:15:26.140Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:15:26.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676179737ba54e3fd9e41225"
+  },
+  "type": "capacity_of_energy_and_battery_house",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:15:31.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:15:31.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6767c54c7aa921de9e461033"
+  },
+  "type": "distance_of_bank",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-22T07:52:44.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-22T07:52:44.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6767c5547aa921de9e461036"
+  },
+  "type": "distance_of_healthcare",
+  "name": {
+    "en": "less than 1 km",
+    "ms": "less than 1 km",
+    "dz": "less than 1 km"
+  },
+  "createdAt": {
+    "$date": "2024-12-22T07:52:52.259Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:45:42.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178767ba54e3fd9e411c2"
+  },
+  "type": "no_of_townhall",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:11:18.450Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:11:18.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761787a7ba54e3fd9e411c5"
+  },
+  "type": "no_of_market",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:11:22.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:11:22.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761787f7ba54e3fd9e411c8"
+  },
+  "type": "no_of_bank",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:11:27.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:11:27.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178857ba54e3fd9e411cb"
+  },
+  "type": "no_of_healthcare",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:11:33.216Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:11:33.216Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761788a7ba54e3fd9e411ce"
+  },
+  "type": "no_of_library",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:11:38.149Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:11:38.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178907ba54e3fd9e411d1"
+  },
+  "type": "no_of_museum",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:11:44.118Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:11:44.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178997ba54e3fd9e411d4"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "football (soccer)",
+    "ms": "football (soccer)",
+    "dz": "football (soccer)"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:11:53.349Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:47:17.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761789e7ba54e3fd9e411d7"
+  },
+  "type": "frequency_of_spiritual_retreats",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:11:58.633Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:11:58.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178a47ba54e3fd9e411da"
+  },
+  "type": "no_of_spiritual_sanctums",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:12:04.486Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:12:04.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178b17ba54e3fd9e411dd"
+  },
+  "type": "no_of_post_office",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:12:17.692Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:12:17.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178be7ba54e3fd9e411e0"
+  },
+  "type": "post_office_distance",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:12:30.755Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:12:30.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178c47ba54e3fd9e411e3"
+  },
+  "type": "no_of_sewage_treatment_facility",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:12:36.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:12:36.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178cb7ba54e3fd9e411e6"
+  },
+  "type": "types_of_sewage_treatment_facility",
+  "name": {
+    "en": "activated sludge process",
+    "ms": "activated sludge process",
+    "dz": "activated sludge process"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:12:43.822Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:50:07.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178d47ba54e3fd9e411e9"
+  },
+  "type": "no_of_composting_facility",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:12:52.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:12:52.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178dc7ba54e3fd9e411ec"
+  },
+  "type": "types_of_composting_facility",
+  "name": {
+    "en": " mechanical composting",
+    "ms": "mechanical composting",
+    "dz": " mechanical composting"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:13:00.282Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:03:33.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178e67ba54e3fd9e411ef"
+  },
+  "type": "types_of_recycling_facility",
+  "name": {
+    "en": "no segregation",
+    "ms": "no segregation",
+    "dz": "no segregation"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:13:10.189Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:53:40.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178ee7ba54e3fd9e411f2"
+  },
+  "type": "level_of_waste_segregation",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:13:18.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:13:18.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178f77ba54e3fd9e411f5"
+  },
+  "type": "type_of_street_lights",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:13:27.366Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:13:27.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676179017ba54e3fd9e411f8"
+  },
+  "type": "no_of_broadband_providers",
+  "name": {
+    "en": "1-3",
+    "ms": "1-3",
+    "dz": "1-3"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:13:37.635Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:55:16.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676179097ba54e3fd9e411fb"
+  },
+  "type": "method_of_broadband",
+  "name": {
+    "en": "wifi",
+    "ms": "wifi",
+    "dz": "wifi"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:13:45.963Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:56:21.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676179127ba54e3fd9e411fe"
+  },
+  "type": "bandwidth_of_broadband",
+  "name": {
+    "en": "less than 10 mbps",
+    "ms": "less than 10 mbps",
+    "dz": "less than 10 mbps"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:13:54.500Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:57:20.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761791d7ba54e3fd9e41201"
+  },
+  "type": "stability_of_broadband",
+  "name": {
+    "en": "very stable",
+    "ms": "very stable",
+    "dz": "very stable"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:14:05.429Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:58:23.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676179267ba54e3fd9e41204"
+  },
+  "type": "distance_of_burial_cremation",
+  "name": {
+    "en": "1-2 km",
+    "ms": "1-2 km",
+    "dz": "1-2 km"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:14:14.135Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:02:42.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676179307ba54e3fd9e41207"
+  },
+  "type": "distance_of_animal_shelters",
+  "name": {
+    "en": "0-1 km",
+    "ms": "0-1 km",
+    "dz": "0-1 km"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:14:24.702Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:01:41.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676179377ba54e3fd9e4120a"
+  },
+  "type": "type_of_animal_shelters",
+  "name": {
+    "en": "fenced area",
+    "ms": "fenced area",
+    "dz": "fenced area"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:14:31.922Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:59:33.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ae165e4b738d894d04bb"
+  },
+  "type": "distance_of_healthcare",
+  "name": {
+    "en": "1-5 km",
+    "ms": "1-5 km",
+    "dz": "1-5 km"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:45:58.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:45:58.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ae2e5e4b738d894d04be"
+  },
+  "type": "distance_of_healthcare",
+  "name": {
+    "en": "6-10 km",
+    "ms": "6-10 km",
+    "dz": "6-10 km"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:46:22.833Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:46:22.833Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ae395e4b738d894d04c1"
+  },
+  "type": "distance_of_healthcare",
+  "name": {
+    "en": "11-15 km",
+    "ms": "11-15 km",
+    "dz": "11-15 km"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:46:33.483Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:46:33.483Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ae435e4b738d894d04c4"
+  },
+  "type": "distance_of_healthcare",
+  "name": {
+    "en": "more than 15 km",
+    "ms": "more than 15 km",
+    "dz": "more than 15 km"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:46:43.139Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:46:43.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ae6f5e4b738d894d04c9"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "cricket",
+    "ms": "cricket",
+    "dz": "cricket"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:47:27.547Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:47:27.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ae7b5e4b738d894d04cd"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "basketball",
+    "ms": "basketball",
+    "dz": "basketball"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:47:39.976Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:47:39.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ae845e4b738d894d04d0"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "tennis",
+    "ms": "tennis",
+    "dz": "tennis"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:47:48.220Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:47:48.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ae8b5e4b738d894d04d3"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "volleyball",
+    "ms": "volleyball",
+    "dz": "volleyball"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:47:55.941Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:47:55.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ae925e4b738d894d04d6"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "table tennis",
+    "ms": "table tennis",
+    "dz": "table tennis"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:48:02.827Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:48:02.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ae9a5e4b738d894d04d9"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "rugby",
+    "ms": "rugby",
+    "dz": "rugby"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:48:10.167Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:48:10.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aea25e4b738d894d04dc"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "baseball",
+    "ms": "baseball",
+    "dz": "baseball"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:48:18.006Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:48:18.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aeaa5e4b738d894d04df"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "golf",
+    "ms": "golf",
+    "dz": "golf"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:48:26.083Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:48:26.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aeb35e4b738d894d04e2"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "athletics (track & field)",
+    "ms": "athletics (track & field)",
+    "dz": "athletics (track & field)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:48:35.291Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:48:35.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aeba5e4b738d894d04e5"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "archery ",
+    "ms": "archery ",
+    "dz": "archery "
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:48:42.813Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:48:42.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aec15e4b738d894d04e8"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "khuru (darts)",
+    "ms": "khuru (darts)",
+    "dz": "khuru (darts)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:48:49.522Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:48:49.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aece5e4b738d894d04eb"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "soksum",
+    "ms": "soksum",
+    "dz": "soksum"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:49:02.349Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:49:02.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aed65e4b738d894d04ee"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "degor",
+    "ms": "degor",
+    "dz": "degor"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:49:10.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:49:10.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aedd5e4b738d894d04f1"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": " pungdo (shot put)",
+    "ms": " pungdo (shot put)",
+    "dz": " pungdo (shot put)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:49:17.516Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:49:17.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aee65e4b738d894d04f4"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "stone game",
+    "ms": "stone game",
+    "dz": "stone game"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:49:26.316Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:49:26.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aeee5e4b738d894d04f7"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "keshum (wrestling)",
+    "ms": "keshum (wrestling)",
+    "dz": "keshum (wrestling)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:49:34.452Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:49:34.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3af1e5e4b738d894d04fc"
+  },
+  "type": "types_of_sewage_treatment_facility",
+  "name": {
+    "en": "trickling filter",
+    "ms": "trickling filter",
+    "dz": "trickling filter"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:50:22.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:50:22.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3af2a5e4b738d894d04ff"
+  },
+  "type": "types_of_sewage_treatment_facility",
+  "name": {
+    "en": "septic tank / soak pit",
+    "ms": "septic tank / soak pit",
+    "dz": "septic tank / soak pit"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:50:34.725Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:50:34.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3af345e4b738d894d0502"
+  },
+  "type": "types_of_sewage_treatment_facility",
+  "name": {
+    "en": "advanced treatment",
+    "ms": "advanced treatment",
+    "dz": "advanced treatment"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:50:44.450Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:50:44.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3af3e5e4b738d894d0505"
+  },
+  "type": "types_of_sewage_treatment_facility",
+  "name": {
+    "en": "waste stabilization ponds",
+    "ms": "waste stabilization ponds",
+    "dz": "waste stabilization ponds"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:50:54.407Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:50:54.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3af4c5e4b738d894d0508"
+  },
+  "type": "types_of_sewage_treatment_facility",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:51:08.079Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:51:08.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3af615e4b738d894d050e"
+  },
+  "type": "types_of_composting_facility",
+  "name": {
+    "en": "vermi composting",
+    "ms": "vermi composting",
+    "dz": "vermi composting"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:51:29.922Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:52:09.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3af975e4b738d894d0515"
+  },
+  "type": "types_of_composting_facility",
+  "name": {
+    "en": "aerobic composting`",
+    "ms": "aerobic composting",
+    "dz": "aerobic composting"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:52:23.838Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:52:23.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3afa25e4b738d894d0518"
+  },
+  "type": "types_of_composting_facility",
+  "name": {
+    "en": "in vessel composting",
+    "ms": "in vessel composting",
+    "dz": "in vessel composting"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:52:34.401Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:52:34.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3afae5e4b738d894d051c"
+  },
+  "type": "types_of_composting_facility",
+  "name": {
+    "en": "traditional pit composting",
+    "ms": "traditional pit composting",
+    "dz": "traditional pit composting"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:52:46.124Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:52:46.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3afb85e4b738d894d051f"
+  },
+  "type": "types_of_composting_facility",
+  "name": {
+    "en": "heap  composting",
+    "ms": "heap  composting",
+    "dz": "heap  composting"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:52:56.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:52:56.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3afc35e4b738d894d0522"
+  },
+  "type": "types_of_composting_facility",
+  "name": {
+    "en": "manure composting",
+    "ms": "manure composting",
+    "dz": "manure composting"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:53:07.865Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:53:07.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aff55e4b738d894d0527"
+  },
+  "type": "types_of_recycling_facility",
+  "name": {
+    "en": "basic segregation (e.g., wet and dry waste)",
+    "ms": "basic segregation (e.g., wet and dry waste)",
+    "dz": "basic segregation (e.g., wet and dry waste)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:53:57.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:53:57.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b0005e4b738d894d052a"
+  },
+  "type": "types_of_recycling_facility",
+  "name": {
+    "en": "intermediate segregation (e.g., recyclables, organic, non-recyclable)",
+    "ms": "intermediate segregation (e.g., recyclables, organic, non-recyclable)",
+    "dz": "intermediate segregation (e.g., recyclables, organic, non-recyclable)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:54:08.027Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:54:08.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b00a5e4b738d894d052d"
+  },
+  "type": "types_of_recycling_facility",
+  "name": {
+    "en": "advanced segregation (e.g., hazardous, biodegradable, recyclable, non-recyclable)",
+    "ms": "advanced segregation (e.g., hazardous, biodegradable, recyclable, non-recyclable)",
+    "dz": "advanced segregation (e.g., hazardous, biodegradable, recyclable, non-recyclable)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:54:18.524Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:54:18.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b0145e4b738d894d0530"
+  },
+  "type": "types_of_recycling_facility",
+  "name": {
+    "en": "complete segregation with color-coded bins",
+    "ms": "complete segregation with color-coded bins",
+    "dz": "complete segregation with color-coded bins"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:54:28.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:54:28.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b05c5e4b738d894d0537"
+  },
+  "type": "no_of_broadband_providers",
+  "name": {
+    "en": "4-6",
+    "ms": "4-6",
+    "dz": "4-6"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:55:40.107Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:55:40.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b06a5e4b738d894d053a"
+  },
+  "type": "no_of_broadband_providers",
+  "name": {
+    "en": "7-10",
+    "ms": "7-10",
+    "dz": "7-10"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:55:54.231Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:55:54.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b08c5e4b738d894d053f"
+  },
+  "type": "method_of_broadband",
+  "name": {
+    "en": "wired",
+    "ms": "wired",
+    "dz": "wired"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:56:28.975Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:56:28.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b0945e4b738d894d0542"
+  },
+  "type": "method_of_broadband",
+  "name": {
+    "en": "satelite",
+    "ms": "satelite",
+    "dz": "satelite"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:56:36.339Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:56:36.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b09b5e4b738d894d0545"
+  },
+  "type": "method_of_broadband",
+  "name": {
+    "en": "mobile hotspot",
+    "ms": "mobile hotspot",
+    "dz": "mobile hotspot"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:56:43.669Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:56:43.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b0a45e4b738d894d0548"
+  },
+  "type": "method_of_broadband",
+  "name": {
+    "en": "ethernet cable",
+    "ms": "ethernet cable",
+    "dz": "ethernet cable"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:56:52.998Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:56:52.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b0ad5e4b738d894d054b"
+  },
+  "type": "method_of_broadband",
+  "name": {
+    "en": "data plan",
+    "ms": "data plan",
+    "dz": "data plan"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:57:01.913Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:57:01.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b0cf5e4b738d894d0550"
+  },
+  "type": "bandwidth_of_broadband",
+  "name": {
+    "en": "10-50 mbps",
+    "ms": "10-50 mbps",
+    "dz": "10-50 mbps"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:57:35.016Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:57:35.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b0d95e4b738d894d0553"
+  },
+  "type": "bandwidth_of_broadband",
+  "name": {
+    "en": "51-100 mbps",
+    "ms": "51-100 mbps",
+    "dz": "51-100 mbps"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:57:45.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:57:45.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b0e55e4b738d894d0557"
+  },
+  "type": "bandwidth_of_broadband",
+  "name": {
+    "en": "101-200 mbps",
+    "ms": "101-200 mbps",
+    "dz": "101-200 mbps"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:57:57.608Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:57:57.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b0ef5e4b738d894d055a"
+  },
+  "type": "method_of_broadband",
+  "name": {
+    "en": "wifi",
+    "ms": "wifi",
+    "dz": "wifi"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:58:07.511Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:10:55.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b1085e4b738d894d055f"
+  },
+  "type": "stability_of_broadband",
+  "name": {
+    "en": "stable",
+    "ms": "stable",
+    "dz": "stable"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:58:32.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:58:32.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b1135e4b738d894d0562"
+  },
+  "type": "stability_of_broadband",
+  "name": {
+    "en": "occasionally unstable",
+    "ms": "occasionally unstable",
+    "dz": "occasionally unstable"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:58:43.414Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:58:43.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b11d5e4b738d894d0565"
+  },
+  "type": "stability_of_broadband",
+  "name": {
+    "en": "frequently unstable",
+    "ms": "frequently unstable",
+    "dz": "frequently unstable"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:58:53.207Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:58:53.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b1285e4b738d894d0568"
+  },
+  "type": "stability_of_broadband",
+  "name": {
+    "en": "very unstable",
+    "ms": "very unstable",
+    "dz": "very unstable"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:59:04.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:59:04.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b14f5e4b738d894d056d"
+  },
+  "type": "type_of_animal_shelters",
+  "name": {
+    "en": "individual animal shed",
+    "ms": "individual animal shed",
+    "dz": "individual animal shed"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:59:43.610Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:59:43.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b15a5e4b738d894d0570"
+  },
+  "type": "type_of_animal_shelters",
+  "name": {
+    "en": "municipal / government-run shelter",
+    "ms": "municipal / government-run shelter",
+    "dz": "municipal / government-run shelter"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:59:54.522Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:59:54.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b1635e4b738d894d0573"
+  },
+  "type": "type_of_animal_shelters",
+  "name": {
+    "en": "private non-profit shelter",
+    "ms": "private non-profit shelter",
+    "dz": "private non-profit shelter"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:00:03.233Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:00:03.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b16d5e4b738d894d0576"
+  },
+  "type": "type_of_animal_shelters",
+  "name": {
+    "en": "foster-based rescue network",
+    "ms": "foster-based rescue network",
+    "dz": "foster-based rescue network"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:00:13.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:00:13.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b1765e4b738d894d0579"
+  },
+  "type": "type_of_animal_shelters",
+  "name": {
+    "en": "sanctuary (long-term / lifetime care)",
+    "ms": "sanctuary (long-term / lifetime care)",
+    "dz": "sanctuary (long-term / lifetime care)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:00:22.391Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:00:22.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b1825e4b738d894d057c"
+  },
+  "type": "type_of_animal_shelters",
+  "name": {
+    "en": "breed-specific rescue",
+    "ms": "breed-specific rescue",
+    "dz": "breed-specific rescue"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:00:34.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:00:34.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b18c5e4b738d894d057f"
+  },
+  "type": "type_of_animal_shelters",
+  "name": {
+    "en": "open-admission shelter",
+    "ms": "open-admission shelter",
+    "dz": "open-admission shelter"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:00:44.054Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:00:44.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b19c5e4b738d894d0582"
+  },
+  "type": "type_of_animal_shelters",
+  "name": {
+    "en": "wildlife rescue / rehabilitation center",
+    "ms": "wildlife rescue / rehabilitation center",
+    "dz": "wildlife rescue / rehabilitation center"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:01:00.729Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:01:00.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b1a95e4b738d894d0585"
+  },
+  "type": "type_of_animal_shelters",
+  "name": {
+    "en": "no-kill shelter",
+    "ms": "no-kill shelter",
+    "dz": "no-kill shelter"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:01:13.988Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:01:13.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b1d55e4b738d894d058a"
+  },
+  "type": "distance_of_animal_shelters",
+  "name": {
+    "en": "2-5 km",
+    "ms": "2-5 km",
+    "dz": "2-5 km"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:01:57.844Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:01:57.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b1e55e4b738d894d058d"
+  },
+  "type": "distance_of_animal_shelters",
+  "name": {
+    "en": "6-10 km",
+    "ms": "6-10 km",
+    "dz": "6-10 km"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:02:13.680Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:02:13.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b2105e4b738d894d0592"
+  },
+  "type": "distance_of_burial_cremation",
+  "name": {
+    "en": "3-5 km",
+    "ms": "3-5 km",
+    "dz": "3-5 km"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:02:56.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:02:56.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b2215e4b738d894d0595"
+  },
+  "type": "distance_of_burial_cremation",
+  "name": {
+    "en": "6-10 km",
+    "ms": "6-10 km",
+    "dz": "6-10 km"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:03:13.016Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:03:13.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b2485e4b738d894d059b"
+  },
+  "type": "type_of_children_playground",
+  "name": {
+    "en": "water / splash park",
+    "ms": "water / splash park",
+    "dz": "water / splash park"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:03:52.234Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:03:52.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b2515e4b738d894d059e"
+  },
+  "type": "type_of_children_playground",
+  "name": {
+    "en": "sports playground",
+    "ms": "sports playground",
+    "dz": "sports playground"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:04:01.115Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:04:01.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b25a5e4b738d894d05a1"
+  },
+  "type": "type_of_children_playground",
+  "name": {
+    "en": "sensory playground",
+    "ms": "sensory playground",
+    "dz": "sensory playground"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:04:10.445Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:04:10.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b2645e4b738d894d05a4"
+  },
+  "type": "type_of_children_playground",
+  "name": {
+    "en": "adventure playground",
+    "ms": "adventure playground",
+    "dz": "adventure playground"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:04:20.969Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:04:20.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b26b5e4b738d894d05a7"
+  },
+  "type": "type_of_children_playground",
+  "name": {
+    "en": "indoor playground",
+    "ms": "indoor playground",
+    "dz": "indoor playground"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:04:27.274Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:04:27.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b2745e4b738d894d05aa"
+  },
+  "type": "type_of_children_playground",
+  "name": {
+    "en": "outdoor playground",
+    "ms": "outdoor playground",
+    "dz": "outdoor playground"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:04:36.154Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:04:36.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b27c5e4b738d894d05ad"
+  },
+  "type": "type_of_children_playground",
+  "name": {
+    "en": "open court-yard",
+    "ms": "open court-yard",
+    "dz": "open court-yard"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:04:44.566Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:04:44.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b2835e4b738d894d05b0"
+  },
+  "type": "type_of_children_playground",
+  "name": {
+    "en": "open spaces",
+    "ms": "open spaces",
+    "dz": "open spaces"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:04:51.342Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:04:51.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b28c5e4b738d894d05b3"
+  },
+  "type": "type_of_children_playground",
+  "name": {
+    "en": "school playground ",
+    "ms": "school playground ",
+    "dz": "school playground "
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:05:00.656Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:05:00.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b2c45e4b738d894d05b8"
+  },
+  "type": "type_of_senile_center",
+  "name": {
+    "en": "nursing home",
+    "ms": "nursing home",
+    "dz": "nursing home"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:05:56.144Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:05:56.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b2cc5e4b738d894d05bb"
+  },
+  "type": "type_of_senile_center",
+  "name": {
+    "en": "assisted living facility",
+    "ms": "assisted living facility",
+    "dz": "assisted living facility"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:06:04.280Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:06:04.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b2d35e4b738d894d05be"
+  },
+  "type": "type_of_senile_center",
+  "name": {
+    "en": "memory care center",
+    "ms": "memory care center",
+    "dz": "memory care center"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:06:11.371Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:06:11.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b2da5e4b738d894d05c1"
+  },
+  "type": "type_of_senile_center",
+  "name": {
+    "en": "rehabilitation center",
+    "ms": "rehabilitation center",
+    "dz": "rehabilitation center"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:06:18.959Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:06:18.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b2e55e4b738d894d05c4"
+  },
+  "type": "type_of_senile_center",
+  "name": {
+    "en": "no center",
+    "ms": "no center",
+    "dz": "no center"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:06:29.940Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:06:29.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b3005e4b738d894d05c9"
+  },
+  "type": "type_of_cold_storage",
+  "name": {
+    "en": "accessible transport (wheelchair-friendly)",
+    "ms": "accessible transport (wheelchair-friendly)",
+    "dz": "accessible transport (wheelchair-friendly)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:06:56.072Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:19:47.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b3145e4b738d894d05cc"
+  },
+  "type": "type_of_cold_storage",
+  "name": {
+    "en": "public transport (buses)",
+    "ms": "public transport (buses)",
+    "dz": "public transport (buses)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:07:16.525Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:07:16.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b3255e4b738d894d05cf"
+  },
+  "type": "type_of_cold_storage",
+  "name": {
+    "en": "bicycles",
+    "ms": "bicycles",
+    "dz": "bicycles"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:07:33.993Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:07:33.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b32f5e4b738d894d05d2"
+  },
+  "type": "type_of_cold_storage",
+  "name": {
+    "en": "walking",
+    "ms": "walking",
+    "dz": "walking"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:07:43.726Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:07:43.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b36c5e4b738d894d05d7"
+  },
+  "type": "capacity_of_parking",
+  "name": {
+    "en": "30-40",
+    "ms": "30-40",
+    "dz": "30-40"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:08:44.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:08:44.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b38a5e4b738d894d05db"
+  },
+  "type": "capacity_of_parking",
+  "name": {
+    "en": "50-60",
+    "ms": "50-60",
+    "dz": "50-60"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:09:14.388Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:09:14.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b39c5e4b738d894d05de"
+  },
+  "type": "capacity_of_parking",
+  "name": {
+    "en": "70-80",
+    "ms": "70-80",
+    "dz": "70-80"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:09:32.318Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:09:32.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b449475e4b738d894d4221"
+  },
+  "type": "distance_of_healthcare",
+  "name": {
+    "en": "less than 1 km",
+    "ms": " less than 1 km",
+    "dz": "less than 1 km"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T08:48:07.283Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:48:07.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44b1a5e4b738d894d4239"
+  },
+  "type": "kind_of_sports",
+  "name": {
+    "en": "others",
+    "ms": " other",
+    "dz": "other"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T08:55:54.566Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:55:54.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44c3e5e4b738d894d424e"
+  },
+  "type": "types_of_sewage_treatment_facility",
+  "name": {
+    "en": "other",
+    "ms": "other",
+    "dz": "other"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T09:00:46.200Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:00:46.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44d7c5e4b738d894d4267"
+  },
+  "type": "types_of_composting_facility",
+  "name": {
+    "en": "anaerobic composting",
+    "ms": "anaerobic composting",
+    "dz": "anaerobic composting"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T09:06:04.582Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:06:04.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44d9c5e4b738d894d426a"
+  },
+  "type": "types_of_composting_facility",
+  "name": {
+    "en": "other",
+    "ms": " other",
+    "dz": " other"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T09:06:36.375Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:06:36.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44dde5e4b738d894d426d"
+  },
+  "type": "types_of_recycling_facility",
+  "name": {
+    "en": "no segregation",
+    "ms": "no segregation",
+    "dz": "no segregation"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T09:07:42.525Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:07:42.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44dfd5e4b738d894d4270"
+  },
+  "type": "types_of_recycling_facility",
+  "name": {
+    "en": " other",
+    "ms": " other",
+    "dz": " other"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T09:08:13.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:08:13.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44ec75e4b738d894d4276"
+  },
+  "type": "method_of_broadband",
+  "name": {
+    "en": "other",
+    "ms": "other",
+    "dz": "other"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T09:11:35.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:11:35.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b44f3e5e4b738d894d4279"
+  },
+  "type": "bandwidth_of_broadband",
+  "name": {
+    "en": "more than 200 mbps",
+    "ms": "more than 200 mbps",
+    "dz": "more than 200 mbps"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T09:13:34.684Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:13:34.684Z"
+  },
+  "__v": 0
+}]

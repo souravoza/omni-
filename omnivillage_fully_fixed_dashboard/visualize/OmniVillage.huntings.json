@@ -1,0 +1,544 @@
+[{
+  "_id": {
+    "$oid": "65927af8d270c346d7d19514"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce52"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "number_hunted": 20,
+  "meat": 5,
+  "self_consumed": 1,
+  "sold_to_neighbours": 1,
+  "sold_in_consumer_market": 2,
+  "wastage": 1,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 5000,
+  "expenditure_on_inputs": 10,
+  "yeild": 0.25,
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-01T08:42:32.192Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T08:42:32.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65927787d270c346d7d194ed"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce4c"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "number_hunted": 25,
+  "meat": 5000,
+  "self_consumed": 800,
+  "sold_to_neighbours": 1200,
+  "sold_in_consumer_market": 2000,
+  "wastage": 1000,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 300000,
+  "expenditure_on_inputs": 2000,
+  "yeild": 200,
+  "processing_method": true,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-01T08:27:51.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T08:27:51.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659277cdd270c346d7d194fa"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce4e"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "number_hunted": 5,
+  "meat": 2000,
+  "self_consumed": 200,
+  "sold_to_neighbours": 800,
+  "sold_in_consumer_market": 500,
+  "wastage": 500,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 20000,
+  "expenditure_on_inputs": 500,
+  "yeild": 400,
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-01T08:29:01.875Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T08:29:01.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65928bebd270c346d7d1969c"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce58"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "number_hunted": 10,
+  "meat": 5000,
+  "self_consumed": 500,
+  "sold_to_neighbours": 500,
+  "sold_in_consumer_market": 3500,
+  "wastage": 500,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 100000,
+  "expenditure_on_inputs": 1000,
+  "yeild": 500,
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-01T09:54:51.146Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T09:54:51.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65927809d270c346d7d19507"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce50"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "number_hunted": 6,
+  "meat": 500,
+  "self_consumed": 50,
+  "sold_to_neighbours": 250,
+  "sold_in_consumer_market": 100,
+  "wastage": 100,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 50000,
+  "expenditure_on_inputs": 50,
+  "yeild": 83.33333333333333,
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-01T08:30:01.243Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T08:30:01.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65928782d270c346d7d19655"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce56"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "number_hunted": 2,
+  "meat": 10,
+  "self_consumed": 0,
+  "sold_to_neighbours": 2,
+  "sold_in_consumer_market": 8,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 500,
+  "expenditure_on_inputs": 0,
+  "yeild": 5,
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-01T09:36:02.476Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T09:36:02.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614ee3826e1647c6caee7cd"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce4c"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "6614d32bb949a41cf1de2539"
+  },
+  "number_hunted": 5,
+  "meat": 50,
+  "self_consumed": 5,
+  "sold_to_neighbours": 10,
+  "sold_in_consumer_market": 30,
+  "wastage": 5,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 10000,
+  "expenditure_on_inputs": 2000,
+  "yeild": 10,
+  "processing_method": true,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-04-09T07:28:56.909Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T07:28:56.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645bc7892c9cc4ccbf52a68"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce4e"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "6645abd6ba80bcf5f9947462"
+  },
+  "number_hunted": 1,
+  "meat": 10,
+  "self_consumed": 10,
+  "sold_to_neighbours": 0,
+  "sold_in_consumer_market": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 5000,
+  "expenditure_on_inputs": 2000,
+  "yeild": 10,
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-05-16T07:57:44.730Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:57:44.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665993414629051d1f17f52"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce56"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "66658d9e14629051d1f17ef3"
+  },
+  "number_hunted": 5,
+  "meat": 1000,
+  "self_consumed": 35,
+  "sold_to_neighbours": 68,
+  "sold_in_consumer_market": 64,
+  "wastage": 69,
+  "other": "King",
+  "other_value": 58,
+  "income_from_sale": 15,
+  "expenditure_on_inputs": 35,
+  "yeild": 200,
+  "processing_method": true,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-06-09T11:59:48.556Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T11:59:48.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6790ffa0854b12a936ff7fd3"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce50"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "678dfe492f36950c8ce7b330"
+  },
+  "number_hunted": 2,
+  "meat": 2,
+  "self_consumed": 1,
+  "sold_to_neighbours": 1,
+  "sold_in_consumer_market": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 1000,
+  "expenditure_on_inputs": 5000,
+  "yeild": 1,
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-22T14:24:32.657Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-22T14:24:32.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b850018939a6c582e0549"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce4c"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "number_hunted": 2,
+  "meat": 10,
+  "self_consumed": 5,
+  "sold_to_neighbours": 5,
+  "sold_in_consumer_market": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 100,
+  "expenditure_on_inputs": 50,
+  "yeild": 5,
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-30T13:56:16.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T13:56:16.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a442713e7696ea7339b2dd"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce50"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "number_hunted": 50,
+  "meat": 40,
+  "self_consumed": 10,
+  "sold_to_neighbours": 10,
+  "sold_in_consumer_market": 10,
+  "wastage": 10,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 2000,
+  "expenditure_on_inputs": 2000,
+  "yeild": 0.8,
+  "processing_method": true,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-06T05:02:41.381Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T05:02:41.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae4e545495d1ec97018c0"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce4c"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "number_hunted": 5,
+  "meat": 20,
+  "self_consumed": 5,
+  "sold_to_neighbours": 5,
+  "sold_in_consumer_market": 0,
+  "wastage": 10,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 20,
+  "expenditure_on_inputs": 85,
+  "yeild": 4,
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-11T05:49:25.361Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T05:49:25.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adc00b1af3159cf5d562cf"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce4c"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "number_hunted": 1,
+  "meat": 12,
+  "self_consumed": 8,
+  "sold_to_neighbours": 4,
+  "sold_in_consumer_market": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 12,
+  "expenditure_on_inputs": 1,
+  "yeild": 12,
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-13T09:48:59.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:48:59.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0bce6b9aa2904b4cfe4e7"
+  },
+  "hunting_crop_id": {
+    "$oid": "657450849a01a6149aafce52"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "number_hunted": 1,
+  "meat": 25,
+  "self_consumed": 25,
+  "sold_to_neighbours": 0,
+  "sold_in_consumer_market": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 25,
+  "expenditure_on_inputs": 25,
+  "yeild": 25,
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-15T16:12:22.784Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:12:22.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cf8165a8ac9a674ada95"
+  },
+  "hunting_crop_id": {
+    "$oid": "67b2cef365a8ac9a674ad93f"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "number_hunted": 500,
+  "meat": 60,
+  "self_consumed": 30,
+  "sold_to_neighbours": 0,
+  "sold_in_consumer_market": 0,
+  "wastage": 7,
+  "other": "\nMarket",
+  "other_value": 23,
+  "income_from_sale": 20000,
+  "expenditure_on_inputs": 0,
+  "yeild": 0.12,
+  "processing_method": true,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T05:56:17.781Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:56:17.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2edc265a8ac9a674b0365"
+  },
+  "hunting_crop_id": {
+    "$oid": "67b2cef365a8ac9a674ad93f"
+  },
+  "hunting_crop_name": "",
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "number_hunted": 25,
+  "meat": 75,
+  "self_consumed": 5,
+  "sold_to_neighbours": 5,
+  "sold_in_consumer_market": 60,
+  "wastage": 5,
+  "other": "",
+  "other_value": null,
+  "income_from_sale": 15000,
+  "expenditure_on_inputs": 2000,
+  "yeild": 3,
+  "processing_method": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:05:22.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:05:22.362Z"
+  },
+  "__v": 0
+}]

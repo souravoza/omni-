@@ -1,0 +1,541 @@
+[{
+  "_id": {
+    "$oid": "657450849a01a6149aafce4c"
+  },
+  "name": {
+    "en": "deer",
+    "ms": "rusa",
+    "dz": "ka sha"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:33:24.134Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:16:09.369Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "hunting"
+},
+{
+  "_id": {
+    "$oid": "657450849a01a6149aafce4e"
+  },
+  "name": {
+    "en": "wild boar",
+    "ms": "babi hutan",
+    "dz": "re pha"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:33:24.217Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:16:28.947Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "hunting"
+},
+{
+  "_id": {
+    "$oid": "657450849a01a6149aafce50"
+  },
+  "name": {
+    "en": "monkey",
+    "ms": "monyet",
+    "dz": "chayy"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:33:24.294Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:16:47.943Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "hunting"
+},
+{
+  "_id": {
+    "$oid": "657450849a01a6149aafce52"
+  },
+  "name": {
+    "en": "snake",
+    "ms": "ular",
+    "dz": "snake"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:33:24.372Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:15:00.557Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "hunting"
+},
+{
+  "_id": {
+    "$oid": "657450849a01a6149aafce56"
+  },
+  "name": {
+    "en": "python",
+    "ms": "ular sawa",
+    "dz": "python"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:33:24.532Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:15:07.928Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "hunting"
+},
+{
+  "_id": {
+    "$oid": "657450849a01a6149aafce58"
+  },
+  "name": {
+    "en": "boar",
+    "ms": "boar",
+    "dz": "boar"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:33:24.613Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:15:15.183Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "hunting"
+},
+{
+  "_id": {
+    "$oid": "6644acc88427d264f6dea0a3"
+  },
+  "name": {
+    "en": "polutry",
+    "ms": "polutry",
+    "dz": "polutry"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T12:38:32.219Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-20T11:09:42.978Z"
+  },
+  "__v": 0,
+  "category": "hunting"
+},
+{
+  "_id": {
+    "$oid": "6665998514629051d1f17f65"
+  },
+  "name": {
+    "en": "panther",
+    "ms": "panther",
+    "dz": "panther"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-06-09T12:01:09.144Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:03:44.762Z"
+  },
+  "__v": 0,
+  "category": "hunting"
+},
+{
+  "_id": {
+    "$oid": "67aba17245495d1ec97023c1"
+  },
+  "name": {
+    "en": "tiger",
+    "ms": "tiger",
+    "dz": "tiger"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:13:54.377Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:26:13.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aba18245495d1ec97023c4"
+  },
+  "name": {
+    "en": "leopard",
+    "ms": "leopard",
+    "dz": "leopard"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:14:10.290Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:26:17.917Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aba19145495d1ec97023c7"
+  },
+  "name": {
+    "en": "golden langurs",
+    "ms": "golden langurs",
+    "dz": "golden langurs"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:14:25.129Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:04:15.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aba1bb45495d1ec97023cc"
+  },
+  "name": {
+    "en": "musk deer",
+    "ms": "musk deer",
+    "dz": "musk deer"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:15:07.198Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:04:21.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aba1c945495d1ec97023cf"
+  },
+  "name": {
+    "en": "wild pig",
+    "ms": "wild pig",
+    "dz": "wild pig"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:15:21.258Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:04:28.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aba1d945495d1ec97023d2"
+  },
+  "name": {
+    "en": "bear",
+    "ms": "bear",
+    "dz": "bear"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:15:37.373Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:04:43.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aba1e945495d1ec97023d5"
+  },
+  "name": {
+    "en": " elephant",
+    "ms": " elephant",
+    "dz": " elephant"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:15:53.286Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:04:39.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aba20d45495d1ec97023d8"
+  },
+  "name": {
+    "en": "bluesheep",
+    "ms": "bluesheep",
+    "dz": "bluesheep"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:16:29.232Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:04:48.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aba21b45495d1ec97023db"
+  },
+  "name": {
+    "en": "porcupine",
+    "ms": "porcupine",
+    "dz": "porcupine"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:16:43.722Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:04:52.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aba23345495d1ec97023de"
+  },
+  "name": {
+    "en": "red panda",
+    "ms": "red panda",
+    "dz": "red panda"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:17:07.792Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:04:56.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aba24145495d1ec97023e1"
+  },
+  "name": {
+    "en": " other (specify)",
+    "ms": " other (specify)",
+    "dz": " other (specify)"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:17:21.259Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:05:00.845Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cef365a8ac9a674ad93f"
+  },
+  "name": {
+    "en": "fish",
+    "ms": "fish",
+    "dz": "fish"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-17T05:53:55.839Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:53:55.839Z"
+  },
+  "__v": 0
+}]

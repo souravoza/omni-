@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "676172fea1f082163586feeb"
+  },
+  "type": "issues_determine_villagers_vote",
+  "name": {
+    "en": "healthcare and education",
+    "ms": "healthcare and education",
+    "dz": "healthcare and education"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:47:58.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:17:02.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b5545e4b738d894d061f"
+  },
+  "type": "issues_determine_villagers_vote",
+  "name": {
+    "en": "development (roads, electricity, water)",
+    "ms": "development (roads, electricity, water)",
+    "dz": "development (roads, electricity, water)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:16:52.057Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:16:52.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b5665e4b738d894d0624"
+  },
+  "type": "issues_determine_villagers_vote",
+  "name": {
+    "en": "agriculture and farming support",
+    "ms": "agriculture and farming support",
+    "dz": "agriculture and farming support"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:17:10.684Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:17:10.684Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b56f5e4b738d894d0627"
+  },
+  "type": "issues_determine_villagers_vote",
+  "name": {
+    "en": "employment and income opportunities",
+    "ms": "employment and income opportunities",
+    "dz": "employment and income opportunities"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:17:19.329Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:17:19.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b57d5e4b738d894d062a"
+  },
+  "type": "issues_determine_villagers_vote",
+  "name": {
+    "en": "social welfare and government schemes",
+    "ms": "social welfare and government schemes",
+    "dz": "social welfare and government schemes"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:17:33.170Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:17:33.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b5885e4b738d894d062d"
+  },
+  "type": "issues_determine_villagers_vote",
+  "name": {
+    "en": "law and order/security",
+    "ms": "law and order/security",
+    "dz": "law and order/security"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:17:44.520Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:17:44.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b5945e4b738d894d0630"
+  },
+  "type": "issues_determine_villagers_vote",
+  "name": {
+    "en": "local leadership performance",
+    "ms": "local leadership performance",
+    "dz": "local leadership performance"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:17:56.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:17:56.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b5a45e4b738d894d0633"
+  },
+  "type": "issues_determine_villagers_vote",
+  "name": {
+    "en": "political party/leader preference",
+    "ms": "political party/leader preference",
+    "dz": "political party/leader preference"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:18:12.674Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:18:12.674Z"
+  },
+  "__v": 0
+}]

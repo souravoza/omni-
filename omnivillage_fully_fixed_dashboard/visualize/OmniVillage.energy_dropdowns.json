@@ -1,0 +1,1170 @@
+[{
+  "_id": {
+    "$oid": "6739e05b4a1ca37fdd756560"
+  },
+  "type": "microgrid_type",
+  "name": {
+    "en": "wind",
+    "ms": "wind",
+    "dz": "wind"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:23:55.020Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T12:23:55.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739e0604a1ca37fdd756562"
+  },
+  "type": "microgrid_type",
+  "name": {
+    "en": "solar",
+    "ms": "solar",
+    "dz": "solar"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:24:00.164Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T12:24:00.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739e0644a1ca37fdd756564"
+  },
+  "type": "microgrid_type",
+  "name": {
+    "en": "hydro",
+    "ms": "hydro",
+    "dz": "hydro"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:24:04.230Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T12:24:04.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739e0764a1ca37fdd756566"
+  },
+  "type": "purpose_petrol",
+  "name": {
+    "en": "transportation",
+    "ms": "transportation",
+    "dz": "transportation"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:24:22.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:40:50.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739e0794a1ca37fdd756568"
+  },
+  "type": "purpose_petrol",
+  "name": {
+    "en": "agricultural machinery",
+    "ms": "agricultural machinery",
+    "dz": "agricultural machinery"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:24:25.515Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:41:03.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739e0c14710ebe42e2119dc"
+  },
+  "type": "purpose_diesel",
+  "name": {
+    "en": "generators / backup power",
+    "ms": "generators / backup power",
+    "dz": "generators / backup power"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:25:37.943Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:42:22.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739e0cb4710ebe42e2119de"
+  },
+  "type": "purpose_diesel",
+  "name": {
+    "en": "agricultural machinery",
+    "ms": "agricultural machinery",
+    "dz": "agricultural machinery"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:25:47.594Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:42:51.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739e0cf4710ebe42e2119e0"
+  },
+  "type": "purpose_diesel",
+  "name": {
+    "en": "irrigation pumps",
+    "ms": "irrigation pumps",
+    "dz": "irrigation pumps"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:25:51.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:43:14.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67880041650d18f99ddadd03"
+  },
+  "type": "purpose_natural_gas",
+  "name": {
+    "en": "cooking",
+    "ms": "cooking",
+    "dz": "cooking"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T18:36:49.852Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:51:08.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799c9d70e76731996b85bae"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "kg",
+    "ms": "kg",
+    "dz": "kg"
+  },
+  "createdAt": {
+    "$date": "2025-01-29T06:25:27.404Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T10:02:21.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799ccec017716adad89ba7b"
+  },
+  "type": "source_of_fuels_used",
+  "name": {
+    "en": "firewood / wood logs",
+    "ms": "firewood / wood logs",
+    "dz": "firewood / wood logs"
+  },
+  "createdAt": {
+    "$date": "2025-01-29T06:38:36.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:54:47.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef1253a0c8b7971db0561"
+  },
+  "type": "microgrid_type",
+  "name": {
+    "en": "grid-connected (on-grid)",
+    "ms": "grid-connected (on-grid)",
+    "dz": "grid-connected (on-grid)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:30:45.427Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:30:45.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef1303a0c8b7971db0564"
+  },
+  "type": "microgrid_type",
+  "name": {
+    "en": "off-grid (stand-alone / remote)",
+    "ms": "off-grid (stand-alone / remote)",
+    "dz": "off-grid (stand-alone / remote)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:30:56.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:30:56.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef13c3a0c8b7971db0567"
+  },
+  "type": "microgrid_type",
+  "name": {
+    "en": "hybrid microgrid",
+    "ms": "hybrid microgrid",
+    "dz": "hybrid microgrid"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:31:08.003Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:31:08.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef1453a0c8b7971db056a"
+  },
+  "type": "microgrid_type",
+  "name": {
+    "en": "ac microgrid",
+    "ms": "ac microgrid",
+    "dz": "ac microgrid"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:31:17.992Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:31:17.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef1523a0c8b7971db056d"
+  },
+  "type": "microgrid_type",
+  "name": {
+    "en": "dc microgrid",
+    "ms": "dc microgrid",
+    "dz": "dc microgrid"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:31:30.968Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:31:30.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef15c3a0c8b7971db0570"
+  },
+  "type": "microgrid_type",
+  "name": {
+    "en": "community / campus microgrid",
+    "ms": "community / campus microgrid",
+    "dz": "community / campus microgrid"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:31:40.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:31:40.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef1673a0c8b7971db0573"
+  },
+  "type": "microgrid_type",
+  "name": {
+    "en": "industrial / commercial microgrid",
+    "ms": "industrial / commercial microgrid",
+    "dz": "industrial / commercial microgrid"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:31:51.173Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:31:51.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef1793a0c8b7971db0576"
+  },
+  "type": "microgrid_type",
+  "name": {
+    "en": "virtual microgrid",
+    "ms": "virtual microgrid",
+    "dz": "virtual microgrid"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:32:09.516Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:32:09.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef39a3a0c8b7971db0592"
+  },
+  "type": "purpose_petrol",
+  "name": {
+    "en": "generators / backup power",
+    "ms": "generators / backup power",
+    "dz": "generators / backup power"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:41:14.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:41:14.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef3a43a0c8b7971db0595"
+  },
+  "type": "purpose_petrol",
+  "name": {
+    "en": "irrigation pumps",
+    "ms": "irrigation pumps",
+    "dz": "irrigation pumps"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:41:24.464Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:41:24.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef3ae3a0c8b7971db0598"
+  },
+  "type": "purpose_petrol",
+  "name": {
+    "en": "small engines / tools",
+    "ms": "small engines / tools",
+    "dz": "small engines / tools"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:41:34.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:41:34.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef3b93a0c8b7971db059b"
+  },
+  "type": "purpose_petrol",
+  "name": {
+    "en": "commercial / retail usage",
+    "ms": "commercial / retail usage",
+    "dz": "commercial / retail usage"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:41:45.279Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:41:45.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef4273a0c8b7971db05a7"
+  },
+  "type": "purpose_diesel",
+  "name": {
+    "en": "small engines / tools",
+    "ms": "small engines / tools",
+    "dz": "small engines / tools"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:43:35.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:43:35.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aef4303a0c8b7971db05aa"
+  },
+  "type": "purpose_diesel",
+  "name": {
+    "en": "commercial / retail usage",
+    "ms": "commercial / retail usage",
+    "dz": "commercial / retail usage"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T07:43:44.095Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T07:43:44.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af121a01f33d7cb670732b"
+  },
+  "type": "purpose_natural_gas",
+  "name": {
+    "en": "heating (space / water)",
+    "ms": "heating (space / water)",
+    "dz": "heating (space / water)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:51:22.033Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:51:22.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af122501f33d7cb670732e"
+  },
+  "type": "purpose_natural_gas",
+  "name": {
+    "en": "electricity generation",
+    "ms": "electricity generation",
+    "dz": "electricity generation"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:51:33.649Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:51:33.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af122f01f33d7cb6707331"
+  },
+  "type": "purpose_natural_gas",
+  "name": {
+    "en": "industrial / manufacturing processes",
+    "ms": "industrial / manufacturing processes",
+    "dz": "industrial / manufacturing processes"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:51:43.102Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:51:43.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af123801f33d7cb6707334"
+  },
+  "type": "purpose_natural_gas",
+  "name": {
+    "en": "transportation fuel (cng / lng)",
+    "ms": "transportation fuel (cng / lng)",
+    "dz": "transportation fuel (cng / lng)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:51:52.077Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:51:52.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af124301f33d7cb6707337"
+  },
+  "type": "purpose_natural_gas",
+  "name": {
+    "en": "commercial / institutional applications",
+    "ms": "commercial / institutional applications",
+    "dz": "commercial / institutional applications"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:52:03.299Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:52:03.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af130101f33d7cb670735e"
+  },
+  "type": "source_of_fuels_used",
+  "name": {
+    "en": "charcoal",
+    "ms": "charcoal",
+    "dz": "charcoal"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:55:13.148Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:55:13.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af130901f33d7cb6707361"
+  },
+  "type": "source_of_fuels_used",
+  "name": {
+    "en": "coal",
+    "ms": "coal",
+    "dz": "coal"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:55:21.795Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:55:21.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af131201f33d7cb6707364"
+  },
+  "type": "source_of_fuels_used",
+  "name": {
+    "en": "kerosene",
+    "ms": "kerosene",
+    "dz": "kerosene"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:55:30.722Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:55:30.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af131b01f33d7cb6707367"
+  },
+  "type": "source_of_fuels_used",
+  "name": {
+    "en": "lpg / propane",
+    "ms": "lpg / propane",
+    "dz": "lpg / propane"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:55:39.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:55:39.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af132501f33d7cb670736a"
+  },
+  "type": "source_of_fuels_used",
+  "name": {
+    "en": "biogas / biomethane",
+    "ms": "biogas / biomethane",
+    "dz": "biogas / biomethane"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:55:49.122Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:55:49.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af132e01f33d7cb670736d"
+  },
+  "type": "source_of_fuels_used",
+  "name": {
+    "en": "crop residues / biomass briquettes",
+    "ms": "crop residues / biomass briquettes",
+    "dz": "crop residues / biomass briquettes"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:55:58.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:55:58.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af133901f33d7cb6707370"
+  },
+  "type": "source_of_fuels_used",
+  "name": {
+    "en": "dung cakes / animal waste",
+    "ms": "dung cakes / animal waste",
+    "dz": "dung cakes / animal waste"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:56:09.260Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:56:09.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af134101f33d7cb6707373"
+  },
+  "type": "source_of_fuels_used",
+  "name": {
+    "en": "solar (thermal)",
+    "ms": "solar (thermal)",
+    "dz": "solar (thermal)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:56:17.793Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:56:17.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af140101f33d7cb67073ab"
+  },
+  "type": "purpose_others",
+  "name": {
+    "en": "cooking / food preparation",
+    "ms": "cooking / food preparation",
+    "dz": "cooking / food preparation"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:59:29.387Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:59:29.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af141301f33d7cb67073af"
+  },
+  "type": "purpose_others",
+  "name": {
+    "en": "heating (space / water)",
+    "ms": "heating (space / water)",
+    "dz": "heating (space / water)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:59:47.840Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:59:47.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af141d01f33d7cb67073b2"
+  },
+  "type": "purpose_others",
+  "name": {
+    "en": "lighting",
+    "ms": "lighting",
+    "dz": "lighting"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T09:59:57.002Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T09:59:57.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af142601f33d7cb67073b5"
+  },
+  "type": "purpose_others",
+  "name": {
+    "en": "electricity generation / power",
+    "ms": "electricity generation / power",
+    "dz": "electricity generation / power"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T10:00:06.713Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T10:00:06.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af143701f33d7cb67073b8"
+  },
+  "type": "purpose_others",
+  "name": {
+    "en": "industrial / commercial processes",
+    "ms": "industrial / commercial processes",
+    "dz": "industrial / commercial processes"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T10:00:23.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T10:00:23.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af144001f33d7cb67073bb"
+  },
+  "type": "purpose_others",
+  "name": {
+    "en": "agricultural operations",
+    "ms": "agricultural operations",
+    "dz": "agricultural operations"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T10:00:32.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T10:00:32.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af14c001f33d7cb67073c0"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "metric tons (t)",
+    "ms": "metric tons (t)",
+    "dz": "metric tons (t)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T10:02:40.614Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T10:02:40.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af14c901f33d7cb67073c3"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "cubic meters (m³)",
+    "ms": "cubic meters (m³)",
+    "dz": "cubic meters (m³)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T10:02:49.668Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T10:02:49.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af14db01f33d7cb67073c6"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "liters (l)",
+    "ms": "liters (l)",
+    "dz": "liters (l)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T10:03:07.414Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T10:03:07.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af14e401f33d7cb67073c9"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "gallons",
+    "ms": "gallons",
+    "dz": "gallons"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T10:03:16.116Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T10:03:16.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67af14fa01f33d7cb67073cc"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "kw",
+    "ms": "kw",
+    "dz": "kw"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T10:03:38.926Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T10:03:38.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b040bd01f33d7cb6708481"
+  },
+  "type": "purpose_petrol",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:22:37.521Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:22:37.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b040d301f33d7cb670849b"
+  },
+  "type": "purpose_diesel",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:22:59.706Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:22:59.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b040e601f33d7cb67084b2"
+  },
+  "type": "purpose_natural_gas",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:23:18.078Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:23:18.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b040ee01f33d7cb67084b5"
+  },
+  "type": "purpose_natural_gas",
+  "name": {
+    "en": "other",
+    "ms": "other",
+    "dz": "other"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:23:26.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:23:26.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b040f801f33d7cb67084b8"
+  },
+  "type": "purpose_diesel",
+  "name": {
+    "en": "other",
+    "ms": "other",
+    "dz": "other"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:23:36.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:23:36.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0410401f33d7cb67084bb"
+  },
+  "type": "purpose_petrol",
+  "name": {
+    "en": "other",
+    "ms": "other",
+    "dz": "other"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:23:48.455Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:23:48.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0412701f33d7cb67084d2"
+  },
+  "type": "source_of_fuels_used",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:24:23.254Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:24:23.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0413301f33d7cb67084d5"
+  },
+  "type": "source_of_fuels_used",
+  "name": {
+    "en": "other",
+    "ms": "other",
+    "dz": "other"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:24:35.693Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:24:35.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0428001f33d7cb6708578"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "dozen",
+    "ms": "dozen",
+    "dz": "dozen"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:30:08.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:30:08.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b062a21f93ee4d2d06be69"
+  },
+  "type": "purpose_others",
+  "name": {
+    "en": "cooking / food preparation",
+    "ms": "cooking / food preparation",
+    "dz": "cooking / food preparation"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T09:47:14.392Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T09:47:14.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b062bc1f93ee4d2d06be8d"
+  },
+  "type": "purpose_others",
+  "name": {
+    "en": "heating (space / water)",
+    "ms": "heating (space / water)",
+    "dz": "heating (space / water)"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T09:47:40.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T09:47:40.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0665b1f93ee4d2d06bf48"
+  },
+  "type": "purpose_others",
+  "name": {
+    "en": "lighting",
+    "ms": "lighting",
+    "dz": "lighting"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:03:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:03:07.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b066651f93ee4d2d06bf4b"
+  },
+  "type": "purpose_others",
+  "name": {
+    "en": "agricultural processes",
+    "ms": "agricultural processes",
+    "dz": "agricultural processes"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:03:17.996Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:03:17.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0666f1f93ee4d2d06bf4e"
+  },
+  "type": "purpose_others",
+  "name": {
+    "en": "industrial / commercial use",
+    "ms": "industrial / commercial use",
+    "dz": "industrial / commercial use"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:03:27.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:03:27.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0667b1f93ee4d2d06bf51"
+  },
+  "type": "purpose_others",
+  "name": {
+    "en": "electricity generation / power",
+    "ms": "electricity generation / power",
+    "dz": "electricity generation / power"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:03:39.088Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:03:39.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1068db9aa2904b4d003fd"
+  },
+  "type": "extent",
+  "name": {
+    "en": "mostly sufficient (occasional shortfalls)",
+    "ms": "mostly sufficient (occasional shortfalls)",
+    "dz": "mostly sufficient (occasional shortfalls)"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:26:37.379Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:26:37.379Z"
+  },
+  "__v": 0
+}]

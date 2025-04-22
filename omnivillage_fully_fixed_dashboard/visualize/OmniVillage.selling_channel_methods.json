@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "64f482e68974a5bb9d3eec81"
+  },
+  "name": "Local Market",
+  "createdAt": {
+    "$date": "2023-09-03T12:58:14.742Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-03T12:58:14.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f482ff8974a5bb9d3eec84"
+  },
+  "name": "Broker",
+  "createdAt": {
+    "$date": "2023-09-03T12:58:39.643Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-03T12:58:39.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f483108974a5bb9d3eec87"
+  },
+  "name": "Ecommerce",
+  "createdAt": {
+    "$date": "2023-09-03T12:58:56.206Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-03T12:58:56.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f483198974a5bb9d3eec8a"
+  },
+  "name": "Export",
+  "createdAt": {
+    "$date": "2023-09-03T12:59:05.928Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-03T12:59:05.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f4831f8974a5bb9d3eec8d"
+  },
+  "name": "None",
+  "createdAt": {
+    "$date": "2023-09-03T12:59:11.408Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-03T12:59:11.408Z"
+  },
+  "__v": 0
+}]

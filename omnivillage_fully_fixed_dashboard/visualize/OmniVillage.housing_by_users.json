@@ -1,0 +1,924 @@
+[{
+  "_id": {
+    "$oid": "6799eec28bbdaac5708ec21b"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "house_requirements": true,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-01-29T09:02:58.673Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T07:19:32.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b454e18939a6c582e048a"
+  },
+  "user_id": {
+    "$oid": "678dfe492f36950c8ce7b330"
+  },
+  "house_requirements": true,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-01-30T09:24:30.826Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T09:24:35.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b455318939a6c582e04a1"
+  },
+  "user_id": {
+    "$oid": "678dfe492f36950c8ce7b330"
+  },
+  "house_requirements": true,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-01-30T09:24:35.199Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T09:24:35.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b88ef18939a6c582e0720"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "house_requirements": true,
+  "need_new_unit": true,
+  "new_unit_purpose": "6786bc62854845415d4a8025",
+  "new_unit_urgency": "673380d8346494a9ba551a43",
+  "land_for_new_unit": true,
+  "required_area": "20",
+  "createdAt": {
+    "$date": "2025-01-30T14:13:03.868Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T10:03:15.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c479be6b5e001dd4c7f2a"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "house_requirements": true,
+  "need_new_unit": true,
+  "new_unit_purpose": "6786bce0854845415d4a8028",
+  "new_unit_urgency": "673380ee346494a9ba551a49",
+  "land_for_new_unit": true,
+  "required_area": "665",
+  "createdAt": {
+    "$date": "2025-01-31T03:46:35.752Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T04:37:01.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c5112e6b5e001dd4c8373"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "house_requirements": true,
+  "need_new_unit": true,
+  "new_unit_purpose": "6786bf8e854845415d4a805f",
+  "new_unit_urgency": "673380d8346494a9ba551a43",
+  "land_for_new_unit": true,
+  "required_area": "2",
+  "createdAt": {
+    "$date": "2025-01-31T04:26:58.302Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T04:36:27.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaebe445495d1ec9701b03"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "house_requirements": true,
+  "need_new_unit": true,
+  "new_unit_purpose": "6786bf37854845415d4a8056",
+  "new_unit_urgency": "673380d8346494a9ba551a43",
+  "land_for_new_unit": true,
+  "required_area": "50",
+  "createdAt": {
+    "$date": "2025-02-11T06:19:16.760Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T06:22:39.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeb2123a0c8b7971daf762"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "house_requirements": true,
+  "need_new_unit": true,
+  "new_unit_purpose": "67aede233a0c8b7971db021c",
+  "new_unit_urgency": "673380ee346494a9ba551a49",
+  "land_for_new_unit": true,
+  "required_area": "25",
+  "createdAt": {
+    "$date": "2025-02-14T03:01:38.240Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:39:31.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeb3183a0c8b7971daf7c4"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "house_requirements": true,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-14T03:06:00.214Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T03:06:00.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0825d1f93ee4d2d06c43d"
+  },
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-15T12:02:37.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T12:02:37.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b19184b9aa2904b4d019fb"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "house_requirements": true,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-16T07:19:32.135Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T07:19:32.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1ac12db1ebb70cb7e1027"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-16T09:12:50.158Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:12:50.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1cfa665a8ac9a674a826a"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-16T11:44:38.342Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:44:38.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c01265a8ac9a674ab31e"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T04:50:26.232Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:08:43.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c25665a8ac9a674ab548"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T05:00:06.077Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:00:06.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c36c65a8ac9a674ab86a"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T05:04:44.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:04:44.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c3fa65a8ac9a674ab9b1"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T05:07:06.113Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:07:06.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c73b65a8ac9a674ac3c3"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T05:20:59.964Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:39:30.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cad765a8ac9a674aca73"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "house_requirements": true,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T05:36:23.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:36:23.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cb8b65a8ac9a674acc6b"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T05:39:23.181Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:39:23.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cb9365a8ac9a674accfe"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T05:39:31.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:39:31.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d19565a8ac9a674ae0e1"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T06:05:09.316Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:05:25.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d1a665a8ac9a674ae182"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T06:05:26.778Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:05:26.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d22665a8ac9a674ae293"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T06:07:34.781Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:07:34.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d98865a8ac9a674aefe5"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T06:39:04.797Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:39:04.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d99065a8ac9a674af01a"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T06:39:12.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:39:12.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2dcce65a8ac9a674af46b"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T06:53:02.087Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:53:02.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2e04765a8ac9a674af6ab"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T07:07:51.928Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:07:51.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2e06765a8ac9a674af759"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T07:08:23.112Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:08:23.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2e07b65a8ac9a674af7e5"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T07:08:43.897Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:08:43.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f84e65a8ac9a674b262c"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "house_requirements": true,
+  "need_new_unit": true,
+  "new_unit_purpose": "67aede0e3a0c8b7971db0216",
+  "new_unit_urgency": "673380e0346494a9ba551a45",
+  "land_for_new_unit": true,
+  "required_area": "5662",
+  "createdAt": {
+    "$date": "2025-02-17T08:50:22.895Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:05:30.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f90065a8ac9a674b27f6"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T08:53:20.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:53:20.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fbfe65a8ac9a674b3129"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "house_requirements": true,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T09:06:06.895Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:14:54.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fe1065a8ac9a674b3742"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "house_requirements": true,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T09:14:56.965Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:14:56.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b305e165a8ac9a674b536a"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "house_requirements": true,
+  "need_new_unit": true,
+  "new_unit_purpose": "67aede013a0c8b7971db0213",
+  "new_unit_urgency": "673380d8346494a9ba551a43",
+  "land_for_new_unit": true,
+  "required_area": "13066",
+  "createdAt": {
+    "$date": "2025-02-17T09:48:17.329Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T06:48:28.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3127f65a8ac9a674b72f4"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T10:42:07.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:42:07.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31a12535126c1f565e612"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "house_requirements": true,
+  "need_new_unit": true,
+  "new_unit_purpose": "67aede013a0c8b7971db0213",
+  "new_unit_urgency": "673380d8346494a9ba551a43",
+  "land_for_new_unit": true,
+  "required_area": "5662",
+  "createdAt": {
+    "$date": "2025-02-17T11:14:26.589Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:22:48.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b343ca5e4b738d894cf1e5"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-17T14:12:26.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:12:26.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b346055e4b738d894cf3c5"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "house_requirements": true,
+  "need_new_unit": true,
+  "new_unit_purpose": "67aede013a0c8b7971db0213",
+  "new_unit_urgency": "673380d8346494a9ba551a43",
+  "land_for_new_unit": true,
+  "required_area": "1",
+  "createdAt": {
+    "$date": "2025-02-17T14:21:57.913Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:33:15.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40a3f5e4b738d894d1195"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-18T04:19:11.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:19:22.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40a4a5e4b738d894d11d2"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-18T04:19:22.739Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:19:22.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40b185e4b738d894d1342"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "house_requirements": true,
+  "need_new_unit": true,
+  "new_unit_purpose": "67aee0fa3a0c8b7971db02c7",
+  "new_unit_urgency": "673380e0346494a9ba551a45",
+  "land_for_new_unit": true,
+  "required_area": "0",
+  "createdAt": {
+    "$date": "2025-02-18T04:22:48.686Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:29:59.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40c945e4b738d894d14e1"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "house_requirements": false,
+  "need_new_unit": false,
+  "new_unit_purpose": "",
+  "new_unit_urgency": "",
+  "land_for_new_unit": false,
+  "required_area": "",
+  "createdAt": {
+    "$date": "2025-02-18T04:29:08.605Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:29:08.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43c4b5e4b738d894d3a98"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "house_requirements": true,
+  "need_new_unit": true,
+  "new_unit_purpose": "67aede013a0c8b7971db0213",
+  "new_unit_urgency": "673380e0346494a9ba551a45",
+  "land_for_new_unit": true,
+  "required_area": "40360",
+  "createdAt": {
+    "$date": "2025-02-18T07:52:43.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:31:17.039Z"
+  },
+  "__v": 0
+}]

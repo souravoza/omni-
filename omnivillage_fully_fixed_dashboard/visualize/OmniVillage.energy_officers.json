@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "6768de0ed8a22eaa7713725e"
+  },
+  "moderator_id": {
+    "$oid": "67a1d4654e2c70adacf19d01"
+  },
+  "village_id": {
+    "$oid": "64fdaf9463838e6402d95583"
+  },
+  "available_renewable_energy": [
+    {
+      "type": {
+        "$oid": "676174ec7c844e272b1b5407"
+      },
+      "energy_source": true,
+      "capacity": 58,
+      "distribution_method": [
+        {
+          "$oid": "676174f17c844e272b1b540a"
+        }
+      ],
+      "installation_cost": 85,
+      "central_grid_fossil": 60,
+      "central_grid_renewable": 20,
+      "local_renewable_microgrid": 20,
+      "distance_to_pumps": {
+        "$oid": "676174f57c844e272b1b540d"
+      },
+      "_id": {
+        "$oid": "6782222b6e036e1dca50f412"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-23T03:50:38.695Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T13:08:43.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679086f4854b12a936ff7e8d"
+  },
+  "moderator_id": {
+    "$oid": "678f9ebff44d3633d5453c30"
+  },
+  "village_id": {
+    "$oid": "64feafb1febc84c6a1c211da"
+  },
+  "available_renewable_energy": [
+    {
+      "type": {
+        "$oid": "676174ec7c844e272b1b5407"
+      },
+      "energy_source": true,
+      "capacity": 200,
+      "distribution_method": [
+        {
+          "$oid": "676174f17c844e272b1b540a"
+        }
+      ],
+      "installation_cost": 100000,
+      "central_grid_fossil": 20,
+      "central_grid_renewable": 10,
+      "local_renewable_microgrid": 70,
+      "distance_to_pumps": {
+        "$oid": "676174f57c844e272b1b540d"
+      },
+      "_id": {
+        "$oid": "679086f4854b12a936ff7e8e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-22T05:49:40.406Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-22T05:49:40.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a080ac49cb835c24ac38d6"
+  },
+  "moderator_id": {
+    "$oid": "67ade7ed76793a6ad3158f85"
+  },
+  "village_id": {
+    "$oid": "664398932395171e7da3dc8b"
+  },
+  "available_renewable_energy": [
+    {
+      "type": {
+        "$oid": "676174ec7c844e272b1b5407"
+      },
+      "energy_source": true,
+      "capacity": 542,
+      "distribution_method": [
+        {
+          "$oid": "676174f17c844e272b1b540a"
+        }
+      ],
+      "installation_cost": 24540,
+      "central_grid_fossil": 50,
+      "central_grid_renewable": 10,
+      "local_renewable_microgrid": 40,
+      "distance_to_pumps": {
+        "$oid": "676174f57c844e272b1b540d"
+      },
+      "_id": {
+        "$oid": "67a080ac49cb835c24ac38d7"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-03T08:39:08.273Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T14:24:02.002Z"
+  },
+  "__v": 0
+}]

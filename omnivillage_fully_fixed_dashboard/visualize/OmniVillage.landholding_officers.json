@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "6768d992d8a22eaa771371f0"
+  },
+  "moderator_id": {
+    "$oid": "67a1d4654e2c70adacf19d01"
+  },
+  "village_id": {
+    "$oid": "64fdaf9463838e6402d95583"
+  },
+  "total_area_allocated_village": 40,
+  "area_unit": "6736117ecb51156c2f52383e",
+  "farming_community_infrastructure": 20,
+  "unutilized_area": 20,
+  "fallow": 5,
+  "under_forest": 5,
+  "under_grassland": 3,
+  "others": 3,
+  "land_owned_by_non_resident": 23,
+  "total_area_privately_owned": 26,
+  "createdAt": {
+    "$date": "2024-12-23T03:31:30.253Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T13:08:43.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6790839c854b12a936ff7e5c"
+  },
+  "moderator_id": {
+    "$oid": "678f9ebff44d3633d5453c30"
+  },
+  "village_id": {
+    "$oid": "64feafb1febc84c6a1c211da"
+  },
+  "total_area_allocated_village": 25,
+  "area_unit": "6736117ecb51156c2f52683e",
+  "farming_community_infrastructure": 5,
+  "unutilized_area": 20,
+  "fallow": 5,
+  "under_forest": 5,
+  "under_grassland": 5,
+  "others": 5,
+  "land_owned_by_non_resident": 3,
+  "total_area_privately_owned": 7,
+  "createdAt": {
+    "$date": "2025-01-22T05:35:24.987Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-22T05:35:24.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a07d0149cb835c24ac3806"
+  },
+  "moderator_id": {
+    "$oid": "6778de9bdffd345c02c436e3"
+  },
+  "village_id": {
+    "$oid": "64feafabfebc84c6a1c211d7"
+  },
+  "total_area_allocated_village": 50,
+  "area_unit": "6736117ecb51156c2f52383e",
+  "farming_community_infrastructure": 15,
+  "unutilized_area": 35,
+  "fallow": 10,
+  "under_forest": 10,
+  "under_grassland": 10,
+  "others": 5,
+  "land_owned_by_non_resident": 5,
+  "total_area_privately_owned": 5,
+  "createdAt": {
+    "$date": "2025-02-03T08:23:29.323Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T08:23:29.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a083b849cb835c24ac39d9"
+  },
+  "moderator_id": {
+    "$oid": "67ade7ed76793a6ad3158f85"
+  },
+  "village_id": {
+    "$oid": "664398932395171e7da3dc8b"
+  },
+  "total_area_allocated_village": 2000,
+  "area_unit": "6736117ecb51156c2f52683e",
+  "farming_community_infrastructure": 506,
+  "unutilized_area": 1494,
+  "fallow": 20,
+  "under_forest": 886,
+  "under_grassland": 508,
+  "others": 8,
+  "land_owned_by_non_resident": 25,
+  "total_area_privately_owned": 88,
+  "createdAt": {
+    "$date": "2025-02-03T08:52:08.390Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T14:24:02.002Z"
+  },
+  "__v": 0
+}]

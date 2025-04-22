@@ -1,0 +1,2525 @@
+[{
+  "_id": {
+    "$oid": "657450ae87c70be81f1c06db"
+  },
+  "name": {
+    "en": "palm oil",
+    "ms": "pokok sawit",
+    "dz": "palm oil"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:06.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:15:55.791Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450af87c70be81f1c06eb"
+  },
+  "name": {
+    "en": "cocoa",
+    "ms": "koko",
+    "dz": "cocoa"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:07.554Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:16:04.962Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450af87c70be81f1c06ed"
+  },
+  "name": {
+    "en": "durian",
+    "ms": "durian",
+    "dz": "durian"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:07.632Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:16:12.317Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450af87c70be81f1c06ef"
+  },
+  "name": {
+    "en": "tarap",
+    "ms": "tarap",
+    "dz": "tarap"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:07.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:16:19.813Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450af87c70be81f1c06f1"
+  },
+  "name": {
+    "en": "rambutan",
+    "ms": "rambutan",
+    "dz": "rambutan"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:07.796Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:16:25.828Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450af87c70be81f1c06f3"
+  },
+  "name": {
+    "en": "jackfruit",
+    "ms": "nangka",
+    "dz": "dham zay"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:07.881Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:22:25.662Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b087c70be81f1c06f7"
+  },
+  "name": {
+    "en": "lanzones",
+    "ms": "langsat",
+    "dz": "lanzones"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:08.042Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:16:32.460Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b087c70be81f1c06f9"
+  },
+  "name": {
+    "en": "mangosteen",
+    "ms": "manggis",
+    "dz": "mangosteen"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:08.125Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:16:38.584Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "name": {
+    "en": "guava",
+    "ms": "jambu",
+    "dz": "bapsu"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:08.205Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:19:47.147Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b087c70be81f1c06fd"
+  },
+  "name": {
+    "en": "papaya",
+    "ms": "betik",
+    "dz": "mo dhu phala"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:08.285Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:22:40.657Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "name": {
+    "en": "banana",
+    "ms": "pisang",
+    "dz": "banana"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:08.365Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:17:11.906Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b087c70be81f1c0701"
+  },
+  "name": {
+    "en": "mata kucing",
+    "ms": "longan",
+    "dz": "mata kucing"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:08.446Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:17:18.605Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b087c70be81f1c0703"
+  },
+  "name": {
+    "en": "lemon",
+    "ms": "lemon",
+    "dz": "lemon"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:08.525Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:17:26.298Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b087c70be81f1c0705"
+  },
+  "name": {
+    "en": "lime",
+    "ms": "limau",
+    "dz": "ka ra"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:08.606Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:22:07.455Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b087c70be81f1c0707"
+  },
+  "name": {
+    "en": "pamelo",
+    "ms": "limau kapas",
+    "dz": "pamelo"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:08.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:17:33.615Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b087c70be81f1c0709"
+  },
+  "name": {
+    "en": "soursop",
+    "ms": "durian belanda",
+    "dz": "soursop"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:08.775Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:17:57.238Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b087c70be81f1c070b"
+  },
+  "name": {
+    "en": "coconut",
+    "ms": "kelapa",
+    "dz": "coconut"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:08.854Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:18:02.959Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "name": {
+    "en": "avacado",
+    "ms": "buah lemak",
+    "dz": "goli"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:08.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:21:06.610Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b187c70be81f1c070f"
+  },
+  "name": {
+    "en": "cempedak",
+    "ms": "cempedak",
+    "dz": "cempedak"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:09.014Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:54:22.974Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b187c70be81f1c0711"
+  },
+  "name": {
+    "en": "mango",
+    "ms": "mangga",
+    "dz": "amchukuli"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:09.101Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:21:51.580Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b187c70be81f1c0713"
+  },
+  "name": {
+    "en": "starfruit",
+    "ms": "belimbing",
+    "dz": "starfruit"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:09.179Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:54:02.388Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b187c70be81f1c0715"
+  },
+  "name": {
+    "en": "berry",
+    "ms": "berry",
+    "dz": "berry"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:09.261Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:20:13.707Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b187c70be81f1c0717"
+  },
+  "name": {
+    "en": "tamarind",
+    "ms": "asam jawa",
+    "dz": "tamarind"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:09.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:54:07.202Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "657450b187c70be81f1c0719"
+  },
+  "name": {
+    "en": "pomegranate",
+    "ms": "buah delima",
+    "dz": "say dhung"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:34:09.416Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:21:31.535Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "name": {
+    "en": "orange",
+    "ms": "orange",
+    "dz": "orange"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:11:55.256Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:50:11.434Z"
+  },
+  "__v": 0,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "6645bce2cae777c16e946c02"
+  },
+  "name": {
+    "en": "peach",
+    "ms": "peach",
+    "dz": "peach"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:59:30.392Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:50:07.149Z"
+  },
+  "__v": 0,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "6706525f10b1aaf64dc323ed"
+  },
+  "name": {
+    "en": "apple",
+    "ms": "apple",
+    "dz": "apple"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-10-09T09:52:31.625Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:50:26.732Z"
+  },
+  "__v": 0,
+  "category": "tree"
+},
+{
+  "_id": {
+    "$oid": "67ab9c2d45495d1ec9702343"
+  },
+  "name": {
+    "en": " neem",
+    "ms": " neem",
+    "dz": " neem"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:51:25.270Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:51:29.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9c6b45495d1ec9702346"
+  },
+  "name": {
+    "en": " bamboo",
+    "ms": " bamboo",
+    "dz": " bamboo"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:52:27.679Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:51:33.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9cb445495d1ec970235c"
+  },
+  "name": {
+    "en": "cypress ",
+    "ms": "cypress ",
+    "dz": "cypress "
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:53:40.049Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:51:38.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9cd645495d1ec970235f"
+  },
+  "name": {
+    "en": "rhododendron ",
+    "ms": "rhododendron ",
+    "dz": "rhododendron "
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:54:14.964Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:51:46.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9cf345495d1ec9702362"
+  },
+  "name": {
+    "en": "chir pine",
+    "ms": "chir pine",
+    "dz": "chir pine"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:54:43.287Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:51:54.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9d0245495d1ec9702365"
+  },
+  "name": {
+    "en": "blue pine",
+    "ms": "blue pine",
+    "dz": "blue pine"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:54:58.834Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:01.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9d1b45495d1ec9702368"
+  },
+  "name": {
+    "en": "amla",
+    "ms": "amla",
+    "dz": "amla"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:55:23.405Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:05.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9d2d45495d1ec970236b"
+  },
+  "name": {
+    "en": "oak",
+    "ms": "oak",
+    "dz": "oak"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:55:41.424Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:18.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9d3c45495d1ec970236e"
+  },
+  "name": {
+    "en": "other (specify)",
+    "ms": "other (specify)",
+    "dz": "other (specify)"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:55:56.233Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:14.991Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9d5c45495d1ec9702371"
+  },
+  "name": {
+    "en": "pear",
+    "ms": "pear",
+    "dz": "pear"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:56:28.638Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:10.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9d9045495d1ec9702376"
+  },
+  "name": {
+    "en": "watermelon ",
+    "ms": "watermelon ",
+    "dz": "watermelon "
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:57:20.528Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:21.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9da345495d1ec9702379"
+  },
+  "name": {
+    "en": "mandarian ",
+    "ms": "mandarian ",
+    "dz": "mandarian "
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:57:39.092Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:25.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9df145495d1ec9702381"
+  },
+  "name": {
+    "en": "areca nut ",
+    "ms": "areca nut ",
+    "dz": "areca nut "
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:58:57.201Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:29.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9e2e45495d1ec9702386"
+  },
+  "name": {
+    "en": "gauva",
+    "ms": "gauva",
+    "dz": "gauva"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:59:58.871Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:35.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9e4945495d1ec9702389"
+  },
+  "name": {
+    "en": "litchi",
+    "ms": "litchi",
+    "dz": "litchi"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:00:25.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:40.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9e6a45495d1ec970238c"
+  },
+  "name": {
+    "en": "apricot",
+    "ms": "apricot",
+    "dz": "apricot"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:00:58.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:45.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9e8b45495d1ec970238f"
+  },
+  "name": {
+    "en": "plum",
+    "ms": "plum",
+    "dz": "plum"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:01:31.606Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:50.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9e9f45495d1ec9702392"
+  },
+  "name": {
+    "en": "strawberries",
+    "ms": "strawberries",
+    "dz": "strawberries"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:01:51.208Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:56.756Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9eb245495d1ec9702395"
+  },
+  "name": {
+    "en": "kiwi",
+    "ms": "kiwi",
+    "dz": "kiwi"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:02:10.115Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:52:53.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9ee145495d1ec970239a"
+  },
+  "name": {
+    "en": "grapes",
+    "ms": "grapes",
+    "dz": "grapes"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:02:57.415Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:53:01.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9ef945495d1ec970239d"
+  },
+  "name": {
+    "en": "pinapple",
+    "ms": "pinapple",
+    "dz": "pinapple"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:03:21.355Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:53:04.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9f0c45495d1ec97023a0"
+  },
+  "name": {
+    "en": "citrus fruit (lemon, limes)",
+    "ms": "citrus fruit (lemon, limes)",
+    "dz": "citrus fruit (lemon, limes)"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:03:40.498Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:53:09.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9f2445495d1ec97023a3"
+  },
+  "name": {
+    "en": "mullberries",
+    "ms": "mullberries",
+    "dz": "mullberries"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:04:04.560Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:53:12.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9f3845495d1ec97023a6"
+  },
+  "name": {
+    "en": "cherries",
+    "ms": "cherries",
+    "dz": "cherries"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:04:24.340Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:53:21.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9f4d45495d1ec97023a9"
+  },
+  "name": {
+    "en": "figs",
+    "ms": "figs",
+    "dz": "figs"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:04:45.087Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:53:27.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9f6445495d1ec97023ac"
+  },
+  "name": {
+    "en": "dragon fruit ",
+    "ms": "dragon fruit ",
+    "dz": "dragon fruit "
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:05:08.424Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:53:30.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab9f7645495d1ec97023af"
+  },
+  "name": {
+    "en": "dried fruits (dried pear, apple and apricot)",
+    "ms": "dried fruits (dried pear, apple and apricot)",
+    "dz": "dried fruits (dried pear, apple and apricot)"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T19:05:26.010Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:53:36.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0e00eb9aa2904b4cff02f"
+  },
+  "name": {
+    "en": "neem",
+    "ms": "neem",
+    "dz": "neem"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:42:22.831Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:42:22.831Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e00eb9aa2904b4cff030"
+  },
+  "name": {
+    "en": "bamboo",
+    "ms": "bamboo",
+    "dz": "bamboo"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:42:22.831Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:42:22.831Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e00eb9aa2904b4cff031"
+  },
+  "name": {
+    "en": "cypress",
+    "ms": "cypress",
+    "dz": "cypress"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:42:22.831Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:42:22.831Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e00eb9aa2904b4cff032"
+  },
+  "name": {
+    "en": "rhododendron",
+    "ms": "rhododendron",
+    "dz": "rhododendron"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:42:22.831Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:42:22.831Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1c3"
+  },
+  "name": {
+    "en": "sal",
+    "ms": "sal",
+    "dz": "sal"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1c4"
+  },
+  "name": {
+    "en": "walnut",
+    "ms": "walnut",
+    "dz": "walnut"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1c5"
+  },
+  "name": {
+    "en": "chestnut",
+    "ms": "chestnut",
+    "dz": "chestnut"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1c6"
+  },
+  "name": {
+    "en": "alder",
+    "ms": "alder",
+    "dz": "alder"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1c7"
+  },
+  "name": {
+    "en": "magnolia",
+    "ms": "magnolia",
+    "dz": "magnolia"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1c8"
+  },
+  "name": {
+    "en": "toona",
+    "ms": "toona",
+    "dz": "toona"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1c9"
+  },
+  "name": {
+    "en": "maple",
+    "ms": "maple",
+    "dz": "maple"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1ca"
+  },
+  "name": {
+    "en": "betel nut",
+    "ms": "betel nut",
+    "dz": "betel nut"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1cb"
+  },
+  "name": {
+    "en": "hemlock",
+    "ms": "hemlock",
+    "dz": "hemlock"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1cc"
+  },
+  "name": {
+    "en": "fir",
+    "ms": "fir",
+    "dz": "fir"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1cd"
+  },
+  "name": {
+    "en": "juniper",
+    "ms": "juniper",
+    "dz": "juniper"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1ce"
+  },
+  "name": {
+    "en": "spruce",
+    "ms": "spruce",
+    "dz": "spruce"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1cf"
+  },
+  "name": {
+    "en": "fig",
+    "ms": "fig",
+    "dz": "fig"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1d0"
+  },
+  "name": {
+    "en": "sandalwood",
+    "ms": "sandalwood",
+    "dz": "sandalwood"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1d1"
+  },
+  "name": {
+    "en": "bodhi tree",
+    "ms": "bodhi tree",
+    "dz": "bodhi tree"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1d2"
+  },
+  "name": {
+    "en": "yew",
+    "ms": "yew",
+    "dz": "yew"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1d3"
+  },
+  "name": {
+    "en": "camellia",
+    "ms": "camellia",
+    "dz": "camellia"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1d4"
+  },
+  "name": {
+    "en": "berberis",
+    "ms": "berberis",
+    "dz": "berberis"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1d5"
+  },
+  "name": {
+    "en": "daphne",
+    "ms": "daphne",
+    "dz": "daphne"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1d6"
+  },
+  "name": {
+    "en": "viburnum",
+    "ms": "viburnum",
+    "dz": "viburnum"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1d7"
+  },
+  "name": {
+    "en": "raspberry",
+    "ms": "raspberry",
+    "dz": "raspberry"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1d8"
+  },
+  "name": {
+    "en": "gooseberry",
+    "ms": "gooseberry",
+    "dz": "gooseberry"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1d9"
+  },
+  "name": {
+    "en": "holly",
+    "ms": "holly",
+    "dz": "holly"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1da"
+  },
+  "name": {
+    "en": "elderberry",
+    "ms": "elderberry",
+    "dz": "elderberry"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1db"
+  },
+  "name": {
+    "en": "azalea",
+    "ms": "azalea",
+    "dz": "azalea"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1dc"
+  },
+  "name": {
+    "en": "hydrangea",
+    "ms": "hydrangea",
+    "dz": "hydrangea"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1dd"
+  },
+  "name": {
+    "en": "rhododendron (shrub species)",
+    "ms": "rhododendron (shrub species)",
+    "dz": "rhododendron (shrub species)"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1de"
+  },
+  "name": {
+    "en": "boxwood",
+    "ms": "boxwood",
+    "dz": "boxwood"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1df"
+  },
+  "name": {
+    "en": "privet",
+    "ms": "privet",
+    "dz": "privet"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1e0"
+  },
+  "name": {
+    "en": "spirea",
+    "ms": "spirea",
+    "dz": "spirea"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1e1"
+  },
+  "name": {
+    "en": "willow",
+    "ms": "willow",
+    "dz": "willow"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1e2"
+  },
+  "name": {
+    "en": "dogwood",
+    "ms": "dogwood",
+    "dz": "dogwood"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 40,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T18:45:26.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0eeb5b9aa2904b4cff87c"
+  },
+  "name": {
+    "en": "tea",
+    "ms": "tea",
+    "dz": "tea"
+  },
+  "country": [
+    "india"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T19:44:53.437Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:44:53.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ba4965a8ac9a674aa605"
+  },
+  "name": {
+    "en": "almond",
+    "ms": "almond",
+    "dz": "almond"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:25:45.513Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:25:45.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b453525e4b738d894d436c"
+  },
+  "name": {
+    "en": "sugar cane",
+    "ms": "sugar cane",
+    "dz": "sugar cane"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-18T09:30:58.677Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:30:58.677Z"
+  },
+  "__v": 0
+}]

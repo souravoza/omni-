@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6768d93cd8a22eaa771371d8"
+  },
+  "moderator_id": {
+    "$oid": "67a1d4654e2c70adacf19d01"
+  },
+  "village_id": {
+    "$oid": "64fdaf9463838e6402d95583"
+  },
+  "average_population_growth_rate": 589,
+  "common_land_measurement_unit": "hectre",
+  "how_much": 36,
+  "local_language": "hindi",
+  "common_traditional_house": "kutcha house",
+  "upload_house_picture": [
+    "uploads/1735976596181.png",
+    "uploads/1735976596674.png"
+  ],
+  "createdAt": {
+    "$date": "2024-12-23T03:30:04.834Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T13:08:43.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67908158854b12a936ff7e48"
+  },
+  "moderator_id": {
+    "$oid": "678f9ebff44d3633d5453c30"
+  },
+  "village_id": {
+    "$oid": "64feafb1febc84c6a1c211da"
+  },
+  "average_population_growth_rate": 5,
+  "common_land_measurement_unit": "5",
+  "how_much": 0.2,
+  "local_language": "dzongkha ",
+  "common_traditional_house": "mud house ",
+  "upload_house_picture": [
+    "uploads/1737523543485.png"
+  ],
+  "createdAt": {
+    "$date": "2025-01-22T05:25:44.742Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-22T05:25:44.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a07c7e49cb835c24ac37ef"
+  },
+  "moderator_id": {
+    "$oid": "6778de9bdffd345c02c436e3"
+  },
+  "village_id": {
+    "$oid": "64feafabfebc84c6a1c211d7"
+  },
+  "average_population_growth_rate": 20,
+  "common_land_measurement_unit": "ABC",
+  "how_much": 50,
+  "local_language": "Zonkha",
+  "common_traditional_house": "Wooden",
+  "upload_house_picture": [
+    "uploads/1738570874832.png"
+  ],
+  "createdAt": {
+    "$date": "2025-02-03T08:21:18.052Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T08:21:18.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a0838a49cb835c24ac39c9"
+  },
+  "moderator_id": {
+    "$oid": "67ade7ed76793a6ad3158f85"
+  },
+  "village_id": {
+    "$oid": "664398932395171e7da3dc8b"
+  },
+  "average_population_growth_rate": 5,
+  "common_land_measurement_unit": "decimal",
+  "how_much": 10,
+  "local_language": "Ole",
+  "common_traditional_house": "Traditional Bhutanese house",
+  "upload_house_picture": [
+    "uploads/1738572681414.png"
+  ],
+  "createdAt": {
+    "$date": "2025-02-03T08:51:22.275Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:11:20.462Z"
+  },
+  "__v": 0
+}]

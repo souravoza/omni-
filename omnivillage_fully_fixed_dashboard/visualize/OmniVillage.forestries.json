@@ -1,0 +1,2235 @@
+[{
+  "_id": {
+    "$oid": "679a036f6c0788eb76941edf"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "unfulfilled_forest_needs": true,
+  "forestry_type": [
+    {
+      "type": {
+        "$oid": "67880380650d18f99ddadd22"
+      },
+      "quantity": 2359,
+      "quantity_unit": "6799c9e30e76731996b85bb1",
+      "purpose": [
+        {
+          "$oid": "67989b3844c8777e0ba648c2"
+        }
+      ],
+      "urgency": "6736117ecb51156c2f52683e",
+      "_id": {
+        "$oid": "679a036f6c0788eb76941ee0"
+      }
+    },
+    {
+      "type": {
+        "$oid": "678803a3650d18f99ddadd28"
+      },
+      "quantity": 4526,
+      "quantity_unit": "6799c9e30e76731996b85bb1",
+      "purpose": [
+        {
+          "$oid": "67989b3844c8777e0ba648c2"
+        }
+      ],
+      "urgency": "6736117ecb51156c2f52683e",
+      "_id": {
+        "$oid": "679a036f6c0788eb76941ee1"
+      }
+    }
+  ],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-01-29T10:31:11.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T10:31:11.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679a0561d56f901e22e3336e"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 986,
+  "timber_logs_harvested": 2,
+  "own_forest_cover_land": 1,
+  "community_forest": 1,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "673dac088310fcf665ad681b"
+      },
+      "quantity": 5656,
+      "quantity_unit": "6799c9e30e76731996b85bb1",
+      "purpose": [
+        {
+          "$oid": "67989b4644c8777e0ba648c5"
+        }
+      ],
+      "_id": {
+        "$oid": "679a0561d56f901e22e3336f"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-01-29T10:39:29.163Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T10:39:29.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679a1d74d3f2015639ef7c5f"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "type": "timber_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": true,
+  "quantity": 365,
+  "purpose": [
+    {
+      "$oid": "67989b2e44c8777e0ba648bf"
+    },
+    {
+      "$oid": "673dae7e8310fcf665ad6832"
+    }
+  ],
+  "unfulfilled_forest_needs": false,
+  "other_produced_harvested_from_forest": [],
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-01-29T12:22:12.745Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T15:14:21.708Z"
+  },
+  "__v": 0,
+  "urgency": "6798997a44c8777e0ba648ba"
+},
+{
+  "_id": {
+    "$oid": "679b9d01e6b5e001dd4c79c5"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 10,
+  "timber_logs_harvested": 2,
+  "own_forest_cover_land": 5,
+  "community_forest": 5,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67880236650d18f99ddadd10"
+      },
+      "quantity": 10,
+      "quantity_unit": null,
+      "purpose": [
+        {
+          "$oid": "673dacb78310fcf665ad682b"
+        }
+      ],
+      "_id": {
+        "$oid": "679b9d01e6b5e001dd4c79c6"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-01-30T15:38:41.705Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T15:38:41.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b9d0fe6b5e001dd4c79f6"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "type": "timber_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": true,
+  "quantity": 10,
+  "purpose": [
+    {
+      "$oid": "67989b2e44c8777e0ba648bf"
+    }
+  ],
+  "urgency": "6798997144c8777e0ba648b7",
+  "unfulfilled_forest_needs": false,
+  "other_produced_harvested_from_forest": [],
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-01-30T15:38:55.365Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T14:05:52.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b9d1ee6b5e001dd4c7a2a"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": true,
+  "forestry_type": [
+    {
+      "type": {
+        "$oid": "67880380650d18f99ddadd22"
+      },
+      "quantity": 10,
+      "quantity_unit": null,
+      "purpose": [
+        {
+          "$oid": "67989b3844c8777e0ba648c2"
+        }
+      ],
+      "urgency": "679a25bcd3f2015639ef7c9c",
+      "_id": {
+        "$oid": "67a4c1d83e7696ea7339c47f"
+      }
+    }
+  ],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-01-30T15:39:10.563Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T14:06:16.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c5b85e6b5e001dd4c8caf"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 500,
+  "timber_logs_harvested": 5,
+  "own_forest_cover_land": 1,
+  "community_forest": 4,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67880236650d18f99ddadd10"
+      },
+      "quantity": 0,
+      "quantity_unit": "6799c9e30e76731996b85bb1",
+      "purpose": [
+        {
+          "$oid": "673dac588310fcf665ad6828"
+        },
+        {
+          "$oid": "673dae778310fcf665ad682f"
+        }
+      ],
+      "_id": {
+        "$oid": "679c5b85e6b5e001dd4c8cb0"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-01-31T05:11:33.847Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T05:11:33.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c5baae6b5e001dd4c8cdc"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "type": "timber_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": true,
+  "quantity": 88,
+  "purpose": [
+    {
+      "$oid": "673dae7e8310fcf665ad6832"
+    }
+  ],
+  "urgency": "6798997144c8777e0ba648b7",
+  "unfulfilled_forest_needs": false,
+  "other_produced_harvested_from_forest": [],
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-01-31T05:12:10.668Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T05:12:10.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaeeb545495d1ec9701d09"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "type": "timber_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": true,
+  "quantity": 280,
+  "purpose": [
+    {
+      "$oid": "673dae898310fcf665ad6838"
+    }
+  ],
+  "urgency": "6798997144c8777e0ba648b7",
+  "unfulfilled_forest_needs": false,
+  "other_produced_harvested_from_forest": [],
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-11T06:31:17.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T06:31:17.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeb8333a0c8b7971dafb3c"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 2500,
+  "timber_logs_harvested": 25,
+  "own_forest_cover_land": 12,
+  "community_forest": 13,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67880236650d18f99ddadd10"
+      },
+      "quantity": 25,
+      "quantity_unit": "6799c9e30e76731996b85bb1",
+      "purpose": [
+        {
+          "$oid": "673dacb78310fcf665ad682b"
+        },
+        {
+          "$oid": "67989b4644c8777e0ba648c5"
+        }
+      ],
+      "_id": {
+        "$oid": "67b0c5a7b9aa2904b4cfea1d"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-14T03:27:47.644Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:49:43.267Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeb8613a0c8b7971dafb5f"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "timber_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": true,
+  "quantity": 25,
+  "purpose": [
+    {
+      "$oid": "673dae828310fcf665ad6835"
+    },
+    {
+      "$oid": "673dae7e8310fcf665ad6832"
+    }
+  ],
+  "urgency": "6798997a44c8777e0ba648ba",
+  "unfulfilled_forest_needs": false,
+  "other_produced_harvested_from_forest": [],
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-14T03:28:33.355Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:53:04.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeb8c23a0c8b7971dafb86"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": true,
+  "forestry_type": [
+    {
+      "type": {
+        "$oid": "67afbd1001f33d7cb67077af"
+      },
+      "quantity": 2,
+      "quantity_unit": "67afbe2301f33d7cb67077f2",
+      "purpose": [
+        {
+          "$oid": "67afbecc01f33d7cb67077f7"
+        },
+        {
+          "$oid": "67afbee001f33d7cb67077fd"
+        }
+      ],
+      "urgency": "679a25bcd3f2015639ef7c9c",
+      "_id": {
+        "$oid": "67b0c675b9aa2904b4cfea97"
+      }
+    }
+  ],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-14T03:30:10.551Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:53:09.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10722b9aa2904b4d00448"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 100,
+  "timber_logs_harvested": 50,
+  "own_forest_cover_land": 20,
+  "community_forest": 30,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67b06a5f1f93ee4d2d06c074"
+      },
+      "quantity": 2,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "67989b4644c8777e0ba648c5"
+        }
+      ],
+      "_id": {
+        "$oid": "67b10722b9aa2904b4d00449"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-15T21:29:06.482Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:29:06.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1b006db1ebb70cb7e157c"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 2,
+  "own_forest_cover_land": 0,
+  "community_forest": 2,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 5,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b1b006db1ebb70cb7e157d"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:29:42.880Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:29:42.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1b017db1ebb70cb7e15ec"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:29:59.733Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:29:59.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d52365a8ac9a674a87da"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 1,
+  "own_forest_cover_land": 0,
+  "community_forest": 1,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67b06a5f1f93ee4d2d06c074"
+      },
+      "quantity": 170,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "673dacb78310fcf665ad682b"
+        }
+      ],
+      "_id": {
+        "$oid": "67b1d52365a8ac9a674a87db"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 10,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b1d52365a8ac9a674a87dc"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-16T12:08:03.764Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T12:08:03.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d53765a8ac9a674a8835"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-16T12:08:23.411Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T12:08:23.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c32a65a8ac9a674ab6d0"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": 10,
+  "own_forest_cover_land": null,
+  "community_forest": 10,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67b06a231f93ee4d2d06c062"
+      },
+      "quantity": 20,
+      "quantity_unit": "",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2c33065a8ac9a674ab72b"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afabb801f33d7cb6707741"
+      },
+      "quantity": 100,
+      "quantity_unit": "",
+      "purpose": [
+        {
+          "$oid": "67b0691f1f93ee4d2d06bfee"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2c33065a8ac9a674ab72c"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afab9201f33d7cb6707735"
+      },
+      "quantity": 3,
+      "quantity_unit": "",
+      "purpose": [
+        {
+          "$oid": "67b069301f93ee4d2d06bff1"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2c33065a8ac9a674ab72d"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 20,
+      "quantity_unit": "",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2c33065a8ac9a674ab72e"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afaba301f33d7cb670773b"
+      },
+      "quantity": 3,
+      "quantity_unit": "",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2c33065a8ac9a674ab72f"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b069f01f93ee4d2d06c056"
+      },
+      "quantity": 6,
+      "quantity_unit": "",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2c33065a8ac9a674ab730"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b06a6c1f93ee4d2d06c077"
+      },
+      "quantity": 1,
+      "quantity_unit": "",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2c33065a8ac9a674ab731"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67880236650d18f99ddadd10"
+      },
+      "quantity": 2,
+      "quantity_unit": "",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2c33065a8ac9a674ab732"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b06a371f93ee4d2d06c068"
+      },
+      "quantity": 5,
+      "quantity_unit": "",
+      "purpose": [
+        {
+          "$oid": "67b0691f1f93ee4d2d06bfee"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2c33065a8ac9a674ab733"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:03:38.599Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:03:44.824Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c37065a8ac9a674ab89b"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:04:48.667Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:04:48.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d13765a8ac9a674adfaa"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 0,
+  "own_forest_cover_land": 0,
+  "community_forest": 0,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67b06a5f1f93ee4d2d06c074"
+      },
+      "quantity": 5,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "673dacb78310fcf665ad682b"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2d13765a8ac9a674adfab"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 20,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2d13765a8ac9a674adfac"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afaba301f33d7cb670773b"
+      },
+      "quantity": 1,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2d13765a8ac9a674adfad"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:03:35.862Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:03:35.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d14865a8ac9a674ae015"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:03:52.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:03:52.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d74a65a8ac9a674aeaf4"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 0,
+  "own_forest_cover_land": 0,
+  "community_forest": 0,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67b06a5f1f93ee4d2d06c074"
+      },
+      "quantity": 2,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "673dacb78310fcf665ad682b"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2d74a65a8ac9a674aeaf5"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 2,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2d74a65a8ac9a674aeaf6"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:29:30.924Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:29:30.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d75965a8ac9a674aeb34"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:29:45.785Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:29:45.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d81e65a8ac9a674aecaa"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 1,
+  "own_forest_cover_land": 0,
+  "community_forest": 1,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 5,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2d81e65a8ac9a674aecab"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:33:02.553Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:33:02.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d84e65a8ac9a674aed4a"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:33:50.961Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:33:50.961Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fc4a65a8ac9a674b321e"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 0,
+  "own_forest_cover_land": 0,
+  "community_forest": 0,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67b06a5f1f93ee4d2d06c074"
+      },
+      "quantity": 10,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "67b0691f1f93ee4d2d06bfee"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2fc4a65a8ac9a674b321f"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 5,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b2fc4a65a8ac9a674b3220"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:07:22.795Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:07:22.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fc5e65a8ac9a674b3259"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:07:42.386Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:07:50.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3007965a8ac9a674b3f18"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 0,
+  "own_forest_cover_land": 0,
+  "community_forest": 0,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 2,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b3007965a8ac9a674b3f19"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:25:13.344Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:25:13.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3008565a8ac9a674b3faa"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:25:25.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:25:25.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b307f665a8ac9a674b5956"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 170,
+  "own_forest_cover_land": 0,
+  "community_forest": 170,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67b06a231f93ee4d2d06c062"
+      },
+      "quantity": 10,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b307f665a8ac9a674b5957"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:57:10.385Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:57:10.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3080765a8ac9a674b5a0f"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:57:27.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:57:27.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b310cf65a8ac9a674b7041"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 40,
+  "own_forest_cover_land": 0,
+  "community_forest": 40,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67b06a231f93ee4d2d06c062"
+      },
+      "quantity": 20,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b310cf65a8ac9a674b7042"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 50,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b310cf65a8ac9a674b7043"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b069f01f93ee4d2d06c056"
+      },
+      "quantity": 50,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b310cf65a8ac9a674b7044"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b06a161f93ee4d2d06c05f"
+      },
+      "quantity": 25,
+      "quantity_unit": "",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b310cf65a8ac9a674b7045"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b06a0a1f93ee4d2d06c05c"
+      },
+      "quantity": 3,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "673dae778310fcf665ad682f"
+        }
+      ],
+      "_id": {
+        "$oid": "67b310cf65a8ac9a674b7046"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-17T10:34:55.884Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:34:55.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31b2d535126c1f565e74f"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 50,
+  "own_forest_cover_land": 0,
+  "community_forest": 50,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 5,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b31b2d535126c1f565e750"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:19:09.891Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:19:09.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31b48535126c1f565e7ca"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:19:36.724Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:19:36.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31e75535126c1f565ee30"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 0,
+  "own_forest_cover_land": 0,
+  "community_forest": 0,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 5,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b31e75535126c1f565ee31"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:33:09.475Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:33:09.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31e82535126c1f565eea4"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:33:22.462Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:33:22.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b347da5e4b738d894cf457"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 100,
+  "own_forest_cover_land": 0,
+  "community_forest": 100,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 10,
+      "quantity_unit": "",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b3481c5e4b738d894cf476"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b069f01f93ee4d2d06c056"
+      },
+      "quantity": 15,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b3481c5e4b738d894cf477"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:29:46.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:30:52.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b348285e4b738d894cf4a2"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:31:04.076Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:46:18.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34ec65e4b738d894cfaee"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 9000,
+  "own_forest_cover_land": 0,
+  "community_forest": 9000,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67b06a371f93ee4d2d06c068"
+      },
+      "quantity": 1,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "67b069301f93ee4d2d06bff1"
+        }
+      ],
+      "_id": {
+        "$oid": "67b34ec65e4b738d894cfaef"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b06a5f1f93ee4d2d06c074"
+      },
+      "quantity": 1,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "673dacb78310fcf665ad682b"
+        }
+      ],
+      "_id": {
+        "$oid": "67b34ec65e4b738d894cfaf0"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b06a231f93ee4d2d06c062"
+      },
+      "quantity": 1,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b34ec65e4b738d894cfaf1"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afabb801f33d7cb6707741"
+      },
+      "quantity": 3,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "67b0691f1f93ee4d2d06bfee"
+        }
+      ],
+      "_id": {
+        "$oid": "67b34ec65e4b738d894cfaf2"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b069fb1f93ee4d2d06c059"
+      },
+      "quantity": 5,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "67b0691f1f93ee4d2d06bfee"
+        }
+      ],
+      "_id": {
+        "$oid": "67b34ec65e4b738d894cfaf3"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 5,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b34ec65e4b738d894cfaf4"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afab9201f33d7cb6707735"
+      },
+      "quantity": 7,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b34ec65e4b738d894cfaf5"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67afaba301f33d7cb670773b"
+      },
+      "quantity": 3,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b34ec65e4b738d894cfaf6"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b06a6c1f93ee4d2d06c077"
+      },
+      "quantity": 2,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b34ec65e4b738d894cfaf7"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b06a161f93ee4d2d06c05f"
+      },
+      "quantity": 5,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b34ec65e4b738d894cfaf8"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b06a0a1f93ee4d2d06c05c"
+      },
+      "quantity": 1,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b34ec65e4b738d894cfaf9"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:59:18.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:59:18.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34ef85e4b738d894cfb2d"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "timber_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": true,
+  "quantity": 1000,
+  "purpose": [
+    {
+      "$oid": "67989b2e44c8777e0ba648bf"
+    }
+  ],
+  "urgency": "6798997144c8777e0ba648b7",
+  "unfulfilled_forest_needs": false,
+  "other_produced_harvested_from_forest": [],
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-17T15:00:08.818Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:00:08.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34f2a5e4b738d894cfb4e"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": true,
+  "forestry_type": [
+    {
+      "type": {
+        "$oid": "67b10865b9aa2904b4d004de"
+      },
+      "quantity": 1,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "67989b3844c8777e0ba648c2"
+        }
+      ],
+      "urgency": "679a25bcd3f2015639ef7c9c",
+      "_id": {
+        "$oid": "67b34f2a5e4b738d894cfb4f"
+      }
+    }
+  ],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-17T15:00:58.468Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:00:58.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b410285e4b738d894d1e92"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 5,
+  "own_forest_cover_land": 0,
+  "community_forest": 5,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 5,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b4104d5e4b738d894d1eef"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b06a561f93ee4d2d06c071"
+      },
+      "quantity": 1,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "67afb86001f33d7cb6707756"
+        }
+      ],
+      "_id": {
+        "$oid": "67b4104d5e4b738d894d1ef0"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:44:24.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:45:01.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b410585e4b738d894d1f36"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:45:12.098Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:45:12.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b411d65e4b738d894d2382"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 0,
+  "own_forest_cover_land": 0,
+  "community_forest": 0,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 2,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b411d65e4b738d894d2383"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b069f01f93ee4d2d06c056"
+      },
+      "quantity": 5,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b411d65e4b738d894d2384"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:51:34.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:51:34.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b412155e4b738d894d241e"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:52:37.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:52:37.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b412355e4b738d894d245e"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 0,
+  "own_forest_cover_land": 0,
+  "community_forest": 0,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67b069f01f93ee4d2d06c056"
+      },
+      "quantity": 6,
+      "quantity_unit": "67afbde001f33d7cb67077e5",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b412355e4b738d894d245f"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:53:09.596Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:53:09.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43f0e5e4b738d894d4001"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "other_needs",
+  "land_owned_under_forest_cover": null,
+  "timber_logs_harvested": null,
+  "own_forest_cover_land": null,
+  "community_forest": null,
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "other_produced_harvested_from_forest": [],
+  "createdAt": {
+    "$date": "2025-02-18T08:04:30.965Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:04:30.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4701b5e4b738d894d4f22"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "general",
+  "land_owned_under_forest_cover": 0,
+  "timber_logs_harvested": 2,
+  "own_forest_cover_land": 0,
+  "community_forest": 2,
+  "other_produced_harvested_from_forest": [
+    {
+      "type": {
+        "$oid": "67afab7e01f33d7cb670772f"
+      },
+      "quantity": 1,
+      "quantity_unit": "67afbdc401f33d7cb67077df",
+      "purpose": [
+        {
+          "$oid": "67afb85601f33d7cb6707753"
+        }
+      ],
+      "_id": {
+        "$oid": "67b4701b5e4b738d894d4f23"
+      }
+    }
+  ],
+  "timber_needs": false,
+  "quantity": null,
+  "purpose": [],
+  "urgency": null,
+  "unfulfilled_forest_needs": false,
+  "forestry_type": [],
+  "createdAt": {
+    "$date": "2025-02-18T11:33:47.482Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:33:47.482Z"
+  },
+  "__v": 0
+}]

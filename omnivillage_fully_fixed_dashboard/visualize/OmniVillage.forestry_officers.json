@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6768decfd8a22eaa77137290"
+  },
+  "moderator_id": {
+    "$oid": "674740a4b3e3ec770045f6a3"
+  },
+  "village_id": {
+    "$oid": "64fdaf9463838e6402d95583"
+  },
+  "type_of_forest_accessible": {
+    "$oid": "676175bd7ba54e3fd9e411a4"
+  },
+  "area_of_forest_accessible": 52,
+  "do_you_have_flora_fauna": true,
+  "link_of_the_doc": "www.google.com",
+  "condition_of_forest_accessible": {
+    "$oid": "676175c67ba54e3fd9e411a7"
+  },
+  "incident_of_forest_fire": {
+    "$oid": "676175cc7ba54e3fd9e411aa"
+  },
+  "incident_of_wildlife_conflict": true,
+  "describe": "nothing ",
+  "any_incident_of_illegal_forest_activities": "nothing ",
+  "createdAt": {
+    "$date": "2024-12-23T03:53:51.541Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-23T03:53:51.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679087dc854b12a936ff7eba"
+  },
+  "moderator_id": {
+    "$oid": "678f9ebff44d3633d5453c30"
+  },
+  "village_id": {
+    "$oid": "64feafb1febc84c6a1c211da"
+  },
+  "type_of_forest_accessible": {
+    "$oid": "676175bd7ba54e3fd9e411a4"
+  },
+  "area_of_forest_accessible": 1000,
+  "do_you_have_flora_fauna": true,
+  "link_of_the_doc": ".......",
+  "condition_of_forest_accessible": {
+    "$oid": "676175c67ba54e3fd9e411a7"
+  },
+  "incident_of_forest_fire": {
+    "$oid": "676175cc7ba54e3fd9e411aa"
+  },
+  "incident_of_wildlife_conflict": true,
+  "describe": "Wild hyenas coming into domestic habitat and destroying fields of farmer",
+  "any_incident_of_illegal_forest_activities": "no",
+  "createdAt": {
+    "$date": "2025-01-22T05:53:32.113Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-22T05:56:26.530Z"
+  },
+  "__v": 0
+}]

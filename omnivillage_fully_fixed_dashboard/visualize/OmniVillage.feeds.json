@@ -1,0 +1,745 @@
+[{
+  "_id": {
+    "$oid": "65744f9102e183b8dfa19f93"
+  },
+  "name": {
+    "en": "barley",
+    "ms": "barley",
+    "dz": "nang"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "nepal",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:21.786Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:48:10.036Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9202e183b8dfa19f9e"
+  },
+  "name": {
+    "en": "corn",
+    "ms": "corn",
+    "dz": "gayza"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:22.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:48:32.185Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9202e183b8dfa19fa0"
+  },
+  "name": {
+    "en": "oats",
+    "ms": "oats",
+    "dz": ""
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:22.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:18:43.780Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9202e183b8dfa19fa5"
+  },
+  "name": {
+    "en": "sorghums",
+    "ms": "sorghums",
+    "dz": ""
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:22.475Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:18:56.414Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9202e183b8dfa19fa7"
+  },
+  "name": {
+    "en": "soyabean",
+    "ms": "soyabean",
+    "dz": "soybean"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:22.548Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:48:51.368Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9202e183b8dfa19fa9"
+  },
+  "name": {
+    "en": "peanuts",
+    "ms": "peanuts"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:22.627Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:22.627Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9202e183b8dfa19fab"
+  },
+  "name": {
+    "en": "flaxseed(linseed)",
+    "ms": "flaxseed(linseed)"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:22.702Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:22.702Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9202e183b8dfa19fad"
+  },
+  "name": {
+    "en": "canola",
+    "ms": "canola"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:22.774Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:22.774Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9202e183b8dfa19faf"
+  },
+  "name": {
+    "en": "cotton seed",
+    "ms": "cotton seed"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:22.860Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:22.860Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9202e183b8dfa19fb1"
+  },
+  "name": {
+    "en": "coconuts",
+    "ms": "coconuts"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:22.935Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:22.935Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9302e183b8dfa19fb5"
+  },
+  "name": {
+    "en": "oil palm",
+    "ms": "oil palm"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:23.006Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:23.006Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9302e183b8dfa19fb7"
+  },
+  "name": {
+    "en": "sunflower seeds",
+    "ms": "sunflower seeds"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:23.078Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:23.078Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9302e183b8dfa19fb9"
+  },
+  "name": {
+    "en": "beets",
+    "ms": "beets"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:23.147Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:23.147Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9302e183b8dfa19fbb"
+  },
+  "name": {
+    "en": "sugarcane",
+    "ms": "sugarcane"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:23.218Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:23.218Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9302e183b8dfa19fbd"
+  },
+  "name": {
+    "en": "wheat bran",
+    "ms": "wheat bran"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:23.291Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:23.291Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9302e183b8dfa19fbf"
+  },
+  "name": {
+    "en": "wheat middling",
+    "ms": "wheat middling",
+    "dz": "wheat middling"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:23.367Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:49:49.542Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9302e183b8dfa19fc1"
+  },
+  "name": {
+    "en": "rice bran",
+    "ms": "rice bran",
+    "dz": "rice bran"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:23.447Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:50:47.110Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9302e183b8dfa19fc3"
+  },
+  "name": {
+    "en": "rice husk",
+    "ms": "rice husk",
+    "dz": "rice husk"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:23.542Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:50:12.538Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9302e183b8dfa19fc5"
+  },
+  "name": {
+    "en": "by product of pineapple",
+    "ms": "by product of pineapple"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:23.633Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:23.633Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9302e183b8dfa19fc7"
+  },
+  "name": {
+    "en": "fish meals",
+    "ms": "fish meals"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:23.717Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:23.717Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9302e183b8dfa19fc9"
+  },
+  "name": {
+    "en": "dried whey",
+    "ms": "dried whey"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:23.801Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:23.801Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9302e183b8dfa19fcb"
+  },
+  "name": {
+    "en": "dried buttermilk",
+    "ms": "dried buttermilk"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:23.872Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:23.872Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9302e183b8dfa19fcd"
+  },
+  "name": {
+    "en": "grass",
+    "ms": "grass"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:23.943Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:23.943Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9402e183b8dfa19fcf"
+  },
+  "name": {
+    "en": "legmues",
+    "ms": "legmues"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:24.015Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:24.015Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9402e183b8dfa19fd1"
+  },
+  "name": {
+    "en": "hay",
+    "ms": "hay"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:24.087Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:24.087Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9402e183b8dfa19fd3"
+  },
+  "name": {
+    "en": "silage",
+    "ms": "silage"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:24.159Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:24.159Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9402e183b8dfa19fd5"
+  },
+  "name": {
+    "en": "cassava",
+    "ms": "cassava"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:24.241Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:24.241Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9402e183b8dfa19fd7"
+  },
+  "name": {
+    "en": "turnips",
+    "ms": "turnips"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:24.311Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:24.311Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9402e183b8dfa19fd9"
+  },
+  "name": {
+    "en": "potatoes",
+    "ms": "potatoes"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:24.383Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:24.383Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9402e183b8dfa19fdb"
+  },
+  "name": {
+    "en": "rutabags",
+    "ms": "rutabags"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:24.454Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:24.454Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65744f9402e183b8dfa19fdd"
+  },
+  "name": {
+    "en": "animal meat (by product after livestock [processing)",
+    "ms": "animal meat (by product after livestock [processing)"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:29:24.556Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T11:29:24.556Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "65f6183d202690a6a862b2ec"
+  },
+  "name": {
+    "en": "new feed",
+    "ms": "new feed",
+    "dz": ""
+  },
+  "country": [
+    "nepal",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-03-16T22:07:57.216Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:36:07.508Z"
+  },
+  "__v": 0,
+  "type": "normal"
+},
+{
+  "_id": {
+    "$oid": "6644f620ba80bcf5f99473bf"
+  },
+  "name": {
+    "en": "by product of fruits",
+    "ms": "by product of fruits",
+    "dz": "by product of fruits"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-05-15T17:51:28.658Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:51:28.658Z"
+  },
+  "__v": 0,
+  "type": "normal"
+}]

@@ -1,0 +1,1125 @@
+[{
+  "_id": {
+    "$oid": "679b9c53e6b5e001dd4c797b"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df27a4cfd8cc1f107eff"
+    },
+    {
+      "$oid": "6739df1da4cfd8cc1f107efb"
+    },
+    {
+      "$oid": "6739df2da4cfd8cc1f107f01"
+    },
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "yes",
+  "vehicle_requirement": true,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-01-30T15:35:47.974Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T15:35:47.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679bfd64e6b5e001dd4c7e3d"
+  },
+  "user_id": {
+    "$oid": "678dfe492f36950c8ce7b330"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df1da4cfd8cc1f107efb"
+    }
+  ],
+  "access_to_public_transport": "yes",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "daily",
+      "vehicle_type": "6739df67a4cfd8cc1f107f13",
+      "urgency": "within 2-5 years",
+      "_id": {
+        "$oid": "679bfd8ce6b5e001dd4c7e62"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T22:29:56.219Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T22:30:36.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c58d0e6b5e001dd4c8934"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df31a4cfd8cc1f107f03"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "monthly",
+      "vehicle_type": "6786d3ef854845415d4a814c",
+      "urgency": "within 1 year",
+      "_id": {
+        "$oid": "679c5998e6b5e001dd4c8adb"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T05:00:00.969Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T05:03:20.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c58f2e6b5e001dd4c8996"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df1da4cfd8cc1f107efb"
+    },
+    {
+      "$oid": "6739df27a4cfd8cc1f107eff"
+    },
+    {
+      "$oid": "6739df3da4cfd8cc1f107f07"
+    },
+    {
+      "$oid": "6739df2da4cfd8cc1f107f01"
+    },
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    },
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "yes",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "Agricultural / Farm Tasks",
+      "vehicle_type": "6739df7ea4cfd8cc1f107f1d",
+      "urgency": "after 10 years",
+      "_id": {
+        "$oid": "67b10b47b9aa2904b4d0092f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T05:00:34.259Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:46:47.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c598ae6b5e001dd4c8a91"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df1da4cfd8cc1f107efb"
+    },
+    {
+      "$oid": "6739df27a4cfd8cc1f107eff"
+    },
+    {
+      "$oid": "6739df3da4cfd8cc1f107f07"
+    },
+    {
+      "$oid": "6739df2da4cfd8cc1f107f01"
+    }
+  ],
+  "access_to_public_transport": "yes",
+  "vehicle_requirement": false,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-01-31T05:03:06.253Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T05:03:06.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c599fe6b5e001dd4c8b39"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df1da4cfd8cc1f107efb"
+    },
+    {
+      "$oid": "6739df27a4cfd8cc1f107eff"
+    },
+    {
+      "$oid": "6739df3da4cfd8cc1f107f07"
+    },
+    {
+      "$oid": "6739df2da4cfd8cc1f107f01"
+    }
+  ],
+  "access_to_public_transport": "yes",
+  "vehicle_requirement": true,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-01-31T05:03:27.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T05:03:27.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c5a60e6b5e001dd4c8c02"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df1da4cfd8cc1f107efb"
+    },
+    {
+      "$oid": "6739df27a4cfd8cc1f107eff"
+    },
+    {
+      "$oid": "6739df3da4cfd8cc1f107f07"
+    },
+    {
+      "$oid": "6739df2da4cfd8cc1f107f01"
+    }
+  ],
+  "access_to_public_transport": "yes",
+  "vehicle_requirement": true,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-01-31T05:06:40.613Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T05:06:40.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaee1f45495d1ec9701c81"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-11T06:28:47.894Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T06:28:47.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adfe4bf2e352cfd5e0bfd9"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df27a4cfd8cc1f107eff"
+    }
+  ],
+  "access_to_public_transport": "yes",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "daily",
+      "vehicle_type": "6786d3ef854845415d4a814c",
+      "urgency": "after 10 years",
+      "_id": {
+        "$oid": "67aeb7923a0c8b7971dafae8"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-13T14:14:35.281Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T03:25:06.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10b32b9aa2904b4d0084e"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df1da4cfd8cc1f107efb"
+    },
+    {
+      "$oid": "6739df27a4cfd8cc1f107eff"
+    },
+    {
+      "$oid": "6739df3da4cfd8cc1f107f07"
+    },
+    {
+      "$oid": "6739df2da4cfd8cc1f107f01"
+    },
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    },
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "yes",
+  "vehicle_requirement": false,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-15T21:46:26.730Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:46:26.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10b38b9aa2904b4d008c3"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df1da4cfd8cc1f107efb"
+    },
+    {
+      "$oid": "6739df27a4cfd8cc1f107eff"
+    },
+    {
+      "$oid": "6739df3da4cfd8cc1f107f07"
+    },
+    {
+      "$oid": "6739df2da4cfd8cc1f107f01"
+    },
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    },
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "yes",
+  "vehicle_requirement": true,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-15T21:46:32.318Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:46:32.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1af84db1ebb70cb7e1449"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "Emergency / Medical Services",
+      "vehicle_type": "6739df56a4cfd8cc1f107f0b",
+      "urgency": "within 1 year",
+      "_id": {
+        "$oid": "67b1afa4db1ebb70cb7e14a6"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-16T09:27:32.852Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:28:04.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d46965a8ac9a674a8712"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "Agricultural / Farm Tasks",
+      "vehicle_type": "6739df5ca4cfd8cc1f107f0d",
+      "urgency": "within 2-5 years",
+      "_id": {
+        "$oid": "67b1d48c65a8ac9a674a8750"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-16T12:04:57.207Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T12:05:32.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2be7865a8ac9a674aaf5e"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df1da4cfd8cc1f107efb"
+    },
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-17T04:43:36.673Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:44:07.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2be9765a8ac9a674aafdf"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df1da4cfd8cc1f107efb"
+    },
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-17T04:44:07.579Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:44:07.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d01b65a8ac9a674adc59"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": false,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:58:51.018Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:58:51.018Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d72a65a8ac9a674aeab2"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "Agricultural / Farm Tasks",
+      "vehicle_type": "6739df5ca4cfd8cc1f107f0d",
+      "urgency": "within 1 year",
+      "_id": {
+        "$oid": "67b2d77e65a8ac9a674aeb8e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T06:28:58.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:30:22.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d77865a8ac9a674aeb50"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "Agricultural / Farm Tasks",
+      "vehicle_type": "6739df5ca4cfd8cc1f107f0d",
+      "urgency": "within 1 year",
+      "_id": {
+        "$oid": "67b2d79365a8ac9a674aebd5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T06:30:16.495Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:30:43.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fba965a8ac9a674b2e91"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    },
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "Commercial / Business Use",
+      "vehicle_type": "6786d3ad854845415d4a8149",
+      "urgency": "within 1 year",
+      "_id": {
+        "$oid": "67b2fdc865a8ac9a674b3605"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T09:04:41.855Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:13:44.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fbb965a8ac9a674b2f0c"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": false,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:04:57.918Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:04:57.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fdaf65a8ac9a674b35c9"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    },
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:13:19.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:13:19.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fffb65a8ac9a674b3d5f"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "Agricultural / Farm Tasks",
+      "vehicle_type": "6739df5ca4cfd8cc1f107f0d",
+      "urgency": "within 1 year",
+      "_id": {
+        "$oid": "67b3018765a8ac9a674b41a9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T09:23:07.974Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:42:32.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3001a65a8ac9a674b3e33"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:23:38.883Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:23:38.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3048965a8ac9a674b4e03"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:42:33.466Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:42:33.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b306e365a8ac9a674b572e"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "Commercial / Business Use",
+      "vehicle_type": "6739df5ca4cfd8cc1f107f0d",
+      "urgency": "within 2-5 years",
+      "_id": {
+        "$oid": "67b3072e65a8ac9a674b5825"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T09:52:35.423Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:53:50.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b30e8665a8ac9a674b6d47"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "yes",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "Emergency / Medical Services",
+      "vehicle_type": "6786d3ad854845415d4a8149",
+      "urgency": "within 1 year",
+      "_id": {
+        "$oid": "67b30ee965a8ac9a674b6e91"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T10:25:10.708Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:26:49.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31a1a535126c1f565e647"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "Agricultural / Farm Tasks",
+      "vehicle_type": "6786d3ad854845415d4a8149",
+      "urgency": "within 1 year",
+      "_id": {
+        "$oid": "67b31a43535126c1f565e696"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T11:14:34.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:15:15.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31dfb535126c1f565ec81"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "Agricultural / Farm Tasks",
+      "vehicle_type": "6786d3ad854845415d4a8149",
+      "urgency": "within 1 year",
+      "_id": {
+        "$oid": "67b31e36535126c1f565edde"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T11:31:07.219Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:32:06.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31e2f535126c1f565ed99"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:31:59.703Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:31:59.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b346b55e4b738d894cf400"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:24:53.002Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:24:53.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34cda5e4b738d894cf99e"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": false,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:51:06.159Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:51:24.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34ced5e4b738d894cfa08"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": false,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:51:25.344Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:51:25.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40f805e4b738d894d1ca3"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": false,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:41:36.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:42:47.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40f875e4b738d894d1ce0"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": false,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:41:43.005Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:41:43.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40f955e4b738d894d1d30"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": false,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:41:57.511Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:41:57.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40fc85e4b738d894d1dd1"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df21a4cfd8cc1f107efd"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": false,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:42:48.534Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:42:48.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b410ee5e4b738d894d21b8"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": true,
+  "vehicles_needed": [
+    {
+      "purpose": "Transporting Goods / Supplies",
+      "vehicle_type": "6786d3ad854845415d4a8149",
+      "urgency": "within 1 year",
+      "_id": {
+        "$oid": "67b411355e4b738d894d2259"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-18T04:47:42.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:48:53.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b411075e4b738d894d21ea"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": false,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:48:07.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:48:07.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43e755e4b738d894d3f40"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "methods_of_mobility": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "access_to_public_transport": "no",
+  "vehicle_requirement": false,
+  "vehicles_needed": [],
+  "createdAt": {
+    "$date": "2025-02-18T08:01:57.387Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:01:57.387Z"
+  },
+  "__v": 0
+}]

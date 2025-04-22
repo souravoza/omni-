@@ -1,0 +1,441 @@
+[{
+  "_id": {
+    "$oid": "679a04abd56f901e22e332d5"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "business_name": "Carpenter ",
+  "business_type": {
+    "$oid": "6788079a650d18f99ddadd7d"
+  },
+  "other_type": "",
+  "year_started": 2025,
+  "brief_description": "no descp",
+  "segment_served": {
+    "$oid": "678808f7650d18f99ddadda7"
+  },
+  "location": "22.6125643,88.3757836",
+  "land_area_utilised": 5236,
+  "built_up_area": 4578,
+  "total_employee": 26,
+  "coworker_inside_village": 2,
+  "coworker_outside_village": 3,
+  "legal_structure": {
+    "$oid": "679777c144c8777e0ba63529"
+  },
+  "annual_turnover": 568689,
+  "made_profit": false,
+  "total_profit": null,
+  "total_loss": 3256,
+  "investment_need_so_far": 52869,
+  "water_consumption": 256,
+  "energy_consumption": 36,
+  "raw_material_consumption": [
+    {
+      "item": {
+        "$oid": "6797783944c8777e0ba63532"
+      },
+      "quantity": 56565,
+      "raw_consumption_unit": "6799c9f80e76731996b85bba",
+      "_id": {
+        "$oid": "679a04ccd56f901e22e3333a"
+      }
+    }
+  ],
+  "fuel_source": [
+    {
+      "item": {
+        "$oid": "6797784044c8777e0ba63535"
+      },
+      "quantity": 5656,
+      "fuel_source_unit": "6799ca020e76731996b85bbd",
+      "_id": {
+        "$oid": "679a04ccd56f901e22e3333b"
+      }
+    }
+  ],
+  "type_of_infrastructure": [
+    {
+      "$oid": "67880886650d18f99ddadd9e"
+    },
+    {
+      "$oid": "6797784744c8777e0ba63538"
+    }
+  ],
+  "machine_equipment_installed": "none",
+  "skill_requirement": true,
+  "type_of_skill": "none",
+  "skill_urgency": "6736117ecb51156c2f52383e",
+  "manpower_requirement": true,
+  "number_of_manpower": 25,
+  "manpower_urgency": "6736117ecb51156c2f52683e",
+  "equipment_requirement": true,
+  "equipment_type": "none",
+  "equipment_urgency": "6736117ecb51156c2f52383e",
+  "other": "none",
+  "urgency": "6736117ecb51156c2f52683e",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-01-29T10:36:27.741Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T10:37:00.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c60b1e6b5e001dd4c8fd9"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "business_name": "Homestay ",
+  "business_type": {
+    "$oid": "678809d8650d18f99ddaddc0"
+  },
+  "other_type": "",
+  "year_started": 2015,
+  "brief_description": "test description ",
+  "segment_served": {
+    "$oid": "678808f7650d18f99ddadda7"
+  },
+  "location": "22.635816742223806,88.41006562113762",
+  "land_area_utilised": 0,
+  "built_up_area": 0,
+  "total_employee": 5,
+  "coworker_inside_village": 2,
+  "coworker_outside_village": 3,
+  "legal_structure": {
+    "$oid": "679777ac44c8777e0ba63523"
+  },
+  "annual_turnover": 50000,
+  "made_profit": true,
+  "total_profit": 5000,
+  "total_loss": null,
+  "investment_need_so_far": 5000,
+  "water_consumption": 50,
+  "energy_consumption": 500,
+  "raw_material_consumption": [
+    {
+      "item": {
+        "$oid": "6797783944c8777e0ba63532"
+      },
+      "quantity": 2,
+      "raw_consumption_unit": "6799c9f80e76731996b85bba",
+      "_id": {
+        "$oid": "679c60b1e6b5e001dd4c8fda"
+      }
+    }
+  ],
+  "fuel_source": [
+    {
+      "item": {
+        "$oid": "6797784044c8777e0ba63535"
+      },
+      "quantity": 2,
+      "fuel_source_unit": "6799ca020e76731996b85bbd",
+      "_id": {
+        "$oid": "679c60b1e6b5e001dd4c8fdb"
+      }
+    }
+  ],
+  "type_of_infrastructure": [
+    {
+      "$oid": "6797784744c8777e0ba63538"
+    }
+  ],
+  "machine_equipment_installed": "Grass Cutting machine ",
+  "skill_requirement": false,
+  "type_of_skill": "",
+  "skill_urgency": "",
+  "manpower_requirement": true,
+  "number_of_manpower": 1,
+  "manpower_urgency": "6736117ecb51156c2f52683e",
+  "equipment_requirement": false,
+  "equipment_type": "",
+  "equipment_urgency": "",
+  "other": "",
+  "urgency": "",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-31T05:33:37.304Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T05:33:37.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a4b8233e7696ea7339c099"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "business_name": "gg",
+  "business_type": {
+    "$oid": "6788079a650d18f99ddadd7d"
+  },
+  "other_type": "",
+  "year_started": 2012,
+  "brief_description": "hhhh",
+  "segment_served": {
+    "$oid": "67880939650d18f99ddaddad"
+  },
+  "location": "22.6351691,88.4106048",
+  "land_area_utilised": 6,
+  "built_up_area": 9,
+  "total_employee": 2,
+  "coworker_inside_village": 1,
+  "coworker_outside_village": 1,
+  "legal_structure": {
+    "$oid": "679777b644c8777e0ba63526"
+  },
+  "annual_turnover": 88,
+  "made_profit": false,
+  "total_profit": null,
+  "total_loss": 99,
+  "investment_need_so_far": 666,
+  "water_consumption": 6,
+  "energy_consumption": 66699,
+  "raw_material_consumption": [
+    {
+      "item": {
+        "$oid": "6797783944c8777e0ba63532"
+      },
+      "quantity": 6,
+      "raw_consumption_unit": "6799c9f80e76731996b85bba",
+      "_id": {
+        "$oid": "67a4b8233e7696ea7339c09a"
+      }
+    }
+  ],
+  "fuel_source": [
+    {
+      "item": {
+        "$oid": "6797784044c8777e0ba63535"
+      },
+      "quantity": 2,
+      "fuel_source_unit": "6799ca020e76731996b85bbd",
+      "_id": {
+        "$oid": "67a4b8233e7696ea7339c09b"
+      }
+    }
+  ],
+  "type_of_infrastructure": [
+    {
+      "$oid": "67880886650d18f99ddadd9e"
+    }
+  ],
+  "machine_equipment_installed": "tt",
+  "skill_requirement": false,
+  "type_of_skill": "",
+  "skill_urgency": "",
+  "manpower_requirement": false,
+  "number_of_manpower": null,
+  "manpower_urgency": "",
+  "equipment_requirement": false,
+  "equipment_type": "",
+  "equipment_urgency": "",
+  "other": "",
+  "urgency": "",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-06T13:24:51.524Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T13:24:51.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0c942b9aa2904b4cfebc3"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "business_name": "ghhj",
+  "business_type": {
+    "$oid": "673db13b8310fcf665ad689a"
+  },
+  "other_type": "",
+  "year_started": 2025,
+  "brief_description": "yhhh",
+  "segment_served": {
+    "$oid": "67afe8f901f33d7cb6707b28"
+  },
+  "location": "27.212409400243846,90.18555723130703",
+  "land_area_utilised": 55,
+  "built_up_area": 55,
+  "total_employee": 25,
+  "coworker_inside_village": 2,
+  "coworker_outside_village": 5,
+  "legal_structure": {
+    "$oid": "679777d144c8777e0ba6352f"
+  },
+  "annual_turnover": 25000,
+  "made_profit": false,
+  "total_profit": null,
+  "total_loss": null,
+  "investment_need_so_far": 2500,
+  "water_consumption": 2550,
+  "energy_consumption": 250,
+  "raw_material_consumption": [
+    {
+      "item": {
+        "$oid": "67afe9d901f33d7cb6707b8b"
+      },
+      "quantity": 25,
+      "raw_consumption_unit": "67b0704d1f93ee4d2d06c20e",
+      "_id": {
+        "$oid": "67b0c942b9aa2904b4cfebc4"
+      }
+    }
+  ],
+  "fuel_source": [
+    {
+      "item": {
+        "$oid": "67b0711a1f93ee4d2d06c299"
+      },
+      "quantity": 12,
+      "fuel_source_unit": "67b070ae1f93ee4d2d06c281",
+      "_id": {
+        "$oid": "67b0c942b9aa2904b4cfebc5"
+      }
+    }
+  ],
+  "type_of_infrastructure": [
+    {
+      "$oid": "67b074731f93ee4d2d06c2bc"
+    }
+  ],
+  "machine_equipment_installed": "uhhh",
+  "skill_requirement": false,
+  "type_of_skill": "",
+  "skill_urgency": "",
+  "manpower_requirement": false,
+  "number_of_manpower": null,
+  "manpower_urgency": "",
+  "equipment_requirement": false,
+  "equipment_type": "",
+  "equipment_urgency": "",
+  "other": "bjjk",
+  "urgency": "6736117ecb51156c2f52683e",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-15T17:05:06.742Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T17:05:06.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ee01b9aa2904b4cff7a7"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "business_name": "Farming",
+  "business_type": {
+    "$oid": "6788079a650d18f99ddadd7d"
+  },
+  "other_type": "",
+  "year_started": 2025,
+  "brief_description": "nothing ",
+  "segment_served": {
+    "$oid": "678808f7650d18f99ddadda7"
+  },
+  "location": "22.612564,88.3757686",
+  "land_area_utilised": 3598,
+  "built_up_area": 4563,
+  "total_employee": 20,
+  "coworker_inside_village": 10,
+  "coworker_outside_village": 5,
+  "legal_structure": {
+    "$oid": "679777c944c8777e0ba6352c"
+  },
+  "annual_turnover": 58963,
+  "made_profit": false,
+  "total_profit": null,
+  "total_loss": 5269,
+  "investment_need_so_far": 48759,
+  "water_consumption": 3598,
+  "energy_consumption": 2563,
+  "raw_material_consumption": [
+    {
+      "item": {
+        "$oid": "6797783944c8777e0ba63532"
+      },
+      "quantity": 5896,
+      "raw_consumption_unit": "6799c9f80e76731996b85bba",
+      "_id": {
+        "$oid": "67b0ee24b9aa2904b4cff80e"
+      }
+    },
+    {
+      "item": {
+        "$oid": "67afe9b601f33d7cb6707b7f"
+      },
+      "quantity": 256,
+      "raw_consumption_unit": "67b0704d1f93ee4d2d06c20e",
+      "_id": {
+        "$oid": "67b0ee24b9aa2904b4cff80f"
+      }
+    }
+  ],
+  "fuel_source": [
+    {
+      "item": {
+        "$oid": "67b0713d1f93ee4d2d06c2a5"
+      },
+      "quantity": 412,
+      "fuel_source_unit": "67b070ae1f93ee4d2d06c281",
+      "_id": {
+        "$oid": "67b0ee24b9aa2904b4cff810"
+      }
+    },
+    {
+      "item": {
+        "$oid": "67b0711a1f93ee4d2d06c299"
+      },
+      "quantity": 36,
+      "fuel_source_unit": "6799ca020e76731996b85bbd",
+      "_id": {
+        "$oid": "67b0ee24b9aa2904b4cff811"
+      }
+    }
+  ],
+  "type_of_infrastructure": [
+    {
+      "$oid": "67b0745f1f93ee4d2d06c2b6"
+    },
+    {
+      "$oid": "67b074731f93ee4d2d06c2bc"
+    }
+  ],
+  "machine_equipment_installed": "none",
+  "skill_requirement": true,
+  "type_of_skill": "nidjdj",
+  "skill_urgency": "67b0b534b9aa2904b4cfe2ea",
+  "manpower_requirement": true,
+  "number_of_manpower": 236,
+  "manpower_urgency": "67b0b51db9aa2904b4cfe2e4",
+  "equipment_requirement": true,
+  "equipment_type": "djdk",
+  "equipment_urgency": "67b0b529b9aa2904b4cfe2e7",
+  "other": "noen",
+  "urgency": "67b0b534b9aa2904b4cfe2ea",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T19:41:53.943Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:42:28.749Z"
+  },
+  "__v": 0
+}]

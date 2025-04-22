@@ -1,0 +1,1342 @@
+[{
+  "_id": {
+    "$oid": "6731cc1b08481af7fe774200"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "housing",
+    "ms": "housing",
+    "dz": "housing"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-11T09:19:23.025Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T10:10:58.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cc48bcd99b23b57b1a06"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "parking",
+    "ms": "parking",
+    "dz": "parking"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-11T09:20:08.391Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:20:08.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cc4fbcd99b23b57b1a08"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "agroforestry",
+    "ms": "agroforestry",
+    "dz": "agroforestry"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-11T09:20:15.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:20:15.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cc55bcd99b23b57b1a0a"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "farming",
+    "ms": "farming",
+    "dz": "farming"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-11T09:20:21.457Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:20:21.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cc61bcd99b23b57b1a0e"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "fish pond",
+    "ms": "fish pond",
+    "dz": "fish pond"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-11T09:20:33.909Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:20:33.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cc68bcd99b23b57b1a10"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "poultry",
+    "ms": "poultry",
+    "dz": "poultry"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-11T09:20:40.955Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:20:40.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cca7f53352d0caa91715"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "extended family housing (e.g., joint family setup)",
+    "ms": "extended family housing (e.g., joint family setup)",
+    "dz": "extended family housing (e.g., joint family setup)"
+  },
+  "parent": {
+    "$oid": "6731cc1b08481af7fe774200"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:21:43.757Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:21:43.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731ccb1f53352d0caa91717"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "personal residence",
+    "ms": "personal residence",
+    "dz": "personal residence"
+  },
+  "parent": {
+    "$oid": "6731cc1b08481af7fe774200"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:21:53.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:21:53.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731ccb9f53352d0caa91719"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "farmhouse",
+    "ms": "farmhouse",
+    "dz": "farmhouse"
+  },
+  "parent": {
+    "$oid": "6731cc1b08481af7fe774200"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:22:01.239Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:22:01.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731ccbff53352d0caa9171b"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "rental unit(s)",
+    "ms": "rental unit(s)",
+    "dz": "rental unit(s)"
+  },
+  "parent": {
+    "$oid": "6731cc1b08481af7fe774200"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:22:07.544Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:22:07.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731ccc6f53352d0caa9171d"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "temporary shelter",
+    "ms": "temporary shelter",
+    "dz": "temporary shelter"
+  },
+  "parent": {
+    "$oid": "6731cc1b08481af7fe774200"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:22:14.568Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:22:14.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cccef53352d0caa9171f"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "community/shared housing",
+    "ms": "community/shared housing",
+    "dz": "community/shared housing"
+  },
+  "parent": {
+    "$oid": "6731cc1b08481af7fe774200"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:22:22.401Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:22:22.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cce1f53352d0caa91721"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "personal vehicle parking",
+    "ms": "personal vehicle parking",
+    "dz": "personal vehicle parking"
+  },
+  "parent": {
+    "$oid": "6731cc48bcd99b23b57b1a06"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:22:41.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:22:41.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cce8f53352d0caa91723"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "shared/public parking",
+    "ms": "shared/public parking",
+    "dz": "shared/public parking"
+  },
+  "parent": {
+    "$oid": "6731cc48bcd99b23b57b1a06"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:22:48.387Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:22:48.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731ccf0f53352d0caa91725"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "agricultural machinery storage (e.g., tractor, plow)",
+    "ms": "agricultural machinery storage (e.g., tractor, plow)",
+    "dz": "agricultural machinery storage (e.g., tractor, plow)"
+  },
+  "parent": {
+    "$oid": "6731cc48bcd99b23b57b1a06"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:22:56.071Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:22:56.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731ccf7f53352d0caa91727"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "livestock vehicle storage",
+    "ms": "livestock vehicle storage",
+    "dz": "livestock vehicle storage"
+  },
+  "parent": {
+    "$oid": "6731cc48bcd99b23b57b1a06"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:23:03.824Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:23:03.824Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cd10f53352d0caa91729"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "mixed crop and tree systems",
+    "ms": "mixed crop and tree systems",
+    "dz": "mixed crop and tree systems"
+  },
+  "parent": {
+    "$oid": "6731cc4fbcd99b23b57b1a08"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:23:28.674Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:23:28.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cd19f53352d0caa9172b"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "alley cropping( planting rows of trees and shrubs to form alley)",
+    "ms": "alley cropping( planting rows of trees and shrubs to form alley)",
+    "dz": "alley cropping( planting rows of trees and shrubs to form alley)"
+  },
+  "parent": {
+    "$oid": "6731cc4fbcd99b23b57b1a08"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:23:37.197Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:23:37.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cd22f53352d0caa9172d"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "silvopasture (combining forestry and grazing)",
+    "ms": "silvopasture (combining forestry and grazing)",
+    "dz": "silvopasture (combining forestry and grazing)"
+  },
+  "parent": {
+    "$oid": "6731cc4fbcd99b23b57b1a08"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:23:46.367Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:23:46.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cd3ff53352d0caa9172f"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "subsistence farming ( for family or personal use)",
+    "ms": "subsistence farming ( for family or personal use)",
+    "dz": "subsistence farming ( for family or personal use)"
+  },
+  "parent": {
+    "$oid": "6731cc55bcd99b23b57b1a0a"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:24:15.537Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:24:15.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cd47f53352d0caa91731"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "commercial farming (for sale)",
+    "ms": "commercial farming (for sale)",
+    "dz": "commercial farming (for sale)"
+  },
+  "parent": {
+    "$oid": "6731cc55bcd99b23b57b1a0a"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:24:23.616Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:24:23.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cd50f53352d0caa91733"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "horticulture (fruit and vegetable gardens)",
+    "ms": "horticulture (fruit and vegetable gardens)",
+    "dz": "horticulture (fruit and vegetable gardens)"
+  },
+  "parent": {
+    "$oid": "6731cc55bcd99b23b57b1a0a"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:24:32.954Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:24:32.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cd59f53352d0caa91735"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "organic farming",
+    "ms": "organic farming",
+    "dz": "organic farming"
+  },
+  "parent": {
+    "$oid": "6731cc55bcd99b23b57b1a0a"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:24:41.976Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:24:41.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cd6df53352d0caa91737"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "retail store",
+    "ms": "retail store",
+    "dz": "retail store"
+  },
+  "parent": {
+    "$oid": "6731cc5abcd99b23b57b1a0c"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:25:01.154Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:25:01.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cd74f53352d0caa91739"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "handicraft production",
+    "ms": "handicraft production",
+    "dz": "handicraft production"
+  },
+  "parent": {
+    "$oid": "6731cc5abcd99b23b57b1a0c"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:25:08.626Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:25:08.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cd7df53352d0caa9173b"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "agro-product processing (milling, packaging)",
+    "ms": "agro-product processing (milling, packaging)",
+    "dz": "agro-product processing (milling, packaging)"
+  },
+  "parent": {
+    "$oid": "6731cc5abcd99b23b57b1a0c"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:25:17.771Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:25:17.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cd85f53352d0caa9173d"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "workshop (e.g., pottery, weaving)",
+    "ms": "workshop (e.g., pottery, weaving)",
+    "dz": "workshop (e.g., pottery, weaving)"
+  },
+  "parent": {
+    "$oid": "6731cc5abcd99b23b57b1a0c"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:25:25.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:25:25.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cd8df53352d0caa9173f"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "service-based (e.g., beauty salon, repair shop)",
+    "ms": "service-based (e.g., beauty salon, repair shop)",
+    "dz": "service-based (e.g., beauty salon, repair shop)"
+  },
+  "parent": {
+    "$oid": "6731cc5abcd99b23b57b1a0c"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:25:33.632Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:25:33.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cd96f53352d0caa91741"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "rental property (for events or gatherings)",
+    "ms": "rental property (for events or gatherings)",
+    "dz": "rental property (for events or gatherings)"
+  },
+  "parent": {
+    "$oid": "6731cc5abcd99b23b57b1a0c"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:25:42.345Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:25:42.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cdabf53352d0caa91743"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "freshwater fish cultivation",
+    "ms": "freshwater fish cultivation",
+    "dz": "freshwater fish cultivation"
+  },
+  "parent": {
+    "$oid": "6731cc61bcd99b23b57b1a0e"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:26:03.945Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:26:03.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cdb6f53352d0caa91745"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "ornamental fish farming",
+    "ms": "ornamental fish farming",
+    "dz": "ornamental fish farming"
+  },
+  "parent": {
+    "$oid": "6731cc61bcd99b23b57b1a0e"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:26:14.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:26:14.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cdc0f53352d0caa91747"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "aquaponics system ( aquaculture + hydroponics)",
+    "ms": "aquaponics system ( aquaculture + hydroponics)",
+    "dz": "aquaponics system ( aquaculture + hydroponics)"
+  },
+  "parent": {
+    "$oid": "6731cc61bcd99b23b57b1a0e"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:26:24.117Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:26:24.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cdd3f53352d0caa91749"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "family consumption",
+    "ms": "family consumption",
+    "dz": "family consumption"
+  },
+  "parent": {
+    "$oid": "6731cc68bcd99b23b57b1a10"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:26:43.848Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:26:43.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cddbf53352d0caa9174b"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "commercial rearing",
+    "ms": "commercial rearing",
+    "dz": "commercial rearing"
+  },
+  "parent": {
+    "$oid": "6731cc68bcd99b23b57b1a10"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:26:51.671Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:26:51.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cde3f53352d0caa9174d"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "egg production",
+    "ms": "egg production",
+    "dz": "egg production"
+  },
+  "parent": {
+    "$oid": "6731cc68bcd99b23b57b1a10"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:26:59.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:26:59.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cdecf53352d0caa9174f"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "free range rearing",
+    "ms": "free range rearing",
+    "dz": "free range rearing"
+  },
+  "parent": {
+    "$oid": "6731cc68bcd99b23b57b1a10"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:27:08.660Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:27:08.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cdf5f53352d0caa91751"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "community-shared resource",
+    "ms": "community-shared resource",
+    "dz": "community-shared resource"
+  },
+  "parent": {
+    "$oid": "6731cc68bcd99b23b57b1a10"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:27:17.259Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:27:17.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cfb196e51ebd60699bf4"
+  },
+  "type": "status",
+  "name": {
+    "en": "fallow",
+    "ms": "fallow",
+    "dz": "fallow"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-11T09:34:41.143Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:34:41.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cfbb96e51ebd60699bf6"
+  },
+  "type": "status",
+  "name": {
+    "en": "under forest",
+    "ms": "under forest",
+    "dz": "under forest"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-11T09:34:51.453Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:34:51.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cfc396e51ebd60699bf8"
+  },
+  "type": "status",
+  "name": {
+    "en": "under grassland",
+    "ms": "under grassland",
+    "dz": "under grassland"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-11T09:34:59.852Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:34:59.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cfe896e51ebd60699bfb"
+  },
+  "type": "status",
+  "name": {
+    "en": "resting for soil replenishment",
+    "ms": "resting for soil replenishment",
+    "dz": "resting for soil replenishment"
+  },
+  "parent": {
+    "$oid": "6731cfb196e51ebd60699bf4"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:35:36.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:35:36.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cff196e51ebd60699bfd"
+  },
+  "type": "status",
+  "name": {
+    "en": "recently harvested",
+    "ms": "recently harvested",
+    "dz": "recently harvested"
+  },
+  "parent": {
+    "$oid": "6731cfb196e51ebd60699bf4"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:35:45.682Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:35:45.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731cffa96e51ebd60699bff"
+  },
+  "type": "status",
+  "name": {
+    "en": "abandoned farmland",
+    "ms": "abandoned farmland",
+    "dz": "abandoned farmland"
+  },
+  "parent": {
+    "$oid": "6731cfb196e51ebd60699bf4"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:35:54.368Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:35:54.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731d00196e51ebd60699c01"
+  },
+  "type": "status",
+  "name": {
+    "en": "barren land/rocky terrain (not fit for cultivation)",
+    "ms": "barren land/rocky terrain (not fit for cultivation)",
+    "dz": "barren land/rocky terrain (not fit for cultivation)"
+  },
+  "parent": {
+    "$oid": "6731cfb196e51ebd60699bf4"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:36:01.856Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:36:01.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731d00896e51ebd60699c03"
+  },
+  "type": "status",
+  "name": {
+    "en": "seasonal use only (unused during off-seasons)",
+    "ms": "seasonal use only (unused during off-seasons)",
+    "dz": "seasonal use only (unused during off-seasons)"
+  },
+  "parent": {
+    "$oid": "6731cfb196e51ebd60699bf4"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:36:08.512Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:36:08.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731d01096e51ebd60699c05"
+  },
+  "type": "status",
+  "name": {
+    "en": "unused built infrastructure ( sheds, old dwellings etc.)",
+    "ms": "unused built infrastructure ( sheds, old dwellings etc.)",
+    "dz": "unused built infrastructure ( sheds, old dwellings etc.)"
+  },
+  "parent": {
+    "$oid": "6731cfb196e51ebd60699bf4"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:36:16.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:36:16.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731d02e96e51ebd60699c07"
+  },
+  "type": "status",
+  "name": {
+    "en": "natural forest",
+    "ms": "natural forest",
+    "dz": "natural forest"
+  },
+  "parent": {
+    "$oid": "6731cfbb96e51ebd60699bf6"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:36:46.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:36:46.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731d03196e51ebd60699c09"
+  },
+  "type": "status",
+  "name": {
+    "en": "managed/replanted forest",
+    "ms": "managed/replanted forest",
+    "dz": "managed/replanted forest"
+  },
+  "parent": {
+    "$oid": "6731cfbb96e51ebd60699bf6"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:36:49.363Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:36:49.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731d03b96e51ebd60699c0b"
+  },
+  "type": "status",
+  "name": {
+    "en": "sacred grove (culturally protected areas)",
+    "ms": "sacred grove (culturally protected areas)",
+    "dz": "sacred grove (culturally protected areas)"
+  },
+  "parent": {
+    "$oid": "6731cfbb96e51ebd60699bf6"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:36:59.133Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:36:59.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731d04496e51ebd60699c0d"
+  },
+  "type": "status",
+  "name": {
+    "en": "agroforestry integration",
+    "ms": "agroforestry integration",
+    "dz": "agroforestry integration"
+  },
+  "parent": {
+    "$oid": "6731cfbb96e51ebd60699bf6"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:37:08.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:37:08.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731d05596e51ebd60699c0f"
+  },
+  "type": "status",
+  "name": {
+    "en": "pasture/grazing land",
+    "ms": "pasture/grazing land",
+    "dz": "pasture/grazing land"
+  },
+  "parent": {
+    "$oid": "6731cfc396e51ebd60699bf8"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:37:25.658Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:37:25.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731d06396e51ebd60699c11"
+  },
+  "type": "status",
+  "name": {
+    "en": "wild grassland",
+    "ms": "wild grassland",
+    "dz": "wild grassland"
+  },
+  "parent": {
+    "$oid": "6731cfc396e51ebd60699bf8"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:37:39.419Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:37:39.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731d06b96e51ebd60699c13"
+  },
+  "type": "status",
+  "name": {
+    "en": "community grazing",
+    "ms": "community grazing",
+    "dz": "community grazing"
+  },
+  "parent": {
+    "$oid": "6731cfc396e51ebd60699bf8"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T09:37:47.262Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T09:37:47.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673498d2c5f7d418500fb4ff"
+  },
+  "type": "purpose_requirement",
+  "name": {
+    "en": "community infrastructure",
+    "ms": "community infrastructure",
+    "dz": "community infrastructure"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-13T12:17:22.399Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T12:17:22.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6734990e91b3b513db393756"
+  },
+  "type": "purpose_requirement",
+  "name": {
+    "en": "agroforestry/ farming",
+    "ms": "agroforestry/ farming",
+    "dz": "agroforestry/ farming"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-13T12:18:22.577Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T12:18:22.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6734991c91b3b513db393758"
+  },
+  "type": "purpose_requirement",
+  "name": {
+    "en": "commercial",
+    "ms": "commercial",
+    "dz": "commercial"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-13T12:18:36.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T12:18:36.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6734993891b3b513db39375e"
+  },
+  "type": "purpose_requirement",
+  "name": {
+    "en": "forest/natural reserve",
+    "ms": "forest/natural reserve",
+    "dz": "forest/natural reserve"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-13T12:19:04.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T12:19:04.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6734993e91b3b513db393760"
+  },
+  "type": "purpose_requirement",
+  "name": {
+    "en": "grasslands",
+    "ms": "grasslands",
+    "dz": "grasslands"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-13T12:19:10.157Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T12:19:10.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673499a891b3b513db393762"
+  },
+  "type": "urgency_requirement",
+  "name": {
+    "en": "within 1 year",
+    "ms": "within 1 year",
+    "dz": "within 1 year"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-13T12:20:56.476Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T12:20:56.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673499b091b3b513db393764"
+  },
+  "type": "urgency_requirement",
+  "name": {
+    "en": "within 2-5 years",
+    "ms": "within 2-5 years",
+    "dz": "within 2-5 years"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-13T12:21:04.462Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T12:21:04.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673499b791b3b513db393766"
+  },
+  "type": "urgency_requirement",
+  "name": {
+    "en": "within 5-10 years",
+    "ms": "within 5-10 years",
+    "dz": "within 5-10 years"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-13T12:21:11.880Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T12:21:11.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673499be91b3b513db393768"
+  },
+  "type": "urgency_requirement",
+  "name": {
+    "en": "after- 10 years",
+    "ms": "after- 10 years",
+    "dz": "after- 10 years"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2024-11-13T12:21:18.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T12:21:18.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cb63fe6b5e001dd4c9d6a"
+  },
+  "type": "purpose_requirement",
+  "name": {
+    "en": "housing",
+    "ms": "housing",
+    "dz": "housing"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-01-31T11:38:39.267Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:38:39.267Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cb648e6b5e001dd4c9d6d"
+  },
+  "type": "purpose_requirement",
+  "name": {
+    "en": "fish pond",
+    "ms": "fish pond",
+    "dz": "fish pond"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-01-31T11:38:48.521Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:38:48.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cb652e6b5e001dd4c9d70"
+  },
+  "type": "purpose_requirement",
+  "name": {
+    "en": "poultry",
+    "ms": "poultry",
+    "dz": "poultry"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-01-31T11:38:58.713Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:38:58.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cb664e6b5e001dd4c9d73"
+  },
+  "type": "purpose_requirement",
+  "name": {
+    "en": "other (specify)",
+    "ms": "other (specify)",
+    "dz": "other (specify)"
+  },
+  "parent": null,
+  "createdAt": {
+    "$date": "2025-01-31T11:39:16.740Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:39:16.740Z"
+  },
+  "__v": 0
+}]

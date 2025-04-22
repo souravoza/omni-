@@ -1,0 +1,536 @@
+[{
+  "_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "name": {
+    "en": "chicken",
+    "ms": "ayam",
+    "dz": "ja-pay"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:33:47.403Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:17:52.886Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "poultry"
+},
+{
+  "_id": {
+    "$oid": "6574509b2aba8aa09e40f7a6"
+  },
+  "name": {
+    "en": "duck",
+    "ms": "itik",
+    "dz": "duck"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:33:47.862Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:15:29.555Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "poultry"
+},
+{
+  "_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "name": {
+    "en": "cows",
+    "ms": "lembu",
+    "dz": "ba "
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:33:48.034Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:58:48.782Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "poultry"
+},
+{
+  "_id": {
+    "$oid": "6574509c2aba8aa09e40f7aa"
+  },
+  "name": {
+    "en": "goats",
+    "ms": "kambing",
+    "dz": "ra"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:33:48.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:18:15.052Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "poultry"
+},
+{
+  "_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "name": {
+    "en": "pig",
+    "ms": "babi",
+    "dz": "pham"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:33:48.194Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T17:17:35.700Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "poultry"
+},
+{
+  "_id": {
+    "$oid": "6574509c2aba8aa09e40f7af"
+  },
+  "name": {
+    "en": "goose",
+    "ms": "angsa",
+    "dz": "goose"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:33:48.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:15:36.467Z"
+  },
+  "__v": 0,
+  "ideal_consumption_per_person": 20,
+  "category": "poultry"
+},
+{
+  "_id": {
+    "$oid": "6644ee70ba80bcf5f99472f7"
+  },
+  "name": {
+    "en": "sheep",
+    "ms": "sheep",
+    "dz": "lu"
+  },
+  "country": [
+    "bhutan",
+    "malaysia",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-15T17:18:40.611Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:15:44.835Z"
+  },
+  "__v": 0,
+  "category": "poultry"
+},
+{
+  "_id": {
+    "$oid": "6645c2f2df633f228df3fb91"
+  },
+  "name": {
+    "en": "yak butter",
+    "ms": "yak butter",
+    "dz": "yak butter"
+  },
+  "country": [
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:25:22.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:52:52.822Z"
+  },
+  "__v": 0,
+  "category": "poultry"
+},
+{
+  "_id": {
+    "$oid": "67ab946645495d1ec97022af"
+  },
+  "name": {
+    "en": "bees",
+    "ms": "lebah",
+    "dz": "bees"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:18:14.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T18:20:14.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab957b45495d1ec97022ba"
+  },
+  "name": {
+    "en": "cattle",
+    "ms": "lembu",
+    "dz": "cattle"
+  },
+  "country": [
+    "malaysia",
+    "bhutan",
+    "india"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:22:51.495Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:59:52.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab95e045495d1ec97022c9"
+  },
+  "name": {
+    "en": "poultry",
+    "ms": "ayam itik",
+    "dz": "poultry"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:24:32.915Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:58:15.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ab966445495d1ec97022cc"
+  },
+  "name": {
+    "en": "horses",
+    "ms": "kuda",
+    "dz": "horses"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-11T18:26:44.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:58:35.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f0e1b9aa2904b4cffaf8"
+  },
+  "name": {
+    "en": "local cheese",
+    "ms": "local cheese",
+    "dz": "local cheese"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T19:54:09.149Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:54:09.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f181b9aa2904b4cffba0"
+  },
+  "name": {
+    "en": "hardened cheese (chugo)",
+    "ms": "hardened cheese (chugo)",
+    "dz": "hardened cheese (chugo)"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T19:56:49.037Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:56:49.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f18fb9aa2904b4cffbad"
+  },
+  "name": {
+    "en": "milk",
+    "ms": "milk",
+    "dz": "milk"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T19:57:03.353Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:57:03.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f19cb9aa2904b4cffbb8"
+  },
+  "name": {
+    "en": " yogurt/curd",
+    "ms": " yogurt/curd",
+    "dz": " yogurt/curd"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T19:57:16.190Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:57:16.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f1a7b9aa2904b4cffbbb"
+  },
+  "name": {
+    "en": "whey (darchu)",
+    "ms": "whey (darchu)",
+    "dz": "whey (darchu)"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T19:57:27.170Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:57:27.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f1b0b9aa2904b4cffbbe"
+  },
+  "name": {
+    "en": "proccessed cheese",
+    "ms": "proccessed cheese",
+    "dz": "proccessed cheese"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T19:57:36.219Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:57:36.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f1bab9aa2904b4cffbc8"
+  },
+  "name": {
+    "en": " egg",
+    "ms": " egg",
+    "dz": " egg"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T19:57:46.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:57:46.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b407395e4b738d894d0d6b"
+  },
+  "name": {
+    "en": "chicken ",
+    "ms": "chicken ",
+    "dz": "chicken "
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": null,
+  "status": 0,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-18T04:06:17.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:06:17.204Z"
+  },
+  "__v": 0
+}]

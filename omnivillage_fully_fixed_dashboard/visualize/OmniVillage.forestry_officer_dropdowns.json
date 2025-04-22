@@ -1,0 +1,306 @@
+[{
+  "_id": {
+    "$oid": "676175bd7ba54e3fd9e411a4"
+  },
+  "type": "type_of_forest_accessible",
+  "name": {
+    "en": "community / village forest",
+    "ms": "community / village forest",
+    "dz": "community / village forest"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:59:41.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:41:09.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676175c67ba54e3fd9e411a7"
+  },
+  "type": "condition_of_forest_accessible",
+  "name": {
+    "en": "healthy",
+    "ms": "healthy",
+    "dz": "healthy"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:59:50.909Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:42:07.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676175cc7ba54e3fd9e411aa"
+  },
+  "type": "incident_of_forest_fire",
+  "name": {
+    "en": "occasional (once in 2-5 years)",
+    "ms": "occasional (once in 2-5 years)",
+    "dz": "occasional (once in 2-5 years)"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:59:56.344Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:43:25.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3acff5e4b738d894d048e"
+  },
+  "type": "type_of_forest_accessible",
+  "name": {
+    "en": "protected / government-managed forest",
+    "ms": "protected / government-managed forest",
+    "dz": "protected / government-managed forest"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:41:19.857Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:41:19.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ad075e4b738d894d0491"
+  },
+  "type": "type_of_forest_accessible",
+  "name": {
+    "en": "private forest / plantation",
+    "ms": "private forest / plantation",
+    "dz": "private forest / plantation"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:41:27.325Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:41:27.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ad105e4b738d894d0494"
+  },
+  "type": "type_of_forest_accessible",
+  "name": {
+    "en": "sacred groves / culturally protected forest",
+    "ms": "sacred groves / culturally protected forest",
+    "dz": "sacred groves / culturally protected forest"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:41:36.715Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:41:36.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ad195e4b738d894d0497"
+  },
+  "type": "type_of_forest_accessible",
+  "name": {
+    "en": "agroforestry / farm woodlots",
+    "ms": "agroforestry / farm woodlots",
+    "dz": "agroforestry / farm woodlots"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:41:45.260Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:41:45.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ad225e4b738d894d049a"
+  },
+  "type": "type_of_forest_accessible",
+  "name": {
+    "en": "secondary or regenerated forest",
+    "ms": "secondary or regenerated forest",
+    "dz": "secondary or regenerated forest"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:41:54.334Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:41:54.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ad375e4b738d894d049f"
+  },
+  "type": "condition_of_forest_accessible",
+  "name": {
+    "en": "disturbed",
+    "ms": "disturbed",
+    "dz": "disturbed"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:42:15.173Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:42:15.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ad3f5e4b738d894d04a2"
+  },
+  "type": "condition_of_forest_accessible",
+  "name": {
+    "en": "degraded",
+    "ms": "degraded",
+    "dz": "degraded"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:42:23.313Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:42:23.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ad465e4b738d894d04a5"
+  },
+  "type": "condition_of_forest_accessible",
+  "name": {
+    "en": "diseased",
+    "ms": "diseased",
+    "dz": "diseased"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:42:30.598Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:42:30.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ad505e4b738d894d04a9"
+  },
+  "type": "condition_of_forest_accessible",
+  "name": {
+    "en": "fragmented",
+    "ms": "fragmented",
+    "dz": "fragmented"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:42:40.321Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:42:40.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ad565e4b738d894d04ac"
+  },
+  "type": "incident_of_forest_fire",
+  "name": {
+    "en": "no incidents reported",
+    "ms": "no incidents reported",
+    "dz": "no incidents reported"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:42:46.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:43:13.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ad885e4b738d894d04b3"
+  },
+  "type": "incident_of_forest_fire",
+  "name": {
+    "en": "frequent (annually)",
+    "ms": "frequent (annually)",
+    "dz": "frequent (annually)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:43:36.189Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:43:36.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ad945e4b738d894d04b6"
+  },
+  "type": "incident_of_forest_fire",
+  "name": {
+    "en": "very frequent (multiple times a year)",
+    "ms": "very frequent (multiple times a year)",
+    "dz": "very frequent (multiple times a year)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:43:48.900Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:43:48.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b446bb5e4b738d894d421a"
+  },
+  "type": "type_of_forest_accessible",
+  "name": {
+    "en": " other",
+    "ms": " other",
+    "dz": " other"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T08:37:15.020Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:37:15.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4472f5e4b738d894d421d"
+  },
+  "type": "incident_of_forest_fire",
+  "name": {
+    "en": "rare (once in 5+ years)",
+    "ms": "rare (once in 5+ years)",
+    "dz": " rare (once in 5+ years)"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T08:39:11.217Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:39:11.217Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,2156 @@
+[{
+  "_id": {
+    "$oid": "659a5ca0718211331fc183c1"
+  },
+  "name": "Goat milk",
+  "production_output": 20,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7aa"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 14,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T08:11:12.144Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:11:12.144Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5ba4718211331fc1836b"
+  },
+  "name": "Chicken Product ",
+  "production_output": 20,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 10,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 6,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T08:07:00.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:07:00.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5c3a718211331fc18399"
+  },
+  "name": "Milk",
+  "production_output": 35,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 5,
+  "sold_to_neighbours": 5,
+  "sold_for_industrial_use": 5,
+  "wastage": 20,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T08:09:30.932Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:09:30.932Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5d4f718211331fc18405"
+  },
+  "name": "Goose product ",
+  "production_output": 20,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7af"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 10,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 6,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T08:14:07.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:14:07.456Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5daa718211331fc18426"
+  },
+  "name": "Nothing ",
+  "production_output": 20,
+  "poultry_crop_id": {
+    "$oid": "658d61d7b2e230df391a81dc"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 14,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T08:15:38.104Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:15:38.104Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5be7718211331fc1837f"
+  },
+  "name": "Duck Product ",
+  "production_output": 20,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f7a6"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 14,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T08:08:07.214Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:08:07.214Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5cf9718211331fc183e4"
+  },
+  "name": "Meat ",
+  "production_output": 10,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 4,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T08:12:41.329Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:12:41.329Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6614eb3126e1647c6caee5df"
+  },
+  "name": "Egg",
+  "production_output": 20,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 5,
+  "sold_to_neighbours": 5,
+  "sold_for_industrial_use": 5,
+  "wastage": 5,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-04-09T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-09T07:16:01.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T07:16:01.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6614ebdd26e1647c6caee608"
+  },
+  "name": "Milk",
+  "production_output": 50,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 10,
+  "sold_to_neighbours": 10,
+  "sold_for_industrial_use": 20,
+  "wastage": 10,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-04-09T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-09T07:18:53.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T07:18:53.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645b6f7df633f228df3f602"
+  },
+  "name": "Meat",
+  "production_output": 0,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:34:15.313Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:34:15.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645c0645f92efa587c87fff"
+  },
+  "name": "Butter",
+  "production_output": 10,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 5,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:14:28.772Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:14:28.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799f2d18bbdaac5708ec4a4"
+  },
+  "name": "Eggs",
+  "production_output": 100,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 30,
+  "sold_to_neighbours": 20,
+  "sold_for_industrial_use": 49,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-01-06T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-29T09:20:17.937Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:20:17.937Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799f2d68bbdaac5708ec4b5"
+  },
+  "name": "Meat",
+  "production_output": 5,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 1,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-01-29T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-29T09:20:22.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:20:22.653Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a43e113e7696ea7339b23d"
+  },
+  "name": "Meat",
+  "production_output": 10,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 5,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-20T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-06T04:44:01.975Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T04:44:01.975Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67adbefc76793a6ad3158ead"
+  },
+  "name": "Egg",
+  "production_output": 12,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 8,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 2,
+  "other": "None",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-13T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-13T09:44:28.647Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:44:28.647Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0bbb0b9aa2904b4cfe426"
+  },
+  "name": "Butter",
+  "production_output": 500,
+  "poultry_crop_id": {
+    "$oid": "67ab957b45495d1ec97022ba"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 497,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T16:07:12.796Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:07:12.796Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b17f0bb9aa2904b4d00e34"
+  },
+  "name": "Test",
+  "production_output": 50,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 10,
+  "sold_to_neighbours": 10,
+  "sold_for_industrial_use": 10,
+  "wastage": 20,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T06:00:43.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:00:43.979Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b1817ab9aa2904b4d00f7a"
+  },
+  "name": "Egg",
+  "production_output": 10,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 7,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T06:11:06.380Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:11:06.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b182c8b9aa2904b4d00fc6"
+  },
+  "name": "Milk",
+  "production_output": 365,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 362,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T06:16:40.102Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:16:40.102Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b1bd6265a8ac9a674a7a82"
+  },
+  "name": "Eggs",
+  "production_output": 4,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 1,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T10:26:42.405Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:26:42.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b1bf6c65a8ac9a674a7aa3"
+  },
+  "name": "Milk",
+  "production_output": 100,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 50,
+  "sold_to_neighbours": 48,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T10:35:24.425Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:35:24.425Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b1bf6c65a8ac9a674a7aa4"
+  },
+  "name": "Cheese.",
+  "production_output": 10,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 4,
+  "sold_to_neighbours": 4,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T10:35:24.425Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:35:24.425Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b1bf6c65a8ac9a674a7aa5"
+  },
+  "name": "Butter ",
+  "production_output": 4,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 1,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T10:35:24.425Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:35:24.425Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2af7e65a8ac9a674a9695"
+  },
+  "name": "Eggs",
+  "production_output": 6,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 3,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T03:39:42.695Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:39:42.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2b01565a8ac9a674a9758"
+  },
+  "name": "Milk ",
+  "production_output": 4,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 1,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T03:42:13.253Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:42:13.253Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2b0ea65a8ac9a674a991e"
+  },
+  "name": "Offsprings",
+  "production_output": 5,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 1,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T03:45:46.903Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:45:46.903Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2b18965a8ac9a674a99b3"
+  },
+  "name": "Not yet",
+  "production_output": 4,
+  "poultry_crop_id": {
+    "$oid": "67ab946645495d1ec97022af"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 1,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T03:48:25.930Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:48:25.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2b61d65a8ac9a674aa08c"
+  },
+  "name": "Milk ",
+  "production_output": 50,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 20,
+  "sold_to_neighbours": 10,
+  "sold_for_industrial_use": 19,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-11T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:07:57.854Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:01:16.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2b73765a8ac9a674aa1c5"
+  },
+  "name": "6",
+  "production_output": 10,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 5,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 3,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "createdAt": {
+    "$date": "2025-02-17T04:12:39.916Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:00:24.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b93865a8ac9a674aa487"
+  },
+  "name": "Chicken ",
+  "production_output": 40,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 24,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 14,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:21:12.984Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:21:12.984Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2b93865a8ac9a674aa488"
+  },
+  "name": "Chicken",
+  "production_output": 40,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 24,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 14,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:21:12.984Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:21:12.984Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2b93865a8ac9a674aa489"
+  },
+  "name": "Chicken ",
+  "production_output": 40,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 24,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 14,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:21:12.984Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:21:12.984Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2bb5165a8ac9a674aa77e"
+  },
+  "name": "Egg ",
+  "production_output": 100,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 97,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:30:09.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:30:09.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2bb5165a8ac9a674aa77f"
+  },
+  "name": "Egg",
+  "production_output": 0,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:30:09.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:30:09.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2bb5165a8ac9a674aa780"
+  },
+  "name": "Egg",
+  "production_output": 0,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:30:09.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:30:09.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2bc4065a8ac9a674aa919"
+  },
+  "name": "Cows",
+  "production_output": 9,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 6,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:34:08.081Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:34:08.081Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2bc4065a8ac9a674aa91a"
+  },
+  "name": "Cows",
+  "production_output": 9,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 6,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:34:08.081Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:34:08.081Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2bd1e65a8ac9a674aabe2"
+  },
+  "name": "Milk, cheese, butter ",
+  "production_output": 730,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 727,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:37:50.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:37:50.416Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2bd1e65a8ac9a674aabe3"
+  },
+  "name": "Milk ",
+  "production_output": 730,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 727,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:37:50.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:37:50.416Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2bd1e65a8ac9a674aabe4"
+  },
+  "name": "Cheese ",
+  "production_output": 100,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 97,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-04T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:37:50.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:37:50.416Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2bd1e65a8ac9a674aabe5"
+  },
+  "name": "Butter",
+  "production_output": 50,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 46,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 1,
+  "month_harvested": {
+    "$date": "2025-02-11T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:37:50.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:37:50.416Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2e73565a8ac9a674afc77"
+  },
+  "name": "Eggs, chicken 🍗",
+  "production_output": 200,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 45,
+  "sold_to_neighbours": 50,
+  "sold_for_industrial_use": 100,
+  "wastage": 5,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T07:37:25.846Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:00:50.624Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2e96765a8ac9a674afe5c"
+  },
+  "name": "Milk, cheese,butter and meat.",
+  "production_output": 200,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 25,
+  "sold_to_neighbours": 25,
+  "sold_for_industrial_use": 145,
+  "wastage": 5,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T07:46:47.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:00:01.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ec4865a8ac9a674b00fb"
+  },
+  "name": "Pork",
+  "production_output": 150,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 20,
+  "sold_to_neighbours": 30,
+  "sold_for_industrial_use": 95,
+  "wastage": 5,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T07:59:04.155Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:59:04.155Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ef1565a8ac9a674b060c"
+  },
+  "name": "Egg",
+  "production_output": 5,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 2,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-05T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:11:01.779Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:11:01.779Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ef9c65a8ac9a674b06bf"
+  },
+  "name": "Chicken ",
+  "production_output": 15,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 8,
+  "sold_to_neighbours": 5,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-03-11T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:13:16.734Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:13:16.734Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2efe065a8ac9a674b076f"
+  },
+  "name": "Cheese, butter",
+  "production_output": 20,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 17,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:14:24.419Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:14:24.419Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2f05165a8ac9a674b083c"
+  },
+  "name": "Chicken",
+  "production_output": 8,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 5,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:16:17.846Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:16:17.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2f06165a8ac9a674b08a7"
+  },
+  "name": "Cow",
+  "production_output": 50,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 40,
+  "sold_to_neighbours": 3,
+  "sold_for_industrial_use": 6,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-11T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:16:33.028Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:16:33.028Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2f0c765a8ac9a674b09b0"
+  },
+  "name": "Pig ",
+  "production_output": 60,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 40,
+  "sold_to_neighbours": 10,
+  "sold_for_industrial_use": 9,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-04T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:18:15.639Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:18:15.639Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2f23765a8ac9a674b101c"
+  },
+  "name": "Pig",
+  "production_output": 32,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 20,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 10,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:24:23.835Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:24:23.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2f23765a8ac9a674b101d"
+  },
+  "name": "Pig",
+  "production_output": 0,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:24:23.835Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:24:23.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2f31165a8ac9a674b130c"
+  },
+  "name": "Bees",
+  "production_output": 4,
+  "poultry_crop_id": {
+    "$oid": "67ab946645495d1ec97022af"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 1,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:28:01.836Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:28:01.836Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2f31165a8ac9a674b130d"
+  },
+  "name": "Bees",
+  "production_output": 0,
+  "poultry_crop_id": {
+    "$oid": "67ab946645495d1ec97022af"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:28:01.836Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:28:01.836Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ff2665a8ac9a674b3a72"
+  },
+  "name": "Eggs ",
+  "production_output": 5,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 2,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T09:19:34.855Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:19:34.855Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b3028465a8ac9a674b43c8"
+  },
+  "name": "Milk",
+  "production_output": 360,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 357,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T09:33:56.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:33:56.117Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b3028465a8ac9a674b43c9"
+  },
+  "name": "Cheese ",
+  "production_output": 100,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 97,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T09:33:56.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:33:56.117Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b3028465a8ac9a674b43ca"
+  },
+  "name": "Butter ",
+  "production_output": 5,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 2,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T09:33:56.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:33:56.117Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b3164fb59374d0a2a9fb4f"
+  },
+  "name": "Egg ",
+  "production_output": 5,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 2,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T10:58:23.735Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:58:23.735Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b316ebb59374d0a2a9fb77"
+  },
+  "name": "Cheese, butter ",
+  "production_output": 10,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 5,
+  "sold_to_neighbours": 3,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T11:00:59.868Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:00:59.868Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b336045e4b738d894ce984"
+  },
+  "name": "Chicken ",
+  "production_output": 7,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T13:13:40.871Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T13:13:40.871Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b336045e4b738d894ce985"
+  },
+  "name": "Chicken ",
+  "production_output": 7,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T13:13:40.872Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T13:13:40.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b33cbb5e4b738d894cecaa"
+  },
+  "name": "Pig",
+  "production_output": 40,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 10,
+  "sold_to_neighbours": 10,
+  "sold_for_industrial_use": 19,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T13:42:19.512Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T13:42:19.512Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b34b7e5e4b738d894cf861"
+  },
+  "name": "Cow",
+  "production_output": 50,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 20,
+  "sold_to_neighbours": 10,
+  "sold_for_industrial_use": 19,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T14:45:18.748Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:45:18.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b34b7e5e4b738d894cf862"
+  },
+  "name": "Cow",
+  "production_output": 50,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 20,
+  "sold_to_neighbours": 10,
+  "sold_for_industrial_use": 19,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T14:45:18.749Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:45:18.749Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b34ea25e4b738d894cfac4"
+  },
+  "name": "Poultry ",
+  "production_output": 50,
+  "poultry_crop_id": {
+    "$oid": "67ab95e045495d1ec97022c9"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 30,
+  "sold_to_neighbours": 10,
+  "sold_for_industrial_use": 9,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T14:58:42.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:58:42.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b34ea25e4b738d894cfac5"
+  },
+  "name": "Poultry ",
+  "production_output": 50,
+  "poultry_crop_id": {
+    "$oid": "67ab95e045495d1ec97022c9"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 30,
+  "sold_to_neighbours": 10,
+  "sold_for_industrial_use": 9,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T14:58:42.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:58:42.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b34ea25e4b738d894cfac6"
+  },
+  "name": "Poultry ",
+  "production_output": 50,
+  "poultry_crop_id": {
+    "$oid": "67ab95e045495d1ec97022c9"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 30,
+  "sold_to_neighbours": 10,
+  "sold_for_industrial_use": 9,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T14:58:42.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:58:42.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b34f8f5e4b738d894cfb6d"
+  },
+  "name": "Local cheese ",
+  "production_output": 50,
+  "poultry_crop_id": {
+    "$oid": "67b0f0e1b9aa2904b4cffaf8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 10,
+  "sold_to_neighbours": 20,
+  "sold_for_industrial_use": 19,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T15:02:39.252Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:02:39.252Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b34f8f5e4b738d894cfb6e"
+  },
+  "name": "Local cheese ",
+  "production_output": 50,
+  "poultry_crop_id": {
+    "$oid": "67b0f0e1b9aa2904b4cffaf8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 10,
+  "sold_to_neighbours": 20,
+  "sold_for_industrial_use": 19,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T15:02:39.252Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:02:39.252Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b34f8f5e4b738d894cfb6f"
+  },
+  "name": "Local cheese ",
+  "production_output": 50,
+  "poultry_crop_id": {
+    "$oid": "67b0f0e1b9aa2904b4cffaf8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 10,
+  "sold_to_neighbours": 20,
+  "sold_for_industrial_use": 19,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T15:02:39.252Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:02:39.252Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b350465e4b738d894cfbe5"
+  },
+  "name": "Milk",
+  "production_output": 40,
+  "poultry_crop_id": {
+    "$oid": "67b0f18fb9aa2904b4cffbad"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 15,
+  "sold_to_neighbours": 10,
+  "sold_for_industrial_use": 14,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-10-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T15:05:42.019Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:05:42.019Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b406c35e4b738d894d0c87"
+  },
+  "name": "Egg",
+  "production_output": 15,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 12,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T04:04:19.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:04:19.856Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b407e05e4b738d894d0dcf"
+  },
+  "name": "Egg",
+  "production_output": 7,
+  "poultry_crop_id": {
+    "$oid": "67b407395e4b738d894d0d6b"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 4,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 1,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T04:09:04.273Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:09:04.273Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b421585e4b738d894d31ef"
+  },
+  "name": "Chicken",
+  "production_output": 0,
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T05:57:44.002Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:57:44.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b422935e4b738d894d3242"
+  },
+  "name": "Cow",
+  "production_output": 0,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T06:02:59.484Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T06:02:59.484Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b457b05e4b738d894d469e"
+  },
+  "name": "Pig",
+  "production_output": 0,
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "self_consumed": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T09:49:36.723Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:49:36.723Z"
+  }
+}]

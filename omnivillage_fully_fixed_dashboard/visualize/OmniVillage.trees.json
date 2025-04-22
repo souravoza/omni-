@@ -1,0 +1,3503 @@
+[{
+  "_id": {
+    "$oid": "659a50e0718211331fc1802e"
+  },
+  "tree_crop_id": {
+    "$oid": "657450ae87c70be81f1c06db"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 5,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 2000,
+  "expenditure_on_inputs": 1000,
+  "products": [
+    {
+      "$oid": "659a50e0718211331fc1802c"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:21:04.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:21:04.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5129718211331fc18071"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06e9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 31,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic purchased",
+  "type_of_pesticide_used": "organic purchased",
+  "income_from_sale": 1000,
+  "expenditure_on_inputs": 500,
+  "products": [
+    {
+      "$oid": "659a5129718211331fc1806f"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:22:17.206Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:22:17.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a522b718211331fc180fb"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06ed"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 37,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 24,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 20000,
+  "expenditure_on_inputs": 4046,
+  "products": [
+    {
+      "$oid": "659a522b718211331fc180f9"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:26:35.793Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:26:35.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a55f4718211331fc18211"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 20,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 200,
+  "type_of_fertilizer_used": "organic purchased",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 100,
+  "expenditure_on_inputs": 20,
+  "products": [
+    {
+      "$oid": "659a55f4718211331fc1820f"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:42:44.337Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:42:44.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a569f718211331fc18242"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c0703"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 20,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "chemical based",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 200,
+  "expenditure_on_inputs": 46,
+  "products": [
+    {
+      "$oid": "659a569f718211331fc18240"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:45:35.535Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:45:35.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a51a7718211331fc180e8"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06eb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 20,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 20,
+  "type_of_fertilizer_used": "chemical based",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 2000,
+  "expenditure_on_inputs": 940,
+  "products": [
+    {
+      "$oid": "659a51a7718211331fc180e6"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:24:23.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:24:23.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5722718211331fc18255"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c0705"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 10,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 20,
+  "type_of_fertilizer_used": "chemical based",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 200,
+  "expenditure_on_inputs": 40,
+  "products": [
+    {
+      "$oid": "659a5722718211331fc18253"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:47:46.589Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:47:46.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a57c6718211331fc18268"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c0707"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 20,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 19,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 1000,
+  "expenditure_on_inputs": 656,
+  "products": [
+    {
+      "$oid": "659a57c6718211331fc18266"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:50:30.485Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:50:30.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a593e718211331fc182b6"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c070f"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 20,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "chemical based",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 200,
+  "expenditure_on_inputs": 27,
+  "products": [
+    {
+      "$oid": "659a593e718211331fc182b4"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:56:46.763Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:56:46.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5ad5718211331fc18332"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0719"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 30,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "chemical based",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 200,
+  "expenditure_on_inputs": 150,
+  "products": [
+    {
+      "$oid": "659a5ad5718211331fc18330"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:03:33.417Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:03:33.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a52d7718211331fc1811f"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06f1"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 12,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 25,
+  "type_of_fertilizer_used": "organic purchased",
+  "type_of_pesticide_used": "organic purchased",
+  "income_from_sale": 809,
+  "expenditure_on_inputs": 88,
+  "products": [
+    {
+      "$oid": "659a52d7718211331fc1811d"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:29:27.641Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:29:27.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5547718211331fc181e9"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 10,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic purchased",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 40,
+  "expenditure_on_inputs": 20,
+  "products": [
+    {
+      "$oid": "659a5547718211331fc181e7"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:39:51.619Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:39:51.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5a3f718211331fc18301"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0715"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 20,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 83,
+  "type_of_fertilizer_used": "organic purchased",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 2500,
+  "expenditure_on_inputs": 1250,
+  "products": [
+    {
+      "$oid": "659a5a3f718211331fc182ff"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:01:03.447Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:01:03.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5a8f718211331fc18314"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0717"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 20,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 200,
+  "expenditure_on_inputs": 43,
+  "products": [
+    {
+      "$oid": "659a5a8f718211331fc18312"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:02:23.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:02:23.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5297718211331fc1810c"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06ef"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 28,
+  "avg_age_of_trees": "20 to 30 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 300,
+  "expenditure_on_inputs": 80,
+  "products": [
+    {
+      "$oid": "659a5297718211331fc1810a"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:28:23.501Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:28:23.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a533d718211331fc18139"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06f3"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 46,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 10,
+  "type_of_fertilizer_used": "organic purchased",
+  "type_of_pesticide_used": "organic purchased",
+  "income_from_sale": 200,
+  "expenditure_on_inputs": 100,
+  "products": [
+    {
+      "$oid": "659a533d718211331fc18137"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:31:09.123Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:31:09.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a53ee718211331fc1817e"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06f5"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 20,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 2000,
+  "expenditure_on_inputs": 1000,
+  "products": [
+    {
+      "$oid": "659a53ee718211331fc1817c"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:34:06.548Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:34:06.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5479718211331fc1818f"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06f7"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 10,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "chemical based",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 200,
+  "expenditure_on_inputs": 100,
+  "products": [
+    {
+      "$oid": "659a5479718211331fc1818d"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:36:25.178Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:36:25.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a54c5718211331fc181a4"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06f9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 10,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 100,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 1000,
+  "expenditure_on_inputs": 100,
+  "products": [
+    {
+      "$oid": "659a54c5718211331fc181a2"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:37:41.522Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:37:41.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a559a718211331fc181fc"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fd"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 100,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic purchased",
+  "type_of_pesticide_used": "organic purchased",
+  "income_from_sale": 200,
+  "expenditure_on_inputs": 100,
+  "products": [
+    {
+      "$oid": "659a559a718211331fc181fa"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:41:14.927Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:41:14.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a564b718211331fc18224"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c0701"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 20,
+  "avg_age_of_trees": "20 to 30 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 20,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic purchased",
+  "income_from_sale": 2000,
+  "expenditure_on_inputs": 100,
+  "products": [
+    {
+      "$oid": "659a564b718211331fc18222"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:44:11.047Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:44:11.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5847718211331fc1827f"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c0709"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 166,
+  "avg_age_of_trees": "20 to 30 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "chemical based",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 4698,
+  "expenditure_on_inputs": 979,
+  "products": [
+    {
+      "$oid": "659a5847718211331fc1827d"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:52:39.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:52:39.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a58a0718211331fc18292"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070b"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 200,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 20,
+  "type_of_fertilizer_used": "chemical based",
+  "type_of_pesticide_used": "organic purchased",
+  "income_from_sale": 200,
+  "expenditure_on_inputs": 10,
+  "products": [
+    {
+      "$oid": "659a58a0718211331fc18290"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:54:08.047Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:54:08.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a58ee718211331fc182a5"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 24,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 20,
+  "type_of_fertilizer_used": "chemical based",
+  "type_of_pesticide_used": "organic purchased",
+  "income_from_sale": 460,
+  "expenditure_on_inputs": 16,
+  "products": [
+    {
+      "$oid": "659a58ee718211331fc182a3"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:55:26.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:55:26.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5989718211331fc182cc"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0711"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 100,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 683,
+  "expenditure_on_inputs": 46,
+  "products": [
+    {
+      "$oid": "659a5988718211331fc182ca"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:58:01.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:58:01.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a59f2718211331fc182df"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0713"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number_of_trees": 100,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 20,
+  "type_of_fertilizer_used": "organic purchased",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 960,
+  "expenditure_on_inputs": 466,
+  "products": [
+    {
+      "$oid": "659a59f2718211331fc182dd"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T07:59:46.192Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:59:46.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614d80eb949a41cf1de2654"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06eb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6614d32bb949a41cf1de2539"
+  },
+  "number_of_trees": 50,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 50,
+  "type_of_fertilizer_used": "organic purchased",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 50000,
+  "expenditure_on_inputs": 20000,
+  "products": [
+    {
+      "$oid": "6614d80db949a41cf1de2652"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-04-09T05:54:22.060Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T05:54:22.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614d8ebb949a41cf1de26a1"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06ed"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6614d32bb949a41cf1de2539"
+  },
+  "number_of_trees": 50,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic purchased",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 50000,
+  "expenditure_on_inputs": 10000,
+  "products": [
+    {
+      "$oid": "6614d8ebb949a41cf1de269f"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-04-09T05:58:03.619Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T05:58:03.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645b2f7fa1cfb172f42baca"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "number_of_trees": 1876,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 25000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "6645b2f6fa1cfb172f42bac8"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-05-16T07:17:11.198Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:17:11.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645b4aedf633f228df3f418"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645ab85ba80bcf5f994743f"
+  },
+  "number_of_trees": 10,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 100,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "6645b4addf633f228df3f416"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-05-16T07:24:30.137Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:24:30.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645baa712fdfcb0f5d7121e"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645b82b5f92efa587c87d95"
+  },
+  "number_of_trees": 50,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "6645baa712fdfcb0f5d7121c"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-05-16T07:49:59.513Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:49:59.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645bc8a12fdfcb0f5d71386"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645ba4b12fdfcb0f5d711f4"
+  },
+  "number_of_trees": 2,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "6645bc8a12fdfcb0f5d71384"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-05-16T07:58:02.734Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:58:02.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645bcd312fdfcb0f5d713b7"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645ba4b12fdfcb0f5d711f4"
+  },
+  "number_of_trees": 5,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "6645bcd312fdfcb0f5d713b5"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-05-16T07:59:15.920Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:59:15.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645bd15cae777c16e946c0e"
+  },
+  "tree_crop_id": {
+    "$oid": "6645bce2cae777c16e946c02"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645ba4b12fdfcb0f5d711f4"
+  },
+  "number_of_trees": 1,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "6645bd14cae777c16e946c0c"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-05-16T08:00:21.062Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:00:21.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645bd6fcae777c16e946c3a"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645ba4b12fdfcb0f5d711f4"
+  },
+  "number_of_trees": 1,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "6645bd6fcae777c16e946c38"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-05-16T08:01:51.399Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:01:51.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645c1b7df633f228df3fa23"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645be445f92efa587c87f79"
+  },
+  "number_of_trees": 1,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "6645c1b7df633f228df3fa21"
+    },
+    {
+      "$oid": "6645c3a2df633f228df3fc4a"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-05-16T08:20:07.953Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:28:18.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671205fcda853fdf9e4409e9"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06eb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "671203e6da853fdf9e440986"
+  },
+  "number_of_trees": 50,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 10,
+  "type_of_fertilizer_used": "chemical based",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 6000,
+  "expenditure_on_inputs": 4000,
+  "products": [
+    {
+      "$oid": "671205fbda853fdf9e4409e7"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-10-18T06:53:48.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T06:53:48.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67120f3dda853fdf9e440b3f"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06eb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "number_of_trees": 100,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 10,
+  "type_of_fertilizer_used": "chemical based",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 5000,
+  "expenditure_on_inputs": 3000,
+  "products": [
+    {
+      "$oid": "67120f3dda853fdf9e440b3d"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-10-18T07:33:17.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:33:17.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799f1a38bbdaac5708ec43a"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "number_of_trees": 2,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 20000,
+  "expenditure_on_inputs": 5000,
+  "products": [
+    {
+      "$oid": "6799f1a38bbdaac5708ec437"
+    },
+    {
+      "$oid": "6799f1a38bbdaac5708ec438"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-29T09:15:15.542Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T15:41:45.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799f1ac8bbdaac5708ec452"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "664397de2395171e7da3dc73"
+  },
+  "number_of_trees": 100,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "chemical based",
+  "income_from_sale": 5000,
+  "expenditure_on_inputs": 1500,
+  "products": [
+    {
+      "$oid": "6799f1ac8bbdaac5708ec44f"
+    },
+    {
+      "$oid": "6799f1ac8bbdaac5708ec450"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-29T09:15:24.913Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:15:24.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a43d203e7696ea7339b205"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06f3"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "number_of_trees": 50,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 80,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic purchased",
+  "income_from_sale": 5000,
+  "expenditure_on_inputs": 2000,
+  "products": [
+    {
+      "$oid": "67a43d203e7696ea7339b203"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-06T04:40:00.858Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T04:40:00.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a4b7203e7696ea7339bef8"
+  },
+  "tree_crop_id": {
+    "$oid": "6706525f10b1aaf64dc323ed"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "number_of_trees": 20,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 50,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 1000,
+  "expenditure_on_inputs": 200,
+  "products": [
+    {
+      "$oid": "67a4b7203e7696ea7339bef6"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-06T13:20:32.390Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T13:20:32.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a4b7553e7696ea7339bf1b"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06ed"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "number_of_trees": 20,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 200,
+  "expenditure_on_inputs": 20,
+  "products": [
+    {
+      "$oid": "67a4b7543e7696ea7339bf19"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-06T13:21:25.021Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T13:21:25.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae23c45495d1ec9701820"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "number_of_trees": 2,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 10,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 2000,
+  "expenditure_on_inputs": 3437,
+  "products": [],
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-11T05:38:04.460Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T05:38:04.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adbdc81af3159cf5d56297"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06eb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "number_of_trees": 2,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic purchased",
+  "income_from_sale": 12,
+  "expenditure_on_inputs": 12,
+  "products": [
+    {
+      "$oid": "67adbdc81af3159cf5d56295"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-13T09:39:20.540Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:39:20.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adbeccc12fa16a4a078cfd"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67adaa5a1af3159cf5d561e7"
+  },
+  "number_of_trees": 30,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67adbeccc12fa16a4a078cfb"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-13T09:43:40.754Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:43:40.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adbfbac12fa16a4a078d13"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67adaa5a1af3159cf5d561e7"
+  },
+  "number_of_trees": 80,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67adbfbac12fa16a4a078d11"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-13T09:47:38.813Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:47:38.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adc050f2e352cfd5e0be70"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67adaa5a1af3159cf5d561e7"
+  },
+  "number_of_trees": 7,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67adc050f2e352cfd5e0be6e"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-13T09:50:08.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:50:08.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adc1181af3159cf5d562e1"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0711"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67adaa5a1af3159cf5d561e7"
+  },
+  "number_of_trees": 10,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67adc1181af3159cf5d562df"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-13T09:53:28.990Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:53:28.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adc1641af3159cf5d562f0"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67adaa5a1af3159cf5d561e7"
+  },
+  "number_of_trees": 10,
+  "avg_age_of_trees": "20 to 30 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67adc1641af3159cf5d562ee"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-13T09:54:44.430Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:54:44.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adc1c6f2e352cfd5e0be7b"
+  },
+  "tree_crop_id": {
+    "$oid": "6645bce2cae777c16e946c02"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67adaa5a1af3159cf5d561e7"
+  },
+  "number_of_trees": 3,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67adc1c6f2e352cfd5e0be79"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-13T09:56:22.376Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:56:22.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0badfb9aa2904b4cfe40c"
+  },
+  "tree_crop_id": {
+    "$oid": "67ab9f4d45495d1ec97023a9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "number_of_trees": 200,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic purchased",
+  "type_of_pesticide_used": "organic purchased",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b0badfb9aa2904b4cfe40a"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-15T16:03:43.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:03:43.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1873bb9aa2904b4d0119e"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0711"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "number_of_trees": 3,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b1873bb9aa2904b4d0119c"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T06:35:39.703Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:35:39.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b187d3b9aa2904b4d011dd"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "number_of_trees": 4,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b187d3b9aa2904b4d011db"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T06:38:11.425Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:38:11.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1883ab9aa2904b4d0121e"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0719"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "number_of_trees": 1,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b1883ab9aa2904b4d0121c"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T06:39:54.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:39:54.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b188e6b9aa2904b4d01277"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "number_of_trees": 10,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b188e6b9aa2904b4d01275"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T06:42:46.295Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:42:46.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b18979b9aa2904b4d012b4"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "number_of_trees": 10,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b18979b9aa2904b4d012b2"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T06:45:13.385Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:45:13.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1bb49db1ebb70cb7e18e3"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "number_of_trees": 4,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b1bb49db1ebb70cb7e18e1"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T10:17:45.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:17:45.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1bbb0db1ebb70cb7e18fa"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "number_of_trees": 15,
+  "avg_age_of_trees": "20 to 30 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b1bbb0db1ebb70cb7e18f8"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T10:19:28.681Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:19:28.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1bc2fdb1ebb70cb7e1911"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "number_of_trees": 4,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b1bc2edb1ebb70cb7e190f"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T10:21:35.138Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:21:35.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1f18265a8ac9a674a8dc7"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "number_of_trees": 3,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 1000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b1f18265a8ac9a674a8dc5"
+    }
+  ],
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-16T14:09:06.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T14:09:06.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2a9c965a8ac9a674a9320"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "number_of_trees": 170,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2a9c965a8ac9a674a931e"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T03:15:21.214Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:15:21.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2aa2965a8ac9a674a934d"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "number_of_trees": 11,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2aa2965a8ac9a674a934b"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T03:16:57.431Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:16:57.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ac1b65a8ac9a674a9432"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "number_of_trees": 2,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 2000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ac1b65a8ac9a674a9430"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T03:25:15.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:25:15.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2acd765a8ac9a674a9469"
+  },
+  "tree_crop_id": {
+    "$oid": "6645bce2cae777c16e946c02"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "number_of_trees": 3,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2acd765a8ac9a674a9467"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T03:28:23.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:28:23.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ad8765a8ac9a674a94d0"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "number_of_trees": 1,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ad8765a8ac9a674a94ce"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T03:31:19.256Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:31:19.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ae3a65a8ac9a674a95a1"
+  },
+  "tree_crop_id": {
+    "$oid": "67ab9c6b45495d1ec9702346"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "number_of_trees": 200,
+  "avg_age_of_trees": "30 to 50 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ae3a65a8ac9a674a959f"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T03:34:18.720Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:34:18.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ae6f65a8ac9a674a95f2"
+  },
+  "tree_crop_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1c4"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "number_of_trees": 2,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ae6f65a8ac9a674a95f0"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T03:35:11.904Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:35:11.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b36e65a8ac9a674a9bdf"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "number_of_trees": 8,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2b80665a8ac9a674aa2c7"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T03:56:30.765Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:16:06.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b3d165a8ac9a674a9c7f"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "number_of_trees": 1,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2b84565a8ac9a674aa30a"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T03:58:09.505Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:17:09.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b5c065a8ac9a674aa01c"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "number_of_trees": 6,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 7000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2b5c065a8ac9a674aa01a"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T04:06:24.786Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:06:24.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b96365a8ac9a674aa4dc"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "number_of_trees": 10,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2b96365a8ac9a674aa4da"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T04:21:55.305Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:21:55.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b9da65a8ac9a674aa54b"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "number_of_trees": 50,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2b9da65a8ac9a674aa549"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T04:23:54.709Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:23:54.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ba4a65a8ac9a674aa610"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "number_of_trees": 40,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 4000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ba4a65a8ac9a674aa60e"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T04:25:46.746Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:25:46.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2e92d65a8ac9a674afe2f"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "number_of_trees": 4,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2e92d65a8ac9a674afe2d"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T07:45:49.969Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:45:49.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2e9f565a8ac9a674afefd"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "number_of_trees": 1,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2e9f565a8ac9a674afefb"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T07:49:09.469Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:49:09.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ea7565a8ac9a674aff7b"
+  },
+  "tree_crop_id": {
+    "$oid": "67ab9d5c45495d1ec9702371"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "number_of_trees": 2,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ea7565a8ac9a674aff79"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T07:51:17.724Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:51:17.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ecb765a8ac9a674b0221"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "number_of_trees": 1,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ecb765a8ac9a674b021f"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:00:55.900Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:00:55.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ed0165a8ac9a674b0288"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "number_of_trees": 10,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ed0165a8ac9a674b0286"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:02:09.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:02:09.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ed4865a8ac9a674b02d2"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "number_of_trees": 3,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ed4865a8ac9a674b02d0"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:03:20.211Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:03:20.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ed4e65a8ac9a674b02eb"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "number_of_trees": 5,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ed4e65a8ac9a674b02e9"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:03:26.939Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:03:26.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ed9a65a8ac9a674b0330"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fd"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "number_of_trees": 1,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ed9a65a8ac9a674b032e"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:04:42.756Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:04:42.756Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2edb265a8ac9a674b0350"
+  },
+  "tree_crop_id": {
+    "$oid": "67ab9c6b45495d1ec9702346"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "number_of_trees": 20,
+  "avg_age_of_trees": "20 to 30 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2edb265a8ac9a674b034e"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:05:06.252Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:05:06.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2edd465a8ac9a674b03a9"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "number_of_trees": 5,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2edd465a8ac9a674b03a7"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:05:40.926Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:05:40.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fc6b65a8ac9a674b3286"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fd"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "number_of_trees": 2,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2fc6b65a8ac9a674b3284"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:07:55.652Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:07:55.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fcc765a8ac9a674b33c8"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "number_of_trees": 50,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2fcc665a8ac9a674b33c6"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:09:27.068Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:09:27.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fd4365a8ac9a674b349c"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "number_of_trees": 4,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2fd4365a8ac9a674b349a"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:11:31.614Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:11:31.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fd9465a8ac9a674b3590"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "number_of_trees": 2,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2fd9465a8ac9a674b358e"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:12:52.290Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:12:52.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fe1565a8ac9a674b3770"
+  },
+  "tree_crop_id": {
+    "$oid": "67ab9c6b45495d1ec9702346"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "number_of_trees": 3,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2fe1565a8ac9a674b376e"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:15:01.325Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:15:01.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fe6865a8ac9a674b3846"
+  },
+  "tree_crop_id": {
+    "$oid": "67ab9d5c45495d1ec9702371"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "number_of_trees": 1,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2fe6765a8ac9a674b3844"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:16:24.167Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:16:24.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b315682bd26840a697a31c"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "number_of_trees": 4,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b315682bd26840a697a31a"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T10:54:32.263Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:54:32.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b315c52bd26840a697a36b"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "number_of_trees": 3,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "organic self made",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b315c52bd26840a697a369"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T10:56:05.213Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:56:05.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b331c25e4b738d894ce6be"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "number_of_trees": 10,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 6000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b331c25e4b738d894ce6bc"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T12:55:30.882Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T12:55:30.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3323f5e4b738d894ce710"
+  },
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06f3"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "number_of_trees": 1,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b3323f5e4b738d894ce70e"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T12:57:35.682Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T12:57:35.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b332d05e4b738d894ce761"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "number_of_trees": 2,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b332d05e4b738d894ce75f"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T13:00:00.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T13:00:00.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b333805e4b738d894ce798"
+  },
+  "tree_crop_id": {
+    "$oid": "6645bce2cae777c16e946c02"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "number_of_trees": 4,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b3337f5e4b738d894ce796"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T13:02:56.133Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T13:02:56.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4068c5e4b738d894d0c35"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "number_of_trees": 3,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 50,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 5000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b4068c5e4b738d894d0c33"
+    }
+  ],
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-18T04:03:24.260Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:03:24.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b406925e4b738d894d0c4d"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "number_of_trees": 1,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b406925e4b738d894d0c4b"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T04:03:30.539Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:03:30.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4072d5e4b738d894d0d5f"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "number_of_trees": 2,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b4072d5e4b738d894d0d5d"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T04:06:05.694Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:06:05.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4081f5e4b738d894d0e18"
+  },
+  "tree_crop_id": {
+    "$oid": "67ab9d5c45495d1ec9702371"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "number_of_trees": 2,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "stable",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b4081f5e4b738d894d0e16"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T04:10:07.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:10:07.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b41a475e4b738d894d2dcf"
+  },
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "number_of_trees": 100,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 40,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 5000,
+  "expenditure_on_inputs": 1000,
+  "products": [
+    {
+      "$oid": "67b41a475e4b738d894d2dcd"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T05:27:35.946Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:27:35.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b41b3e5e4b738d894d2e37"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "number_of_trees": 60,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 35,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b41b3e5e4b738d894d2e35"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T05:31:42.838Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:31:42.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b41c325e4b738d894d2f05"
+  },
+  "tree_crop_id": {
+    "$oid": "67ab9f0c45495d1ec97023a0"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "number_of_trees": 1,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 20,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b41c325e4b738d894d2f03"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T05:35:46.722Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:35:46.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b41d615e4b738d894d305e"
+  },
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "number_of_trees": 4,
+  "avg_age_of_trees": "5 to 10 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": null,
+  "type_of_fertilizer_used": "none",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b41d615e4b738d894d305c"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T05:40:49.457Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:40:49.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4208d5e4b738d894d31ad"
+  },
+  "tree_crop_id": {
+    "$oid": "67ab9c6b45495d1ec9702346"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "number_of_trees": 50,
+  "avg_age_of_trees": "10 to 20 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 10,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 2000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b4208d5e4b738d894d31ab"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T05:54:21.243Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:54:21.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b454535e4b738d894d43ba"
+  },
+  "tree_crop_id": {
+    "$oid": "67b453525e4b738d894d436c"
+  },
+  "tree_crop_name": "",
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "number_of_trees": 20,
+  "avg_age_of_trees": "0 to 5 years",
+  "soil_health": "decreasing yield",
+  "decreasing_rate": 20,
+  "type_of_fertilizer_used": "organic self made",
+  "type_of_pesticide_used": "none",
+  "income_from_sale": 100,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b454535e4b738d894d43b8"
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T09:35:15.325Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:35:15.325Z"
+  },
+  "__v": 0
+}]

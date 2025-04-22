@@ -1,0 +1,2526 @@
+[{
+  "_id": {
+    "$oid": "659a5c3a718211331fc1839b"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number": 20,
+  "avg_age_of_live_stocks": 15,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Something ",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 150,
+    "self_produced": 30,
+    "neighbours": 30,
+    "purchased_from_market": 90,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 200,
+  "expenditure_on_inputs": 130,
+  "products": [
+    {
+      "$oid": "659a5c3a718211331fc18399"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:09:30.937Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:09:30.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5ba4718211331fc1836d"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number": 40,
+  "avg_age_of_live_stocks": 6,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Something ",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 10,
+    "self_produced": 2,
+    "neighbours": 2,
+    "purchased_from_market": 6,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 400,
+  "expenditure_on_inputs": 20,
+  "products": [
+    {
+      "$oid": "659a5ba4718211331fc1836b"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:07:00.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:07:00.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5be7718211331fc18381"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f7a6"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number": 40,
+  "avg_age_of_live_stocks": 20,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Something ",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 20,
+    "self_produced": 5,
+    "neighbours": 5,
+    "purchased_from_market": 10,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 2000,
+  "expenditure_on_inputs": 450,
+  "products": [
+    {
+      "$oid": "659a5be7718211331fc1837f"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:08:07.219Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:08:07.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5ca0718211331fc183c3"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7aa"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number": 20,
+  "avg_age_of_live_stocks": 16,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Something ",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 20,
+    "self_produced": 2,
+    "neighbours": 2,
+    "purchased_from_market": 16,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 2500,
+  "expenditure_on_inputs": 200,
+  "products": [
+    {
+      "$oid": "659a5ca0718211331fc183c1"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:11:12.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:11:12.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5daa718211331fc18428"
+  },
+  "poultry_crop_id": {
+    "$oid": "658d61d7b2e230df391a81dc"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number": 16,
+  "avg_age_of_live_stocks": 5,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Something ",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 20,
+    "self_produced": 2,
+    "neighbours": 5,
+    "purchased_from_market": 13,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 1060,
+  "expenditure_on_inputs": 580,
+  "products": [
+    {
+      "$oid": "659a5daa718211331fc18426"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:15:38.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:15:38.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5cf9718211331fc183e6"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number": 20,
+  "avg_age_of_live_stocks": 16,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Something ",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 35,
+    "self_produced": 5,
+    "neighbours": 5,
+    "purchased_from_market": 25,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 367,
+  "expenditure_on_inputs": 65,
+  "products": [
+    {
+      "$oid": "659a5cf9718211331fc183e4"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:12:41.335Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:12:41.335Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5d4f718211331fc18407"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7af"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "number": 20,
+  "avg_age_of_live_stocks": 20,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Something ",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 35,
+    "self_produced": 5,
+    "neighbours": 5,
+    "purchased_from_market": 25,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 97,
+  "expenditure_on_inputs": 76,
+  "products": [
+    {
+      "$oid": "659a5d4f718211331fc18405"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-01-07T08:14:07.461Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:14:07.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614eb3126e1647c6caee5e1"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6614d32bb949a41cf1de2539"
+  },
+  "number": 10,
+  "avg_age_of_live_stocks": 5,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "20",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 30,
+    "self_produced": 10,
+    "neighbours": 10,
+    "purchased_from_market": 10,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 10000,
+  "expenditure_on_inputs": 5000,
+  "products": [
+    {
+      "$oid": "6614eb3126e1647c6caee5df"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-04-09T07:16:01.998Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T07:16:01.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614ebdd26e1647c6caee60a"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6614d32bb949a41cf1de2539"
+  },
+  "number": 10,
+  "avg_age_of_live_stocks": 5,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 50,
+    "self_produced": 15,
+    "neighbours": 10,
+    "purchased_from_market": 5,
+    "other": "Outside",
+    "other_value": 20
+  },
+  "income_from_sale": 20000,
+  "expenditure_on_inputs": 5000,
+  "products": [
+    {
+      "$oid": "6614ebdd26e1647c6caee608"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-04-09T07:18:53.799Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T07:18:53.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645c0645f92efa587c88001"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "number": 5,
+  "avg_age_of_live_stocks": 4,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 5,
+    "self_produced": 5,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "6645c0645f92efa587c87fff"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-05-16T08:14:28.978Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:14:28.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66895415d71151992b282f37"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f7a6"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6685600476e460406fee268e"
+  },
+  "number": 10,
+  "avg_age_of_live_stocks": 0,
+  "avg_age_time_period": "years",
+  "type_of_feed": "",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": null,
+    "self_produced": null,
+    "neighbours": null,
+    "purchased_from_market": null,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": null,
+  "expenditure_on_inputs": null,
+  "products": [],
+  "steroids": false,
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-07-06T14:26:29.655Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-06T14:26:29.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799f2d28bbdaac5708ec4a6"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "664397de2395171e7da3dc73"
+  },
+  "number": 50,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 50,
+    "self_produced": 10,
+    "neighbours": 10,
+    "purchased_from_market": 30,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 3000,
+  "expenditure_on_inputs": 1000,
+  "products": [
+    {
+      "$oid": "6799f2d18bbdaac5708ec4a4"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-29T09:20:18.139Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:20:18.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799f2d68bbdaac5708ec4b7"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "number": 15,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "20",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 20,
+    "self_produced": 0,
+    "neighbours": 0,
+    "purchased_from_market": 20,
+    "other": "0",
+    "other_value": null
+  },
+  "income_from_sale": 20000,
+  "expenditure_on_inputs": 30000,
+  "products": [
+    {
+      "$oid": "6799f2d68bbdaac5708ec4b5"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-29T09:20:22.853Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:20:22.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a43e123e7696ea7339b23f"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "number": 20,
+  "avg_age_of_live_stocks": 5,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 10,
+    "self_produced": 5,
+    "neighbours": 2,
+    "purchased_from_market": 3,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 5000,
+  "expenditure_on_inputs": 2000,
+  "products": [
+    {
+      "$oid": "67a43e113e7696ea7339b23d"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-06T04:44:02.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T04:44:02.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae31745495d1ec9701845"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "number": 20,
+  "avg_age_of_live_stocks": 5,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 5,
+    "self_produced": 0,
+    "neighbours": 5,
+    "purchased_from_market": 50,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 2000,
+  "expenditure_on_inputs": 200,
+  "products": [],
+  "steroids": false,
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-11T05:41:43.954Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T05:41:43.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adbefc76793a6ad3158eaf"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "number": 12,
+  "avg_age_of_live_stocks": 12,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Ywyw",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 2,
+    "self_produced": 2,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": " 0",
+    "other_value": 0
+  },
+  "income_from_sale": 12,
+  "expenditure_on_inputs": 1,
+  "products": [
+    {
+      "$oid": "67adbefc76793a6ad3158ead"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-13T09:44:28.846Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:44:28.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0bbb0b9aa2904b4cfe428"
+  },
+  "poultry_crop_id": {
+    "$oid": "67ab957b45495d1ec97022ba"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "number": 25,
+  "avg_age_of_live_stocks": 25,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Fish",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 100,
+    "self_produced": 100,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b0bbb0b9aa2904b4cfe426"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-15T16:07:12.992Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:07:12.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b17f0cb9aa2904b4d00e36"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "number": 5,
+  "avg_age_of_live_stocks": 3,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Tyy",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 6,
+    "self_produced": 2,
+    "neighbours": 2,
+    "purchased_from_market": 2,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 236,
+  "expenditure_on_inputs": 659,
+  "products": [
+    {
+      "$oid": "67b17f0bb9aa2904b4d00e34"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T06:00:44.170Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:00:44.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1817ab9aa2904b4d00f7c"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "number": 9,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Maize",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 20,
+    "self_produced": 20,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b1817ab9aa2904b4d00f7a"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T06:11:06.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:11:06.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b182c8b9aa2904b4d00fc8"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "number": 10,
+  "avg_age_of_live_stocks": 7,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "0",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 0,
+    "self_produced": 0,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "0",
+    "other_value": null
+  },
+  "income_from_sale": 5000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b182c8b9aa2904b4d00fc6"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T06:16:40.297Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:16:40.297Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1bd6265a8ac9a674a7a84"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "number": 6,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Maize",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 1500,
+    "self_produced": 1500,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b1bd6265a8ac9a674a7a82"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T10:26:42.602Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:26:42.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1bf6c65a8ac9a674a7aa7"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "number": 4,
+  "avg_age_of_live_stocks": 4,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Straw ",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 3000,
+    "self_produced": 3000,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 500,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b1bf6c65a8ac9a674a7aa3"
+    },
+    {
+      "$oid": "67b1bf6c65a8ac9a674a7aa4"
+    },
+    {
+      "$oid": "67b1bf6c65a8ac9a674a7aa5"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T10:35:24.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:35:24.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2af7e65a8ac9a674a9697"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "number": 6,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Maize ",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 1500,
+    "self_produced": 1500,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2af7e65a8ac9a674a9695"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T03:39:42.886Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:39:42.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b01565a8ac9a674a975a"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "number": 11,
+  "avg_age_of_live_stocks": 4,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Banana tree",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 900,
+    "self_produced": 900,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2b01565a8ac9a674a9758"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T03:42:13.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:42:13.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b0eb65a8ac9a674a9920"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "number": 1,
+  "avg_age_of_live_stocks": 2,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Rice",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 1000,
+    "self_produced": 1000,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 3000,
+  "expenditure_on_inputs": 1500,
+  "products": [
+    {
+      "$oid": "67b2b0ea65a8ac9a674a991e"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T03:45:47.096Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:45:47.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b18a65a8ac9a674a99b7"
+  },
+  "poultry_crop_id": {
+    "$oid": "67ab946645495d1ec97022af"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "number": 300,
+  "avg_age_of_live_stocks": 0.1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "None",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 0,
+    "self_produced": 0,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "0",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2b18965a8ac9a674a99b3"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T03:48:26.121Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:48:26.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b4e265a8ac9a674a9e99"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "number": 10,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 200,
+    "self_produced": 200,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2b73765a8ac9a674aa1c5"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T04:02:42.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:00:24.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b61e65a8ac9a674aa090"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "number": 3,
+  "avg_age_of_live_stocks": 10,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "1000",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 1000,
+    "self_produced": 1000,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2b61d65a8ac9a674aa08c"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T04:07:58.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:01:16.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b93965a8ac9a674aa48b"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "number": 15,
+  "avg_age_of_live_stocks": 0.25,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 30,
+    "self_produced": 30,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 5000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2b93865a8ac9a674aa487"
+    },
+    {
+      "$oid": "67b2b93865a8ac9a674aa488"
+    },
+    {
+      "$oid": "67b2b93865a8ac9a674aa489"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T04:21:13.175Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:21:13.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bb5165a8ac9a674aa782"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "number": 20,
+  "avg_age_of_live_stocks": 2,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Maize ",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 200,
+    "self_produced": 200,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 1000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2bb5165a8ac9a674aa77e"
+    },
+    {
+      "$oid": "67b2bb5165a8ac9a674aa77f"
+    },
+    {
+      "$oid": "67b2bb5165a8ac9a674aa780"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T04:30:09.966Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:30:09.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bc4065a8ac9a674aa91c"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "number": 3,
+  "avg_age_of_live_stocks": 7,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 75,
+    "self_produced": 75,
+    "neighbours": 0,
+    "purchased_from_market": 100,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 5000,
+  "expenditure_on_inputs": 12000,
+  "products": [
+    {
+      "$oid": "67b2bc4065a8ac9a674aa919"
+    },
+    {
+      "$oid": "67b2bc4065a8ac9a674aa91a"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T04:34:08.273Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:34:08.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bd1e65a8ac9a674aabe7"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "number": 6,
+  "avg_age_of_live_stocks": 10,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Grass",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 1000,
+    "self_produced": 1000,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2bd1e65a8ac9a674aabe2"
+    },
+    {
+      "$oid": "67b2bd1e65a8ac9a674aabe3"
+    },
+    {
+      "$oid": "67b2bd1e65a8ac9a674aabe4"
+    },
+    {
+      "$oid": "67b2bd1e65a8ac9a674aabe5"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T04:37:50.606Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:37:50.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c1ea65a8ac9a674ab463"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "number": 2,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 3650,
+    "self_produced": 3650,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 10000,
+  "expenditure_on_inputs": 10000,
+  "products": [],
+  "steroids": false,
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:58:18.702Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:58:18.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2e73665a8ac9a674afc79"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "number": 50,
+  "avg_age_of_live_stocks": 2,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 50,
+    "self_produced": 20,
+    "neighbours": 10,
+    "purchased_from_market": 20,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 8000,
+  "expenditure_on_inputs": 100,
+  "products": [
+    {
+      "$oid": "67b2e73565a8ac9a674afc77"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T07:37:26.049Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:00:50.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2e96765a8ac9a674afe5e"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "number": 10,
+  "avg_age_of_live_stocks": 5,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 200,
+    "self_produced": 50,
+    "neighbours": 50,
+    "purchased_from_market": 100,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 10000,
+  "expenditure_on_inputs": 2000,
+  "products": [
+    {
+      "$oid": "67b2e96765a8ac9a674afe5c"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T07:46:47.797Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:00:01.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ec4865a8ac9a674b00fd"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "number": 3,
+  "avg_age_of_live_stocks": 2,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 200,
+    "self_produced": 100,
+    "neighbours": 50,
+    "purchased_from_market": 50,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 25000,
+  "expenditure_on_inputs": 5000,
+  "products": [
+    {
+      "$oid": "67b2ec4865a8ac9a674b00fb"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T07:59:04.346Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:59:04.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ef1565a8ac9a674b060e"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "number": 5,
+  "avg_age_of_live_stocks": 5,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Maize ",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 50,
+    "self_produced": 50,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ef1565a8ac9a674b060c"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:11:01.975Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:11:01.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ef9c65a8ac9a674b06c2"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "number": 10,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 1000,
+    "self_produced": 1000,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ef9c65a8ac9a674b06bf"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:13:16.930Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:13:16.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2efe065a8ac9a674b0771"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "number": 6,
+  "avg_age_of_live_stocks": 5,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Grass",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 1000,
+    "self_produced": 1000,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2efe065a8ac9a674b076f"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:14:24.611Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:14:24.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f05265a8ac9a674b083e"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "number": 10,
+  "avg_age_of_live_stocks": 2,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 50,
+    "self_produced": 50,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2f05165a8ac9a674b083c"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:16:18.037Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:16:18.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f06165a8ac9a674b08a9"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "number": 10,
+  "avg_age_of_live_stocks": 10,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 5000,
+    "self_produced": 5000,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2f06165a8ac9a674b08a7"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:16:33.223Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:16:33.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f0c765a8ac9a674b09b2"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "number": 2,
+  "avg_age_of_live_stocks": 3,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 3000,
+    "self_produced": 3000,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2f0c765a8ac9a674b09b0"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:18:15.831Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:18:15.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f23865a8ac9a674b101f"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "number": 1,
+  "avg_age_of_live_stocks": 10,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 100,
+    "self_produced": 100,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "0",
+    "other_value": null
+  },
+  "income_from_sale": 60000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2f23765a8ac9a674b101c"
+    },
+    {
+      "$oid": "67b2f23765a8ac9a674b101d"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:24:24.033Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:24:24.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f31265a8ac9a674b130f"
+  },
+  "poultry_crop_id": {
+    "$oid": "67ab946645495d1ec97022af"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "number": 2,
+  "avg_age_of_live_stocks": 0,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 0,
+    "self_produced": 0,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "0",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2f31165a8ac9a674b130c"
+    },
+    {
+      "$oid": "67b2f31165a8ac9a674b130d"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:28:02.033Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:28:02.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ff2765a8ac9a674b3a74"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "number": 4,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Maize",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 1500,
+    "self_produced": 1500,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "0",
+    "other_value": null
+  },
+  "income_from_sale": 4600,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b2ff2665a8ac9a674b3a72"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:19:35.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:19:35.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3028465a8ac9a674b43cc"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "number": 8,
+  "avg_age_of_live_stocks": 5,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Banana peel",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 1000,
+    "self_produced": 1000,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": " 0",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b3028465a8ac9a674b43c8"
+    },
+    {
+      "$oid": "67b3028465a8ac9a674b43c9"
+    },
+    {
+      "$oid": "67b3028465a8ac9a674b43ca"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:33:56.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:33:56.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3164fb59374d0a2a9fb51"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "number": 10,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "500",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 500,
+    "self_produced": 500,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b3164fb59374d0a2a9fb4f"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T10:58:23.937Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:58:23.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b316ecb59374d0a2a9fb79"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "number": 10,
+  "avg_age_of_live_stocks": 5,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Grass ",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 1500,
+    "self_produced": 1500,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 2000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b316ebb59374d0a2a9fb77"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T11:01:00.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:01:00.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b336055e4b738d894ce987"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "number": 7,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 7,
+    "self_produced": 7,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b336045e4b738d894ce984"
+    },
+    {
+      "$oid": "67b336045e4b738d894ce985"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T13:13:41.069Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T13:13:41.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b33cbb5e4b738d894cecac"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "number": 1,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 1,
+    "self_produced": 30,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b33cbb5e4b738d894cecaa"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T13:42:19.714Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T13:42:19.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34b7e5e4b738d894cf864"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "number": 17,
+  "avg_age_of_live_stocks": 10,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "20",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 17,
+    "self_produced": 50,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b34b7e5e4b738d894cf861"
+    },
+    {
+      "$oid": "67b34b7e5e4b738d894cf862"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T14:45:18.950Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:45:18.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34ea25e4b738d894cfac8"
+  },
+  "poultry_crop_id": {
+    "$oid": "67ab95e045495d1ec97022c9"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "number": 7,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 7,
+    "self_produced": 30,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b34ea25e4b738d894cfac4"
+    },
+    {
+      "$oid": "67b34ea25e4b738d894cfac5"
+    },
+    {
+      "$oid": "67b34ea25e4b738d894cfac6"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T14:58:42.784Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:58:42.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34f8f5e4b738d894cfb71"
+  },
+  "poultry_crop_id": {
+    "$oid": "67b0f0e1b9aa2904b4cffaf8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "number": 10,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 10,
+    "self_produced": 10,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b34f8f5e4b738d894cfb6d"
+    },
+    {
+      "$oid": "67b34f8f5e4b738d894cfb6e"
+    },
+    {
+      "$oid": "67b34f8f5e4b738d894cfb6f"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T15:02:39.442Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:02:39.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b350465e4b738d894cfbe7"
+  },
+  "poultry_crop_id": {
+    "$oid": "67b0f18fb9aa2904b4cffbad"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "number": 50,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 40,
+    "self_produced": 15,
+    "neighbours": 10,
+    "purchased_from_market": 15,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b350465e4b738d894cfbe5"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T15:05:42.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:05:42.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b406c45e4b738d894d0c89"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "number": 13,
+  "avg_age_of_live_stocks": 3,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Maize, wheat ",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 600,
+    "self_produced": 600,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b406c35e4b738d894d0c87"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T04:04:20.047Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:04:20.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b407e05e4b738d894d0dd1"
+  },
+  "poultry_crop_id": {
+    "$oid": "67b407395e4b738d894d0d6b"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "number": 3,
+  "avg_age_of_live_stocks": 1,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "Maize",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 15,
+    "self_produced": 15,
+    "neighbours": 0,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 0,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b407e05e4b738d894d0dcf"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T04:09:04.556Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:09:04.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b421585e4b738d894d31f1"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509b2aba8aa09e40f79a"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "number": 15,
+  "avg_age_of_live_stocks": 2,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "12",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 18,
+    "self_produced": 10,
+    "neighbours": 8,
+    "purchased_from_market": 0,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 7000,
+  "expenditure_on_inputs": 0,
+  "products": [
+    {
+      "$oid": "67b421585e4b738d894d31ef"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T05:57:44.199Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:57:44.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b422935e4b738d894d3244"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7a8"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "number": 18,
+  "avg_age_of_live_stocks": 12,
+  "avg_age_time_period": "years",
+  "type_of_feed": "Others",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 80,
+    "self_produced": 60,
+    "neighbours": 10,
+    "purchased_from_market": 50,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 8000,
+  "expenditure_on_inputs": 2000,
+  "products": [
+    {
+      "$oid": "67b422935e4b738d894d3242"
+    }
+  ],
+  "steroids": false,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T06:02:59.685Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T06:02:59.685Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b457b05e4b738d894d46a0"
+  },
+  "poultry_crop_id": {
+    "$oid": "6574509c2aba8aa09e40f7ad"
+  },
+  "poultry_crop_name": "",
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "number": 4,
+  "avg_age_of_live_stocks": 4,
+  "avg_age_time_period": "years",
+  "type_of_feed": "",
+  "other_type_of_feed": "",
+  "weight_measurement": "kg",
+  "personal_information": {
+    "total_feed": 1000,
+    "self_produced": 900,
+    "neighbours": 0,
+    "purchased_from_market": 100,
+    "other": "",
+    "other_value": null
+  },
+  "income_from_sale": 80000,
+  "expenditure_on_inputs": 10000,
+  "products": [
+    {
+      "$oid": "67b457b05e4b738d894d469e"
+    }
+  ],
+  "steroids": false,
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-18T09:49:36.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:49:36.934Z"
+  },
+  "__v": 0
+}]

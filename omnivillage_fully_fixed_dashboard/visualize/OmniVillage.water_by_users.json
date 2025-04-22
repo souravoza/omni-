@@ -1,0 +1,1351 @@
+[{
+  "_id": {
+    "$oid": "679b979bc4a6c0b6f8f2a681"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "679b980218939a6c582e088b"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "isDrafted": true
+  },
+  "createdAt": {
+    "$date": "2025-01-30T15:15:38.995Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "679b98ce18939a6c582e094c"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "679b981e18939a6c582e08c0"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "679b97e818939a6c582e082b"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T06:20:20.015Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "679b98bf18939a6c582e0921"
+    },
+    "isDrafted": true
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "679b987718939a6c582e08e3"
+    },
+    "isDrafted": false
+  }
+},
+{
+  "_id": {
+    "$oid": "679c54f5baf5937f5c937ae6"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "__v": 0,
+  "cleaning": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "679c73e0e6b5e001dd4c91e1"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-01-31T04:43:33.331Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "679c56c7e6b5e001dd4c86f3"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "679c73ede6b5e001dd4c9201"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T06:55:41.881Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "679c569ae6b5e001dd4c86d1"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "679c5639e6b5e001dd4c8678"
+    },
+    "isDrafted": false
+  }
+},
+{
+  "_id": {
+    "$oid": "679c54f8baf5937f5c937ae7"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "__v": 0,
+  "cleaning": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "679c54f8e6b5e001dd4c8592"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-01-31T04:43:36.474Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "679c56c8e6b5e001dd4c870f"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "others": [
+    {
+      "water_id": {
+        "$oid": "679c558de6b5e001dd4c85fb"
+      },
+      "isDrafted": false,
+      "_id": {
+        "$oid": "679c558ee6b5e001dd4c85fe"
+      }
+    }
+  ],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b03dd001f33d7cb67081fe"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:17:17.373Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "679c5688e6b5e001dd4c86af"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "679c562ae6b5e001dd4c8656"
+    },
+    "isDrafted": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67a49f70baf5937f5c93d353"
+  },
+  "user_id": {
+    "$oid": "678dfe492f36950c8ce7b330"
+  },
+  "__v": 0,
+  "cleaning": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "cooking_and_drinking": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "createdAt": {
+    "$date": "2025-02-06T11:39:28.688Z"
+  },
+  "general_information": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67a49f703e7696ea7339b8cf"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T11:39:51.869Z"
+  },
+  "waste_water_disposal": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "67a49f873e7696ea7339b8ec"
+    },
+    "isDrafted": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67aaed0760e29568dd1e574d"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "__v": 0,
+  "cleaning": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "cooking_and_drinking": {
+    "isDrafted": true
+  },
+  "createdAt": {
+    "$date": "2025-02-11T06:24:07.751Z"
+  },
+  "general_information": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "irrigation": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67aaed1d45495d1ec9701bac"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T17:08:31.573Z"
+  },
+  "waste_water_disposal": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "67aaed4845495d1ec9701bfc"
+    },
+    "isDrafted": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67aeb43460e29568dd1ea765"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "__v": 0,
+  "cleaning": {
+    "isDrafted": true
+  },
+  "cooking_and_drinking": {
+    "isDrafted": true
+  },
+  "createdAt": {
+    "$date": "2025-02-14T03:10:44.199Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "67aeb5a83a0c8b7971daf981"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67aeb4ce3a0c8b7971daf8e2"
+    },
+    "isDrafted": false
+  },
+  "others": [
+    {
+      "water_id": {
+        "$oid": "67aeb5053a0c8b7971daf906"
+      },
+      "isDrafted": false,
+      "_id": {
+        "$oid": "67aeb5053a0c8b7971daf90e"
+      }
+    }
+  ],
+  "sanitation_and_bathing": {
+    "isDrafted": true
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:41:57.077Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67aeb5793a0c8b7971daf956"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "67aeb52e3a0c8b7971daf92c"
+    },
+    "isDrafted": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67b1ade260e29568dd1eeb46"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b1ae13db1ebb70cb7e1165"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b1ade2db1ebb70cb7e10ea"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-16T09:20:34.392Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "67b1ae74db1ebb70cb7e1277"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "isDrafted": true
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b1adfcdb1ebb70cb7e112c"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:23:00.386Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b1ae59db1ebb70cb7e123e"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "isDrafted": true,
+    "water_id": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67b1d1e560e29568dd1eecf9"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b1d23065a8ac9a674a84e5"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b1d1e565a8ac9a674a8468"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-16T11:54:13.428Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "67b1d2de65a8ac9a674a85b3"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b1d26565a8ac9a674a8511"
+    },
+    "isDrafted": false
+  },
+  "others": [
+    {
+      "water_id": {
+        "$oid": "67b1d29165a8ac9a674a8540"
+      },
+      "isDrafted": false,
+      "_id": {
+        "$oid": "67b1d29165a8ac9a674a854a"
+      }
+    }
+  ],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b1d20e65a8ac9a674a8497"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:58:22.871Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b1d2b465a8ac9a674a8580"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "isDrafted": true,
+    "water_id": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2bbc560e29568dd1efd54"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b2bc0665a8ac9a674aa8cc"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b2bbc565a8ac9a674aa81a"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-17T04:32:05.599Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "67b2bcd765a8ac9a674aaaef"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b2bc7265a8ac9a674aa96b"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b2bbf365a8ac9a674aa893"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:36:39.624Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b2bca365a8ac9a674aaa5c"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "67b2bc9065a8ac9a674aa9d5"
+    },
+    "isDrafted": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2c4af60e29568dd1f0262"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b2c4fc65a8ac9a674abc48"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b2c4af65a8ac9a674abbd6"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-17T05:10:07.709Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "67b2c62865a8ac9a674abf39"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b2c54f65a8ac9a674abc88"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b2c4cf65a8ac9a674abc0e"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:16:24.817Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b2c58d65a8ac9a674abd3c"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "67b2c5b965a8ac9a674abdba"
+    },
+    "isDrafted": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2cd3460e29568dd1f0534"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b2cd6565a8ac9a674ad1ff"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b2cd3465a8ac9a674ad13d"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-17T05:46:28.736Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "67b2cdbd65a8ac9a674ad369"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b2cd8565a8ac9a674ad2ca"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b2cd4f65a8ac9a674ad180"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:48:46.119Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b2cd9665a8ac9a674ad314"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "isDrafted": true,
+    "water_id": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2d43560e29568dd1f058b"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b2d49265a8ac9a674ae55a"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b2d43565a8ac9a674ae50e"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-17T06:16:21.521Z"
+  },
+  "general_information": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b2d4d065a8ac9a674ae57c"
+    },
+    "isDrafted": false
+  },
+  "others": [
+    {
+      "water_id": {
+        "$oid": "67b2d51d65a8ac9a674ae5f4"
+      },
+      "isDrafted": false,
+      "_id": {
+        "$oid": "67b2d51d65a8ac9a674ae5f9"
+      }
+    }
+  ],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b2d47265a8ac9a674ae527"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:20:49.916Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b2d54165a8ac9a674ae66d"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "isDrafted": true,
+    "water_id": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2fa6660e29568dd1f08ef"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b2fa9765a8ac9a674b2aba"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b2fa6665a8ac9a674b29f3"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-17T08:59:18.838Z"
+  },
+  "general_information": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b2fab865a8ac9a674b2b33"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b2fa7f65a8ac9a674b2a7f"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:00:56.872Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b2fac865a8ac9a674b2b57"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "isDrafted": true,
+    "water_id": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2fe3760e29568dd1f091d"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b2fe6e65a8ac9a674b3870"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b2fe3665a8ac9a674b37ba"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-17T09:15:34.919Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "67b2febe65a8ac9a674b3994"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b2fe8865a8ac9a674b38f3"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b2fe5965a8ac9a674b381f"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:17:50.481Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b2fe9f65a8ac9a674b393d"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "isDrafted": true,
+    "water_id": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67b303be60e29568dd1f0965"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b303f765a8ac9a674b4a7e"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b303be65a8ac9a674b48ff"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-17T09:39:10.900Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "67b3046765a8ac9a674b4d04"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "isDrafted": true
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b303db65a8ac9a674b49d7"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:08:23.570Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b3044265a8ac9a674b4c5c"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "67b3043865a8ac9a674b4bf5"
+    },
+    "isDrafted": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67b3085960e29568dd1f099d"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b3090565a8ac9a674b5e71"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b3085965a8ac9a674b5b2b"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-17T09:58:49.835Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "67b309f065a8ac9a674b65b2"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b3093765a8ac9a674b5fc0"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b308d865a8ac9a674b5d3b"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:05:37.000Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b3097e65a8ac9a674b6257"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "67b3095165a8ac9a674b6036"
+    },
+    "isDrafted": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67b317ef60e29568dd1f0b6c"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b31822535126c1f565e305"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b317ee535126c1f565e2a2"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-17T11:05:18.993Z"
+  },
+  "general_information": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b31849535126c1f565e32a"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b3180b535126c1f565e2d8"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:07:13.335Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b31861535126c1f565e352"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "isDrafted": true,
+    "water_id": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67b31c2260e29568dd1f0b9d"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b31c49535126c1f565e9d1"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b31c22535126c1f565e965"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-17T11:23:14.588Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "67b31c93535126c1f565ea66"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b31c68535126c1f565ea00"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b31c37535126c1f565e99a"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:25:07.704Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b31c7b535126c1f565ea37"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "isDrafted": true,
+    "water_id": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67b344eb60e29568dd1f0dc7"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b345215e4b738d894cf25e"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b345a15e4b738d894cf2f9"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-17T14:17:15.139Z"
+  },
+  "general_information": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b345575e4b738d894cf277"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b344ff5e4b738d894cf246"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:20:17.509Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b3457d5e4b738d894cf2cd"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "isDrafted": true,
+    "water_id": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67b349e360e29568dd1f0e00"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b34a285e4b738d894cf72b"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b349e35e4b738d894cf6ca"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-17T14:38:27.458Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "67b34ad15e4b738d894cf7ed"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b34a635e4b738d894cf780"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b34a095e4b738d894cf6fd"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:42:25.438Z"
+  },
+  "waste_water_disposal": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "67b34a7a5e4b738d894cf7a0"
+    },
+    "isDrafted": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67b40d2860e29568dd1f1e46"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b40d755e4b738d894d16d7"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b40d285e4b738d894d1586"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-18T04:31:36.246Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "67b40df45e4b738d894d1906"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b40d985e4b738d894d1778"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b40d495e4b738d894d1666"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:35:00.823Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b40dcd5e4b738d894d186f"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "67b40dac5e4b738d894d17ef"
+    },
+    "isDrafted": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67b40d8e60e29568dd1f1e5f"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b40ddc5e4b738d894d188b"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b40d8e5e4b738d894d16f8"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-18T04:33:18.303Z"
+  },
+  "general_information": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b40df65e4b738d894d192e"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b40db95e4b738d894d1806"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:36:04.511Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b40e345e4b738d894d1a12"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "67b40e0b5e4b738d894d19ad"
+    },
+    "isDrafted": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67b40e7460e29568dd1f1e87"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b40e9f5e4b738d894d1b35"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b40e745e4b738d894d1ada"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-18T04:37:08.253Z"
+  },
+  "general_information": {
+    "water_id": {
+      "$oid": "67b40ed35e4b738d894d1ba4"
+    },
+    "isDrafted": false
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b40eb45e4b738d894d1b5a"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b40e8b5e4b738d894d1b0e"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:38:43.655Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b40ebf5e4b738d894d1b7d"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "isDrafted": true,
+    "water_id": null
+  }
+},
+{
+  "_id": {
+    "$oid": "67b43cb660e29568dd1f27f5"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "__v": 0,
+  "cleaning": {
+    "water_id": {
+      "$oid": "67b470d15e4b738d894d510b"
+    },
+    "isDrafted": false
+  },
+  "cooking_and_drinking": {
+    "water_id": {
+      "$oid": "67b43cb65e4b738d894d3b33"
+    },
+    "isDrafted": false
+  },
+  "createdAt": {
+    "$date": "2025-02-18T07:54:30.657Z"
+  },
+  "general_information": {
+    "isDrafted": true,
+    "water_id": null
+  },
+  "irrigation": {
+    "water_id": {
+      "$oid": "67b43d295e4b738d894d3c99"
+    },
+    "isDrafted": false
+  },
+  "others": [],
+  "sanitation_and_bathing": {
+    "water_id": {
+      "$oid": "67b43cd95e4b738d894d3b8c"
+    },
+    "isDrafted": false
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:37:14.988Z"
+  },
+  "waste_water_disposal": {
+    "water_id": {
+      "$oid": "67b43d505e4b738d894d3d01"
+    },
+    "isDrafted": false
+  },
+  "water_harvesting_capacity": {
+    "water_id": {
+      "$oid": "67b470e45e4b738d894d5199"
+    },
+    "isDrafted": false
+  }
+}]

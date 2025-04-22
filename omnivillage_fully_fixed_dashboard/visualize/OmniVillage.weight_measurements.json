@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "64fb92663a0cd29388623f35"
+  },
+  "name": "tonne",
+  "unit_to_g": {
+    "$numberDecimal": "1000000"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T21:30:14.397Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T21:30:14.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fb92663a0cd29388623f37"
+  },
+  "name": "kilogram",
+  "unit_to_g": {
+    "$numberDecimal": "1000"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T21:30:14.489Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T21:30:14.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fb92663a0cd29388623f39"
+  },
+  "name": "gram",
+  "unit_to_g": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T21:30:14.580Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T21:30:14.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fb92663a0cd29388623f3b"
+  },
+  "name": "milligram",
+  "unit_to_g": {
+    "$numberDecimal": "0.001"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T21:30:14.668Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T21:30:14.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fb92663a0cd29388623f3d"
+  },
+  "name": "stone",
+  "unit_to_g": {
+    "$numberDecimal": "6350.29"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T21:30:14.755Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T21:30:14.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fb92663a0cd29388623f3f"
+  },
+  "name": "pound",
+  "unit_to_g": {
+    "$numberDecimal": "453.592"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T21:30:14.849Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T21:30:14.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fb92663a0cd29388623f41"
+  },
+  "name": "ounce",
+  "unit_to_g": {
+    "$numberDecimal": "28.3495"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T21:30:14.933Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T21:30:14.933Z"
+  },
+  "__v": 0
+}]

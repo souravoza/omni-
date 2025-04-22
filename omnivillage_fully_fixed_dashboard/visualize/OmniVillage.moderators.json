@@ -1,0 +1,340 @@
+[{
+  "_id": {
+    "$oid": "67473428f98ecbdf02a37fb7"
+  },
+  "first_name": "-",
+  "last_name": "-",
+  "village_name": "-",
+  "country_code": "+91",
+  "phone": 9748121115,
+  "address": "-",
+  "address_proof": "-",
+  "officer_proof": "-",
+  "currency": "INR",
+  "country": "India",
+  "createdAt": {
+    "$date": "2024-11-27T15:00:56.807Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T15:00:56.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674734b2f98ecbdf02a37fc0"
+  },
+  "first_name": "-",
+  "last_name": "-",
+  "village_name": "-",
+  "country_code": "+91",
+  "phone": 9748121113,
+  "address": "-",
+  "address_proof": "-",
+  "officer_proof": "-",
+  "currency": "INR",
+  "country": "India",
+  "createdAt": {
+    "$date": "2024-11-27T15:03:14.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T15:03:14.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67473526f98ecbdf02a37fca"
+  },
+  "first_name": "-",
+  "last_name": "-",
+  "village_name": "-",
+  "country_code": "+91",
+  "phone": 9748121116,
+  "address": "-",
+  "address_proof": "-",
+  "officer_proof": "-",
+  "currency": "INR",
+  "country": "India",
+  "createdAt": {
+    "$date": "2024-11-27T15:05:10.072Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T15:05:10.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674738c7f98ecbdf02a37fe2"
+  },
+  "first_name": "-",
+  "last_name": "-",
+  "village_name": "-",
+  "country_code": "+91",
+  "phone": 9748365214,
+  "address": "-",
+  "address_proof": "-",
+  "officer_proof": "-",
+  "currency": "INR",
+  "country": "India",
+  "createdAt": {
+    "$date": "2024-11-27T15:20:39.066Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T15:20:39.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674739a9f98ecbdf02a37fe8"
+  },
+  "first_name": "Ayush",
+  "last_name": "Singh",
+  "village_name": "kolkata",
+  "country_code": "+91",
+  "phone": 9748125632,
+  "address": "22.6125537,88.3757978",
+  "address_proof": "uploads/1732721425264.png",
+  "officer_proof": "-",
+  "currency": "INR",
+  "country": "India",
+  "createdAt": {
+    "$date": "2024-11-27T15:24:25.018Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T15:30:26.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67473ca1f98ecbdf02a38008"
+  },
+  "first_name": "Garima",
+  "last_name": "Sehgal",
+  "village_name": "madhyamgram",
+  "country_code": "+91",
+  "phone": 9586325891,
+  "address": "22.61151072010572,88.37630398571491",
+  "address_proof": "uploads/1732722017945.png",
+  "officer_proof": "-",
+  "currency": "INR",
+  "country": "India",
+  "createdAt": {
+    "$date": "2024-11-27T15:37:05.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T21:15:57.948Z"
+  },
+  "__v": 0,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "674740a4b3e3ec770045f6a3"
+  },
+  "first_name": "Kavya",
+  "last_name": "Ahuja",
+  "village_name": "chennaii",
+  "country_code": "+91",
+  "phone": 9856329586,
+  "address": "22.6125545,88.3758039",
+  "address_proof": "uploads/1732723002072.png",
+  "officer_proof": "uploads/1732723002844.png",
+  "currency": "INR",
+  "country": "India",
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-11-27T15:54:12.063Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T15:56:43.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674a29a4391c9e89f823fe74"
+  },
+  "first_name": "John",
+  "last_name": "Doe",
+  "village_name": "kolkata",
+  "country_code": "+91",
+  "phone": 7044804030,
+  "address": "location",
+  "address_proof": "uploads/1732913648680.png",
+  "officer_proof": "uploads/1732913648684.png",
+  "currency": "INR",
+  "country": "India",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-11-29T20:52:52.774Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-29T20:54:08.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6778de9bdffd345c02c436e3"
+  },
+  "first_name": "Tamaghna",
+  "last_name": "Chowdhury",
+  "village_name": "kolkata",
+  "country_code": "+91",
+  "phone": 8902727867,
+  "address": "22.666237,88.4386985",
+  "address_proof": "uploads/1735974791551.png",
+  "officer_proof": "uploads/1735974792504.png",
+  "currency": "INR",
+  "country": "India",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-04T07:09:15.246Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-04T07:13:51.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678f9ebff44d3633d5453c30"
+  },
+  "first_name": "Sourav",
+  "last_name": "Oza",
+  "village_name": "dehli",
+  "country_code": "+91",
+  "phone": 8954278543,
+  "address": "21.1779657,72.7359726",
+  "address_proof": "uploads/1737520357632.png",
+  "officer_proof": "uploads/1737520357944.png",
+  "currency": "INR",
+  "country": "India",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-21T13:18:55.417Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-22T04:51:49.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a07dcd49cb835c24ac381c"
+  },
+  "first_name": "Sonam",
+  "last_name": "Lhamo",
+  "village_name": "rukha",
+  "country_code": "+975",
+  "phone": 77662289,
+  "address": "27.4788269,89.6391877",
+  "address_proof": "uploads/1738571643243.png",
+  "officer_proof": "uploads/1738571668047.png",
+  "currency": "BTN",
+  "country": "Bhutan",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-03T08:26:53.701Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T08:35:09.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a07e0a49cb835c24ac383a"
+  },
+  "first_name": "Sangay",
+  "last_name": "Lhamo",
+  "village_name": "rukha",
+  "country_code": "+975",
+  "phone": 77636379,
+  "address": "27.4788155,89.6391542",
+  "address_proof": "uploads/1738571640843.png",
+  "officer_proof": "uploads/1738571642687.png",
+  "currency": "BTN",
+  "country": "Bhutan",
+  "status": 2,
+  "createdAt": {
+    "$date": "2025-02-03T08:27:54.607Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T13:41:38.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a1d4654e2c70adacf19d01"
+  },
+  "first_name": "Jesika",
+  "last_name": "Turel",
+  "village_name": "dehli",
+  "country_code": "+91",
+  "phone": 8511057638,
+  "address": "21.1776083936156,72.73680221289396",
+  "address_proof": "uploads/1738660351479.png",
+  "officer_proof": "uploads/1738660356234.png",
+  "currency": "INR",
+  "country": "India",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-04T08:48:37.908Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T13:08:29.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ade7ed76793a6ad3158f85"
+  },
+  "first_name": "Pemba",
+  "last_name": "Pemba",
+  "village_name": "rukha",
+  "country_code": "+975",
+  "phone": 17443457,
+  "address": "27.215320067282068,90.18743377178907",
+  "address_proof": "uploads/1739451297991.png",
+  "officer_proof": "uploads/1739451301999.png",
+  "currency": "BTN",
+  "country": "Bhutan",
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-13T12:39:09.567Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:09:42.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b17eddb9aa2904b4d00e23"
+  },
+  "first_name": "-",
+  "last_name": "-",
+  "village_name": "-",
+  "country_code": "+975",
+  "phone": 77858353,
+  "address": "-",
+  "address_proof": "-",
+  "officer_proof": "-",
+  "currency": "BTN",
+  "country": "Bhutan",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-16T05:59:57.470Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T05:59:57.470Z"
+  },
+  "__v": 0
+}]

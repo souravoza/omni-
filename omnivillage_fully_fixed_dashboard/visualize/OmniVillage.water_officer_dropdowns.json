@@ -1,0 +1,666 @@
+[{
+  "_id": {
+    "$oid": "67617306a1f082163586feee"
+  },
+  "type": "water_source",
+  "name": {
+    "en": "test",
+    "ms": "test",
+    "dz": "test"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:48:06.413Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T12:48:06.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6761730fa1f082163586fef1"
+  },
+  "type": "condition",
+  "name": {
+    "en": "safe for drinking",
+    "ms": "safe for drinking",
+    "dz": "safe for drinking"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:48:15.884Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:25:11.829Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676173c2a1f082163586fefa"
+  },
+  "type": "tapped_into",
+  "name": {
+    "en": "fully utilized",
+    "ms": "fully utilized",
+    "dz": "fully utilized"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:51:14.713Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:26:48.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676174c97c844e272b1b53fe"
+  },
+  "type": "distribution_method",
+  "name": {
+    "en": "pipeline network",
+    "ms": "pipeline network",
+    "dz": "pipeline network"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:55:37.565Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:27:44.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676174da7c844e272b1b5401"
+  },
+  "type": "storage_method",
+  "name": {
+    "en": "earthen ponds/lakes",
+    "ms": "earthen ponds/lakes",
+    "dz": "earthen ponds/lakes"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:55:54.628Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:28:40.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676174e17c844e272b1b5404"
+  },
+  "type": "treated_water_discharged",
+  "name": {
+    "en": "groundwater recharge",
+    "ms": "groundwater recharge",
+    "dz": "groundwater recharge"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:56:01.211Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:30:02.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6778e90adffd345c02c43794"
+  },
+  "type": "water_source",
+  "name": {
+    "en": "river",
+    "ms": "river",
+    "dz": "river"
+  },
+  "createdAt": {
+    "$date": "2025-01-04T07:53:46.217Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-04T07:53:46.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6778e923dffd345c02c43797"
+  },
+  "type": "water_source",
+  "name": {
+    "en": "gorundwater",
+    "ms": "gorundwater",
+    "dz": "gorundwater"
+  },
+  "createdAt": {
+    "$date": "2025-01-04T07:54:11.236Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-04T07:54:11.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6778e92cdffd345c02c4379a"
+  },
+  "type": "water_source",
+  "name": {
+    "en": "spring",
+    "ms": "spring",
+    "dz": "spring"
+  },
+  "createdAt": {
+    "$date": "2025-01-04T07:54:20.195Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-04T07:54:20.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6778e936dffd345c02c4379d"
+  },
+  "type": "water_source",
+  "name": {
+    "en": "rainwater",
+    "ms": "rainwater",
+    "dz": "rainwater"
+  },
+  "createdAt": {
+    "$date": "2025-01-04T07:54:30.208Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-04T07:54:30.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6778e943dffd345c02c437a0"
+  },
+  "type": "water_source",
+  "name": {
+    "en": "lake",
+    "ms": "lake",
+    "dz": "lake"
+  },
+  "createdAt": {
+    "$date": "2025-01-04T07:54:43.689Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-04T07:54:43.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6778e94fdffd345c02c437a3"
+  },
+  "type": "water_source",
+  "name": {
+    "en": "streams",
+    "ms": "streams",
+    "dz": "streams"
+  },
+  "createdAt": {
+    "$date": "2025-01-04T07:54:55.852Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-04T07:54:55.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3a94a5e4b738d894d03d0"
+  },
+  "type": "condition",
+  "name": {
+    "en": "requires basic treatment",
+    "ms": "requires basic treatment",
+    "dz": "requires basic treatment"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:25:30.912Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:25:30.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3a9575e4b738d894d03d3"
+  },
+  "type": "condition",
+  "name": {
+    "en": "heavily contaminated / polluted",
+    "ms": "heavily contaminated / polluted",
+    "dz": "heavily contaminated / polluted"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:25:43.896Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:25:43.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3a9615e4b738d894d03d6"
+  },
+  "type": "condition",
+  "name": {
+    "en": "saline / brackish",
+    "ms": "saline / brackish",
+    "dz": "saline / brackish"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:25:53.804Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:25:53.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3a96f5e4b738d894d03d9"
+  },
+  "type": "condition",
+  "name": {
+    "en": "high turbidity / discoloration",
+    "ms": "high turbidity / discoloration",
+    "dz": "high turbidity / discoloration"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:26:07.337Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:26:07.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3a9795e4b738d894d03dc"
+  },
+  "type": "condition",
+  "name": {
+    "en": "seasonal / unreliable",
+    "ms": "seasonal / unreliable",
+    "dz": "seasonal / unreliable"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:26:17.016Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:26:17.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3a9855e4b738d894d03df"
+  },
+  "type": "condition",
+  "name": {
+    "en": "unknown / not tested",
+    "ms": "unknown / not tested",
+    "dz": "unknown / not tested"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:26:29.185Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:26:29.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3a9a35e4b738d894d03e4"
+  },
+  "type": "tapped_into",
+  "name": {
+    "en": "partially utilized",
+    "ms": "partially utilized",
+    "dz": "partially utilized"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:26:59.333Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T06:49:55.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3a9ac5e4b738d894d03e7"
+  },
+  "type": "tapped_into",
+  "name": {
+    "en": "underutilized",
+    "ms": "underutilized",
+    "dz": "underutilized"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:27:08.168Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T06:56:04.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3a9b35e4b738d894d03ea"
+  },
+  "type": "tapped_into",
+  "name": {
+    "en": "not utilized",
+    "ms": "not utilized",
+    "dz": "not utilized"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:27:15.857Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T06:56:47.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3a9bd5e4b738d894d03ee"
+  },
+  "type": "tapped_into",
+  "name": {
+    "en": "seasonal usage only",
+    "ms": "seasonal usage only",
+    "dz": "seasonal usage only"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:27:25.711Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T06:57:11.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3a9dd5e4b738d894d03f3"
+  },
+  "type": "distribution_method",
+  "name": {
+    "en": "water channels",
+    "ms": "water channels",
+    "dz": "water channels"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:27:57.597Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:27:57.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3a9ef5e4b738d894d03f9"
+  },
+  "type": "distribution_method",
+  "name": {
+    "en": "manual collection",
+    "ms": "manual collection",
+    "dz": "manual collection"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:28:15.458Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:28:15.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aa255e4b738d894d03fe"
+  },
+  "type": "storage_method",
+  "name": {
+    "en": "direct supply (no storage)",
+    "ms": "direct supply (no storage)",
+    "dz": "direct supply (no storage)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:29:09.935Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:29:09.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aa385e4b738d894d0401"
+  },
+  "type": "storage_method",
+  "name": {
+    "en": "tanks",
+    "ms": "tanks",
+    "dz": "tanks"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:29:28.656Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T07:37:53.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aa415e4b738d894d0404"
+  },
+  "type": "storage_method",
+  "name": {
+    "en": "underground reservoir",
+    "ms": "underground reservoir",
+    "dz": "underground reservoir"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:29:37.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T07:36:35.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aa665e4b738d894d0409"
+  },
+  "type": "treated_water_discharged",
+  "name": {
+    "en": "reuse on-site",
+    "ms": "reuse on-site",
+    "dz": "reuse on-site"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:30:14.862Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:30:14.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aa725e4b738d894d040c"
+  },
+  "type": "treated_water_discharged",
+  "name": {
+    "en": "municipal sewer",
+    "ms": "municipal sewer",
+    "dz": "municipal sewer"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:30:26.323Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:30:26.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aa7a5e4b738d894d040f"
+  },
+  "type": "treated_water_discharged",
+  "name": {
+    "en": "evaporation pond",
+    "ms": "evaporation pond",
+    "dz": "evaporation pond"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:30:34.234Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:30:34.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aa835e4b738d894d0412"
+  },
+  "type": "treated_water_discharged",
+  "name": {
+    "en": "irrigation for agriculture",
+    "ms": "irrigation for agriculture",
+    "dz": "irrigation for agriculture"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:30:43.753Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:30:43.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aa8c5e4b738d894d0415"
+  },
+  "type": "treated_water_discharged",
+  "name": {
+    "en": "river or stream",
+    "ms": "river or stream",
+    "dz": "river or stream"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:30:52.524Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:30:52.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aa955e4b738d894d0418"
+  },
+  "type": "treated_water_discharged",
+  "name": {
+    "en": "lake or pond",
+    "ms": "lake or pond",
+    "dz": "lake or pond"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:31:01.784Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:31:01.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aa9f5e4b738d894d041b"
+  },
+  "type": "treated_water_discharged",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:31:11.188Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:31:11.188Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4245a5e4b738d894d3295"
+  },
+  "type": "condition",
+  "name": {
+    "en": " other",
+    "ms": " other",
+    "dz": " other"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T06:10:34.138Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T06:10:34.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43c155e4b738d894d3a0b"
+  },
+  "type": "storage_method",
+  "name": {
+    "en": " other",
+    "ms": " other",
+    "dz": " other"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T07:51:49.704Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T07:51:49.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43d5c5e4b738d894d3d39"
+  },
+  "type": "treated_water_discharged",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T07:57:16.164Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T07:57:16.164Z"
+  },
+  "__v": 0
+}]

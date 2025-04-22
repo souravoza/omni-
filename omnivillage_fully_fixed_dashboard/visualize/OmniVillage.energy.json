@@ -1,0 +1,2760 @@
+[{
+  "_id": {
+    "$oid": "679b9acde6b5e001dd4c7872"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "type": "electricity",
+  "electric_grid": true,
+  "yearly_electricity_consumption": 2000,
+  "yearly_expenditure_electricity": 20000,
+  "electricity_stable": true,
+  "microgrid_installed": true,
+  "microgrid_type": {
+    "$oid": "6739e0644a1ca37fdd756564"
+  },
+  "usage": 100,
+  "installation_cost": 2000,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-01-30T15:29:17.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T09:15:02.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b9aede6b5e001dd4c78ac"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 100,
+  "yearly_expenditure_petrol": 20000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0764a1ca37fdd756566"
+      },
+      "quantity": 30,
+      "_id": {
+        "$oid": "679cfab7d3c8a746909e0e39"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6739e0794a1ca37fdd756568"
+      },
+      "quantity": 30,
+      "_id": {
+        "$oid": "679cfab7d3c8a746909e0e3a"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-01-30T15:29:49.898Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T16:30:47.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b9b09e6b5e001dd4c78d9"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 200,
+  "yearly_expenditure_petrol": 30000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0cb4710ebe42e2119de"
+      },
+      "quantity": 20,
+      "_id": {
+        "$oid": "679cfad0d3c8a746909e0e76"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-01-30T15:30:17.593Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T16:31:12.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b9b1fe6b5e001dd4c7913"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "type": "natural_gas",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 200,
+  "yearly_expenditure_petrol": 50000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0f44710ebe42e2119e4"
+      },
+      "quantity": 20,
+      "_id": {
+        "$oid": "679cfae3d3c8a746909e0eaa"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-01-30T15:30:39.702Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T16:31:31.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b9bd1e6b5e001dd4c794a"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "type": "general_info",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "energy_sufficient": true,
+  "extent": {
+    "$oid": "6736117ecb51156c2f52383e"
+  },
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-01-30T15:33:37.176Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T15:33:37.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c57b1e6b5e001dd4c883f"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "type": "electricity",
+  "electric_grid": true,
+  "yearly_electricity_consumption": 250,
+  "yearly_expenditure_electricity": 2500,
+  "electricity_stable": true,
+  "microgrid_installed": true,
+  "microgrid_type": {
+    "$oid": "6739e0644a1ca37fdd756564"
+  },
+  "usage": 25,
+  "installation_cost": 2580,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-01-31T04:55:13.923Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T04:55:13.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c57b3e6b5e001dd4c8852"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "type": "electricity",
+  "electric_grid": true,
+  "yearly_electricity_consumption": 5252,
+  "yearly_expenditure_electricity": 4528282,
+  "electricity_stable": true,
+  "microgrid_installed": true,
+  "microgrid_type": {
+    "$oid": "67866aa9854845415d4a7f87"
+  },
+  "usage": 85,
+  "installation_cost": 455,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-01-31T04:55:15.594Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T04:55:15.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c581ee6b5e001dd4c88af"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 50,
+  "yearly_expenditure_petrol": 2500,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0cb4710ebe42e2119de"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "679c581ee6b5e001dd4c88b0"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6739e0c14710ebe42e2119dc"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "679c581ee6b5e001dd4c88b1"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6739e0cf4710ebe42e2119e0"
+      },
+      "quantity": 30,
+      "_id": {
+        "$oid": "679c581ee6b5e001dd4c88b2"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-01-31T04:57:02.253Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T04:57:02.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeb6013a0c8b7971daf9d1"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "electricity",
+  "electric_grid": true,
+  "yearly_electricity_consumption": 2500,
+  "yearly_expenditure_electricity": 12,
+  "electricity_stable": false,
+  "microgrid_installed": true,
+  "microgrid_type": {
+    "$oid": "67aef15c3a0c8b7971db0570"
+  },
+  "usage": 2500,
+  "installation_cost": 2500,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-14T03:18:25.466Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:42:33.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeb6273a0c8b7971daf9f7"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 2500,
+  "yearly_expenditure_petrol": 25000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0794a1ca37fdd756568"
+      },
+      "quantity": 25,
+      "_id": {
+        "$oid": "67b0c407b9aa2904b4cfe92a"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b040bd01f33d7cb6708481"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "67b0c407b9aa2904b4cfe92b"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-14T03:19:03.753Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:42:47.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeb6523a0c8b7971dafa1e"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 2500,
+  "yearly_expenditure_petrol": 25000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0c14710ebe42e2119dc"
+      },
+      "quantity": 25,
+      "_id": {
+        "$oid": "67b0c410b9aa2904b4cfe950"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6739e0cb4710ebe42e2119de"
+      },
+      "quantity": 58,
+      "_id": {
+        "$oid": "67b0c410b9aa2904b4cfe951"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b040d301f33d7cb670849b"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "67b0c410b9aa2904b4cfe952"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-14T03:19:46.565Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:42:56.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeb67a3a0c8b7971dafa45"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "natural_gas",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 2500,
+  "yearly_expenditure_petrol": 58,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e1004710ebe42e2119e8"
+      },
+      "quantity": 25,
+      "_id": {
+        "$oid": "67b0c41cb9aa2904b4cfe977"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67866b35854845415d4a7f8d"
+      },
+      "quantity": 50,
+      "_id": {
+        "$oid": "67b0c41cb9aa2904b4cfe978"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67b040e601f33d7cb67084b2"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "67b0c41cb9aa2904b4cfe979"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-14T03:20:26.789Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:43:08.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeb6b33a0c8b7971dafa6c"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "other",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "source_of_fuels_used": [
+    {
+      "type": {
+        "$oid": "6799ccec017716adad89ba7b"
+      },
+      "purpose": [
+        {
+          "$oid": "6736117ecb51156c2f52683e"
+        }
+      ],
+      "expenditures": 250,
+      "quantity": 25,
+      "quantity_unit": "6799c9d70e76731996b85bae",
+      "_id": {
+        "$oid": "67aeb6b33a0c8b7971dafa6d"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "createdAt": {
+    "$date": "2025-02-14T03:21:23.971Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T03:21:23.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1aeeedb1ebb70cb7e1349"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 0,
+  "yearly_expenditure_petrol": 0,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67b040bd01f33d7cb6708481"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "67b1aeeedb1ebb70cb7e134a"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:25:02.832Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:25:02.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1af14db1ebb70cb7e1383"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 20,
+  "yearly_expenditure_petrol": 2000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0cb4710ebe42e2119de"
+      },
+      "quantity": 20,
+      "_id": {
+        "$oid": "67b1af14db1ebb70cb7e1384"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:25:40.605Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:25:40.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1af4bdb1ebb70cb7e13d1"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "other",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "source_of_fuels_used": [
+    {
+      "type": {
+        "$oid": "6799ccec017716adad89ba7b"
+      },
+      "purpose": [
+        {
+          "$oid": "6736117ecb51156c2f52683e"
+        }
+      ],
+      "expenditures": 20,
+      "quantity": 50,
+      "quantity_unit": "6799c9d70e76731996b85bae",
+      "_id": {
+        "$oid": "67b1af4bdb1ebb70cb7e13d2"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:26:35.779Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:26:35.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d3db65a8ac9a674a865a"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 20,
+  "yearly_expenditure_petrol": 1500,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67aef3ae3a0c8b7971db0598"
+      },
+      "quantity": 20,
+      "_id": {
+        "$oid": "67b1d3db65a8ac9a674a865b"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-16T12:02:35.490Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T12:02:35.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d41e65a8ac9a674a86a0"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "other",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "source_of_fuels_used": [
+    {
+      "type": {
+        "$oid": "6799ccec017716adad89ba7b"
+      },
+      "purpose": [
+        {
+          "$oid": "6736117ecb51156c2f52683e"
+        }
+      ],
+      "expenditures": 20,
+      "quantity": 1500,
+      "quantity_unit": "6799c9d70e76731996b85bae",
+      "_id": {
+        "$oid": "67b1d41e65a8ac9a674a86a1"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "createdAt": {
+    "$date": "2025-02-16T12:03:42.963Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T12:03:42.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bd8d65a8ac9a674aacc2"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 60,
+  "yearly_expenditure_petrol": 10000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67b0410401f33d7cb67084bb"
+      },
+      "quantity": 60,
+      "_id": {
+        "$oid": "67b2bd8d65a8ac9a674aacc3"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T04:39:41.793Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:39:41.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bdcd65a8ac9a674aad5c"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 40,
+  "yearly_expenditure_petrol": 30000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0cb4710ebe42e2119de"
+      },
+      "quantity": 40,
+      "_id": {
+        "$oid": "67b2bdcd65a8ac9a674aad5d"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T04:40:45.954Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:40:45.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2be1865a8ac9a674aae2b"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "other",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "source_of_fuels_used": [
+    {
+      "type": {
+        "$oid": "67b0413301f33d7cb67084d5"
+      },
+      "purpose": [
+        {
+          "$oid": "6736117ecb51156c2f52683e"
+        }
+      ],
+      "expenditures": 10000,
+      "quantity": 6000,
+      "quantity_unit": "",
+      "_id": {
+        "$oid": "67b2be1d65a8ac9a674aae67"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 0,
+  "purpose_petrol_used_for": [],
+  "createdAt": {
+    "$date": "2025-02-17T04:42:00.318Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:42:05.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ceba65a8ac9a674ad8d9"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 100,
+  "yearly_expenditure_petrol": 8400,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67aef3ae3a0c8b7971db0598"
+      },
+      "quantity": 100,
+      "_id": {
+        "$oid": "67b2ceba65a8ac9a674ad8da"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:52:58.977Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:52:58.977Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cf7065a8ac9a674ada31"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 500,
+  "yearly_expenditure_petrol": 7500,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67b040f801f33d7cb67084b8"
+      },
+      "quantity": 500,
+      "_id": {
+        "$oid": "67b2cf7065a8ac9a674ada32"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:56:00.006Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:56:00.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cfdf65a8ac9a674adb45"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "other",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "source_of_fuels_used": [
+    {
+      "type": {
+        "$oid": "6799ccec017716adad89ba7b"
+      },
+      "purpose": [
+        {
+          "$oid": "6736117ecb51156c2f52683e"
+        }
+      ],
+      "expenditures": 110,
+      "quantity": 2000,
+      "quantity_unit": "6799c9d70e76731996b85bae",
+      "_id": {
+        "$oid": "67b2cfdf65a8ac9a674adb46"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:57:51.820Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:57:51.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d61b65a8ac9a674ae8fa"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 60,
+  "yearly_expenditure_petrol": 3900,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67aef3ae3a0c8b7971db0598"
+      },
+      "quantity": 60,
+      "_id": {
+        "$oid": "67b2d61b65a8ac9a674ae8fb"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:24:27.116Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:24:27.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d64f65a8ac9a674ae968"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 60,
+  "yearly_expenditure_petrol": 3300,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0cb4710ebe42e2119de"
+      },
+      "quantity": 60,
+      "_id": {
+        "$oid": "67b2d64f65a8ac9a674ae969"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:25:19.733Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:25:19.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d65765a8ac9a674ae9a2"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 100,
+  "yearly_expenditure_petrol": 10000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0794a1ca37fdd756568"
+      },
+      "quantity": 100,
+      "_id": {
+        "$oid": "67b2d65765a8ac9a674ae9a3"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:25:27.703Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:25:27.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d66865a8ac9a674ae9d9"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 0,
+  "yearly_expenditure_petrol": 0,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67b040d301f33d7cb670849b"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "67b2d66865a8ac9a674ae9da"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:25:44.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:25:44.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d69265a8ac9a674ae9fd"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "natural_gas",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 15,
+  "yearly_expenditure_petrol": 0,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67880041650d18f99ddadd03"
+      },
+      "quantity": 15,
+      "_id": {
+        "$oid": "67b2d69265a8ac9a674ae9fe"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:26:26.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:26:26.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d6e665a8ac9a674aea6d"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "other",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "source_of_fuels_used": [
+    {
+      "type": {
+        "$oid": "6799ccec017716adad89ba7b"
+      },
+      "purpose": [
+        {
+          "$oid": "6736117ecb51156c2f52683e"
+        }
+      ],
+      "expenditures": 110,
+      "quantity": 1000,
+      "quantity_unit": "6799c9d70e76731996b85bae",
+      "_id": {
+        "$oid": "67b2d6e665a8ac9a674aea6e"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:27:50.957Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:27:50.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fb4e65a8ac9a674b2d4d"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 100,
+  "yearly_expenditure_petrol": 5000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0794a1ca37fdd756568"
+      },
+      "quantity": 100,
+      "_id": {
+        "$oid": "67b2fb4e65a8ac9a674b2d4e"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:03:10.509Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:03:10.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fb6f65a8ac9a674b2dfa"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 150,
+  "yearly_expenditure_petrol": 1000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0cb4710ebe42e2119de"
+      },
+      "quantity": 150,
+      "_id": {
+        "$oid": "67b2fb6f65a8ac9a674b2dfb"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:03:43.739Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:03:43.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ff4065a8ac9a674b3adb"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 0,
+  "yearly_expenditure_petrol": 0,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67b040bd01f33d7cb6708481"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "67b2ff4065a8ac9a674b3adc"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:20:00.124Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:20:00.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ff9465a8ac9a674b3bd5"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 44000,
+  "yearly_expenditure_petrol": 30000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67aef4273a0c8b7971db05a7"
+      },
+      "quantity": 44000,
+      "_id": {
+        "$oid": "67b2ff9465a8ac9a674b3bd6"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:21:24.540Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:21:24.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ffd065a8ac9a674b3cba"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "other",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "source_of_fuels_used": [
+    {
+      "type": {
+        "$oid": "6799ccec017716adad89ba7b"
+      },
+      "purpose": [
+        {
+          "$oid": "6736117ecb51156c2f52683e"
+        }
+      ],
+      "expenditures": 125,
+      "quantity": 1000,
+      "quantity_unit": "6799c9d70e76731996b85bae",
+      "_id": {
+        "$oid": "67b2ffd065a8ac9a674b3cbb"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:22:24.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:22:24.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3059165a8ac9a674b5184"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "electricity",
+  "electric_grid": true,
+  "yearly_electricity_consumption": 1125,
+  "yearly_expenditure_electricity": 1140,
+  "electricity_stable": false,
+  "microgrid_installed": true,
+  "microgrid_type": {
+    "$oid": "6739e0604a1ca37fdd756562"
+  },
+  "usage": 0,
+  "installation_cost": 0,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:46:57.912Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:47:09.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b305d065a8ac9a674b52cd"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 25,
+  "yearly_expenditure_petrol": 2200,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0794a1ca37fdd756568"
+      },
+      "quantity": 25,
+      "_id": {
+        "$oid": "67b305d065a8ac9a674b52ce"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:48:00.974Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:48:00.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3060a65a8ac9a674b5428"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 200,
+  "yearly_expenditure_petrol": 25000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0cb4710ebe42e2119de"
+      },
+      "quantity": 200,
+      "_id": {
+        "$oid": "67b3060a65a8ac9a674b5429"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:48:58.413Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:48:58.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3067665a8ac9a674b55c5"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "other",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "source_of_fuels_used": [
+    {
+      "type": {
+        "$oid": "6799ccec017716adad89ba7b"
+      },
+      "purpose": [
+        {
+          "$oid": "6736117ecb51156c2f52683e"
+        }
+      ],
+      "expenditures": 30,
+      "quantity": 2,
+      "quantity_unit": "67af14c001f33d7cb67073c0",
+      "_id": {
+        "$oid": "67b3067665a8ac9a674b55c6"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:50:46.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:50:46.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3069965a8ac9a674b565b"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "general_info",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "energy_sufficient": false,
+  "extent": {
+    "$oid": "67af131b01f33d7cb6707267"
+  },
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:51:21.695Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:51:21.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b30ca465a8ac9a674b6b3e"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 100,
+  "yearly_expenditure_petrol": 7000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67aef3ae3a0c8b7971db0598"
+      },
+      "quantity": 100,
+      "_id": {
+        "$oid": "67b3154a2bd26840a697a2d2"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T10:17:08.017Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:54:02.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b30cea65a8ac9a674b6b95"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 40,
+  "yearly_expenditure_petrol": 2800,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0cb4710ebe42e2119de"
+      },
+      "quantity": 6,
+      "_id": {
+        "$oid": "67b30cea65a8ac9a674b6b96"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T10:18:18.460Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:18:18.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b30d5465a8ac9a674b6c13"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "natural_gas",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 1000,
+  "yearly_expenditure_petrol": 1800,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67880041650d18f99ddadd03"
+      },
+      "quantity": 500,
+      "_id": {
+        "$oid": "67b30d5465a8ac9a674b6c14"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T10:20:04.791Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:20:04.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3198c535126c1f565e4b5"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 5,
+  "yearly_expenditure_petrol": 500,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0794a1ca37fdd756568"
+      },
+      "quantity": 5,
+      "_id": {
+        "$oid": "67b3198c535126c1f565e4b6"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:12:12.246Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:12:12.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b319a7535126c1f565e4fb"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 0,
+  "yearly_expenditure_petrol": 0,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67b040d301f33d7cb670849b"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "67b319dd535126c1f565e5b9"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 0,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:12:39.595Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:13:33.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31d7d535126c1f565ebbd"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 50,
+  "yearly_expenditure_petrol": 35000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67aef3ae3a0c8b7971db0598"
+      },
+      "quantity": 50,
+      "_id": {
+        "$oid": "67b31d7d535126c1f565ebbe"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:29:01.198Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:29:01.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31da7535126c1f565ebef"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 60,
+  "yearly_expenditure_petrol": 30000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0cb4710ebe42e2119de"
+      },
+      "quantity": 60,
+      "_id": {
+        "$oid": "67b31da7535126c1f565ebf0"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:29:43.947Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:29:43.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31dd9535126c1f565ec28"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "other",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "source_of_fuels_used": [
+    {
+      "type": {
+        "$oid": "6799ccec017716adad89ba7b"
+      },
+      "purpose": [
+        {
+          "$oid": "6736117ecb51156c2f52683e"
+        }
+      ],
+      "expenditures": 80,
+      "quantity": 5000,
+      "quantity_unit": "6799c9d70e76731996b85bae",
+      "_id": {
+        "$oid": "67b31dd9535126c1f565ec29"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:30:33.389Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:30:33.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3252490d48af87123b8a8"
+  },
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "type": "electricity",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": true,
+  "microgrid_installed": true,
+  "microgrid_type": {
+    "$oid": "67aef1253a0c8b7971db0561"
+  },
+  "usage": 58,
+  "installation_cost": 39,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T12:01:40.389Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T12:01:40.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34bc85e4b738d894cf897"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 25,
+  "yearly_expenditure_petrol": 2300,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67aef3ae3a0c8b7971db0598"
+      },
+      "quantity": 5,
+      "_id": {
+        "$oid": "67b34bc85e4b738d894cf898"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:46:32.298Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:46:32.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34c7f5e4b738d894cf8fe"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "natural_gas",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 150,
+  "yearly_expenditure_petrol": 4000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67880041650d18f99ddadd03"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "67b34c7f5e4b738d894cf8ff"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:49:35.585Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:49:35.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b359605e4b738d894d00f9"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 40,
+  "yearly_expenditure_petrol": 15000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67aef3ae3a0c8b7971db0598"
+      },
+      "quantity": 20,
+      "_id": {
+        "$oid": "67b359605e4b738d894d00fa"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6739e0794a1ca37fdd756568"
+      },
+      "quantity": 30,
+      "_id": {
+        "$oid": "67b359605e4b738d894d00fb"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T15:44:32.802Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:44:32.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b359765e4b738d894d0112"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 5,
+  "yearly_expenditure_petrol": 2000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0cb4710ebe42e2119de"
+      },
+      "quantity": 5,
+      "_id": {
+        "$oid": "67b359765e4b738d894d0113"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-17T15:44:54.738Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:44:54.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40f295e4b738d894d1c0e"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 40,
+  "yearly_expenditure_petrol": 4500,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67aef3ae3a0c8b7971db0598"
+      },
+      "quantity": 40,
+      "_id": {
+        "$oid": "67b40f295e4b738d894d1c0f"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:40:09.419Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:40:09.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40f395e4b738d894d1c35"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 0,
+  "yearly_expenditure_petrol": 0,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67b040d301f33d7cb670849b"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "67b40f395e4b738d894d1c36"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:40:25.584Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:40:25.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40f5e5e4b738d894d1c63"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "other",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "source_of_fuels_used": [
+    {
+      "type": {
+        "$oid": "6799ccec017716adad89ba7b"
+      },
+      "purpose": [
+        {
+          "$oid": "6736117ecb51156c2f52683e"
+        }
+      ],
+      "expenditures": 20,
+      "quantity": 1500,
+      "quantity_unit": "6799c9d70e76731996b85bae",
+      "_id": {
+        "$oid": "67b40f5e5e4b738d894d1c64"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:41:02.231Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:41:02.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b410645e4b738d894d1f5f"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 20,
+  "yearly_expenditure_petrol": 1000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0794a1ca37fdd756568"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "67b410645e4b738d894d1f60"
+      }
+    },
+    {
+      "type": {
+        "$oid": "67aef3ae3a0c8b7971db0598"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "67b410645e4b738d894d1f61"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:45:24.143Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:45:24.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4107b5e4b738d894d1f87"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 60,
+  "yearly_expenditure_petrol": 3000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "6739e0cb4710ebe42e2119de"
+      },
+      "quantity": 60,
+      "_id": {
+        "$oid": "67b4107b5e4b738d894d1f88"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:45:47.709Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:45:47.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4109f5e4b738d894d2036"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 0,
+  "yearly_expenditure_petrol": 0,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67b040bd01f33d7cb6708481"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "67b4109f5e4b738d894d2037"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:46:23.447Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:46:23.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b410ae5e4b738d894d20b3"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 0,
+  "yearly_expenditure_petrol": 0,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67b040d301f33d7cb670849b"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "67b410ae5e4b738d894d20b4"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:46:38.345Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:46:38.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b410bd5e4b738d894d20df"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "natural_gas",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 0,
+  "yearly_expenditure_petrol": 0,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67b040e601f33d7cb67084b2"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "67b410bd5e4b738d894d20e0"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:46:53.575Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:46:53.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b410d85e4b738d894d213c"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "electricity",
+  "electric_grid": true,
+  "yearly_electricity_consumption": 23040,
+  "yearly_expenditure_electricity": 1440,
+  "electricity_stable": false,
+  "microgrid_installed": true,
+  "microgrid_type": {
+    "$oid": "6739e0604a1ca37fdd756562"
+  },
+  "usage": 0,
+  "installation_cost": 0,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "purpose_petrol_used_for": [],
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:47:20.097Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:47:20.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43dc75e4b738d894d3e03"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "petrol",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 20,
+  "yearly_expenditure_petrol": 1800,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67aef3ae3a0c8b7971db0598"
+      },
+      "quantity": 20,
+      "_id": {
+        "$oid": "67b43dc75e4b738d894d3e04"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-18T07:59:03.817Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T07:59:03.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43e0a5e4b738d894d3e57"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "diesel",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": 100,
+  "yearly_expenditure_petrol": 14000,
+  "purpose_petrol_used_for": [
+    {
+      "type": {
+        "$oid": "67b040f801f33d7cb67084b8"
+      },
+      "quantity": 100,
+      "_id": {
+        "$oid": "67b43e0a5e4b738d894d3e58"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 1,
+  "source_of_fuels_used": [],
+  "createdAt": {
+    "$date": "2025-02-18T08:00:10.722Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:00:10.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43e345e4b738d894d3eab"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "other",
+  "electric_grid": false,
+  "yearly_electricity_consumption": null,
+  "yearly_expenditure_electricity": null,
+  "electricity_stable": false,
+  "microgrid_installed": false,
+  "microgrid_type": null,
+  "usage": null,
+  "installation_cost": null,
+  "yearly_petrol_consumption": null,
+  "yearly_expenditure_petrol": null,
+  "source_of_fuels_used": [
+    {
+      "type": {
+        "$oid": "6799ccec017716adad89ba7b"
+      },
+      "purpose": [
+        {
+          "$oid": "6736117ecb51156c2f52683e"
+        }
+      ],
+      "expenditures": 20,
+      "quantity": 1500,
+      "quantity_unit": "",
+      "_id": {
+        "$oid": "67b43e345e4b738d894d3eac"
+      }
+    }
+  ],
+  "energy_sufficient": false,
+  "extent": null,
+  "status": 0,
+  "purpose_petrol_used_for": [],
+  "createdAt": {
+    "$date": "2025-02-18T08:00:52.596Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:00:52.596Z"
+  },
+  "__v": 0
+}]

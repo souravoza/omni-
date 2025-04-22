@@ -1,0 +1,378 @@
+[{
+  "_id": {
+    "$oid": "676178627ba54e3fd9e411b5"
+  },
+  "type": "loan_lending_organizations",
+  "name": {
+    "en": "commercial banks",
+    "ms": "commercial banks",
+    "dz": "commercial banks"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:10:58.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:10:25.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676178667ba54e3fd9e411b8"
+  },
+  "type": "main_use_of_loans",
+  "name": {
+    "en": "agriculture (seeds, equipment, livestock)",
+    "ms": "agriculture (seeds, equipment, livestock)",
+    "dz": "agriculture (seeds, equipment, livestock)"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T13:11:02.812Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:12:55.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b3e25e4b738d894d05e3"
+  },
+  "type": "loan_lending_organizations",
+  "name": {
+    "en": "microfinance institutions (mfis)",
+    "ms": "microfinance institutions (mfis)",
+    "dz": "microfinance institutions (mfis)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:10:42.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:10:42.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b3eb5e4b738d894d05e6"
+  },
+  "type": "loan_lending_organizations",
+  "name": {
+    "en": "credit unions / cooperative banks",
+    "ms": "credit unions / cooperative banks",
+    "dz": "credit unions / cooperative banks"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:10:51.783Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:10:51.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b3fb5e4b738d894d05e9"
+  },
+  "type": "loan_lending_organizations",
+  "name": {
+    "en": "non-banking financial companies (nbfcs)",
+    "ms": "non-banking financial companies (nbfcs)",
+    "dz": "non-banking financial companies (nbfcs)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:11:07.981Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:11:07.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4075e4b738d894d05ec"
+  },
+  "type": "loan_lending_organizations",
+  "name": {
+    "en": "development finance institutions (dfis)",
+    "ms": "development finance institutions (dfis)",
+    "dz": "development finance institutions (dfis)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:11:19.857Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:11:19.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4165e4b738d894d05ef"
+  },
+  "type": "loan_lending_organizations",
+  "name": {
+    "en": "government loan schemes",
+    "ms": "government loan schemes",
+    "dz": "government loan schemes"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:11:34.967Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:11:34.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4255e4b738d894d05f2"
+  },
+  "type": "loan_lending_organizations",
+  "name": {
+    "en": "fintech lending companies",
+    "ms": "fintech lending companies",
+    "dz": "fintech lending companies"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:11:49.166Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:11:49.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4305e4b738d894d05f5"
+  },
+  "type": "loan_lending_organizations",
+  "name": {
+    "en": "international financial institutions (e.g., world bank, imf)",
+    "ms": "international financial institutions (e.g., world bank, imf)",
+    "dz": "international financial institutions (e.g., world bank, imf)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:12:00.127Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:12:00.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4395e4b738d894d05f8"
+  },
+  "type": "loan_lending_organizations",
+  "name": {
+    "en": "private money lenders",
+    "ms": "private money lenders",
+    "dz": "private money lenders"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:12:09.808Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:12:09.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4435e4b738d894d05fb"
+  },
+  "type": "loan_lending_organizations",
+  "name": {
+    "en": "agricultural and rural development banks",
+    "ms": "agricultural and rural development banks",
+    "dz": "agricultural and rural development banks"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:12:19.642Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:12:19.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4705e4b738d894d0600"
+  },
+  "type": "main_use_of_loans",
+  "name": {
+    "en": "business expansion / working capital",
+    "ms": "business expansion / working capital",
+    "dz": "business expansion / working capital"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:13:04.799Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:13:04.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4835e4b738d894d0603"
+  },
+  "type": "main_use_of_loans",
+  "name": {
+    "en": "education (school, college, vocational training)",
+    "ms": "education (school, college, vocational training)",
+    "dz": "education (school, college, vocational training)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:13:23.360Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:13:23.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4915e4b738d894d0606"
+  },
+  "type": "main_use_of_loans",
+  "name": {
+    "en": "housing (construction, renovation, purchase)",
+    "ms": "housing (construction, renovation, purchase)",
+    "dz": "housing (construction, renovation, purchase)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:13:37.733Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:13:37.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b49e5e4b738d894d0609"
+  },
+  "type": "main_use_of_loans",
+  "name": {
+    "en": "medical expenses (treatment, surgery, emergencies)",
+    "ms": "medical expenses (treatment, surgery, emergencies)",
+    "dz": "medical expenses (treatment, surgery, emergencies)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:13:50.306Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:13:50.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4a45e4b738d894d060c"
+  },
+  "type": "main_use_of_loans",
+  "name": {
+    "en": "\tdebt consolidation",
+    "ms": "\tdebt consolidation",
+    "dz": "\tdebt consolidation"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:13:56.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:13:56.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4b25e4b738d894d060f"
+  },
+  "type": "main_use_of_loans",
+  "name": {
+    "en": "vehicle purchase (two-wheeler, four-wheeler, commercial vehicle)",
+    "ms": "vehicle purchase (two-wheeler, four-wheeler, commercial vehicle)",
+    "dz": "vehicle purchase (two-wheeler, four-wheeler, commercial vehicle)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:14:10.779Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:14:10.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4c05e4b738d894d0613"
+  },
+  "type": "main_use_of_loans",
+  "name": {
+    "en": "personal expenses (marriage, travel, festivals)",
+    "ms": "personal expenses (marriage, travel, festivals)",
+    "dz": "personal expenses (marriage, travel, festivals)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:14:24.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:14:24.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4cb5e4b738d894d0616"
+  },
+  "type": "main_use_of_loans",
+  "name": {
+    "en": "personal expenses (marriage, travel, festivals)",
+    "ms": "personal expenses (marriage, travel, festivals)",
+    "dz": "personal expenses (marriage, travel, festivals)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:14:35.713Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:14:35.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4da5e4b738d894d0619"
+  },
+  "type": "main_use_of_loans",
+  "name": {
+    "en": "emergency needs (natural disasters, crisis management)",
+    "ms": "emergency needs (natural disasters, crisis management)",
+    "dz": "emergency needs (natural disasters, crisis management)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:14:50.401Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:14:50.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3b4e25e4b738d894d061c"
+  },
+  "type": "main_use_of_loans",
+  "name": {
+    "en": "technology / equipment purchase",
+    "ms": "technology / equipment purchase",
+    "dz": "technology / equipment purchase"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T22:14:58.936Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T22:14:58.936Z"
+  },
+  "__v": 0
+}]

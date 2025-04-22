@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6768de90d8a22eaa7713727b"
+  },
+  "moderator_id": {
+    "$oid": "67a1d4654e2c70adacf19d01"
+  },
+  "village_id": {
+    "$oid": "64fdaf9463838e6402d95583"
+  },
+  "house_connected_to_internal_road": "52",
+  "house_not_connected_to_internal_road": "12",
+  "village_connected_to_highway": true,
+  "mobility_requirement": [
+    {
+      "$oid": "676174fb7c844e272b1b5410"
+    }
+  ],
+  "reason": "nothing",
+  "condition_of_internal_roads": "676174fb7c844e272b1b5410",
+  "safety_issues_on_roads": true,
+  "describe": "nothing ",
+  "connectivity_to_healthcare_facilities": "6767c53d7aa921de9e461030",
+  "road_infrastructure_damaged": true,
+  "road_damage_frequency": "676175007c844e272b1b5413",
+  "createdAt": {
+    "$date": "2024-12-23T03:52:48.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T13:08:43.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a0812f49cb835c24ac38e8"
+  },
+  "moderator_id": {
+    "$oid": "67ade7ed76793a6ad3158f85"
+  },
+  "village_id": {
+    "$oid": "664398932395171e7da3dc8b"
+  },
+  "house_connected_to_internal_road": "21",
+  "house_not_connected_to_internal_road": "0",
+  "village_connected_to_highway": true,
+  "mobility_requirement": [
+    {
+      "$oid": "676174fb7c844e272b1b5410"
+    },
+    {
+      "$oid": "67b3aba95e4b738d894d0457"
+    },
+    {
+      "$oid": "67b3abc75e4b738d894d0460"
+    },
+    {
+      "$oid": "67b3abb45e4b738d894d045a"
+    },
+    {
+      "$oid": "67b3aba05e4b738d894d0454"
+    },
+    {
+      "$oid": "67b3ab955e4b738d894d0451"
+    },
+    {
+      "$oid": "67b3abcf5e4b738d894d0463"
+    },
+    {
+      "$oid": "67b3abd75e4b738d894d0466"
+    },
+    {
+      "$oid": "67b3abbe5e4b738d894d045d"
+    }
+  ],
+  "reason": "market",
+  "condition_of_internal_roads": "67b3abb45e4b738d894d045a",
+  "safety_issues_on_roads": true,
+  "describe": "narrow ",
+  "connectivity_to_healthcare_facilities": "67b3ac045e4b738d894d0471",
+  "road_infrastructure_damaged": true,
+  "road_damage_frequency": "676175007c844e272b1b5413",
+  "createdAt": {
+    "$date": "2025-02-03T08:41:19.209Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:20:26.386Z"
+  },
+  "__v": 0
+}]

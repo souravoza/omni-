@@ -1,0 +1,8740 @@
+[{
+  "_id": {
+    "$oid": "671ba5f6dabb1e46ed2540a1"
+  },
+  "name": {
+    "en": "farmer ",
+    "ms": "farmer ",
+    "dz": "farmer "
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:46.821Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:54:37.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f6dabb1e46ed2540a3"
+  },
+  "name": {
+    "en": "fisherman",
+    "ms": "fisherman",
+    "dz": "fisherman"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:46.964Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:46.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f7dabb1e46ed2540a5"
+  },
+  "name": {
+    "en": "plantation worker",
+    "ms": "plantation worker",
+    "dz": "plantation worker"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:47.062Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:57:08.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f7dabb1e46ed2540a7"
+  },
+  "name": {
+    "en": "tourist guide",
+    "ms": "tourist guide",
+    "dz": "tourist guide"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:47.173Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:57:28.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f7dabb1e46ed2540a9"
+  },
+  "name": {
+    "en": "artisan (handicrafts)",
+    "ms": "artisan (handicrafts)",
+    "dz": "artisan (handicrafts)"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:47.282Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:47.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f7dabb1e46ed2540ab"
+  },
+  "name": {
+    "en": "carpenter",
+    "ms": "carpenter",
+    "dz": "carpenter"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:47.391Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:47.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f7dabb1e46ed2540ad"
+  },
+  "name": {
+    "en": "traditional healer",
+    "ms": "traditional healer",
+    "dz": "traditional healer"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:47.497Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:47.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f7dabb1e46ed2540af"
+  },
+  "name": {
+    "en": "construction worker",
+    "ms": "construction worker",
+    "dz": "construction worker"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:47.608Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:47.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f7dabb1e46ed2540b1"
+  },
+  "name": {
+    "en": "carftsperson (traditional weaving, basketry) ",
+    "ms": "carftsperson (traditional weaving, basketry) ",
+    "dz": "carftsperson (traditional weaving, basketry) "
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:47.717Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:58:33.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f7dabb1e46ed2540b3"
+  },
+  "name": {
+    "en": "forest ranger/warden",
+    "ms": "forest ranger/warden",
+    "dz": "forest ranger/warden"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:47.822Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:47.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f7dabb1e46ed2540b5"
+  },
+  "name": {
+    "en": "religious practitioner/worker (priest/imam/monk/nun)",
+    "ms": "religious practitioner/worker (priest/imam/monk/nun)",
+    "dz": "religious practitioner/worker (priest/imam/monk/nun)"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:47.927Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:47.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f8dabb1e46ed2540b7"
+  },
+  "name": {
+    "en": "retail trader/shopkeeper",
+    "ms": "retail trader/shopkeeper",
+    "dz": "retail trader/shopkeeper"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:48.046Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:48.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f8dabb1e46ed2540b9"
+  },
+  "name": {
+    "en": "local government employee ",
+    "ms": "local government employee ",
+    "dz": "local government employee "
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:48.144Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:59:22.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f8dabb1e46ed2540bb"
+  },
+  "name": {
+    "en": "educator/teacher",
+    "ms": "educator/teacher",
+    "dz": "educator/teacher"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:48.244Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:48.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f8dabb1e46ed2540bd"
+  },
+  "name": {
+    "en": "healthcare worker (nurse, assistant)",
+    "ms": "healthcare worker (nurse, assistant)",
+    "dz": "healthcare worker (nurse, assistant)"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:48.346Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:48.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f8dabb1e46ed2540bf"
+  },
+  "name": {
+    "en": "logging worker",
+    "ms": "logging worker",
+    "dz": "logging worker"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:48.450Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:48.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f8dabb1e46ed2540c1"
+  },
+  "name": {
+    "en": "hospitality worker (small-scale lodging, guesthouse, restaurant)",
+    "ms": "hospitality worker (small-scale lodging, guesthouse, restaurant)",
+    "dz": "hospitality worker (small-scale lodging, guesthouse, restaurant)"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:48.550Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:48.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f8dabb1e46ed2540c3"
+  },
+  "name": {
+    "en": "small business owner",
+    "ms": "small business owner",
+    "dz": "small business owner"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:48.655Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:48.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f8dabb1e46ed2540c5"
+  },
+  "name": {
+    "en": "transport operator (driver)  ",
+    "ms": "transport operator (driver)  ",
+    "dz": "transport operator (driver)  "
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:48.755Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:01:37.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f8dabb1e46ed2540c7"
+  },
+  "name": {
+    "en": "administrative assistant/clerk",
+    "ms": "administrative assistant/clerk",
+    "dz": "administrative assistant/clerk"
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:48.861Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:48.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f8dabb1e46ed2540c9"
+  },
+  "name": {
+    "en": "hypertension (high blood pressure)",
+    "ms": "hypertension (high blood pressure)",
+    "dz": "hypertension (high blood pressure)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:48.995Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:48.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f9dabb1e46ed2540cb"
+  },
+  "name": {
+    "en": "coronary artery disease (heart problem due to blocked vessels)",
+    "ms": "coronary artery disease (heart problem due to blocked vessels)",
+    "dz": "coronary artery disease (heart problem due to blocked vessels)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:49.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:49.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f9dabb1e46ed2540cd"
+  },
+  "name": {
+    "en": "chronic obstructive pulmonary disease (copd) (chronic difficulty breathing and cough)",
+    "ms": "chronic obstructive pulmonary disease (copd) (chronic difficulty breathing and cough)",
+    "dz": "chronic obstructive pulmonary disease (copd) (chronic difficulty breathing and cough)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:49.215Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:49.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f9dabb1e46ed2540cf"
+  },
+  "name": {
+    "en": "asthma",
+    "ms": "asthma",
+    "dz": "asthma"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:49.321Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:49.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f9dabb1e46ed2540d1"
+  },
+  "name": {
+    "en": "type 1 diabetes",
+    "ms": "type 1 diabetes",
+    "dz": "type 1 diabetes"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:49.425Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:49.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f9dabb1e46ed2540d3"
+  },
+  "name": {
+    "en": "type 2 diabetes",
+    "ms": "type 2 diabetes",
+    "dz": "type 2 diabetes"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:49.525Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:49.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f9dabb1e46ed2540d5"
+  },
+  "name": {
+    "en": "breast cancer",
+    "ms": "breast cancer",
+    "dz": "breast cancer"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:49.625Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:49.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f9dabb1e46ed2540d7"
+  },
+  "name": {
+    "en": "lung cancer",
+    "ms": "lung cancer",
+    "dz": "lung cancer"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:49.725Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:49.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f9dabb1e46ed2540d9"
+  },
+  "name": {
+    "en": "colorectal cancer",
+    "ms": "colorectal cancer",
+    "dz": "colorectal cancer"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:49.838Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:49.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5f9dabb1e46ed2540db"
+  },
+  "name": {
+    "en": "cervical cancer",
+    "ms": "cervical cancer",
+    "dz": "cervical cancer"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:49.938Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:49.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fadabb1e46ed2540dd"
+  },
+  "name": {
+    "en": "oral cancer",
+    "ms": "oral cancer",
+    "dz": "oral cancer"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:50.040Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:50.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fadabb1e46ed2540df"
+  },
+  "name": {
+    "en": "rheumatoid arthritis (auto-immune)",
+    "ms": "rheumatoid arthritis (auto-immune)",
+    "dz": "rheumatoid arthritis (auto-immune)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:50.139Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:50.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fadabb1e46ed2540e1"
+  },
+  "name": {
+    "en": "severe arthritis",
+    "ms": "severe arthritis",
+    "dz": "severe arthritis"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:50.240Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:50.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fadabb1e46ed2540e3"
+  },
+  "name": {
+    "en": "lupus (immune system attacking various organs)",
+    "ms": "lupus (immune system attacking various organs)",
+    "dz": "lupus (immune system attacking various organs)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:50.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:50.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fadabb1e46ed2540e5"
+  },
+  "name": {
+    "en": "multiple sclerosis (immune system damages nerve covers)",
+    "ms": "multiple sclerosis (immune system damages nerve covers)",
+    "dz": "multiple sclerosis (immune system damages nerve covers)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:50.451Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:50.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fadabb1e46ed2540e7"
+  },
+  "name": {
+    "en": "alzheimer’s disease (memory loss over time)",
+    "ms": "alzheimer’s disease (memory loss over time)",
+    "dz": "alzheimer’s disease (memory loss over time)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:50.554Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:50.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fadabb1e46ed2540e9"
+  },
+  "name": {
+    "en": "parkinson’s disease (shaking hands or trouble moving)",
+    "ms": "parkinson’s disease (shaking hands or trouble moving)",
+    "dz": "parkinson’s disease (shaking hands or trouble moving)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:50.655Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:50.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fadabb1e46ed2540eb"
+  },
+  "name": {
+    "en": "epilepsy (seizures or fits)",
+    "ms": "epilepsy (seizures or fits)",
+    "dz": "epilepsy (seizures or fits)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:50.754Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:50.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fadabb1e46ed2540ed"
+  },
+  "name": {
+    "en": "cirrhosis (severe liver damage over time)",
+    "ms": "cirrhosis (severe liver damage over time)",
+    "dz": "cirrhosis (severe liver damage over time)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:50.859Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:50.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fadabb1e46ed2540ef"
+  },
+  "name": {
+    "en": "hepatitis b",
+    "ms": "hepatitis b",
+    "dz": "hepatitis b"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:50.958Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:50.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fbdabb1e46ed2540f1"
+  },
+  "name": {
+    "en": "hepatitis c",
+    "ms": "hepatitis c",
+    "dz": "hepatitis c"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:51.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:51.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fbdabb1e46ed2540f3"
+  },
+  "name": {
+    "en": "osteoarthritis (affects the joints in your body)",
+    "ms": "osteoarthritis (affects the joints in your body)",
+    "dz": "osteoarthritis (affects the joints in your body)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:51.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:51.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fbdabb1e46ed2540f5"
+  },
+  "name": {
+    "en": "osteoporosis (weak and brittle bones)",
+    "ms": "osteoporosis (weak and brittle bones)",
+    "dz": "osteoporosis (weak and brittle bones)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:51.263Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:51.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fbdabb1e46ed2540f7"
+  },
+  "name": {
+    "en": "depression",
+    "ms": "depression",
+    "dz": "depression"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:51.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:51.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fbdabb1e46ed2540f9"
+  },
+  "name": {
+    "en": "anxiety disorders",
+    "ms": "anxiety disorders",
+    "dz": "anxiety disorders"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:51.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:51.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fbdabb1e46ed2540fb"
+  },
+  "name": {
+    "en": "schizophrenia (hallucinations; seeing or hearing things that aren’t there)",
+    "ms": "schizophrenia (hallucinations; seeing or hearing things that aren’t there)",
+    "dz": "schizophrenia (hallucinations; seeing or hearing things that aren’t there)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:51.565Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:51.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fbdabb1e46ed2540fd"
+  },
+  "name": {
+    "en": "neuropsychiatric (affecting brain and behavior)",
+    "ms": "neuropsychiatric (affecting brain and behavior)",
+    "dz": "neuropsychiatric (affecting brain and behavior)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:51.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:51.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fbdabb1e46ed2540ff"
+  },
+  "name": {
+    "en": "hiv/aids",
+    "ms": "hiv/aids",
+    "dz": "hiv/aids"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:51.764Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:51.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fbdabb1e46ed254101"
+  },
+  "name": {
+    "en": "dengue",
+    "ms": "dengue",
+    "dz": "dengue"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:51.884Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:51.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fbdabb1e46ed254103"
+  },
+  "name": {
+    "en": "leptospirosis (infection from animals/contaminated water)",
+    "ms": "leptospirosis (infection from animals/contaminated water)",
+    "dz": "leptospirosis (infection from animals/contaminated water)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:51.989Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:51.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fcdabb1e46ed254105"
+  },
+  "name": {
+    "en": "soil-transmitted helminthiasis (sth) (worms from contaminated soil)",
+    "ms": "soil-transmitted helminthiasis (sth) (worms from contaminated soil)",
+    "dz": "soil-transmitted helminthiasis (sth) (worms from contaminated soil)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:52.095Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:52.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fcdabb1e46ed254107"
+  },
+  "name": {
+    "en": "lymphatic filariasis (elephantiasis; swelling of limbs)",
+    "ms": "lymphatic filariasis (elephantiasis; swelling of limbs)",
+    "dz": "lymphatic filariasis (elephantiasis; swelling of limbs)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:52.204Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:52.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fcdabb1e46ed254109"
+  },
+  "name": {
+    "en": "scrub typhus (fever from insect bite)",
+    "ms": "scrub typhus (fever from insect bite)",
+    "dz": "scrub typhus (fever from insect bite)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:52.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:52.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fcdabb1e46ed25410b"
+  },
+  "name": {
+    "en": "rabies",
+    "ms": "rabies",
+    "dz": "rabies"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:52.409Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:52.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fcdabb1e46ed25410d"
+  },
+  "name": {
+    "en": "schistosomiasis (parasitic infection in water)",
+    "ms": "schistosomiasis (parasitic infection in water)",
+    "dz": "schistosomiasis (parasitic infection in water)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:52.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:52.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fcdabb1e46ed25410f"
+  },
+  "name": {
+    "en": "buruli ulcer (skin disease in tropical areas)",
+    "ms": "buruli ulcer (skin disease in tropical areas)",
+    "dz": "buruli ulcer (skin disease in tropical areas)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:52.610Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:52.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fcdabb1e46ed254111"
+  },
+  "name": {
+    "en": "chagas disease (parasitic disease from bugs)",
+    "ms": "chagas disease (parasitic disease from bugs)",
+    "dz": "chagas disease (parasitic disease from bugs)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:52.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:52.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fcdabb1e46ed254113"
+  },
+  "name": {
+    "en": "chikungunya (virus from mosquito bite)",
+    "ms": "chikungunya (virus from mosquito bite)",
+    "dz": "chikungunya (virus from mosquito bite)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:52.826Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:52.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fcdabb1e46ed254115"
+  },
+  "name": {
+    "en": "leishmaniasis (skin sores from sand fly bite)",
+    "ms": "leishmaniasis (skin sores from sand fly bite)",
+    "dz": "leishmaniasis (skin sores from sand fly bite)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:52.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:52.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fddabb1e46ed254117"
+  },
+  "name": {
+    "en": "foodborne trematodiases (worms from infected food)",
+    "ms": "foodborne trematodiases (worms from infected food)",
+    "dz": "foodborne trematodiases (worms from infected food)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:53.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:53.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fddabb1e46ed254119"
+  },
+  "name": {
+    "en": "leprosy",
+    "ms": "leprosy",
+    "dz": "leprosy"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:53.149Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:53.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fddabb1e46ed25411b"
+  },
+  "name": {
+    "en": "mycetoma (infection of skin, bone, or muscle)",
+    "ms": "mycetoma (infection of skin, bone, or muscle)",
+    "dz": "mycetoma (infection of skin, bone, or muscle)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:53.251Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:53.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fddabb1e46ed25411d"
+  },
+  "name": {
+    "en": "scabies and other ectoparasitoses (skin itch due to mites)",
+    "ms": "scabies and other ectoparasitoses (skin itch due to mites)",
+    "dz": "scabies and other ectoparasitoses (skin itch due to mites)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:53.355Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:53.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fddabb1e46ed25411f"
+  },
+  "name": {
+    "en": "snakebite envenoming",
+    "ms": "snakebite envenoming",
+    "dz": "snakebite envenoming"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:53.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:53.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fddabb1e46ed254121"
+  },
+  "name": {
+    "en": "tuberculosis (tb)",
+    "ms": "tuberculosis (tb)",
+    "dz": "tuberculosis (tb)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:53.560Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:53.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fddabb1e46ed254123"
+  },
+  "name": {
+    "en": "autism spectrum disorder (communication difficulties)",
+    "ms": "autism spectrum disorder (communication difficulties)",
+    "dz": "autism spectrum disorder (communication difficulties)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:53.660Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:53.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fddabb1e46ed254125"
+  },
+  "name": {
+    "en": "down syndrome (genetic condition causing development issues)",
+    "ms": "down syndrome (genetic condition causing development issues)",
+    "dz": "down syndrome (genetic condition causing development issues)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:53.760Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:53.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fddabb1e46ed254127"
+  },
+  "name": {
+    "en": "congenital heart disease (heart problem from birth)",
+    "ms": "congenital heart disease (heart problem from birth)",
+    "dz": "congenital heart disease (heart problem from birth)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:53.858Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:53.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fddabb1e46ed254129"
+  },
+  "name": {
+    "en": "cystic fibrosis (chronic cough, frequent lung infections, shortness of breath, digestive problems)",
+    "ms": "cystic fibrosis (chronic cough, frequent lung infections, shortness of breath, digestive problems)",
+    "dz": "cystic fibrosis (chronic cough, frequent lung infections, shortness of breath, digestive problems)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:53.959Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:53.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fedabb1e46ed25412b"
+  },
+  "name": {
+    "en": "sickle cell anemia (anemia, pain crises, swelling, frequent infections)",
+    "ms": "sickle cell anemia (anemia, pain crises, swelling, frequent infections)",
+    "dz": "sickle cell anemia (anemia, pain crises, swelling, frequent infections)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:54.064Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:54.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fedabb1e46ed25412d"
+  },
+  "name": {
+    "en": "spina bifida (spinal cord defect from birth)",
+    "ms": "spina bifida (spinal cord defect from birth)",
+    "dz": "spina bifida (spinal cord defect from birth)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:54.169Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:54.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fedabb1e46ed25412f"
+  },
+  "name": {
+    "en": "hemophilia (blood does not clot properly)",
+    "ms": "hemophilia (blood does not clot properly)",
+    "dz": "hemophilia (blood does not clot properly)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:54.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:54.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fedabb1e46ed254131"
+  },
+  "name": {
+    "en": "tay-sachs disease (genetic disease affecting nerves)",
+    "ms": "tay-sachs disease (genetic disease affecting nerves)",
+    "dz": "tay-sachs disease (genetic disease affecting nerves)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:54.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:54.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fedabb1e46ed254133"
+  },
+  "name": {
+    "en": "cleft lip/palate (opening in lip or roof of mouth from birth)",
+    "ms": "cleft lip/palate (opening in lip or roof of mouth from birth)",
+    "dz": "cleft lip/palate (opening in lip or roof of mouth from birth)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:54.481Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:54.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fedabb1e46ed254135"
+  },
+  "name": {
+    "en": "phenylketonuria (pku) (body cannot process certain proteins)",
+    "ms": "phenylketonuria (pku) (body cannot process certain proteins)",
+    "dz": "phenylketonuria (pku) (body cannot process certain proteins)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:54.584Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:54.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fedabb1e46ed254137"
+  },
+  "name": {
+    "en": "chronic malaria",
+    "ms": "chronic malaria",
+    "dz": "chronic malaria"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:54.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:54.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fedabb1e46ed254139"
+  },
+  "name": {
+    "en": "hypercholesterolemia (high cholesterol or fat in blood)",
+    "ms": "hypercholesterolemia (high cholesterol or fat in blood)",
+    "dz": "hypercholesterolemia (high cholesterol or fat in blood)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:54.805Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:54.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5fedabb1e46ed25413b"
+  },
+  "name": {
+    "en": "chronic melioidosis (bacterial infection from soil/water)",
+    "ms": "chronic melioidosis (bacterial infection from soil/water)",
+    "dz": "chronic melioidosis (bacterial infection from soil/water)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:54.905Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:54.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5ffdabb1e46ed25413d"
+  },
+  "name": {
+    "en": "chronic mountain sickness (cms)",
+    "ms": "chronic mountain sickness (cms)",
+    "dz": "chronic mountain sickness (cms)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:55.006Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:55.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5ffdabb1e46ed25413f"
+  },
+  "name": {
+    "en": "no disability",
+    "ms": "no disability",
+    "dz": "no disability"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:55.111Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:55.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5ffdabb1e46ed254141"
+  },
+  "name": {
+    "en": "partial mobility impairment",
+    "ms": "partial mobility impairment",
+    "dz": "partial mobility impairment"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:55.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:55.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5ffdabb1e46ed254143"
+  },
+  "name": {
+    "en": "complete mobility impairment",
+    "ms": "complete mobility impairment",
+    "dz": "complete mobility impairment"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:55.313Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:55.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5ffdabb1e46ed254145"
+  },
+  "name": {
+    "en": "paralysis (partial)",
+    "ms": "paralysis (partial)",
+    "dz": "paralysis (partial)"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:55.423Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:55.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5ffdabb1e46ed254147"
+  },
+  "name": {
+    "en": "paralysis (complete)",
+    "ms": "paralysis (complete)",
+    "dz": "paralysis (complete)"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:55.523Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:55.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5ffdabb1e46ed254149"
+  },
+  "name": {
+    "en": "cerebral palsy (movement and muscle control issues)",
+    "ms": "cerebral palsy (movement and muscle control issues)",
+    "dz": "cerebral palsy (movement and muscle control issues)"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:55.623Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:55.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5ffdabb1e46ed25414b"
+  },
+  "name": {
+    "en": "muscular dystrophy (weakening of muscles over time)",
+    "ms": "muscular dystrophy (weakening of muscles over time)",
+    "dz": "muscular dystrophy (weakening of muscles over time)"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:55.724Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:55.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5ffdabb1e46ed25414d"
+  },
+  "name": {
+    "en": "amputation (upper limb)",
+    "ms": "amputation (upper limb)",
+    "dz": "amputation (upper limb)"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:55.830Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:55.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba5ffdabb1e46ed25414f"
+  },
+  "name": {
+    "en": "amputation (lower limb)",
+    "ms": "amputation (lower limb)",
+    "dz": "amputation (lower limb)"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:55.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:55.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba600dabb1e46ed254151"
+  },
+  "name": {
+    "en": "spinal cord injury",
+    "ms": "spinal cord injury",
+    "dz": "spinal cord injury"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:56.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:56.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba600dabb1e46ed254153"
+  },
+  "name": {
+    "en": "multiple sclerosis",
+    "ms": "multiple sclerosis",
+    "dz": "multiple sclerosis"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:56.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:56.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba600dabb1e46ed254155"
+  },
+  "name": {
+    "en": "stroke-related impairment",
+    "ms": "stroke-related impairment",
+    "dz": "stroke-related impairment"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:56.248Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:56.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba600dabb1e46ed254157"
+  },
+  "name": {
+    "en": "parkinson’s disease",
+    "ms": "parkinson’s disease",
+    "dz": "parkinson’s disease"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:56.354Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:56.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba600dabb1e46ed254159"
+  },
+  "name": {
+    "en": "other (please specify)",
+    "ms": "other (please specify)",
+    "dz": "other (please specify)"
+  },
+  "type": "motor_disability",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:56.458Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T08:35:16.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba600dabb1e46ed25415b"
+  },
+  "name": {
+    "en": "mentally and emotionally fit (no stress, calm, focused, able to express emotions clearly)",
+    "ms": "mentally and emotionally fit (no stress, calm, focused, able to express emotions clearly)",
+    "dz": "mentally and emotionally fit (no stress, calm, focused, able to express emotions clearly)"
+  },
+  "type": "overall_wellbeing",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:56.559Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:17:42.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba600dabb1e46ed25415d"
+  },
+  "name": {
+    "en": "generally stable (minor stress or anxiety, can usually identify and express emotions)",
+    "ms": "generally stable (minor stress or anxiety, can usually identify and express emotions)",
+    "dz": "generally stable (minor stress or anxiety, can usually identify and express emotions)"
+  },
+  "type": "overall_wellbeing",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:56.662Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:56.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba600dabb1e46ed25415f"
+  },
+  "name": {
+    "en": "facing challenges (frequent stress, anxiety, or difficulty in identifying and expressing emotions)",
+    "ms": "facing challenges (frequent stress, anxiety, or difficulty in identifying and expressing emotions)",
+    "dz": "facing challenges (frequent stress, anxiety, or difficulty in identifying and expressing emotions)"
+  },
+  "type": "overall_wellbeing",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:56.763Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:56.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba600dabb1e46ed254161"
+  },
+  "name": {
+    "en": "prefer not to answer",
+    "ms": "prefer not to answer",
+    "dz": "prefer not to answer"
+  },
+  "type": "overall_wellbeing",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:56.870Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:56.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba600dabb1e46ed254163"
+  },
+  "name": {
+    "en": "prefer not to answer",
+    "ms": "prefer not to answer",
+    "dz": "prefer not to answer"
+  },
+  "type": "communication_of_feelings",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:56.975Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:56.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba601dabb1e46ed254165"
+  },
+  "name": {
+    "en": "family/friends support",
+    "ms": "family/friends support",
+    "dz": "family/friends support"
+  },
+  "type": "support_system",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:57.080Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:57.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba601dabb1e46ed254167"
+  },
+  "name": {
+    "en": "professional support (counseling, therapy)",
+    "ms": "professional support (counseling, therapy)",
+    "dz": "professional support (counseling, therapy)"
+  },
+  "type": "support_system",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:57.179Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:57.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba601dabb1e46ed254169"
+  },
+  "name": {
+    "en": "social media expression",
+    "ms": "social media expression",
+    "dz": "social media expression"
+  },
+  "type": "support_system",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:57.285Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:57.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba601dabb1e46ed25416b"
+  },
+  "name": {
+    "en": "personal coping strategies (e.g., hobbies, meditation, relaxation techniques)",
+    "ms": "personal coping strategies (e.g., hobbies, meditation, relaxation techniques)",
+    "dz": "personal coping strategies (e.g., hobbies, meditation, relaxation techniques)"
+  },
+  "type": "support_system",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:57.390Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:57.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba601dabb1e46ed25416d"
+  },
+  "name": {
+    "en": "prefer not to answer",
+    "ms": "prefer not to answer",
+    "dz": "prefer not to answer"
+  },
+  "type": "support_system",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:57.494Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:57.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba601dabb1e46ed25416f"
+  },
+  "name": {
+    "en": "low stress, high resilience (infrequent stress, quick recovery from setbacks)",
+    "ms": "low stress, high resilience (infrequent stress, quick recovery from setbacks)",
+    "dz": "low stress, high resilience (infrequent stress, quick recovery from setbacks)"
+  },
+  "type": "stress_and_resilience",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:57.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:57.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba601dabb1e46ed254171"
+  },
+  "name": {
+    "en": "moderate stress, moderate resilience (occasional stress, moderate recovery time)",
+    "ms": "moderate stress, moderate resilience (occasional stress, moderate recovery time)",
+    "dz": "moderate stress, moderate resilience (occasional stress, moderate recovery time)"
+  },
+  "type": "stress_and_resilience",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:57.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:57.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba601dabb1e46ed254173"
+  },
+  "name": {
+    "en": "high stress, low resilience (frequent overwhelming stress, struggles to recover)",
+    "ms": "high stress, low resilience (frequent overwhelming stress, struggles to recover)",
+    "dz": "high stress, low resilience (frequent overwhelming stress, struggles to recover)"
+  },
+  "type": "stress_and_resilience",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:57.795Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:57.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba601dabb1e46ed254175"
+  },
+  "name": {
+    "en": "prefer not to answer",
+    "ms": "prefer not to answer",
+    "dz": "prefer not to answer"
+  },
+  "type": "stress_and_resilience",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:57.894Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:57.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba601dabb1e46ed254177"
+  },
+  "name": {
+    "en": "high (easily understands and shares feelings)",
+    "ms": "high (easily understands and shares feelings)",
+    "dz": "high (easily understands and shares feelings)"
+  },
+  "type": "empathy",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:57.994Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:57.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba602dabb1e46ed254179"
+  },
+  "name": {
+    "en": "moderate (sometimes understands and shares feelings)",
+    "ms": "moderate (sometimes understands and shares feelings)",
+    "dz": "moderate (sometimes understands and shares feelings)"
+  },
+  "type": "empathy",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:58.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:58.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba602dabb1e46ed25417b"
+  },
+  "name": {
+    "en": "low (struggles to understand and share feelings)",
+    "ms": "low (struggles to understand and share feelings)",
+    "dz": "low (struggles to understand and share feelings)"
+  },
+  "type": "empathy",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:58.193Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:58.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba602dabb1e46ed25417d"
+  },
+  "name": {
+    "en": "none (lacks emotional connection)",
+    "ms": "none (lacks emotional connection)",
+    "dz": "none (lacks emotional connection)"
+  },
+  "type": "empathy",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:58.294Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:58.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba602dabb1e46ed25417f"
+  },
+  "name": {
+    "en": "prefer not to answer",
+    "ms": "prefer not to answer",
+    "dz": "prefer not to answer"
+  },
+  "type": "empathy",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:58.394Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:58.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba602dabb1e46ed254181"
+  },
+  "name": {
+    "en": "chewing betel nut and leaves (doma in bhutan)",
+    "ms": "chewing betel nut and leaves (doma in bhutan)",
+    "dz": "chewing betel nut and leaves (doma in bhutan)"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:58.495Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:58.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba602dabb1e46ed254183"
+  },
+  "name": {
+    "en": "consuming local liquor (rice wine, tapioca wine, etc.)",
+    "ms": "consuming local liquor (rice wine, tapioca wine, etc.)",
+    "dz": "consuming local liquor (rice wine, tapioca wine, etc.)"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:58.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:58.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba602dabb1e46ed254185"
+  },
+  "name": {
+    "en": "tea drinking (butter tea, black tea)",
+    "ms": "tea drinking (butter tea, black tea)",
+    "dz": "tea drinking (butter tea, black tea)"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:58.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:58.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba602dabb1e46ed254187"
+  },
+  "name": {
+    "en": "consuming packaged/processed food",
+    "ms": "consuming packaged/processed food",
+    "dz": "consuming packaged/processed food"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:58.804Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:58.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba602dabb1e46ed254189"
+  },
+  "name": {
+    "en": "fast food",
+    "ms": "fast food",
+    "dz": "fast food"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:58.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:58.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba603dabb1e46ed25418b"
+  },
+  "name": {
+    "en": "smoking (tobacco, cigarettes, etc.)",
+    "ms": "smoking (tobacco, cigarettes, etc.)",
+    "dz": "smoking (tobacco, cigarettes, etc.)"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:59.009Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:59.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba603dabb1e46ed25418d"
+  },
+  "name": {
+    "en": "alcohol consumption (beer, wine, spirits, etc.)",
+    "ms": "alcohol consumption (beer, wine, spirits, etc.)",
+    "dz": "alcohol consumption (beer, wine, spirits, etc.)"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:59.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:59.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba603dabb1e46ed25418f"
+  },
+  "name": {
+    "en": "watching television/youtube/netflix/other streaming platforms",
+    "ms": "watching television/youtube/netflix/other streaming platforms",
+    "dz": "watching television/youtube/netflix/other streaming platforms"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:59.219Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:59.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba603dabb1e46ed254191"
+  },
+  "name": {
+    "en": "social media engagement (facebook, whatsapp, wechat, etc.)",
+    "ms": "social media engagement (facebook, whatsapp, wechat, etc.)",
+    "dz": "social media engagement (facebook, whatsapp, wechat, etc.)"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:59.319Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:59.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba603dabb1e46ed254193"
+  },
+  "name": {
+    "en": "engaging in online shopping",
+    "ms": "engaging in online shopping",
+    "dz": "engaging in online shopping"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:59.423Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:59.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba603dabb1e46ed254195"
+  },
+  "name": {
+    "en": "following modern fashion trends",
+    "ms": "following modern fashion trends",
+    "dz": "following modern fashion trends"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:59.534Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:59.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba603dabb1e46ed254197"
+  },
+  "name": {
+    "en": "other (specify): [input field]",
+    "ms": "other (specify): [input field]",
+    "dz": "other (specify): [input field]"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:59.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:59.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba603dabb1e46ed254199"
+  },
+  "name": {
+    "en": "prefer not to answer",
+    "ms": "prefer not to answer",
+    "dz": "prefer not to answer"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:59.738Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:59.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba603dabb1e46ed25419b"
+  },
+  "name": {
+    "en": "no formal education",
+    "ms": "no formal education",
+    "dz": "no formal education"
+  },
+  "type": "current_education_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:59.844Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:59.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba603dabb1e46ed25419d"
+  },
+  "name": {
+    "en": "primary education",
+    "ms": "primary education",
+    "dz": "primary education"
+  },
+  "type": "current_education_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:06:59.946Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:06:59.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba604dabb1e46ed25419f"
+  },
+  "name": {
+    "en": "secondary education",
+    "ms": "secondary education",
+    "dz": "secondary education"
+  },
+  "type": "current_education_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:00.049Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:00.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba604dabb1e46ed2541a1"
+  },
+  "name": {
+    "en": "higher secondary education",
+    "ms": "higher secondary education",
+    "dz": "higher secondary education"
+  },
+  "type": "current_education_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:00.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:00.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba604dabb1e46ed2541a3"
+  },
+  "name": {
+    "en": "diploma",
+    "ms": "diploma",
+    "dz": "diploma"
+  },
+  "type": "current_education_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:00.249Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:00.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba604dabb1e46ed2541a5"
+  },
+  "name": {
+    "en": "bachelor's degree",
+    "ms": "bachelor's degree",
+    "dz": "bachelor's degree"
+  },
+  "type": "current_education_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:00.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:00.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba604dabb1e46ed2541a7"
+  },
+  "name": {
+    "en": "master's degree",
+    "ms": "master's degree",
+    "dz": "master's degree"
+  },
+  "type": "current_education_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:00.449Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:00.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba604dabb1e46ed2541a9"
+  },
+  "name": {
+    "en": "doctorate",
+    "ms": "doctorate",
+    "dz": "doctorate"
+  },
+  "type": "current_education_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:00.554Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:00.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba604dabb1e46ed2541ab"
+  },
+  "name": {
+    "en": "monastic education",
+    "ms": "monastic education",
+    "dz": "monastic education"
+  },
+  "type": "current_education_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:00.658Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:00.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba604dabb1e46ed2541ad"
+  },
+  "name": {
+    "en": "vocational/skill-based training",
+    "ms": "vocational/skill-based training",
+    "dz": "vocational/skill-based training"
+  },
+  "type": "current_education_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:00.764Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:00.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba604dabb1e46ed2541af"
+  },
+  "name": {
+    "en": "religious education (e.g., christian, buddhist, islamic studies)",
+    "ms": "religious education (e.g., christian, buddhist, islamic studies)",
+    "dz": "religious education (e.g., christian, buddhist, islamic studies)"
+  },
+  "type": "current_education_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:00.870Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:00.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba604dabb1e46ed2541b1"
+  },
+  "name": {
+    "en": "other (specify)",
+    "ms": "other (specify)",
+    "dz": "other (specify)"
+  },
+  "type": "current_education_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:00.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:03:36.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba605dabb1e46ed2541b3"
+  },
+  "name": {
+    "en": "primary education",
+    "ms": "primary education",
+    "dz": "primary education"
+  },
+  "type": "education_seeking_to_gain",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:01.085Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:01.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba605dabb1e46ed2541b5"
+  },
+  "name": {
+    "en": "secondary education",
+    "ms": "secondary education",
+    "dz": "secondary education"
+  },
+  "type": "education_seeking_to_gain",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:01.184Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:01.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba605dabb1e46ed2541b7"
+  },
+  "name": {
+    "en": "vocational / skill based training",
+    "ms": "vocational / skill based training",
+    "dz": "vocational / skill based training"
+  },
+  "type": "education_seeking_to_gain",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:01.286Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:01.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba605dabb1e46ed2541b9"
+  },
+  "name": {
+    "en": "higher education (bachelor’s/master’s)",
+    "ms": "higher education (bachelor’s/master’s)",
+    "dz": "higher education (bachelor’s/master’s)"
+  },
+  "type": "education_seeking_to_gain",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:01.389Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:01.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba605dabb1e46ed2541bb"
+  },
+  "name": {
+    "en": "technical skills certification",
+    "ms": "technical skills certification",
+    "dz": "technical skills certification"
+  },
+  "type": "education_seeking_to_gain",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:01.489Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:01.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba605dabb1e46ed2541bd"
+  },
+  "name": {
+    "en": "digital literacy",
+    "ms": "digital literacy",
+    "dz": "digital literacy"
+  },
+  "type": "education_seeking_to_gain",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:01.590Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:01.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba605dabb1e46ed2541bf"
+  },
+  "name": {
+    "en": "religious education",
+    "ms": "religious education",
+    "dz": "religious education"
+  },
+  "type": "education_seeking_to_gain",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:01.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:01.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba605dabb1e46ed2541c1"
+  },
+  "name": {
+    "en": "other (specify)",
+    "ms": "other (specify)",
+    "dz": "other (specify)"
+  },
+  "type": "education_seeking_to_gain",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:01.794Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T05:17:23.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba605dabb1e46ed2541c3"
+  },
+  "name": {
+    "en": "carpentry/construction (modern/traditional)",
+    "ms": "carpentry/construction (modern/traditional)",
+    "dz": "carpentry/construction (modern/traditional)"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:01.908Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:01.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba606dabb1e46ed2541c5"
+  },
+  "name": {
+    "en": "organic farming",
+    "ms": "organic farming",
+    "dz": "organic farming"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:02.019Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:02.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba606dabb1e46ed2541c7"
+  },
+  "name": {
+    "en": "farming (modern/traditional)",
+    "ms": "farming (modern/traditional)",
+    "dz": "farming (modern/traditional)"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:02.126Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:02.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba606dabb1e46ed2541c9"
+  },
+  "name": {
+    "en": "food preservation methods (smoking, drying, canning)",
+    "ms": "food preservation methods (smoking, drying, canning)",
+    "dz": "food preservation methods (smoking, drying, canning)"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:02.230Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:02.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba606dabb1e46ed2541cb"
+  },
+  "name": {
+    "en": "sewing and tailoring",
+    "ms": "sewing and tailoring",
+    "dz": "sewing and tailoring"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:02.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:02.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba606dabb1e46ed2541cd"
+  },
+  "name": {
+    "en": "cooking and baking (traditional/modern/both)",
+    "ms": "cooking and baking (traditional/modern/both)",
+    "dz": "cooking and baking (traditional/modern/both)"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:02.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:02.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba606dabb1e46ed2541cf"
+  },
+  "name": {
+    "en": "driving (motorcycles, cars, commercial vehicles)",
+    "ms": "driving (motorcycles, cars, commercial vehicles)",
+    "dz": "driving (motorcycles, cars, commercial vehicles)"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:02.528Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:02.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba606dabb1e46ed2541d1"
+  },
+  "name": {
+    "en": "livestock management",
+    "ms": "livestock management",
+    "dz": "livestock management"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:02.628Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:02.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba606dabb1e46ed2541d3"
+  },
+  "name": {
+    "en": "fishing/hunting",
+    "ms": "fishing/hunting",
+    "dz": "fishing/hunting"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:02.734Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:02.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba606dabb1e46ed2541d5"
+  },
+  "name": {
+    "en": "digital literacy (basic)",
+    "ms": "digital literacy (basic)",
+    "dz": "digital literacy (basic)"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:02.839Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:02.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba606dabb1e46ed2541d7"
+  },
+  "name": {
+    "en": "traditional healing practices",
+    "ms": "traditional healing practices",
+    "dz": "traditional healing practices"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:02.940Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:02.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba607dabb1e46ed2541d9"
+  },
+  "name": {
+    "en": "doctor (medical professional)",
+    "ms": "doctor (medical professional)",
+    "dz": "doctor (medical professional)"
+  },
+  "type": "professional_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:03.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:03.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba607dabb1e46ed2541db"
+  },
+  "name": {
+    "en": "engineer (various specializations)",
+    "ms": "engineer (various specializations)",
+    "dz": "engineer (various specializations)"
+  },
+  "type": "professional_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:03.143Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:03.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba607dabb1e46ed2541dd"
+  },
+  "name": {
+    "en": "teacher/educator",
+    "ms": "teacher/educator",
+    "dz": "teacher/educator"
+  },
+  "type": "professional_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:03.249Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:03.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba607dabb1e46ed2541df"
+  },
+  "name": {
+    "en": "nurse",
+    "ms": "nurse",
+    "dz": "nurse"
+  },
+  "type": "professional_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:03.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:03.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba607dabb1e46ed2541e1"
+  },
+  "name": {
+    "en": "pharmacist",
+    "ms": "pharmacist",
+    "dz": "pharmacist"
+  },
+  "type": "professional_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:03.450Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:03.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba607dabb1e46ed2541e3"
+  },
+  "name": {
+    "en": "architect",
+    "ms": "architect",
+    "dz": "architect"
+  },
+  "type": "professional_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:03.550Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:03.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba607dabb1e46ed2541e5"
+  },
+  "name": {
+    "en": "accountant",
+    "ms": "accountant",
+    "dz": "accountant"
+  },
+  "type": "professional_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:03.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:03.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba607dabb1e46ed2541e7"
+  },
+  "name": {
+    "en": "social worker",
+    "ms": "social worker",
+    "dz": "social worker"
+  },
+  "type": "professional_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:03.763Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:03.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba607dabb1e46ed2541e9"
+  },
+  "name": {
+    "en": "it specialist",
+    "ms": "it specialist",
+    "dz": "it specialist"
+  },
+  "type": "professional_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:03.864Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:03.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba607dabb1e46ed2541eb"
+  },
+  "name": {
+    "en": "research scientist",
+    "ms": "research scientist",
+    "dz": "research scientist"
+  },
+  "type": "professional_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:03.969Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:03.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba608dabb1e46ed2541ed"
+  },
+  "name": {
+    "en": "small business management",
+    "ms": "small business management",
+    "dz": "small business management"
+  },
+  "type": "entrepreneurical_and_business_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:04.075Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:04.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba608dabb1e46ed2541ef"
+  },
+  "name": {
+    "en": "digital marketing",
+    "ms": "digital marketing",
+    "dz": "digital marketing"
+  },
+  "type": "entrepreneurical_and_business_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:04.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:04.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba608dabb1e46ed2541f1"
+  },
+  "name": {
+    "en": "financial literacy",
+    "ms": "financial literacy",
+    "dz": "financial literacy"
+  },
+  "type": "entrepreneurical_and_business_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:04.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:04.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba608dabb1e46ed2541f3"
+  },
+  "name": {
+    "en": "tourism and hospitality management",
+    "ms": "tourism and hospitality management",
+    "dz": "tourism and hospitality management"
+  },
+  "type": "entrepreneurical_and_business_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:04.379Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:04.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba608dabb1e46ed2541f5"
+  },
+  "name": {
+    "en": "leadership and teamwork in community projects",
+    "ms": "leadership and teamwork in community projects",
+    "dz": "leadership and teamwork in community projects"
+  },
+  "type": "interpersonal_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:04.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:04.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba608dabb1e46ed2541f7"
+  },
+  "name": {
+    "en": "teaching and mentoring others",
+    "ms": "teaching and mentoring others",
+    "dz": "teaching and mentoring others"
+  },
+  "type": "interpersonal_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:04.592Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:04.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba608dabb1e46ed2541f9"
+  },
+  "name": {
+    "en": "weaving baskets, fabrics, and other handicrafts",
+    "ms": "weaving baskets, fabrics, and other handicrafts",
+    "dz": "weaving baskets, fabrics, and other handicrafts"
+  },
+  "type": "creative_and_artistic_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:04.694Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:04.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba608dabb1e46ed2541fb"
+  },
+  "name": {
+    "en": "jewelry making with beads, stones, and traditional materials",
+    "ms": "jewelry making with beads, stones, and traditional materials",
+    "dz": "jewelry making with beads, stones, and traditional materials"
+  },
+  "type": "creative_and_artistic_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:04.804Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:04.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba608dabb1e46ed2541fd"
+  },
+  "name": {
+    "en": "playing traditional instruments (drums, flutes, etc.)",
+    "ms": "playing traditional instruments (drums, flutes, etc.)",
+    "dz": "playing traditional instruments (drums, flutes, etc.)"
+  },
+  "type": "creative_and_artistic_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:04.915Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:04.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba609dabb1e46ed2541ff"
+  },
+  "name": {
+    "en": "performing cultural dances",
+    "ms": "performing cultural dances",
+    "dz": "performing cultural dances"
+  },
+  "type": "creative_and_artistic_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:05.018Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:40:02.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba609dabb1e46ed254201"
+  },
+  "name": {
+    "en": "traditional music",
+    "ms": "traditional music",
+    "dz": "traditional music"
+  },
+  "type": "creative_and_artistic_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:05.125Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:05.125Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba609dabb1e46ed254203"
+  },
+  "name": {
+    "en": "photography (basic/advanced)",
+    "ms": "photography (basic/advanced)",
+    "dz": "photography (basic/advanced)"
+  },
+  "type": "creative_and_artistic_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:05.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:05.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba609dabb1e46ed254205"
+  },
+  "name": {
+    "en": "performing traditional dance",
+    "ms": "performing traditional dance",
+    "dz": "performing traditional dance"
+  },
+  "type": "cultural_and_traditional_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:05.344Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:05.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba609dabb1e46ed254207"
+  },
+  "name": {
+    "en": "storytelling and oral traditions (folklore, myths)",
+    "ms": "storytelling and oral traditions (folklore, myths)",
+    "dz": "storytelling and oral traditions (folklore, myths)"
+  },
+  "type": "cultural_and_traditional_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:05.459Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:05.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba609dabb1e46ed254209"
+  },
+  "name": {
+    "en": "traditional crafts (beads, weaving, bamboo work)",
+    "ms": "traditional crafts (beads, weaving, bamboo work)",
+    "dz": "traditional crafts (beads, weaving, bamboo work)"
+  },
+  "type": "cultural_and_traditional_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:05.564Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:05.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba609dabb1e46ed25420b"
+  },
+  "name": {
+    "en": "participating in local festivals or rituals",
+    "ms": "participating in local festivals or rituals",
+    "dz": "participating in local festivals or rituals"
+  },
+  "type": "cultural_and_traditional_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:05.666Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:05.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba609dabb1e46ed25420d"
+  },
+  "name": {
+    "en": "fishing/hunting",
+    "ms": "fishing/hunting",
+    "dz": "fishing/hunting"
+  },
+  "type": "outdoor_and_nature_based_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:05.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:05.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba609dabb1e46ed25420f"
+  },
+  "name": {
+    "en": "gardening (growing herbs, vegetables)",
+    "ms": "gardening (growing herbs, vegetables)",
+    "dz": "gardening (growing herbs, vegetables)"
+  },
+  "type": "outdoor_and_nature_based_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:05.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:05.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba609dabb1e46ed254211"
+  },
+  "name": {
+    "en": "hiking (nature walks, bird watching)",
+    "ms": "hiking (nature walks, bird watching)",
+    "dz": "hiking (nature walks, bird watching)"
+  },
+  "type": "outdoor_and_nature_based_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:05.985Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:05.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60adabb1e46ed254213"
+  },
+  "name": {
+    "en": "archery",
+    "ms": "archery",
+    "dz": "archery"
+  },
+  "type": "outdoor_and_nature_based_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:06.085Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:06.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60adabb1e46ed254215"
+  },
+  "name": {
+    "en": "games (football, volleyball)",
+    "ms": "games (football, volleyball)",
+    "dz": "games (football, volleyball)"
+  },
+  "type": "outdoor_and_nature_based_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:06.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:06.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60adabb1e46ed254217"
+  },
+  "name": {
+    "en": "travelling",
+    "ms": "travelling",
+    "dz": "travelling"
+  },
+  "type": "outdoor_and_nature_based_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:06.283Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:06.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60adabb1e46ed254219"
+  },
+  "name": {
+    "en": "digital content creation (youtube, tiktok, instagram)",
+    "ms": "digital content creation (youtube, tiktok, instagram)",
+    "dz": "digital content creation (youtube, tiktok, instagram)"
+  },
+  "type": "modern_and_digital_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:06.385Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:06.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60adabb1e46ed25421b"
+  },
+  "name": {
+    "en": "photography",
+    "ms": "photography",
+    "dz": "photography"
+  },
+  "type": "modern_and_digital_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:06.494Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:06.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60adabb1e46ed25421d"
+  },
+  "name": {
+    "en": "playing video games (mobile games, online platforms)",
+    "ms": "playing video games (mobile games, online platforms)",
+    "dz": "playing video games (mobile games, online platforms)"
+  },
+  "type": "modern_and_digital_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:06.598Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:06.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60adabb1e46ed25421f"
+  },
+  "name": {
+    "en": "watching movies/tv shows",
+    "ms": "watching movies/tv shows",
+    "dz": "watching movies/tv shows"
+  },
+  "type": "modern_and_digital_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:06.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:06.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60adabb1e46ed254221"
+  },
+  "name": {
+    "en": "reading books",
+    "ms": "reading books",
+    "dz": "reading books"
+  },
+  "type": "modern_and_digital_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:06.799Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:06.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60adabb1e46ed254223"
+  },
+  "name": {
+    "en": "music (playing traditional instruments, modern instruments)",
+    "ms": "music (playing traditional instruments, modern instruments)",
+    "dz": "music (playing traditional instruments, modern instruments)"
+  },
+  "type": "creative_and_artistic_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:06.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:06.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60bdabb1e46ed254225"
+  },
+  "name": {
+    "en": "drawing/painting",
+    "ms": "drawing/painting",
+    "dz": "drawing/painting"
+  },
+  "type": "creative_and_artistic_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:07.009Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:07.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60bdabb1e46ed254227"
+  },
+  "name": {
+    "en": "handicrafts (jewelry making, embroidery)",
+    "ms": "handicrafts (jewelry making, embroidery)",
+    "dz": "handicrafts (jewelry making, embroidery)"
+  },
+  "type": "creative_and_artistic_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:07.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:07.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60bdabb1e46ed254229"
+  },
+  "name": {
+    "en": "writing (poetry, stories)",
+    "ms": "writing (poetry, stories)",
+    "dz": "writing (poetry, stories)"
+  },
+  "type": "creative_and_artistic_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:07.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:07.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60bdabb1e46ed25422b"
+  },
+  "name": {
+    "en": "modern carpentry techniques",
+    "ms": "modern carpentry techniques",
+    "dz": "modern carpentry techniques"
+  },
+  "type": "technical_and_vocational_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:07.315Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:07.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60bdabb1e46ed25422d"
+  },
+  "name": {
+    "en": "organic farming and sustainable agriculture",
+    "ms": "organic farming and sustainable agriculture",
+    "dz": "organic farming and sustainable agriculture"
+  },
+  "type": "technical_and_vocational_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:07.415Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:07.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60bdabb1e46ed25422f"
+  },
+  "name": {
+    "en": "food preservation methods (smoking, drying, canning)",
+    "ms": "food preservation methods (smoking, drying, canning)",
+    "dz": "food preservation methods (smoking, drying, canning)"
+  },
+  "type": "technical_and_vocational_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:07.524Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:07.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60bdabb1e46ed254231"
+  },
+  "name": {
+    "en": "sewing and tailoring",
+    "ms": "sewing and tailoring",
+    "dz": "sewing and tailoring"
+  },
+  "type": "technical_and_vocational_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:07.622Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:07.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60bdabb1e46ed254233"
+  },
+  "name": {
+    "en": "cooking and baking (traditional and modern)",
+    "ms": "cooking and baking (traditional and modern)",
+    "dz": "cooking and baking (traditional and modern)"
+  },
+  "type": "technical_and_vocational_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:07.729Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:07.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60bdabb1e46ed254235"
+  },
+  "name": {
+    "en": "small business management",
+    "ms": "small business management",
+    "dz": "small business management"
+  },
+  "type": "entrepreneurial_and_business_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:07.833Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:07.833Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60bdabb1e46ed254237"
+  },
+  "name": {
+    "en": "digital marketing and sales (setting up e-commerce, using platforms)",
+    "ms": "digital marketing and sales (setting up e-commerce, using platforms)",
+    "dz": "digital marketing and sales (setting up e-commerce, using platforms)"
+  },
+  "type": "entrepreneurial_and_business_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:07.934Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:07.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60cdabb1e46ed254239"
+  },
+  "name": {
+    "en": "financial literacy (managing finances, loans, savings)",
+    "ms": "financial literacy (managing finances, loans, savings)",
+    "dz": "financial literacy (managing finances, loans, savings)"
+  },
+  "type": "entrepreneurial_and_business_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:08.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:08.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60cdabb1e46ed25423b"
+  },
+  "name": {
+    "en": "tourism and hospitality management",
+    "ms": "tourism and hospitality management",
+    "dz": "tourism and hospitality management"
+  },
+  "type": "entrepreneurial_and_business_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:08.148Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:08.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60cdabb1e46ed25423d"
+  },
+  "name": {
+    "en": "ecotourism management",
+    "ms": "ecotourism management",
+    "dz": "ecotourism management"
+  },
+  "type": "entrepreneurial_and_business_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:08.248Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:08.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60cdabb1e46ed25423f"
+  },
+  "name": {
+    "en": "computer skills (basic to advanced computer usage)",
+    "ms": "computer skills (basic to advanced computer usage)",
+    "dz": "computer skills (basic to advanced computer usage)"
+  },
+  "type": "digital_and_technological_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:08.359Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:08.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60cdabb1e46ed254241"
+  },
+  "name": {
+    "en": "digital literacy (using smartphones, apps, internet)",
+    "ms": "digital literacy (using smartphones, apps, internet)",
+    "dz": "digital literacy (using smartphones, apps, internet)"
+  },
+  "type": "digital_and_technological_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:08.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:08.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60cdabb1e46ed254243"
+  },
+  "name": {
+    "en": "social media management (facebook, instagram)",
+    "ms": "social media management (facebook, instagram)",
+    "dz": "social media management (facebook, instagram)"
+  },
+  "type": "digital_and_technological_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:08.593Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:08.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60cdabb1e46ed254245"
+  },
+  "name": {
+    "en": "photography and videography (for tourism, documentation)",
+    "ms": "photography and videography (for tourism, documentation)",
+    "dz": "photography and videography (for tourism, documentation)"
+  },
+  "type": "digital_and_technological_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:08.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:08.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60cdabb1e46ed254247"
+  },
+  "name": {
+    "en": "website design/maintenance",
+    "ms": "website design/maintenance",
+    "dz": "website design/maintenance"
+  },
+  "type": "digital_and_technological_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:08.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:08.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60cdabb1e46ed254249"
+  },
+  "name": {
+    "en": "english language proficiency (speaking, reading, writing)",
+    "ms": "english language proficiency (speaking, reading, writing)",
+    "dz": "english language proficiency (speaking, reading, writing)"
+  },
+  "type": "communication_and_language_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:08.909Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:08.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60ddabb1e46ed25424b"
+  },
+  "name": {
+    "en": "different dialects (learning for cross-cultural communication)",
+    "ms": "different dialects (learning for cross-cultural communication)",
+    "dz": "different dialects (learning for cross-cultural communication)"
+  },
+  "type": "communication_and_language_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:09.008Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:09.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60ddabb1e46ed25424d"
+  },
+  "name": {
+    "en": "public speaking and presentation skills",
+    "ms": "public speaking and presentation skills",
+    "dz": "public speaking and presentation skills"
+  },
+  "type": "communication_and_language_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:09.104Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:09.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60ddabb1e46ed25424f"
+  },
+  "name": {
+    "en": "conflict resolution and negotiation",
+    "ms": "conflict resolution and negotiation",
+    "dz": "conflict resolution and negotiation"
+  },
+  "type": "communication_and_language_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:09.204Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:09.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60ddabb1e46ed254251"
+  },
+  "name": {
+    "en": "first aid and healthcare basics",
+    "ms": "first aid and healthcare basics",
+    "dz": "first aid and healthcare basics"
+  },
+  "type": "health_and_wellbeing_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:09.309Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:09.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60ddabb1e46ed254253"
+  },
+  "name": {
+    "en": "nutrition and healthy cooking",
+    "ms": "nutrition and healthy cooking",
+    "dz": "nutrition and healthy cooking"
+  },
+  "type": "health_and_wellbeing_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:09.415Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:09.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60ddabb1e46ed254255"
+  },
+  "name": {
+    "en": "crafting (advanced beadwork, weaving techniques)",
+    "ms": "crafting (advanced beadwork, weaving techniques)",
+    "dz": "crafting (advanced beadwork, weaving techniques)"
+  },
+  "type": "creative_and_artistic_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:09.520Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:09.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60ddabb1e46ed254257"
+  },
+  "name": {
+    "en": "traditional music and dance (learning instruments, dance styles)",
+    "ms": "traditional music and dance (learning instruments, dance styles)",
+    "dz": "traditional music and dance (learning instruments, dance styles)"
+  },
+  "type": "creative_and_artistic_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:09.629Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:09.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60ddabb1e46ed254259"
+  },
+  "name": {
+    "en": "creative writing (poetry, storytelling)",
+    "ms": "creative writing (poetry, storytelling)",
+    "dz": "creative writing (poetry, storytelling)"
+  },
+  "type": "creative_and_artistic_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:09.727Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:09.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60ddabb1e46ed25425b"
+  },
+  "name": {
+    "en": "film and photography",
+    "ms": "film and photography",
+    "dz": "film and photography"
+  },
+  "type": "creative_and_artistic_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:09.827Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:09.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60ddabb1e46ed25425d"
+  },
+  "name": {
+    "en": "achieving inner peace and mindfulness",
+    "ms": "achieving inner peace and mindfulness",
+    "dz": "achieving inner peace and mindfulness"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:09.929Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:39:05.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60edabb1e46ed25425f"
+  },
+  "name": {
+    "en": "attaining enlightenment (buddhahood)",
+    "ms": "attaining enlightenment (buddhahood)",
+    "dz": "attaining enlightenment (buddhahood)"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:10.035Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:39:17.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60edabb1e46ed254261"
+  },
+  "name": {
+    "en": "living a life of compassion and kindness (bodhisattva ideal)",
+    "ms": "living a life of compassion and kindness (bodhisattva ideal)",
+    "dz": "living a life of compassion and kindness (bodhisattva ideal)"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:10.145Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:39:29.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60edabb1e46ed254263"
+  },
+  "name": {
+    "en": "participating in religious rituals and ceremonies",
+    "ms": "participating in religious rituals and ceremonies",
+    "dz": "participating in religious rituals and ceremonies"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:10.255Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:39:38.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60edabb1e46ed254265"
+  },
+  "name": {
+    "en": "joining monkhood (gelong /anim)",
+    "ms": "joining monkhood (gelong /anim)",
+    "dz": "joining monkhood (gelong /anim)"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:10.358Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:39:48.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60edabb1e46ed254267"
+  },
+  "name": {
+    "en": "practicing meditation and mindfulness regularly",
+    "ms": "practicing meditation and mindfulness regularly",
+    "dz": "practicing meditation and mindfulness regularly"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:10.468Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:39:57.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60edabb1e46ed254269"
+  },
+  "name": {
+    "en": "basic literacy – aspires to learn reading, writing, and arithmetic",
+    "ms": "basic literacy – aspires to learn reading, writing, and arithmetic",
+    "dz": "basic literacy – aspires to learn reading, writing, and arithmetic"
+  },
+  "type": "educational_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:10.566Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:44:43.917Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60edabb1e46ed25426b"
+  },
+  "name": {
+    "en": "advanced formal education – aspires to pursue higher education (college, university)",
+    "ms": "advanced formal education – aspires to pursue higher education (college, university)",
+    "dz": "advanced formal education – aspires to pursue higher education (college, university)"
+  },
+  "type": "educational_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:10.669Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:44:56.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60edabb1e46ed25426d"
+  },
+  "name": {
+    "en": "critical thinking & logical reasoning – aspires to develop analytical skills and sound judgment",
+    "ms": "critical thinking & logical reasoning – aspires to develop analytical skills and sound judgment",
+    "dz": "critical thinking & logical reasoning – aspires to develop analytical skills and sound judgment"
+  },
+  "type": "educational_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:10.779Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:45:08.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60edabb1e46ed25426f"
+  },
+  "name": {
+    "en": "mental silence & inner stillness – aspires to cultivate mindfulness and reduce mental noise",
+    "ms": "mental silence & inner stillness – aspires to cultivate mindfulness and reduce mental noise",
+    "dz": "mental silence & inner stillness – aspires to cultivate mindfulness and reduce mental noise"
+  },
+  "type": "educational_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:10.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:45:21.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60edabb1e46ed254271"
+  },
+  "name": {
+    "en": "overcoming overthinking – aspires to develop mental clarity and focus",
+    "ms": "overcoming overthinking – aspires to develop mental clarity and focus",
+    "dz": "overcoming overthinking – aspires to develop mental clarity and focus"
+  },
+  "type": "educational_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:10.999Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:45:40.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60fdabb1e46ed254273"
+  },
+  "name": {
+    "en": "contributing to the well-being of my local community",
+    "ms": "contributing to the well-being of my local community",
+    "dz": "contributing to the well-being of my local community"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:11.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:48:12.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60fdabb1e46ed254275"
+  },
+  "name": {
+    "en": "supporting the principles of gross national happiness (gnh)",
+    "ms": "supporting the principles of gross national happiness (gnh)",
+    "dz": "supporting the principles of gross national happiness (gnh)"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:11.193Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:48:22.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60fdabb1e46ed254277"
+  },
+  "name": {
+    "en": "promoting equality and social justice in bhutan",
+    "ms": "promoting equality and social justice in bhutan",
+    "dz": "promoting equality and social justice in bhutan"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:11.294Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:48:31.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60fdabb1e46ed254279"
+  },
+  "name": {
+    "en": "empowering rural and marginalized communities",
+    "ms": "empowering rural and marginalized communities",
+    "dz": "empowering rural and marginalized communities"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:11.403Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:48:40.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60fdabb1e46ed25427b"
+  },
+  "name": {
+    "en": "strengthening family and community bonds",
+    "ms": "strengthening family and community bonds",
+    "dz": "strengthening family and community bonds"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:11.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:48:53.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60fdabb1e46ed25427d"
+  },
+  "name": {
+    "en": "achieving inner peace and emotional balance",
+    "ms": "achieving inner peace and emotional balance",
+    "dz": "achieving inner peace and emotional balance"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:11.625Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:51:51.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60fdabb1e46ed25427f"
+  },
+  "name": {
+    "en": "overcoming negative emotions like anger, jealousy, and fear",
+    "ms": "overcoming negative emotions like anger, jealousy, and fear",
+    "dz": "overcoming negative emotions like anger, jealousy, and fear"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:11.736Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:52:00.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60fdabb1e46ed254281"
+  },
+  "name": {
+    "en": "developing compassion and empathy for others",
+    "ms": "developing compassion and empathy for others",
+    "dz": "developing compassion and empathy for others"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:11.844Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:52:11.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba60fdabb1e46ed254283"
+  },
+  "name": {
+    "en": "building stronger emotional connections with family and friends",
+    "ms": "building stronger emotional connections with family and friends",
+    "dz": "building stronger emotional connections with family and friends"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:11.945Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:52:17.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba610dabb1e46ed254285"
+  },
+  "name": {
+    "en": "practicing gratitude and contentment in daily life",
+    "ms": "practicing gratitude and contentment in daily life",
+    "dz": "practicing gratitude and contentment in daily life"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:12.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:52:28.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba610dabb1e46ed254287"
+  },
+  "name": {
+    "en": "maintaining a healthy and active lifestyle",
+    "ms": "maintaining a healthy and active lifestyle",
+    "dz": "maintaining a healthy and active lifestyle"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:12.148Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:56:06.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba610dabb1e46ed254289"
+  },
+  "name": {
+    "en": "practicing traditional bhutanese physical exercises (e.g., archery, khuru)",
+    "ms": "practicing traditional bhutanese physical exercises (e.g., archery, khuru)",
+    "dz": "practicing traditional bhutanese physical exercises (e.g., archery, khuru)"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:12.250Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:56:16.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba610dabb1e46ed25428b"
+  },
+  "name": {
+    "en": "improving overall physical fitness and strength",
+    "ms": "improving overall physical fitness and strength",
+    "dz": "improving overall physical fitness and strength"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:12.351Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:56:23.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba610dabb1e46ed25428d"
+  },
+  "name": {
+    "en": "eating a balanced and nutritious diet",
+    "ms": "eating a balanced and nutritious diet",
+    "dz": "eating a balanced and nutritious diet"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:12.453Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:56:31.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba610dabb1e46ed25428f"
+  },
+  "name": {
+    "en": "reducing stress through physical activities like hiking or yoga",
+    "ms": "reducing stress through physical activities like hiking or yoga",
+    "dz": "reducing stress through physical activities like hiking or yoga"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:12.559Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:56:45.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba610dabb1e46ed254291"
+  },
+  "name": {
+    "en": "contributing to the development of bhutan through my profession",
+    "ms": "contributing to the development of bhutan through my profession",
+    "dz": "contributing to the development of bhutan through my profession"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:12.663Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:59:12.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba610dabb1e46ed254293"
+  },
+  "name": {
+    "en": "working in a field that promotes environmental sustainability",
+    "ms": "working in a field that promotes environmental sustainability",
+    "dz": "working in a field that promotes environmental sustainability"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:12.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:59:26.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba610dabb1e46ed254295"
+  },
+  "name": {
+    "en": "supporting rural development and community empowerment",
+    "ms": "supporting rural development and community empowerment",
+    "dz": "supporting rural development and community empowerment"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:12.869Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:59:41.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba610dabb1e46ed254297"
+  },
+  "name": {
+    "en": "preserving and promoting bhutanese culture and heritage through my work",
+    "ms": "preserving and promoting bhutanese culture and heritage through my work",
+    "dz": "preserving and promoting bhutanese culture and heritage through my work"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:12.975Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:59:52.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba611dabb1e46ed254299"
+  },
+  "name": {
+    "en": "pursuing a career in agriculture or organic farming",
+    "ms": "pursuing a career in agriculture or organic farming",
+    "dz": "pursuing a career in agriculture or organic farming"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:13.083Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:00:29.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba611dabb1e46ed25429b"
+  },
+  "name": {
+    "en": "stronger community leadership and governance",
+    "ms": "stronger community leadership and governance",
+    "dz": "stronger community leadership and governance"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:13.193Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:13.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba611dabb1e46ed25429d"
+  },
+  "name": {
+    "en": "women's empowerment programs",
+    "ms": "women's empowerment programs",
+    "dz": "women's empowerment programs"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:13.298Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:13.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba611dabb1e46ed25429f"
+  },
+  "name": {
+    "en": "youth engagement",
+    "ms": "youth engagement",
+    "dz": "youth engagement"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:13.398Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:13.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba611dabb1e46ed2542a1"
+  },
+  "name": {
+    "en": "increased social cohesion and community bonding",
+    "ms": "increased social cohesion and community bonding",
+    "dz": "increased social cohesion and community bonding"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:13.500Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:13.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba611dabb1e46ed2542a3"
+  },
+  "name": {
+    "en": "reduction of poverty and social inequalities",
+    "ms": "reduction of poverty and social inequalities",
+    "dz": "reduction of poverty and social inequalities"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:13.605Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T14:07:13.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba612dabb1e46ed2542ab"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "aspiration_for_personal_growth",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:14.013Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T06:30:33.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671ba612dabb1e46ed2542b1"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T14:07:14.318Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T06:31:23.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671bdfb71b64b1bc56ea2bb0"
+  },
+  "name": {
+    "en": "english",
+    "ms": "english",
+    "dz": "english"
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T18:13:11.184Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T18:13:11.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671bdfdb1b64b1bc56ea2bb5"
+  },
+  "name": {
+    "en": "gongduep",
+    "ms": "gongduep",
+    "dz": "gongduep"
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T18:13:47.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:44:50.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671bdfe31b64b1bc56ea2bb7"
+  },
+  "name": {
+    "en": "kurtop",
+    "ms": "kurtop",
+    "dz": "kurtop"
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T18:13:55.489Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:47:12.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671bdffb1b64b1bc56ea2bbb"
+  },
+  "name": {
+    "en": "less than nu. 50,000",
+    "ms": "less than nu. 50,000",
+    "dz": "less than nu. 50,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T18:14:19.556Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:34:36.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671be0021b64b1bc56ea2bbe"
+  },
+  "name": {
+    "en": "between nu. 50001 and nu. 100,000",
+    "ms": "between nu. 50001 and nu. 100,000",
+    "dz": "between nu. 50001 and nu. 100,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-25T18:14:26.695Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:05:24.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671c8e111b64b1bc56ea2bd8"
+  },
+  "name": {
+    "en": "married",
+    "ms": "married",
+    "dz": "married"
+  },
+  "type": "marital_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-26T06:37:05.205Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-26T06:37:05.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671c8e161b64b1bc56ea2bda"
+  },
+  "name": {
+    "en": "single",
+    "ms": "single",
+    "dz": "single"
+  },
+  "type": "marital_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-26T06:37:10.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-26T06:37:10.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671c8e1b1b64b1bc56ea2bdc"
+  },
+  "name": {
+    "en": "divorced",
+    "ms": "divorced",
+    "dz": "divorced"
+  },
+  "type": "marital_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-26T06:37:15.953Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-26T06:37:15.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671c8e201b64b1bc56ea2bde"
+  },
+  "name": {
+    "en": "separated",
+    "ms": "separated",
+    "dz": "separated"
+  },
+  "type": "marital_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-26T06:37:20.925Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-26T06:37:20.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671c8e2b1b64b1bc56ea2be0"
+  },
+  "name": {
+    "en": "predominantly vegetarian",
+    "ms": "predominantly vegetarian",
+    "dz": "predominantly vegetarian"
+  },
+  "type": "diet",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-26T06:37:31.628Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-26T06:37:31.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671c8e321b64b1bc56ea2be2"
+  },
+  "name": {
+    "en": "predominantly non veg",
+    "ms": "predominantly non veg",
+    "dz": "predominantly non veg"
+  },
+  "type": "diet",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-26T06:37:38.839Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-26T06:37:38.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671c8e391b64b1bc56ea2be4"
+  },
+  "name": {
+    "en": "balanced",
+    "ms": "balanced",
+    "dz": "balanced"
+  },
+  "type": "diet",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-26T06:37:45.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-26T06:37:45.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671c8e401b64b1bc56ea2be6"
+  },
+  "name": {
+    "en": "vegan",
+    "ms": "vegan",
+    "dz": "vegan"
+  },
+  "type": "diet",
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-10-26T06:37:52.151Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-26T06:37:52.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cad2be6b5e001dd4c9ad5"
+  },
+  "name": {
+    "en": "pescatarian (vegetarian + fish)",
+    "ms": "pescatarian (vegetarian + fish)",
+    "dz": "pescatarian (vegetarian + fish)"
+  },
+  "type": "diet",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-01-31T10:59:55.211Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T10:59:55.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cad40e6b5e001dd4c9ad8"
+  },
+  "name": {
+    "en": "other (specify)",
+    "ms": "other (specify)",
+    "dz": "other (specify)"
+  },
+  "type": "diet",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-01-31T11:00:16.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:00:16.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cae82e6b5e001dd4c9ae8"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-01-31T11:05:38.892Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:05:38.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cb138e6b5e001dd4c9afa"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "outdoor_and_nature_based_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-01-31T11:17:12.932Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:17:12.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cb18fe6b5e001dd4c9b03"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "technical_and_vocational_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-01-31T11:18:39.760Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:18:39.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cb1bfe6b5e001dd4c9b12"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "creative_and_artistic_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-01-31T11:19:27.887Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:19:27.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae27c33a0c8b7971daeec3"
+  },
+  "name": {
+    "en": "none ",
+    "ms": "none ",
+    "dz": "none "
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T17:11:31.567Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T17:11:31.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae4f603a0c8b7971daf3b9"
+  },
+  "name": {
+    "en": "dzongkha ",
+    "ms": "dzongkha ",
+    "dz": "dzongkha "
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:00:32.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:47:46.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae4f743a0c8b7971daf3bc"
+  },
+  "name": {
+    "en": "brokpa",
+    "ms": "brokpa",
+    "dz": "brokpa"
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:00:52.023Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:48:04.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae4f843a0c8b7971daf3bf"
+  },
+  "name": {
+    "en": "no income",
+    "ms": "no income",
+    "dz": "no income"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:01:08.208Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:01:08.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae560d3a0c8b7971daf3f9"
+  },
+  "name": {
+    "en": "khengkha ",
+    "ms": "khengkha ",
+    "dz": "khengkha "
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:29:01.963Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:49:02.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae561c3a0c8b7971daf3fc"
+  },
+  "name": {
+    "en": "tsangla  ",
+    "ms": "tsangla  ",
+    "dz": "tsangla  "
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:29:16.968Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:49:22.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae57113a0c8b7971daf401"
+  },
+  "name": {
+    "en": "lhotsham ",
+    "ms": "lhotsham ",
+    "dz": "lhotsham "
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:33:21.732Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:49:43.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5af73a0c8b7971daf41d"
+  },
+  "name": {
+    "en": "cho cha nga cha",
+    "ms": "cho cha nga cha",
+    "dz": "cho cha nga cha"
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:49:59.146Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:49:59.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5b083a0c8b7971daf420"
+  },
+  "name": {
+    "en": "monpa",
+    "ms": "monpa",
+    "dz": "monpa"
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:50:16.337Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:50:16.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5b163a0c8b7971daf423"
+  },
+  "name": {
+    "en": "bumtap",
+    "ms": "bumtap",
+    "dz": "bumtap"
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:50:30.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:50:30.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5b253a0c8b7971daf426"
+  },
+  "name": {
+    "en": "dzala kha ",
+    "ms": "dzala kha ",
+    "dz": "dzala kha "
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:50:45.214Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:50:45.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5b333a0c8b7971daf429"
+  },
+  "name": {
+    "en": "hindi",
+    "ms": "hindi",
+    "dz": "hindi"
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:50:59.465Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:51:45.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5b763a0c8b7971daf438"
+  },
+  "name": {
+    "en": "ole ",
+    "ms": "ole ",
+    "dz": "ole "
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:52:06.989Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:52:06.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5b883a0c8b7971daf43b"
+  },
+  "name": {
+    "en": "none ",
+    "ms": "none ",
+    "dz": "none "
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:52:24.233Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:52:24.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5b973a0c8b7971daf43e"
+  },
+  "name": {
+    "en": "other ",
+    "ms": "other ",
+    "dz": "other "
+  },
+  "type": "language",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:52:39.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:52:39.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5c8e3a0c8b7971daf444"
+  },
+  "name": {
+    "en": "pastoralist ",
+    "ms": "pastoralist ",
+    "dz": "pastoralist "
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T20:56:46.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T20:56:46.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5dd13a0c8b7971daf452"
+  },
+  "name": {
+    "en": "others ",
+    "ms": "others ",
+    "dz": "others "
+  },
+  "type": "occupation",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:02:09.466Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:02:09.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5ec33a0c8b7971daf458"
+  },
+  "name": {
+    "en": "between nu. 100001 and nu. 150,000",
+    "ms": "between nu. 100001 and nu. 150,000",
+    "dz": "between nu. 100001 and nu. 150,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:06:11.406Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:06:11.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5ed43a0c8b7971daf45b"
+  },
+  "name": {
+    "en": "between nu. 150,001 and nu. 200,000",
+    "ms": "between nu. 150,001 and nu. 200,000",
+    "dz": "between nu. 150,001 and nu. 200,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:06:28.149Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:06:28.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5ee43a0c8b7971daf45e"
+  },
+  "name": {
+    "en": "between nu. 200,001 and nu. 250,000",
+    "ms": "between nu. 200,001 and nu. 250,000",
+    "dz": "between nu. 200,001 and nu. 250,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:06:44.232Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:06:44.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5ef43a0c8b7971daf461"
+  },
+  "name": {
+    "en": "between nu. 250,001 and nu. 300,000",
+    "ms": "between nu. 250,001 and nu. 300,000",
+    "dz": "between nu. 250,001 and nu. 300,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:07:00.809Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:07:00.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5f073a0c8b7971daf464"
+  },
+  "name": {
+    "en": "between nu. 300,001 and nu. 350,000",
+    "ms": "between nu. 300,001 and nu. 350,000",
+    "dz": "between nu. 300,001 and nu. 350,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:07:19.286Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:07:19.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5f143a0c8b7971daf467"
+  },
+  "name": {
+    "en": "between nu. 350,001 and nu. 400,000",
+    "ms": "between nu. 350,001 and nu. 400,000",
+    "dz": "between nu. 350,001 and nu. 400,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:07:32.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:07:32.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5f233a0c8b7971daf46a"
+  },
+  "name": {
+    "en": "between nu. 400,001 and nu 450,000",
+    "ms": "between nu. 400,001 and nu 450,000",
+    "dz": "between nu. 400,001 and nu 450,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:07:47.164Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:07:47.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5f343a0c8b7971daf46d"
+  },
+  "name": {
+    "en": "between nu. 45,0001 and nu. 500,000",
+    "ms": "between nu. 45,0001 and nu. 500,000",
+    "dz": "between nu. 45,0001 and nu. 500,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:08:04.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:08:04.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5f3f3a0c8b7971daf471"
+  },
+  "name": {
+    "en": "between nu. 500,001 and 10,00,000",
+    "ms": "between nu. 500,001 and 10,00,000",
+    "dz": "between nu. 500,001 and 10,00,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:08:15.499Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:08:15.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5f4d3a0c8b7971daf474"
+  },
+  "name": {
+    "en": "between nu. 10,00,000 and 15,00,000",
+    "ms": "between nu. 10,00,000 and 15,00,000",
+    "dz": "between nu. 10,00,000 and 15,00,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:08:29.696Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:37:58.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5f5d3a0c8b7971daf477"
+  },
+  "name": {
+    "en": "between nu. 15,00,000 and 20,00,000",
+    "ms": "between nu. 15,00,000 and 20,00,000",
+    "dz": "between nu. 15,00,000 and 20,00,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:08:45.309Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:39:53.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5f6f3a0c8b7971daf47a"
+  },
+  "name": {
+    "en": "above 20,00,000",
+    "ms": "above 20,00,000",
+    "dz": "above 20,00,000"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:09:03.098Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:09:03.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae5f7f3a0c8b7971daf47d"
+  },
+  "name": {
+    "en": "prefer not to answer",
+    "ms": "prefer not to answer",
+    "dz": "prefer not to answer"
+  },
+  "type": "yearly_income",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:09:19.428Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:09:19.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae60943a0c8b7971daf481"
+  },
+  "name": {
+    "en": "buruli ulcer (skin disease in tropical areas)",
+    "ms": "buruli ulcer (skin disease in tropical areas)",
+    "dz": "buruli ulcer (skin disease in tropical areas)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:13:56.544Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:13:56.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae60f03a0c8b7971daf484"
+  },
+  "name": {
+    "en": "other( specify)",
+    "ms": "other( specify)",
+    "dz": "other( specify)"
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:15:28.850Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:15:28.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae61003a0c8b7971daf487"
+  },
+  "name": {
+    "en": "none ",
+    "ms": "none ",
+    "dz": "none "
+  },
+  "type": "chronic_diseases",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:15:44.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:15:44.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae61ea3a0c8b7971daf48d"
+  },
+  "name": {
+    "en": "regularly",
+    "ms": "regularly",
+    "dz": "regularly"
+  },
+  "type": "communication_of_feelings",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:19:38.895Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:19:38.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae62063a0c8b7971daf490"
+  },
+  "name": {
+    "en": "occasionally",
+    "ms": "occasionally",
+    "dz": "occasionally"
+  },
+  "type": "communication_of_feelings",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:20:06.159Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:20:06.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae62133a0c8b7971daf493"
+  },
+  "name": {
+    "en": "rarely",
+    "ms": "rarely",
+    "dz": "rarely"
+  },
+  "type": "communication_of_feelings",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:20:19.593Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:20:19.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae62e13a0c8b7971daf497"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "habbits",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:23:45.406Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:23:45.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae63363a0c8b7971daf49a"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "current_education_status",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:25:10.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:25:10.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae63623a0c8b7971daf49d"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "education_seeking_to_gain",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:25:54.426Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:25:54.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae65183a0c8b7971daf4a1"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:33:12.738Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:33:12.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae65603a0c8b7971daf4a7"
+  },
+  "name": {
+    "en": "other",
+    "ms": "other",
+    "dz": "other"
+  },
+  "type": "professional_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:34:24.089Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:34:24.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae65bc3a0c8b7971daf4b0"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "interpersonal_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:35:56.072Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:35:56.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae65d53a0c8b7971daf4b3"
+  },
+  "name": {
+    "en": "other ",
+    "ms": "other ",
+    "dz": "other "
+  },
+  "type": "interpersonal_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:36:21.155Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:36:21.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae66dd3a0c8b7971daf4c1"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "cultural_and_traditional_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:40:45.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:40:45.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae66f63a0c8b7971daf4c4"
+  },
+  "name": {
+    "en": "others",
+    "ms": "other ",
+    "dz": "others"
+  },
+  "type": "cultural_and_traditional_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:41:10.966Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:41:10.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae671e3a0c8b7971daf4c7"
+  },
+  "name": {
+    "en": "drawing",
+    "ms": "drawing",
+    "dz": "drawing"
+  },
+  "type": "modern_and_digital_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:41:50.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:48:06.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae674a3a0c8b7971daf4ca"
+  },
+  "name": {
+    "en": "other ",
+    "ms": "other ",
+    "dz": "others"
+  },
+  "type": "modern_and_digital_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:42:34.127Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:42:34.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae677e3a0c8b7971daf4ce"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "creative_and_artistic_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:43:26.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:43:26.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae67943a0c8b7971daf4d1"
+  },
+  "name": {
+    "en": "other ",
+    "ms": "other ",
+    "dz": "others"
+  },
+  "type": "creative_and_artistic_hobbies",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:43:48.493Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:43:48.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae67cc3a0c8b7971daf4d4"
+  },
+  "name": {
+    "en": "ecotourism management",
+    "ms": "ecotourism management",
+    "dz": "ecotourism management"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:44:44.062Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:44:44.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae67e43a0c8b7971daf4d7"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "entrepreneurial_and_business_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:45:08.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:45:08.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae67fb3a0c8b7971daf4da"
+  },
+  "name": {
+    "en": "other ",
+    "ms": "other ",
+    "dz": "others"
+  },
+  "type": "technical_and_vocational_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:45:31.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:45:31.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae68cd3a0c8b7971daf4de"
+  },
+  "name": {
+    "en": "ecotourism management",
+    "ms": "ecotourism management",
+    "dz": "ecotourism management"
+  },
+  "type": "entrepreneurical_and_business_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:49:01.655Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:49:01.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6a253a0c8b7971daf4e8"
+  },
+  "name": {
+    "en": "other ",
+    "ms": "other ",
+    "dz": "others"
+  },
+  "type": "communication_and_language_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:54:45.343Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:54:45.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6a3a3a0c8b7971daf4eb"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "communication_and_language_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:55:06.404Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:55:06.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6a6f3a0c8b7971daf4ee"
+  },
+  "name": {
+    "en": "other ",
+    "ms": "other ",
+    "dz": "others"
+  },
+  "type": "health_and_wellbeing_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:55:59.841Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:55:59.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6a993a0c8b7971daf4f1"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "health_and_wellbeing_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:56:41.143Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:56:41.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6ab73a0c8b7971daf4f4"
+  },
+  "name": {
+    "en": "other ",
+    "ms": "other ",
+    "dz": "others"
+  },
+  "type": "creative_and_artistic_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:57:11.747Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:57:11.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6ac83a0c8b7971daf4f7"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "creative_and_artistic_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T21:57:28.741Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T21:57:28.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6be63a0c8b7971daf4fb"
+  },
+  "name": {
+    "en": "achieving inner peace and mindfulness",
+    "ms": "achieving inner peace and mindfulness",
+    "dz": "achieving inner peace and mindfulness"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:02:14.183Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:02:14.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6bf33a0c8b7971daf4fe"
+  },
+  "name": {
+    "en": "attaining enlightenment (buddhahood)",
+    "ms": "attaining enlightenment (buddhahood)",
+    "dz": "attaining enlightenment (buddhahood)"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:02:27.423Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:02:27.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6c003a0c8b7971daf501"
+  },
+  "name": {
+    "en": "living a life of compassion and kindness (bodhisattva ideal)",
+    "ms": "living a life of compassion and kindness (bodhisattva ideal)",
+    "dz": "living a life of compassion and kindness (bodhisattva ideal)"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:02:40.098Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:02:40.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6c0d3a0c8b7971daf504"
+  },
+  "name": {
+    "en": "participating in religious rituals and ceremonies",
+    "ms": "participating in religious rituals and ceremonies",
+    "dz": "participating in religious rituals and ceremonies"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:02:53.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:02:53.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6c1c3a0c8b7971daf508"
+  },
+  "name": {
+    "en": "joining monkhood (gelong /anim)",
+    "ms": "joining monkhood (gelong /anim)",
+    "dz": "joining monkhood (gelong /anim)"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:03:08.853Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:03:08.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6c2a3a0c8b7971daf50b"
+  },
+  "name": {
+    "en": "practicing meditation and mindfulness regularly",
+    "ms": "practicing meditation and mindfulness regularly",
+    "dz": "practicing meditation and mindfulness regularly"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:03:22.134Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:03:22.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6c3c3a0c8b7971daf50e"
+  },
+  "name": {
+    "en": "serving my community and others selflessly",
+    "ms": "serving my community and others selflessly",
+    "dz": "serving my community and others selflessly"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:03:40.861Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:03:40.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6c763a0c8b7971daf511"
+  },
+  "name": {
+    "en": "visiting sacred sites and pilgrimage destinations",
+    "ms": "visiting sacred sites and pilgrimage destinations",
+    "dz": "visiting sacred sites and pilgrimage destinations"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:04:38.887Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:04:38.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6c843a0c8b7971daf514"
+  },
+  "name": {
+    "en": "learning from spiritual teachers (lamas or monks)",
+    "ms": "learning from spiritual teachers (lamas or monks)",
+    "dz": "learning from spiritual teachers (lamas or monks)"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:04:52.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:04:52.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6c903a0c8b7971daf517"
+  },
+  "name": {
+    "en": "balancing material and spiritual well-being",
+    "ms": "balancing material and spiritual well-being",
+    "dz": "balancing material and spiritual well-being"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:05:04.178Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:05:04.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6c9c3a0c8b7971daf51a"
+  },
+  "name": {
+    "en": "overcoming negative emotions like anger, greed, and ignorance",
+    "ms": "overcoming negative emotions like anger, greed, and ignorance",
+    "dz": "overcoming negative emotions like anger, greed, and ignorance"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:05:16.518Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:05:16.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6ca83a0c8b7971daf51d"
+  },
+  "name": {
+    "en": "cultivating wisdom and understanding of impermanence",
+    "ms": "cultivating wisdom and understanding of impermanence",
+    "dz": "cultivating wisdom and understanding of impermanence"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:05:28.359Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:05:28.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6cb23a0c8b7971daf520"
+  },
+  "name": {
+    "en": "supporting the preservation of bhutanese spiritual traditions",
+    "ms": "supporting the preservation of bhutanese spiritual traditions",
+    "dz": "supporting the preservation of bhutanese spiritual traditions"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:05:38.851Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:05:38.851Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6cbe3a0c8b7971daf523"
+  },
+  "name": {
+    "en": "practicing generosity (dana) and charitable acts",
+    "ms": "practicing generosity (dana) and charitable acts",
+    "dz": "practicing generosity (dana) and charitable acts"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:05:50.405Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:05:50.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6cd23a0c8b7971daf526"
+  },
+  "name": {
+    "en": "following the path of non-violence (ahimsa)",
+    "ms": "following the path of non-violence (ahimsa)",
+    "dz": "following the path of non-violence (ahimsa)"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:06:10.111Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:06:10.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6cde3a0c8b7971daf529"
+  },
+  "name": {
+    "en": "preparing for a peaceful death and favorable rebirth",
+    "ms": "preparing for a peaceful death and favorable rebirth",
+    "dz": "preparing for a peaceful death and favorable rebirth"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:06:22.594Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:06:22.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6cea3a0c8b7971daf52c"
+  },
+  "name": {
+    "en": "engaging in retreats or solitary spiritual practices",
+    "ms": "engaging in retreats or solitary spiritual practices",
+    "dz": "engaging in retreats or solitary spiritual practices"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:06:34.656Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:06:34.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6cf53a0c8b7971daf52f"
+  },
+  "name": {
+    "en": "strengthening faith in the triple gem (buddha, dharma, sangha)",
+    "ms": "strengthening faith in the triple gem (buddha, dharma, sangha)",
+    "dz": "strengthening faith in the triple gem (buddha, dharma, sangha)"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:06:45.900Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:06:45.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6d003a0c8b7971daf532"
+  },
+  "name": {
+    "en": "letting go of attachment and desire",
+    "ms": "letting go of attachment and desire",
+    "dz": "letting go of attachment and desire"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:06:56.875Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:06:56.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6d0c3a0c8b7971daf535"
+  },
+  "name": {
+    "en": "living a simple and content life",
+    "ms": "living a simple and content life",
+    "dz": "living a simple and content life"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:07:08.926Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:07:08.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6d183a0c8b7971daf538"
+  },
+  "name": {
+    "en": "honoring ancestors and family spiritual traditions",
+    "ms": "honoring ancestors and family spiritual traditions",
+    "dz": "honoring ancestors and family spiritual traditions"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:07:20.892Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:07:20.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6d243a0c8b7971daf53b"
+  },
+  "name": {
+    "en": "contributing to the construction or maintenance of temples and stupas",
+    "ms": "contributing to the construction or maintenance of temples and stupas",
+    "dz": "contributing to the construction or maintenance of temples and stupas"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:07:32.635Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:07:32.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6d2f3a0c8b7971daf53e"
+  },
+  "name": {
+    "en": "chanting mantras and prayers regularly",
+    "ms": "chanting mantras and prayers regularly",
+    "dz": "chanting mantras and prayers regularly"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:07:43.726Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:07:43.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6d3b3a0c8b7971daf541"
+  },
+  "name": {
+    "en": "other",
+    "ms": "other",
+    "dz": "other"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:07:55.613Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:07:55.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6d493a0c8b7971daf545"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "spiritual_aspiration",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:08:09.939Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T22:08:09.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6df03a0c8b7971daf548"
+  },
+  "name": {
+    "en": "protecting bhutan's rich biodiversity and wildlife",
+    "ms": "protecting bhutan's rich biodiversity and wildlife",
+    "dz": "protecting bhutan's rich biodiversity and wildlife"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:10:56.017Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:06:20.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6e083a0c8b7971daf54b"
+  },
+  "name": {
+    "en": "promoting sustainable farming and organic agriculture",
+    "ms": "promoting sustainable farming and organic agriculture",
+    "dz": "promoting sustainable farming and organic agriculture"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:11:20.448Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:06:28.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6e2b3a0c8b7971daf54e"
+  },
+  "name": {
+    "en": "reducing waste and practicing recycling in daily life",
+    "ms": "reducing waste and practicing recycling in daily life",
+    "dz": "reducing waste and practicing recycling in daily life"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:11:55.802Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:06:37.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6e413a0c8b7971daf551"
+  },
+  "name": {
+    "en": "supporting renewable energy initiatives (e.g., hydropower, solar)",
+    "ms": "supporting renewable energy initiatives (e.g., hydropower, solar)",
+    "dz": "supporting renewable energy initiatives (e.g., hydropower, solar)"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:12:17.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:06:46.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6e543a0c8b7971daf554"
+  },
+  "name": {
+    "en": "advocating for climate change awareness and action",
+    "ms": "advocating for climate change awareness and action",
+    "dz": "advocating for climate change awareness and action"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:12:36.862Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:06:55.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6e623a0c8b7971daf557"
+  },
+  "name": {
+    "en": "participating in community clean-up drives and environmental campaigns",
+    "ms": "participating in community clean-up drives and environmental campaigns",
+    "dz": "participating in community clean-up drives and environmental campaigns"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:12:50.236Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:07:05.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6e713a0c8b7971daf55a"
+  },
+  "name": {
+    "en": "planting trees and contributing to reforestation efforts",
+    "ms": "planting trees and contributing to reforestation efforts",
+    "dz": "planting trees and contributing to reforestation efforts"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:13:05.662Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:07:14.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6e853a0c8b7971daf55e"
+  },
+  "name": {
+    "en": "protecting rivers and water resources",
+    "ms": "protecting rivers and water resources",
+    "dz": "protecting rivers and water resources"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:13:25.655Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:07:28.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6e963a0c8b7971daf561"
+  },
+  "name": {
+    "en": "encouraging the use of traditional and sustainable building practices",
+    "ms": "encouraging the use of traditional and sustainable building practices",
+    "dz": "encouraging the use of traditional and sustainable building practices"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:13:42.035Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:07:36.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6eaa3a0c8b7971daf564"
+  },
+  "name": {
+    "en": "promoting the reduction of plastic use",
+    "ms": "promoting the reduction of plastic use",
+    "dz": "promoting the reduction of plastic use"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:14:02.231Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:07:44.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6ebd3a0c8b7971daf567"
+  },
+  "name": {
+    "en": "preservation of sacred natural sites/sacred groves",
+    "ms": "preservation of sacred natural sites/sacred groves",
+    "dz": "preservation of sacred natural sites/sacred groves"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:14:21.252Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:07:54.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6ecb3a0c8b7971daf56a"
+  },
+  "name": {
+    "en": "promoting eco-friendly products and practices in daily life",
+    "ms": "promoting eco-friendly products and practices in daily life",
+    "dz": "promoting eco-friendly products and practices in daily life"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:14:35.761Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:08:02.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6ee03a0c8b7971daf56d"
+  },
+  "name": {
+    "en": "reducing pollution",
+    "ms": "reducing pollution",
+    "dz": "reducing pollution"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:14:56.562Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:08:15.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ae6eef3a0c8b7971daf570"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "community_and_social_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-13T22:15:11.858Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:08:28.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aed5d23a0c8b7971daff8b"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "entrepreneurical_and_business_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-14T05:34:10.159Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T05:34:10.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aed7843a0c8b7971db0031"
+  },
+  "name": {
+    "en": "other",
+    "ms": "other",
+    "dz": "other"
+  },
+  "type": "entrepreneurial_and_business_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-14T05:41:24.114Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T05:41:24.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fa86b9aa2904b4d0018b"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "professional_skills",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:35:18.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:35:18.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fad1b9aa2904b4d001bd"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "digital_and_technological_skills_learn",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:36:33.834Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:36:33.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fba7b9aa2904b4d001fd"
+  },
+  "name": {
+    "en": "serving my community and others selflessly",
+    "ms": "serving my community and others selflessly",
+    "dz": "serving my community and others selflessly"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:40:07.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:40:07.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fbb0b9aa2904b4d00200"
+  },
+  "name": {
+    "en": "visiting sacred sites and pilgrimage destinations",
+    "ms": "visiting sacred sites and pilgrimage destinations",
+    "dz": "visiting sacred sites and pilgrimage destinations"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:40:16.181Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:40:16.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fbb9b9aa2904b4d00203"
+  },
+  "name": {
+    "en": "learning from spiritual teachers (lamas or monks)",
+    "ms": "learning from spiritual teachers (lamas or monks)",
+    "dz": "learning from spiritual teachers (lamas or monks)"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:40:25.054Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:40:25.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fbc1b9aa2904b4d00206"
+  },
+  "name": {
+    "en": "balancing material and spiritual well-being",
+    "ms": "balancing material and spiritual well-being",
+    "dz": "balancing material and spiritual well-being"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:40:33.624Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:40:33.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fbcab9aa2904b4d00209"
+  },
+  "name": {
+    "en": "overcoming negative emotions like anger, greed, and ignorance",
+    "ms": "overcoming negative emotions like anger, greed, and ignorance",
+    "dz": "overcoming negative emotions like anger, greed, and ignorance"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:40:42.079Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:40:42.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fbd1b9aa2904b4d0020c"
+  },
+  "name": {
+    "en": "cultivating wisdom and understanding of impermanence",
+    "ms": "cultivating wisdom and understanding of impermanence",
+    "dz": "cultivating wisdom and understanding of impermanence"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:40:49.746Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:40:49.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fbd8b9aa2904b4d0020f"
+  },
+  "name": {
+    "en": "supporting the preservation of bhutanese spiritual traditions",
+    "ms": "supporting the preservation of bhutanese spiritual traditions",
+    "dz": "supporting the preservation of bhutanese spiritual traditions"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:40:56.163Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:40:56.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fbfdb9aa2904b4d00212"
+  },
+  "name": {
+    "en": "practicing generosity (dana) and charitable acts",
+    "ms": "practicing generosity (dana) and charitable acts",
+    "dz": "practicing generosity (dana) and charitable acts"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:41:33.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:41:33.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fc04b9aa2904b4d00215"
+  },
+  "name": {
+    "en": "following the path of non-violence (ahimsa)",
+    "ms": "following the path of non-violence (ahimsa)",
+    "dz": "following the path of non-violence (ahimsa)"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:41:40.817Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:41:40.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fc0db9aa2904b4d00218"
+  },
+  "name": {
+    "en": "preparing for a peaceful death and favorable rebirth",
+    "ms": "preparing for a peaceful death and favorable rebirth",
+    "dz": "preparing for a peaceful death and favorable rebirth"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:41:49.802Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:41:49.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fc16b9aa2904b4d0021b"
+  },
+  "name": {
+    "en": "engaging in retreats or solitary spiritual practices",
+    "ms": "engaging in retreats or solitary spiritual practices",
+    "dz": "engaging in retreats or solitary spiritual practices"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:41:58.106Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:41:58.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fc1cb9aa2904b4d0021e"
+  },
+  "name": {
+    "en": "strengthening faith in the triple gem (buddha, dharma, sangha)",
+    "ms": "strengthening faith in the triple gem (buddha, dharma, sangha)",
+    "dz": "strengthening faith in the triple gem (buddha, dharma, sangha)"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:42:04.794Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:42:04.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fc25b9aa2904b4d00221"
+  },
+  "name": {
+    "en": "letting go of attachment and desire",
+    "ms": "letting go of attachment and desire",
+    "dz": "letting go of attachment and desire"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:42:13.476Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:42:13.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fc2cb9aa2904b4d00224"
+  },
+  "name": {
+    "en": "living a simple and content life",
+    "ms": "living a simple and content life",
+    "dz": "living a simple and content life"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:42:20.632Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:42:20.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fc33b9aa2904b4d00227"
+  },
+  "name": {
+    "en": "honoring ancestors and family spiritual traditions",
+    "ms": "honoring ancestors and family spiritual traditions",
+    "dz": "honoring ancestors and family spiritual traditions"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:42:27.799Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:42:27.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fc3eb9aa2904b4d0022a"
+  },
+  "name": {
+    "en": "contributing to the construction or maintenance of temples and stupas",
+    "ms": "contributing to the construction or maintenance of temples and stupas",
+    "dz": "contributing to the construction or maintenance of temples and stupas"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:42:38.313Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:42:38.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fc47b9aa2904b4d0022d"
+  },
+  "name": {
+    "en": "chanting mantras and prayers regularly",
+    "ms": "chanting mantras and prayers regularly",
+    "dz": "chanting mantras and prayers regularly"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:42:47.195Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:42:47.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fc51b9aa2904b4d00230"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "economic_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:42:57.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:42:57.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fd0ab9aa2904b4d0023e"
+  },
+  "name": {
+    "en": "deep concentration & focus – aspires to train attention and avoid distractions",
+    "ms": "deep concentration & focus – aspires to train attention and avoid distractions",
+    "dz": "deep concentration & focus – aspires to train attention and avoid distractions"
+  },
+  "type": "educational_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:46:02.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:46:02.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fd16b9aa2904b4d00241"
+  },
+  "name": {
+    "en": "memory enhancement – aspires to improve recall, retention, and cognitive sharpness",
+    "ms": "memory enhancement – aspires to improve recall, retention, and cognitive sharpness",
+    "dz": "memory enhancement – aspires to improve recall, retention, and cognitive sharpness"
+  },
+  "type": "educational_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:46:14.296Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:46:14.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fd1fb9aa2904b4d00244"
+  },
+  "name": {
+    "en": "philosophical inquiry & metaphysical understanding – aspires to explore existential questions and fundamental truths",
+    "ms": "philosophical inquiry & metaphysical understanding – aspires to explore existential questions and fundamental truths",
+    "dz": "philosophical inquiry & metaphysical understanding – aspires to explore existential questions and fundamental truths"
+  },
+  "type": "educational_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:46:23.436Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:46:23.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fd28b9aa2904b4d00247"
+  },
+  "name": {
+    "en": "metacognition & self-learning – aspires to develop awareness of one's thinking patterns and optimize learning",
+    "ms": "metacognition & self-learning – aspires to develop awareness of one's thinking patterns and optimize learning",
+    "dz": "metacognition & self-learning – aspires to develop awareness of one's thinking patterns and optimize learning"
+  },
+  "type": "educational_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:46:32.513Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:46:32.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fd37b9aa2904b4d0024a"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "educational_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:46:47.371Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:46:47.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fdc9b9aa2904b4d00257"
+  },
+  "name": {
+    "en": " encouraging youth development and leadership",
+    "ms": " encouraging youth development and leadership",
+    "dz": " encouraging youth development and leadership"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:49:13.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:49:13.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fdd4b9aa2904b4d0025a"
+  },
+  "name": {
+    "en": "advocating for environmental conservation and sustainability",
+    "ms": "advocating for environmental conservation and sustainability",
+    "dz": "advocating for environmental conservation and sustainability"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:49:24.884Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:49:24.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fddeb9aa2904b4d0025e"
+  },
+  "name": {
+    "en": "volunteering for community service and social causes",
+    "ms": "volunteering for community service and social causes",
+    "dz": "volunteering for community service and social causes"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:49:34.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:49:34.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fde6b9aa2904b4d00261"
+  },
+  "name": {
+    "en": "reducing poverty and improving livelihoods in rural areas",
+    "ms": "reducing poverty and improving livelihoods in rural areas",
+    "dz": "reducing poverty and improving livelihoods in rural areas"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:49:42.529Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:49:42.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fdeeb9aa2904b4d00264"
+  },
+  "name": {
+    "en": "encouraging gender equality and women's empowerment",
+    "ms": "encouraging gender equality and women's empowerment",
+    "dz": "encouraging gender equality and women's empowerment"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:49:50.791Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:49:50.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fdf7b9aa2904b4d00267"
+  },
+  "name": {
+    "en": "supporting elderly care and respect for elders",
+    "ms": "supporting elderly care and respect for elders",
+    "dz": "supporting elderly care and respect for elders"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:49:59.143Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:49:59.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fdfeb9aa2904b4d0026a"
+  },
+  "name": {
+    "en": "strengthening community cooperation and unity",
+    "ms": "strengthening community cooperation and unity",
+    "dz": "strengthening community cooperation and unity"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:50:06.660Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:50:06.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fe06b9aa2904b4d0026d"
+  },
+  "name": {
+    "en": "supporting local businesses and sustainable economic growth",
+    "ms": "supporting local businesses and sustainable economic growth",
+    "dz": "supporting local businesses and sustainable economic growth"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:50:14.464Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:50:14.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fe0eb9aa2904b4d00270"
+  },
+  "name": {
+    "en": "encouraging civic participation and responsible citizenship",
+    "ms": "encouraging civic participation and responsible citizenship",
+    "dz": "encouraging civic participation and responsible citizenship"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:50:22.283Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:50:22.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fe17b9aa2904b4d00273"
+  },
+  "name": {
+    "en": "reducing discrimination and social stigma",
+    "ms": "reducing discrimination and social stigma",
+    "dz": "reducing discrimination and social stigma"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:50:31.682Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:50:31.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fe20b9aa2904b4d00276"
+  },
+  "name": {
+    "en": "supporting disaster preparedness and resilience efforts",
+    "ms": "supporting disaster preparedness and resilience efforts",
+    "dz": "supporting disaster preparedness and resilience efforts"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:50:40.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:50:40.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fe29b9aa2904b4d00279"
+  },
+  "name": {
+    "en": "participate in meetings and social gathering",
+    "ms": "participate in meetings and social gathering",
+    "dz": "participate in meetings and social gathering"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:50:49.796Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:50:49.796Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fe32b9aa2904b4d0027c"
+  },
+  "name": {
+    "en": "speak up the opinions during the social gatherings",
+    "ms": "speak up the opinions during the social gatherings",
+    "dz": "speak up the opinions during the social gatherings"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:50:58.564Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:50:58.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fe3db9aa2904b4d0027f"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "health_and_wellbeing_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:51:09.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:51:09.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fe9ab9aa2904b4d0028c"
+  },
+  "name": {
+    "en": "letting go of attachment and emotional suffering",
+    "ms": "letting go of attachment and emotional suffering",
+    "dz": "letting go of attachment and emotional suffering"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:52:42.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:52:42.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fea2b9aa2904b4d0028f"
+  },
+  "name": {
+    "en": "finding joy and happiness in simple moments",
+    "ms": "finding joy and happiness in simple moments",
+    "dz": "finding joy and happiness in simple moments"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:52:50.613Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:52:50.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0feaab9aa2904b4d00292"
+  },
+  "name": {
+    "en": "embracing forgiveness and healing from past hurts",
+    "ms": "embracing forgiveness and healing from past hurts",
+    "dz": "embracing forgiveness and healing from past hurts"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:52:58.431Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:52:58.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0feb1b9aa2904b4d00295"
+  },
+  "name": {
+    "en": "cultivating patience and tolerance in relationships",
+    "ms": "cultivating patience and tolerance in relationships",
+    "dz": "cultivating patience and tolerance in relationships"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:53:05.798Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:53:05.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0febbb9aa2904b4d00298"
+  },
+  "name": {
+    "en": "reducing stress and anxiety through mindfulness practices",
+    "ms": "reducing stress and anxiety through mindfulness practices",
+    "dz": "reducing stress and anxiety through mindfulness practices"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:53:15.385Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:53:15.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fec3b9aa2904b4d0029b"
+  },
+  "name": {
+    "en": "building self-confidence and self-worth",
+    "ms": "building self-confidence and self-worth",
+    "dz": "building self-confidence and self-worth"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:53:23.903Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:53:23.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0feceb9aa2904b4d0029e"
+  },
+  "name": {
+    "en": "fostering a sense of purpose and meaning in life",
+    "ms": "fostering a sense of purpose and meaning in life",
+    "dz": "fostering a sense of purpose and meaning in life"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:53:34.759Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:53:34.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fed7b9aa2904b4d002a1"
+  },
+  "name": {
+    "en": "letting go of fear and embracing courage",
+    "ms": "letting go of fear and embracing courage",
+    "dz": "letting go of fear and embracing courage"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:53:43.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:53:43.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fedfb9aa2904b4d002a4"
+  },
+  "name": {
+    "en": "cultivating a positive and optimistic outlook on life",
+    "ms": "cultivating a positive and optimistic outlook on life",
+    "dz": "cultivating a positive and optimistic outlook on life"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:53:51.839Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:53:51.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fee7b9aa2904b4d002a7"
+  },
+  "name": {
+    "en": "building emotional strength to support others in need",
+    "ms": "building emotional strength to support others in need",
+    "dz": "building emotional strength to support others in need"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:53:59.811Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:53:59.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0feefb9aa2904b4d002aa"
+  },
+  "name": {
+    "en": "developing a sense of belonging and connection to the community",
+    "ms": "developing a sense of belonging and connection to the community",
+    "dz": "developing a sense of belonging and connection to the community"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:54:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:54:07.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fef7b9aa2904b4d002ad"
+  },
+  "name": {
+    "en": "finding emotional healing through spiritual practices",
+    "ms": "finding emotional healing through spiritual practices",
+    "dz": "finding emotional healing through spiritual practices"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:54:15.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:54:15.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ff00b9aa2904b4d002b0"
+  },
+  "name": {
+    "en": "seeking emotional support and guidance from elders, family and friends",
+    "ms": "seeking emotional support and guidance from elders, family and friends",
+    "dz": "seeking emotional support and guidance from elders, family and friends"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:54:24.505Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:54:24.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ff09b9aa2904b4d002b3"
+  },
+  "name": {
+    "en": "learning to manage and express emotions healthily",
+    "ms": "learning to manage and express emotions healthily",
+    "dz": "learning to manage and express emotions healthily"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:54:33.467Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:54:33.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ff15b9aa2904b4d002b7"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "infrastructure_and_technology_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:54:45.969Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:54:45.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ff9db9aa2904b4d002c4"
+  },
+  "name": {
+    "en": "participating in community sports and recreational activities",
+    "ms": "participating in community sports and recreational activities",
+    "dz": "participating in community sports and recreational activities"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:57:01.591Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:57:01.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ffa6b9aa2904b4d002c7"
+  },
+  "name": {
+    "en": "maintaining a healthy weight and body composition",
+    "ms": "maintaining a healthy weight and body composition",
+    "dz": "maintaining a healthy weight and body composition"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:57:10.549Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:57:10.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ffadb9aa2904b4d002ca"
+  },
+  "name": {
+    "en": "improving flexibility and mobility through stretching or yoga",
+    "ms": "improving flexibility and mobility through stretching or yoga",
+    "dz": "improving flexibility and mobility through stretching or yoga"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:57:17.887Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:57:17.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ffb6b9aa2904b4d002cd"
+  },
+  "name": {
+    "en": "participating in traditional bhutanese dances (e.g., cham)",
+    "ms": "participating in traditional bhutanese dances (e.g., cham)",
+    "dz": "participating in traditional bhutanese dances (e.g., cham)"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:57:26.451Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:57:26.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ffbeb9aa2904b4d002d0"
+  },
+  "name": {
+    "en": " practicing good hygiene and self-care habits",
+    "ms": " practicing good hygiene and self-care habits",
+    "dz": " practicing good hygiene and self-care habits"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:57:34.655Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:57:34.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ffc5b9aa2904b4d002d3"
+  },
+  "name": {
+    "en": "reducing the risk of lifestyle-related diseases (e.g., diabetes, hypertension)",
+    "ms": "reducing the risk of lifestyle-related diseases (e.g., diabetes, hypertension)",
+    "dz": "reducing the risk of lifestyle-related diseases (e.g., diabetes, hypertension)"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:57:41.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:57:41.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ffcdb9aa2904b4d002d6"
+  },
+  "name": {
+    "en": "participating in local marathons or fitness events",
+    "ms": "participating in local marathons or fitness events",
+    "dz": "participating in local marathons or fitness events"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:57:49.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:57:49.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ffd4b9aa2904b4d002d9"
+  },
+  "name": {
+    "en": "balancing physical health with spiritual and emotional well-being",
+    "ms": "balancing physical health with spiritual and emotional well-being",
+    "dz": "balancing physical health with spiritual and emotional well-being"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:57:56.431Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:57:56.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ffdbb9aa2904b4d002dc"
+  },
+  "name": {
+    "en": "building physical strength from doing agricultural or manual work",
+    "ms": "building physical strength from doing agricultural or manual work",
+    "dz": "building physical strength from doing agricultural or manual work"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:58:03.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:58:03.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ffe4b9aa2904b4d002df"
+  },
+  "name": {
+    "en": "practicing sustainable and eco-friendly physical activitie",
+    "ms": "practicing sustainable and eco-friendly physical activitie",
+    "dz": "practicing sustainable and eco-friendly physical activitie"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:58:12.526Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:58:12.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ffebb9aa2904b4d002e2"
+  },
+  "name": {
+    "en": "improving sleep quality and rest for better physical health",
+    "ms": "improving sleep quality and rest for better physical health",
+    "dz": "improving sleep quality and rest for better physical health"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:58:19.713Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:58:19.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0fff4b9aa2904b4d002e5"
+  },
+  "name": {
+    "en": "reducing screen time and increasing outdoor activities",
+    "ms": "reducing screen time and increasing outdoor activities",
+    "dz": "reducing screen time and increasing outdoor activities"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:58:28.164Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:58:28.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ffffb9aa2904b4d002e8"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "environmental_and_sustainability_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:58:39.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:58:39.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1007eb9aa2904b4d002f6"
+  },
+  "name": {
+    "en": "working in tourism to promote sustainable and eco-friendly practices",
+    "ms": "working in tourism to promote sustainable and eco-friendly practices",
+    "dz": "working in tourism to promote sustainable and eco-friendly practices"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:00:46.268Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:00:46.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10087b9aa2904b4d002f9"
+  },
+  "name": {
+    "en": "becoming a social worker to support vulnerable communities",
+    "ms": "becoming a social worker to support vulnerable communities",
+    "dz": "becoming a social worker to support vulnerable communities"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:00:55.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:00:55.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10094b9aa2904b4d002fc"
+  },
+  "name": {
+    "en": "working in government to contribute to national development",
+    "ms": "working in government to contribute to national development",
+    "dz": "working in government to contribute to national development"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:01:08.427Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:01:08.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1009db9aa2904b4d002ff"
+  },
+  "name": {
+    "en": "becoming an entrepreneur to create jobs and support the local economy",
+    "ms": "becoming an entrepreneur to create jobs and support the local economy",
+    "dz": "becoming an entrepreneur to create jobs and support the local economy"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:01:17.401Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:01:17.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b100a5b9aa2904b4d00302"
+  },
+  "name": {
+    "en": "becoming a monk or spiritual leader to guide others",
+    "ms": "becoming a monk or spiritual leader to guide others",
+    "dz": "becoming a monk or spiritual leader to guide others"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:01:25.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:01:25.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b100b0b9aa2904b4d00305"
+  },
+  "name": {
+    "en": "pursuing a career in journalism or media to share bhutan's stories",
+    "ms": "pursuing a career in journalism or media to share bhutan's stories",
+    "dz": "pursuing a career in journalism or media to share bhutan's stories"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:01:36.725Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:01:36.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b100b9b9aa2904b4d00308"
+  },
+  "name": {
+    "en": "working in education to improve literacy and lifelong learning",
+    "ms": "working in education to improve literacy and lifelong learning",
+    "dz": "working in education to improve literacy and lifelong learning"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:01:45.176Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:01:45.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b100c1b9aa2904b4d0030b"
+  },
+  "name": {
+    "en": "becoming a researcher or academic to contribute to knowledge and innovation",
+    "ms": "becoming a researcher or academic to contribute to knowledge and innovation",
+    "dz": "becoming a researcher or academic to contribute to knowledge and innovation"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:01:53.376Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:01:53.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b100cab9aa2904b4d0030e"
+  },
+  "name": {
+    "en": "pursuing a career in forestry or wildlife conservation",
+    "ms": "pursuing a career in forestry or wildlife conservation",
+    "dz": "pursuing a career in forestry or wildlife conservation"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:02:02.426Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:02:02.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b100d2b9aa2904b4d00311"
+  },
+  "name": {
+    "en": "working in construction or infrastructure development for bhutan's growth",
+    "ms": "working in construction or infrastructure development for bhutan's growth",
+    "dz": "working in construction or infrastructure development for bhutan's growth"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:02:10.491Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:02:10.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b100dbb9aa2904b4d00314"
+  },
+  "name": {
+    "en": "pursuing a career in hospitality to promote bhutanese culture to visitors",
+    "ms": "pursuing a career in hospitality to promote bhutanese culture to visitors",
+    "dz": "pursuing a career in hospitality to promote bhutanese culture to visitors"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:02:19.535Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:02:19.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b100e3b9aa2904b4d00317"
+  },
+  "name": {
+    "en": "working in transportation to improve connectivity and accessibility",
+    "ms": "working in transportation to improve connectivity and accessibility",
+    "dz": "working in transportation to improve connectivity and accessibility"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:02:27.553Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:02:27.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b100ecb9aa2904b4d0031a"
+  },
+  "name": {
+    "en": "becoming a public servant to serve the people of bhutan",
+    "ms": "becoming a public servant to serve the people of bhutan",
+    "dz": "becoming a public servant to serve the people of bhutan"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:02:36.283Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:02:36.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b100f6b9aa2904b4d0031d"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "type": "cultural_aspirations",
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-15T21:02:46.163Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:02:46.163Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,342 @@
+[{
+  "_id": {
+    "$oid": "676174ec7c844e272b1b5407"
+  },
+  "type": "type_of_energy_sources",
+  "name": {
+    "en": "solar",
+    "ms": "solar",
+    "dz": "solar"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:56:12.993Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:31:43.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676174f17c844e272b1b540a"
+  },
+  "type": "distribution_method",
+  "name": {
+    "en": "individual / household off-grid system",
+    "ms": "individual / household off-grid system",
+    "dz": "individual / household off-grid system"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:56:17.219Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:32:38.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676174f57c844e272b1b540d"
+  },
+  "type": "distance_of_fuel_pumps",
+  "name": {
+    "en": "less than 1 km",
+    "ms": "less than 1 km",
+    "dz": "less than 1 km"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:56:21.911Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:33:51.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aac85e4b738d894d0420"
+  },
+  "type": "type_of_energy_sources",
+  "name": {
+    "en": "hydro",
+    "ms": "hydro",
+    "dz": "hydro"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:31:52.941Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:31:52.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aad35e4b738d894d0423"
+  },
+  "type": "type_of_energy_sources",
+  "name": {
+    "en": "wind",
+    "ms": "wind",
+    "dz": "wind"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:32:03.730Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:32:03.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aadb5e4b738d894d0426"
+  },
+  "type": "type_of_energy_sources",
+  "name": {
+    "en": "biomass",
+    "ms": "biomass",
+    "dz": "biomass"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:32:11.918Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:32:11.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aae55e4b738d894d0429"
+  },
+  "type": "type_of_energy_sources",
+  "name": {
+    "en": "geothermal",
+    "ms": "geothermal",
+    "dz": "geothermal"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:32:21.087Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:32:21.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ab015e4b738d894d042f"
+  },
+  "type": "distribution_method",
+  "name": {
+    "en": "micro-grid / mini-grid",
+    "ms": "micro-grid / mini-grid",
+    "dz": "micro-grid / mini-grid"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:32:49.342Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:32:49.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ab085e4b738d894d0432"
+  },
+  "type": "distribution_method",
+  "name": {
+    "en": "community-scale / cooperative distribution",
+    "ms": "community-scale / cooperative distribution",
+    "dz": "community-scale / cooperative distribution"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:32:56.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:32:56.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ab125e4b738d894d0435"
+  },
+  "type": "distribution_method",
+  "name": {
+    "en": "district heating / cooling (thermal distribution)",
+    "ms": "district heating / cooling (thermal distribution)",
+    "dz": "district heating / cooling (thermal distribution)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:33:06.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:33:06.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ab1b5e4b738d894d0438"
+  },
+  "type": "distribution_method",
+  "name": {
+    "en": "combined heat and power (chp)",
+    "ms": "combined heat and power (chp)",
+    "dz": "combined heat and power (chp)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:33:15.097Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:33:15.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ab245e4b738d894d043b"
+  },
+  "type": "distribution_method",
+  "name": {
+    "en": "mechanical or direct use",
+    "ms": "mechanical or direct use",
+    "dz": "mechanical or direct use"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:33:24.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:33:24.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ab2e5e4b738d894d043e"
+  },
+  "type": "distribution_method",
+  "name": {
+    "en": "net-metering or grid-connected (if local grid exists)",
+    "ms": "net-metering or grid-connected (if local grid exists)",
+    "dz": "net-metering or grid-connected (if local grid exists)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:33:34.591Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:33:34.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ab4c5e4b738d894d0443"
+  },
+  "type": "distance_of_fuel_pumps",
+  "name": {
+    "en": "1-5 km",
+    "ms": "1-5 km",
+    "dz": "1-5 km"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:34:04.944Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:34:04.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ab585e4b738d894d0446"
+  },
+  "type": "distance_of_fuel_pumps",
+  "name": {
+    "en": "6-10 km",
+    "ms": "6-10 km",
+    "dz": "6-10 km"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:34:16.504Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:34:16.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ab625e4b738d894d0449"
+  },
+  "type": "distance_of_fuel_pumps",
+  "name": {
+    "en": "11-15 km",
+    "ms": "11-15 km",
+    "dz": "11-15 km"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:34:26.736Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:34:26.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ab6c5e4b738d894d044c"
+  },
+  "type": "distance_of_fuel_pumps",
+  "name": {
+    "en": "more than 15 km",
+    "ms": "more than 15 km",
+    "dz": "more than 15 km"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:34:36.990Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:34:36.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43f1e5e4b738d894d4038"
+  },
+  "type": "distribution_method",
+  "name": {
+    "en": " other",
+    "ms": " other",
+    "dz": " other"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T08:04:46.414Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:04:46.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43fb35e4b738d894d40bd"
+  },
+  "type": "type_of_energy_sources",
+  "name": {
+    "en": " other",
+    "ms": " other",
+    "dz": " other"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T08:07:15.106Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:07:15.106Z"
+  },
+  "__v": 0
+}]

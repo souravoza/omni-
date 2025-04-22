@@ -1,0 +1,3521 @@
+[{
+  "_id": {
+    "$oid": "6799e4a48bbdaac5708ebefe"
+  },
+  "user_id": {
+    "$oid": "678dfe492f36950c8ce7b330"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "6739df18a4cfd8cc1f108ef9"
+    }
+  ],
+  "yearly_expense_for_personal_care": 200,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-01-29T08:19:48.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T08:19:48.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c5c7de6b5e001dd4c8dc2"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "673db0088310fcf665ad6853"
+    },
+    {
+      "$oid": "673daffc8310fcf665ad684d"
+    },
+    {
+      "$oid": "673db00c8310fcf665ad6856"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "673db0248310fcf665ad685f"
+      },
+      "quantity": 0,
+      "quantity_unit": "",
+      "_id": {
+        "$oid": "679c5c7de6b5e001dd4c8dc3"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-31T05:15:41.563Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T05:15:41.563Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaef2f45495d1ec9701d46"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "yearly_expense_for_personal_care": 2000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-11T06:33:19.481Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T06:33:19.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaef4945495d1ec9701d7e"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "yearly_expense_for_personal_care": 2000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-11T06:33:45.964Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T06:33:45.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaef5a45495d1ec9701dab"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [
+    {
+      "$oid": "6739df18a4cfd8cc1f108ef9"
+    },
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "yearly_expense_for_personal_care": 888,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-11T06:34:02.309Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T06:34:02.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaef6c45495d1ec9701ddc"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "yearly_expense_for_personal_care": 388338,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-11T06:34:20.035Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T06:34:20.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaef7945495d1ec9701e09"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "6739df18a4cfd8cc1f107ef9"
+    }
+  ],
+  "yearly_expense_for_personal_care": 580,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-11T06:34:33.936Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T06:34:33.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeb99e3a0c8b7971dafbe3"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7f65e6b5e001dd4c934c"
+    },
+    {
+      "$oid": "679c7face6b5e001dd4c9353"
+    },
+    {
+      "$oid": "679c7eace6b5e001dd4c9330"
+    }
+  ],
+  "yearly_expense_for_personal_care": 25,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "679c81bde6b5e001dd4c93bf"
+      },
+      "quantity": 25,
+      "quantity_unit": "6799c9ec0e76731996b85bb6",
+      "_id": {
+        "$oid": "67b0c778b9aa2904b4cfead8"
+      }
+    },
+    {
+      "type": {
+        "$oid": "679c81dbe6b5e001dd4c93c2"
+      },
+      "quantity": 28,
+      "quantity_unit": "6799c9ec0e76731996b85bb6",
+      "_id": {
+        "$oid": "67b0c778b9aa2904b4cfead9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-14T03:33:50.689Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:57:28.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aebc9b3a0c8b7971dafc6e"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [],
+  "yearly_expense_for_personal_care": 2500,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "67880518650d18f99ddadd42"
+      },
+      "quantity": 25,
+      "quantity_unit": "6799c9ec0e76731996b85bb6",
+      "_id": {
+        "$oid": "67aebc9b3a0c8b7971dafc6f"
+      }
+    },
+    {
+      "type": {
+        "$oid": "679c8353e6b5e001dd4c93de"
+      },
+      "quantity": 30,
+      "quantity_unit": "6799c9ec0e76731996b85bb6",
+      "_id": {
+        "$oid": "67aebc9b3a0c8b7971dafc70"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-14T03:46:35.351Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T03:46:35.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aebcdc3a0c8b7971dafc93"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7f65e6b5e001dd4c934c"
+    }
+  ],
+  "yearly_expense_for_personal_care": 525,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "673db1088310fcf665ad687f"
+      },
+      "quantity": 5,
+      "quantity_unit": "6799c9ec0e76731996b85bb6",
+      "_id": {
+        "$oid": "67b0c7b0b9aa2904b4cfeb18"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-14T03:47:40.389Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:58:24.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aebd8e3a0c8b7971dafcb8"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7f3be6b5e001dd4c9349"
+    },
+    {
+      "$oid": "679c7f65e6b5e001dd4c934c"
+    }
+  ],
+  "yearly_expense_for_personal_care": 2500,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "6798aedc6e3cf28b76c4b935"
+      },
+      "quantity": 25,
+      "quantity_unit": "6799c9ec0e76731996b85bb6",
+      "_id": {
+        "$oid": "67b0c7cdb9aa2904b4cfeb38"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-14T03:50:38.184Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:58:53.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0c715b9aa2904b4cfeab8"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7eace6b5e001dd4c9330"
+    }
+  ],
+  "yearly_expense_for_personal_care": 2508,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "67afc25001f33d7cb670787e"
+      },
+      "quantity": 25,
+      "quantity_unit": "67b046bc01f33d7cb6708761",
+      "_id": {
+        "$oid": "67b0c715b9aa2904b4cfeab9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-15T16:55:49.971Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:55:49.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0c7dcb9aa2904b4cfeb57"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67880668650d18f99ddadd65"
+    }
+  ],
+  "yearly_expense_for_personal_care": 25,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-15T16:59:08.952Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:59:08.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1b039db1ebb70cb7e1624"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c7f65e6b5e001dd4c934c"
+    },
+    {
+      "$oid": "679c7fcde6b5e001dd4c9368"
+    }
+  ],
+  "yearly_expense_for_personal_care": 5000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:30:33.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:30:33.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1b04fdb1ebb70cb7e165c"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d8101f33d7cb6707bd8"
+    },
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    }
+  ],
+  "yearly_expense_for_personal_care": 5000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:30:55.306Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:30:55.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1b068db1ebb70cb7e16a8"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c84f9e6b5e001dd4c93ff"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:31:20.427Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:31:20.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1b095db1ebb70cb7e16e0"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77ee3a0c8b7971daf5d6"
+    },
+    {
+      "$oid": "67ae77cc3a0c8b7971daf5d0"
+    },
+    {
+      "$oid": "67ae769d3a0c8b7971daf59a"
+    },
+    {
+      "$oid": "67ae76af3a0c8b7971daf59d"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae77403a0c8b7971daf5b4"
+    },
+    {
+      "$oid": "67ae76cd3a0c8b7971daf5a0"
+    },
+    {
+      "$oid": "67ae77c03a0c8b7971daf5cc"
+    }
+  ],
+  "yearly_expense_for_personal_care": 5000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-16T09:32:05.503Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:32:05.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d58365a8ac9a674a8863"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c811ae6b5e001dd4c93af"
+    },
+    {
+      "$oid": "679c8100e6b5e001dd4c93ac"
+    },
+    {
+      "$oid": "679c8069e6b5e001dd4c938e"
+    },
+    {
+      "$oid": "679c7f65e6b5e001dd4c934c"
+    },
+    {
+      "$oid": "679c815fe6b5e001dd4c93b6"
+    }
+  ],
+  "yearly_expense_for_personal_care": 1500,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-16T12:09:39.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T12:09:39.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d5a465a8ac9a674a8890"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    },
+    {
+      "$oid": "67b02d6801f33d7cb6707bd2"
+    }
+  ],
+  "yearly_expense_for_personal_care": 1000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-16T12:10:12.092Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T12:10:12.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d5b165a8ac9a674a88c2"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02fe501f33d7cb6707c36"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-16T12:10:25.121Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T12:10:25.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d5ca65a8ac9a674a88fe"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c84f9e6b5e001dd4c93ff"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-16T12:10:50.492Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T12:10:50.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d5ef65a8ac9a674a892f"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77ee3a0c8b7971daf5d6"
+    },
+    {
+      "$oid": "67ae77de3a0c8b7971daf5d3"
+    },
+    {
+      "$oid": "67ae77b33a0c8b7971daf5c9"
+    },
+    {
+      "$oid": "67afdecd01f33d7cb67079cb"
+    }
+  ],
+  "yearly_expense_for_personal_care": 2000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-16T12:11:27.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T12:11:27.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d60565a8ac9a674a895d"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8773e6b5e001dd4c942b"
+    }
+  ],
+  "yearly_expense_for_personal_care": 5000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-16T12:11:49.234Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T12:11:49.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c40365a8ac9a674aba01"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c815fe6b5e001dd4c93b6"
+    },
+    {
+      "$oid": "679c7f3be6b5e001dd4c9349"
+    },
+    {
+      "$oid": "679c8100e6b5e001dd4c93ac"
+    }
+  ],
+  "yearly_expense_for_personal_care": 5000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:07:15.148Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:07:15.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c4a765a8ac9a674abba1"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8482e6b5e001dd4c93f9"
+    },
+    {
+      "$oid": "679c8519e6b5e001dd4c9403"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T05:09:59.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:09:59.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c61965a8ac9a674abed9"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8751e6b5e001dd4c9428"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "67afe69401f33d7cb6707a54"
+      },
+      "quantity": 3,
+      "quantity_unit": "67afc97401f33d7cb6707941",
+      "_id": {
+        "$oid": "67b2c61965a8ac9a674abeda"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T05:16:09.018Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:16:09.018Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d17d65a8ac9a674ae095"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c8100e6b5e001dd4c93ac"
+    },
+    {
+      "$oid": "679c811ae6b5e001dd4c93af"
+    },
+    {
+      "$oid": "679c815fe6b5e001dd4c93b6"
+    }
+  ],
+  "yearly_expense_for_personal_care": 2000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:04:45.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:04:45.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d1a165a8ac9a674ae122"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02d5d01f33d7cb6707bcf"
+    },
+    {
+      "$oid": "67b02d6801f33d7cb6707bd2"
+    },
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    }
+  ],
+  "yearly_expense_for_personal_care": 1000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:05:21.696Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:06:11.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d1bc65a8ac9a674ae1d3"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02fc001f33d7cb6707c2a"
+    },
+    {
+      "$oid": "67b02fb701f33d7cb6707c27"
+    }
+  ],
+  "yearly_expense_for_personal_care": 500,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:05:48.374Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:05:48.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d1cd65a8ac9a674ae202"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c84f9e6b5e001dd4c93ff"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:06:05.248Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:06:05.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d25365a8ac9a674ae2de"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77ee3a0c8b7971daf5d6"
+    },
+    {
+      "$oid": "67ae77de3a0c8b7971daf5d3"
+    },
+    {
+      "$oid": "67ae77cc3a0c8b7971daf5d0"
+    },
+    {
+      "$oid": "67ae77873a0c8b7971daf5c0"
+    },
+    {
+      "$oid": "67ae77643a0c8b7971daf5ba"
+    },
+    {
+      "$oid": "67ae769d3a0c8b7971daf59a"
+    },
+    {
+      "$oid": "67ae76af3a0c8b7971daf59d"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    },
+    {
+      "$oid": "67ae77043a0c8b7971daf5a9"
+    },
+    {
+      "$oid": "67afdecd01f33d7cb67079cb"
+    }
+  ],
+  "yearly_expense_for_personal_care": 18000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:08:19.907Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:08:19.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d27d65a8ac9a674ae30c"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8773e6b5e001dd4c942b"
+    }
+  ],
+  "yearly_expense_for_personal_care": 80000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:09:01.491Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:21:51.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d7c465a8ac9a674aec1b"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c7f65e6b5e001dd4c934c"
+    },
+    {
+      "$oid": "679c7f3be6b5e001dd4c9349"
+    }
+  ],
+  "yearly_expense_for_personal_care": 4000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:31:32.504Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:31:32.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d7d765a8ac9a674aec3a"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02d5d01f33d7cb6707bcf"
+    },
+    {
+      "$oid": "67b02d4c01f33d7cb6707bcc"
+    },
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    }
+  ],
+  "yearly_expense_for_personal_care": 3000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:31:51.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:31:51.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d7e965a8ac9a674aec67"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02fc001f33d7cb6707c2a"
+    }
+  ],
+  "yearly_expense_for_personal_care": 500,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:32:09.862Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:32:09.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d7fa65a8ac9a674aec83"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c84f9e6b5e001dd4c93ff"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:32:26.992Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:32:26.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d82265a8ac9a674aecca"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae77403a0c8b7971daf5b4"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    },
+    {
+      "$oid": "67ae76e53a0c8b7971daf5a3"
+    },
+    {
+      "$oid": "67ae76cd3a0c8b7971daf5a0"
+    }
+  ],
+  "yearly_expense_for_personal_care": 5000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:33:06.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:33:06.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d83965a8ac9a674aecf4"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8773e6b5e001dd4c942b"
+    }
+  ],
+  "yearly_expense_for_personal_care": 9000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:33:29.804Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:33:29.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d8aa65a8ac9a674aee7a"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c7f65e6b5e001dd4c934c"
+    },
+    {
+      "$oid": "679c7fe9e6b5e001dd4c9376"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:35:22.656Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:35:22.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d8ee65a8ac9a674aef28"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02d5d01f33d7cb6707bcf"
+    },
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    }
+  ],
+  "yearly_expense_for_personal_care": 3000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:36:30.525Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:36:30.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d91a65a8ac9a674aef5d"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02fd401f33d7cb6707c30"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:37:14.730Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:37:14.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d97465a8ac9a674aef87"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c84f9e6b5e001dd4c93ff"
+    }
+  ],
+  "yearly_expense_for_personal_care": 500,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:38:44.839Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:38:44.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2da3d65a8ac9a674af1f0"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77de3a0c8b7971daf5d3"
+    },
+    {
+      "$oid": "67ae77cc3a0c8b7971daf5d0"
+    },
+    {
+      "$oid": "67ae77873a0c8b7971daf5c0"
+    },
+    {
+      "$oid": "67ae77b33a0c8b7971daf5c9"
+    },
+    {
+      "$oid": "67ae780a3a0c8b7971daf5dc"
+    },
+    {
+      "$oid": "67ae77a33a0c8b7971daf5c6"
+    },
+    {
+      "$oid": "67ae76f73a0c8b7971daf5a6"
+    },
+    {
+      "$oid": "67ae77643a0c8b7971daf5ba"
+    },
+    {
+      "$oid": "67ae76af3a0c8b7971daf59d"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae76cd3a0c8b7971daf5a0"
+    },
+    {
+      "$oid": "67ae77403a0c8b7971daf5b4"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    },
+    {
+      "$oid": "67ae76e53a0c8b7971daf5a3"
+    },
+    {
+      "$oid": "67ae77043a0c8b7971daf5a9"
+    },
+    {
+      "$oid": "67ae77c03a0c8b7971daf5cc"
+    },
+    {
+      "$oid": "67ae77543a0c8b7971daf5b7"
+    }
+  ],
+  "yearly_expense_for_personal_care": 1000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:42:05.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:42:05.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2dacc65a8ac9a674af283"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8773e6b5e001dd4c942b"
+    },
+    {
+      "$oid": "679c8751e6b5e001dd4c9428"
+    }
+  ],
+  "yearly_expense_for_personal_care": 5000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T06:44:28.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:44:28.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fc9c65a8ac9a674b334f"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    }
+  ],
+  "yearly_expense_for_personal_care": 100,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:08:44.300Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:08:44.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fcb765a8ac9a674b3370"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    },
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d5d01f33d7cb6707bcf"
+    }
+  ],
+  "yearly_expense_for_personal_care": 5000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:09:11.175Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:09:11.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fcd865a8ac9a674b33e6"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8482e6b5e001dd4c93f9"
+    },
+    {
+      "$oid": "679c84f9e6b5e001dd4c93ff"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:09:44.163Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:09:44.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fcfd65a8ac9a674b3405"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77c03a0c8b7971daf5cc"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae77643a0c8b7971daf5ba"
+    },
+    {
+      "$oid": "67ae77b33a0c8b7971daf5c9"
+    }
+  ],
+  "yearly_expense_for_personal_care": 6000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:10:21.144Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:10:21.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fd0f65a8ac9a674b3424"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8773e6b5e001dd4c942b"
+    }
+  ],
+  "yearly_expense_for_personal_care": 5000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:10:39.078Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:10:39.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b300c365a8ac9a674b404d"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c8012e6b5e001dd4c937a"
+    },
+    {
+      "$oid": "679c8069e6b5e001dd4c938e"
+    },
+    {
+      "$oid": "679c808de6b5e001dd4c9391"
+    },
+    {
+      "$oid": "679c8100e6b5e001dd4c93ac"
+    },
+    {
+      "$oid": "679c811ae6b5e001dd4c93af"
+    },
+    {
+      "$oid": "679c815fe6b5e001dd4c93b6"
+    }
+  ],
+  "yearly_expense_for_personal_care": 4000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:26:27.206Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:26:27.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b300db65a8ac9a674b4075"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02d6801f33d7cb6707bd2"
+    },
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    }
+  ],
+  "yearly_expense_for_personal_care": 3000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:26:51.331Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:26:51.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b300f665a8ac9a674b4095"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02fc001f33d7cb6707c2a"
+    },
+    {
+      "$oid": "67b02fb701f33d7cb6707c27"
+    }
+  ],
+  "yearly_expense_for_personal_care": 1000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:27:18.227Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:27:18.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3010065a8ac9a674b40b4"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c84f9e6b5e001dd4c93ff"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:27:28.021Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:27:28.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3013565a8ac9a674b410e"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c856be6b5e001dd4c9406"
+    },
+    {
+      "$oid": "67ae77b33a0c8b7971daf5c9"
+    },
+    {
+      "$oid": "67ae77ee3a0c8b7971daf5d6"
+    },
+    {
+      "$oid": "67ae77de3a0c8b7971daf5d3"
+    },
+    {
+      "$oid": "67ae77cc3a0c8b7971daf5d0"
+    },
+    {
+      "$oid": "67ae77873a0c8b7971daf5c0"
+    },
+    {
+      "$oid": "67ae77643a0c8b7971daf5ba"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae769d3a0c8b7971daf59a"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    }
+  ],
+  "yearly_expense_for_personal_care": 15000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:28:21.919Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:28:21.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3015865a8ac9a674b4147"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8773e6b5e001dd4c942b"
+    }
+  ],
+  "yearly_expense_for_personal_care": 20000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:28:56.161Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:28:56.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3085265a8ac9a674b5ac0"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c7face6b5e001dd4c9353"
+    },
+    {
+      "$oid": "679c804be6b5e001dd4c938b"
+    },
+    {
+      "$oid": "679c8100e6b5e001dd4c93ac"
+    },
+    {
+      "$oid": "679c813fe6b5e001dd4c93b2"
+    },
+    {
+      "$oid": "679c815fe6b5e001dd4c93b6"
+    }
+  ],
+  "yearly_expense_for_personal_care": 5000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:58:42.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:58:42.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3086d65a8ac9a674b5bae"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    }
+  ],
+  "yearly_expense_for_personal_care": 500,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:59:09.943Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:59:09.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3088a65a8ac9a674b5c27"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02fd401f33d7cb6707c30"
+    }
+  ],
+  "yearly_expense_for_personal_care": 500,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T09:59:38.095Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:59:38.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b308a065a8ac9a674b5ca6"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8482e6b5e001dd4c93f9"
+    },
+    {
+      "$oid": "679c849ee6b5e001dd4c93fc"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T10:00:00.776Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:00:00.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b308e565a8ac9a674b5db1"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77b33a0c8b7971daf5c9"
+    },
+    {
+      "$oid": "67ae77643a0c8b7971daf5ba"
+    },
+    {
+      "$oid": "67ae76af3a0c8b7971daf59d"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    },
+    {
+      "$oid": "67ae77043a0c8b7971daf5a9"
+    },
+    {
+      "$oid": "67ae77c03a0c8b7971daf5cc"
+    },
+    {
+      "$oid": "67ae77543a0c8b7971daf5b7"
+    },
+    {
+      "$oid": "67ae76f73a0c8b7971daf5a6"
+    }
+  ],
+  "yearly_expense_for_personal_care": 15000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T10:01:09.950Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:01:09.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3116365a8ac9a674b70db"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7f3be6b5e001dd4c9349"
+    },
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c815fe6b5e001dd4c93b6"
+    },
+    {
+      "$oid": "679c813fe6b5e001dd4c93b2"
+    },
+    {
+      "$oid": "679c8100e6b5e001dd4c93ac"
+    },
+    {
+      "$oid": "679c80d8e6b5e001dd4c93a9"
+    }
+  ],
+  "yearly_expense_for_personal_care": 3000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T10:37:23.083Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:37:23.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b311c165a8ac9a674b719f"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d5d01f33d7cb6707bcf"
+    },
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    },
+    {
+      "$oid": "67b02d8101f33d7cb6707bd8"
+    }
+  ],
+  "yearly_expense_for_personal_care": 3,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "67ae75e33a0c8b7971daf58d"
+      },
+      "quantity": 3,
+      "quantity_unit": "67b046da01f33d7cb6708767",
+      "_id": {
+        "$oid": "67b311c165a8ac9a674b71a0"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T10:38:57.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:38:57.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3127965a8ac9a674b72a5"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77ee3a0c8b7971daf5d6"
+    },
+    {
+      "$oid": "67ae77cc3a0c8b7971daf5d0"
+    },
+    {
+      "$oid": "67ae77de3a0c8b7971daf5d3"
+    },
+    {
+      "$oid": "67ae780a3a0c8b7971daf5dc"
+    },
+    {
+      "$oid": "67ae77a33a0c8b7971daf5c6"
+    },
+    {
+      "$oid": "67ae76f73a0c8b7971daf5a6"
+    },
+    {
+      "$oid": "67ae77643a0c8b7971daf5ba"
+    },
+    {
+      "$oid": "67ae769d3a0c8b7971daf59a"
+    },
+    {
+      "$oid": "67ae76af3a0c8b7971daf59d"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae77403a0c8b7971daf5b4"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    },
+    {
+      "$oid": "67ae77043a0c8b7971daf5a9"
+    },
+    {
+      "$oid": "67ae77c03a0c8b7971daf5cc"
+    }
+  ],
+  "yearly_expense_for_personal_care": 5000,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "67afdf9a01f33d7cb67079f0"
+      },
+      "quantity": 1,
+      "quantity_unit": "67b046da01f33d7cb6708767",
+      "_id": {
+        "$oid": "67b3127965a8ac9a674b72a6"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T10:42:01.552Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:42:01.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3129e65a8ac9a674b732c"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8751e6b5e001dd4c9428"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "67afe69401f33d7cb6707a54"
+      },
+      "quantity": 20,
+      "quantity_unit": "67afc95d01f33d7cb670793e",
+      "_id": {
+        "$oid": "67b3129e65a8ac9a674b732d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T10:42:38.088Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:42:38.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31b75535126c1f565e835"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c808de6b5e001dd4c9391"
+    },
+    {
+      "$oid": "679c8069e6b5e001dd4c938e"
+    },
+    {
+      "$oid": "679c815fe6b5e001dd4c93b6"
+    },
+    {
+      "$oid": "679c8100e6b5e001dd4c93ac"
+    }
+  ],
+  "yearly_expense_for_personal_care": 2000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:20:21.735Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:20:21.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31bba535126c1f565e861"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02dac01f33d7cb6707be4"
+    }
+  ],
+  "yearly_expense_for_personal_care": 100,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:21:30.092Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:21:30.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31bca535126c1f565e88c"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c84f9e6b5e001dd4c93ff"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:21:46.735Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:21:46.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31c01535126c1f565e8dd"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77b33a0c8b7971daf5c9"
+    },
+    {
+      "$oid": "67ae780a3a0c8b7971daf5dc"
+    },
+    {
+      "$oid": "67ae76af3a0c8b7971daf59d"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae77403a0c8b7971daf5b4"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    },
+    {
+      "$oid": "67ae77c03a0c8b7971daf5cc"
+    }
+  ],
+  "yearly_expense_for_personal_care": 1000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:22:41.694Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:22:41.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31c17535126c1f565e931"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8773e6b5e001dd4c942b"
+    }
+  ],
+  "yearly_expense_for_personal_care": 6000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:23:03.067Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:23:03.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31eb9535126c1f565ef35"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c7f65e6b5e001dd4c934c"
+    },
+    {
+      "$oid": "679c8012e6b5e001dd4c937a"
+    },
+    {
+      "$oid": "679c804be6b5e001dd4c938b"
+    },
+    {
+      "$oid": "679c8069e6b5e001dd4c938e"
+    },
+    {
+      "$oid": "679c808de6b5e001dd4c9391"
+    },
+    {
+      "$oid": "679c80d8e6b5e001dd4c93a9"
+    },
+    {
+      "$oid": "679c8100e6b5e001dd4c93ac"
+    },
+    {
+      "$oid": "679c811ae6b5e001dd4c93af"
+    },
+    {
+      "$oid": "679c815fe6b5e001dd4c93b6"
+    }
+  ],
+  "yearly_expense_for_personal_care": 1500,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:34:17.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:34:17.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31ee4535126c1f565ef8b"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02d5d01f33d7cb6707bcf"
+    },
+    {
+      "$oid": "67b02d6801f33d7cb6707bd2"
+    },
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    },
+    {
+      "$oid": "67b02d9601f33d7cb6707bde"
+    }
+  ],
+  "yearly_expense_for_personal_care": 5000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:35:00.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:35:00.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31f14535126c1f565f02c"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02fc001f33d7cb6707c2a"
+    },
+    {
+      "$oid": "67b02fb701f33d7cb6707c27"
+    }
+  ],
+  "yearly_expense_for_personal_care": 3000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:35:48.132Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:35:48.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31f1e535126c1f565f07e"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c84f9e6b5e001dd4c93ff"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:35:58.716Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:35:58.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31f64535126c1f565f0c4"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77b33a0c8b7971daf5c9"
+    },
+    {
+      "$oid": "67ae77ee3a0c8b7971daf5d6"
+    },
+    {
+      "$oid": "67ae77873a0c8b7971daf5c0"
+    },
+    {
+      "$oid": "67ae780a3a0c8b7971daf5dc"
+    },
+    {
+      "$oid": "67ae77643a0c8b7971daf5ba"
+    },
+    {
+      "$oid": "67ae769d3a0c8b7971daf59a"
+    },
+    {
+      "$oid": "67ae76af3a0c8b7971daf59d"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    },
+    {
+      "$oid": "67ae77c03a0c8b7971daf5cc"
+    }
+  ],
+  "yearly_expense_for_personal_care": 10000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:37:08.247Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:37:08.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31f78535126c1f565f0f2"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8773e6b5e001dd4c942b"
+    }
+  ],
+  "yearly_expense_for_personal_care": 15000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T11:37:28.278Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:37:28.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b348af5e4b738d894cf59d"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c84f9e6b5e001dd4c93ff"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:33:19.923Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:33:19.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b348e65e4b738d894cf5b4"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae76af3a0c8b7971daf59d"
+    },
+    {
+      "$oid": "67ae77643a0c8b7971daf5ba"
+    },
+    {
+      "$oid": "67ae769d3a0c8b7971daf59a"
+    },
+    {
+      "$oid": "67ae77a33a0c8b7971daf5c6"
+    },
+    {
+      "$oid": "67ae77873a0c8b7971daf5c0"
+    }
+  ],
+  "yearly_expense_for_personal_care": 9000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:34:14.172Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:34:14.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b348fd5e4b738d894cf5cb"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8773e6b5e001dd4c942b"
+    }
+  ],
+  "yearly_expense_for_personal_care": 6000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T14:34:37.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:34:37.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b34f9f5e4b738d894cfb87"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c7f3be6b5e001dd4c9349"
+    },
+    {
+      "$oid": "679c7fe9e6b5e001dd4c9376"
+    },
+    {
+      "$oid": "679c8069e6b5e001dd4c938e"
+    },
+    {
+      "$oid": "679c808de6b5e001dd4c9391"
+    },
+    {
+      "$oid": "679c80d8e6b5e001dd4c93a9"
+    },
+    {
+      "$oid": "679c8100e6b5e001dd4c93ac"
+    },
+    {
+      "$oid": "679c813fe6b5e001dd4c93b2"
+    },
+    {
+      "$oid": "679c815fe6b5e001dd4c93b6"
+    },
+    {
+      "$oid": "679c811ae6b5e001dd4c93af"
+    }
+  ],
+  "yearly_expense_for_personal_care": 3000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T15:02:55.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:02:55.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b350095e4b738d894cfbb1"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02d5d01f33d7cb6707bcf"
+    },
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    },
+    {
+      "$oid": "67b02d8101f33d7cb6707bd8"
+    }
+  ],
+  "yearly_expense_for_personal_care": 800,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "67ae75e33a0c8b7971daf58d"
+      },
+      "quantity": 5,
+      "quantity_unit": "67b046da01f33d7cb6708767",
+      "_id": {
+        "$oid": "67b350095e4b738d894cfbb2"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T15:04:41.167Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:04:41.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b350235e4b738d894cfbd1"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02fd401f33d7cb6707c30"
+    }
+  ],
+  "yearly_expense_for_personal_care": 100,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T15:05:07.709Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:05:07.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b350475e4b738d894cfbf8"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8519e6b5e001dd4c9403"
+    },
+    {
+      "$oid": "679c8482e6b5e001dd4c93f9"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T15:05:43.875Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:05:43.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b350db5e4b738d894cfc7e"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77ee3a0c8b7971daf5d6"
+    },
+    {
+      "$oid": "67ae77de3a0c8b7971daf5d3"
+    },
+    {
+      "$oid": "67ae77cc3a0c8b7971daf5d0"
+    },
+    {
+      "$oid": "67ae77a33a0c8b7971daf5c6"
+    },
+    {
+      "$oid": "67ae769d3a0c8b7971daf59a"
+    },
+    {
+      "$oid": "67ae76af3a0c8b7971daf59d"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    },
+    {
+      "$oid": "67ae77403a0c8b7971daf5b4"
+    },
+    {
+      "$oid": "67ae77043a0c8b7971daf5a9"
+    }
+  ],
+  "yearly_expense_for_personal_care": 7000,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "67afdf9a01f33d7cb67079f0"
+      },
+      "quantity": 1,
+      "quantity_unit": "67b046da01f33d7cb6708767",
+      "_id": {
+        "$oid": "67b350db5e4b738d894cfc7f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T15:08:11.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:08:11.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b351045e4b738d894cfcd6"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8751e6b5e001dd4c9428"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "67afe69401f33d7cb6707a54"
+      },
+      "quantity": 2,
+      "quantity_unit": "67afc97401f33d7cb6707941",
+      "_id": {
+        "$oid": "67b351045e4b738d894cfcd7"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T15:08:52.080Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:08:52.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b35a385e4b738d894d01f4"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c804be6b5e001dd4c938b"
+    },
+    {
+      "$oid": "679c813fe6b5e001dd4c93b2"
+    },
+    {
+      "$oid": "679c815fe6b5e001dd4c93b6"
+    },
+    {
+      "$oid": "679c8100e6b5e001dd4c93ac"
+    }
+  ],
+  "yearly_expense_for_personal_care": 3000,
+  "items_produced_locally": true,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T15:48:08.317Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:48:08.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b35a575e4b738d894d0228"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02d5d01f33d7cb6707bcf"
+    },
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    }
+  ],
+  "yearly_expense_for_personal_care": 2000,
+  "items_produced_locally": true,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T15:48:39.028Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:48:39.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b35a785e4b738d894d0280"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02fd401f33d7cb6707c30"
+    }
+  ],
+  "yearly_expense_for_personal_care": 1000,
+  "items_produced_locally": true,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-17T15:49:12.505Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T15:49:12.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b410805e4b738d894d1fa9"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c80d8e6b5e001dd4c93a9"
+    },
+    {
+      "$oid": "679c815fe6b5e001dd4c93b6"
+    }
+  ],
+  "yearly_expense_for_personal_care": 2000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:45:52.543Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:45:52.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b410905e4b738d894d1fe9"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d6801f33d7cb6707bd2"
+    }
+  ],
+  "yearly_expense_for_personal_care": 1000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:46:08.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:46:08.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4109d5e4b738d894d2019"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02fc001f33d7cb6707c2a"
+    },
+    {
+      "$oid": "67b02fd401f33d7cb6707c30"
+    }
+  ],
+  "yearly_expense_for_personal_care": 500,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:46:21.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:46:21.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b410a75e4b738d894d2067"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c84f9e6b5e001dd4c93ff"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:46:31.377Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:46:31.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b410cc5e4b738d894d2109"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77873a0c8b7971daf5c0"
+    },
+    {
+      "$oid": "67ae769d3a0c8b7971daf59a"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    }
+  ],
+  "yearly_expense_for_personal_care": 10000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:47:08.190Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:47:08.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b410e35e4b738d894d2177"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8773e6b5e001dd4c942b"
+    }
+  ],
+  "yearly_expense_for_personal_care": 15000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:47:31.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:47:31.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4125b5e4b738d894d24d5"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c8100e6b5e001dd4c93ac"
+    },
+    {
+      "$oid": "679c811ae6b5e001dd4c93af"
+    },
+    {
+      "$oid": "679c815fe6b5e001dd4c93b6"
+    }
+  ],
+  "yearly_expense_for_personal_care": 1200,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:53:47.839Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:53:47.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4129b5e4b738d894d254d"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d5d01f33d7cb6707bcf"
+    },
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    },
+    {
+      "$oid": "67b02d8101f33d7cb6707bd8"
+    }
+  ],
+  "yearly_expense_for_personal_care": 500,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "67ae75e33a0c8b7971daf58d"
+      },
+      "quantity": 3,
+      "quantity_unit": "67b046da01f33d7cb6708767",
+      "_id": {
+        "$oid": "67b4129b5e4b738d894d254e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-18T04:54:51.811Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:54:51.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b412b55e4b738d894d25be"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c8100e6b5e001dd4c93ac"
+    }
+  ],
+  "yearly_expense_for_personal_care": 500,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:55:17.851Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:55:17.851Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b413175e4b738d894d2621"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    },
+    {
+      "$oid": "67b02d7201f33d7cb6707bd5"
+    },
+    {
+      "$oid": "67b02dac01f33d7cb6707be4"
+    }
+  ],
+  "yearly_expense_for_personal_care": 400,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "67ae75e33a0c8b7971daf58d"
+      },
+      "quantity": 1,
+      "quantity_unit": "67b046da01f33d7cb6708767",
+      "_id": {
+        "$oid": "67b413175e4b738d894d2622"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-18T04:56:55.377Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:56:55.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b413295e4b738d894d2642"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02fe501f33d7cb6707c36"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T04:57:13.358Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:57:13.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4132b5e4b738d894d2663"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77de3a0c8b7971daf5d3"
+    },
+    {
+      "$oid": "67ae77cc3a0c8b7971daf5d0"
+    },
+    {
+      "$oid": "67ae77873a0c8b7971daf5c0"
+    },
+    {
+      "$oid": "67ae780a3a0c8b7971daf5dc"
+    },
+    {
+      "$oid": "67ae76f73a0c8b7971daf5a6"
+    },
+    {
+      "$oid": "67ae77643a0c8b7971daf5ba"
+    },
+    {
+      "$oid": "67ae76af3a0c8b7971daf59d"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae77403a0c8b7971daf5b4"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    },
+    {
+      "$oid": "67ae77043a0c8b7971daf5a9"
+    }
+  ],
+  "yearly_expense_for_personal_care": 3000,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "67afdf9a01f33d7cb67079f0"
+      },
+      "quantity": 1,
+      "quantity_unit": "67b046da01f33d7cb6708767",
+      "_id": {
+        "$oid": "67b4132b5e4b738d894d2664"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-18T04:57:15.902Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:57:15.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b413465e4b738d894d2693"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c8751e6b5e001dd4c9428"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": true,
+  "items_produces": [
+    {
+      "type": {
+        "$oid": "67afe69401f33d7cb6707a54"
+      },
+      "quantity": 2,
+      "quantity_unit": "67afc95d01f33d7cb670793e",
+      "_id": {
+        "$oid": "67b413465e4b738d894d2694"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-02-18T04:57:42.456Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:57:42.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b413e55e4b738d894d2822"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae77403a0c8b7971daf5b4"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    },
+    {
+      "$oid": "67ae77c03a0c8b7971daf5cc"
+    }
+  ],
+  "yearly_expense_for_personal_care": 1500,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T05:00:21.525Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:00:21.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43f565e4b738d894d4062"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "personal_care_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c80b9e6b5e001dd4c9394"
+    },
+    {
+      "$oid": "679c7edbe6b5e001dd4c9346"
+    },
+    {
+      "$oid": "679c7f65e6b5e001dd4c934c"
+    },
+    {
+      "$oid": "679c815fe6b5e001dd4c93b6"
+    }
+  ],
+  "yearly_expense_for_personal_care": 2000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T08:05:42.625Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:34:37.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43f965e4b738d894d409a"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "cleaning_products",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02da201f33d7cb6707be1"
+    }
+  ],
+  "yearly_expense_for_personal_care": 40,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T08:06:46.465Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:06:46.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43fb75e4b738d894d40d5"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "office_supplies",
+  "personal_care_item_use": [
+    {
+      "$oid": "67b02fe501f33d7cb6707c36"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T08:07:19.908Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:07:19.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43fec5e4b738d894d410e"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "medicine",
+  "personal_care_item_use": [
+    {
+      "$oid": "679c84f9e6b5e001dd4c93ff"
+    }
+  ],
+  "yearly_expense_for_personal_care": 30,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T08:08:12.560Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:08:12.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b440185e4b738d894d4156"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "kitchen_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67ae77de3a0c8b7971daf5d3"
+    },
+    {
+      "$oid": "67ae77cc3a0c8b7971daf5d0"
+    },
+    {
+      "$oid": "67ae780a3a0c8b7971daf5dc"
+    },
+    {
+      "$oid": "67ae77a33a0c8b7971daf5c6"
+    },
+    {
+      "$oid": "67ae76f73a0c8b7971daf5a6"
+    },
+    {
+      "$oid": "67ae76af3a0c8b7971daf59d"
+    },
+    {
+      "$oid": "67ae76873a0c8b7971daf596"
+    },
+    {
+      "$oid": "67ae769d3a0c8b7971daf59a"
+    },
+    {
+      "$oid": "67ae76cd3a0c8b7971daf5a0"
+    },
+    {
+      "$oid": "67ae77403a0c8b7971daf5b4"
+    },
+    {
+      "$oid": "67ae77763a0c8b7971daf5bd"
+    },
+    {
+      "$oid": "67ae77c03a0c8b7971daf5cc"
+    }
+  ],
+  "yearly_expense_for_personal_care": 1000,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T08:08:56.932Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:35:35.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4404c5e4b738d894d41a6"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "type": "other_items",
+  "personal_care_item_use": [
+    {
+      "$oid": "67880668650d18f99ddadd65"
+    }
+  ],
+  "yearly_expense_for_personal_care": 0,
+  "items_produced_locally": false,
+  "items_produces": [],
+  "createdAt": {
+    "$date": "2025-02-18T08:09:48.269Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:09:48.269Z"
+  },
+  "__v": 0
+}]

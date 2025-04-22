@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "65745016ec4ce30ac0c71731"
+  },
+  "name": {
+    "en": "fish",
+    "ms": "fish",
+    "dz": "fish"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:31:34.734Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T11:54:58.349Z"
+  },
+  "__v": 0,
+  "type": "fishery"
+},
+{
+  "_id": {
+    "$oid": "65745017ec4ce30ac0c71738"
+  },
+  "name": {
+    "en": "frogs",
+    "ms": "frogs",
+    "dz": "frogs"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:31:35.028Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T11:55:08.577Z"
+  },
+  "__v": 0,
+  "type": "fishery"
+},
+{
+  "_id": {
+    "$oid": "65745017ec4ce30ac0c7173d"
+  },
+  "name": {
+    "en": "worms",
+    "ms": "worms",
+    "dz": "worms"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:31:35.240Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T11:55:18.579Z"
+  },
+  "__v": 0,
+  "type": "fishery"
+},
+{
+  "_id": {
+    "$oid": "65745017ec4ce30ac0c7173f"
+  },
+  "name": {
+    "en": "insect larvae",
+    "ms": "insect larvae",
+    "dz": "insect larvae"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:31:35.342Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T11:55:29.794Z"
+  },
+  "__v": 0,
+  "type": "fishery"
+},
+{
+  "_id": {
+    "$oid": "65745017ec4ce30ac0c71741"
+  },
+  "name": {
+    "en": "snails",
+    "ms": "snails",
+    "dz": "snails"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:31:35.435Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T11:55:42.850Z"
+  },
+  "__v": 0,
+  "type": "fishery"
+},
+{
+  "_id": {
+    "$oid": "65745017ec4ce30ac0c71743"
+  },
+  "name": {
+    "en": "plants",
+    "ms": "plants",
+    "dz": "plants"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:31:35.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T11:53:58.785Z"
+  },
+  "__v": 0,
+  "type": "fishery"
+},
+{
+  "_id": {
+    "$oid": "65745017ec4ce30ac0c71745"
+  },
+  "name": {
+    "en": "algae",
+    "ms": "algae",
+    "dz": "algae"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:31:35.632Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T11:54:12.465Z"
+  },
+  "__v": 0,
+  "type": "fishery"
+},
+{
+  "_id": {
+    "$oid": "65745017ec4ce30ac0c71747"
+  },
+  "name": {
+    "en": "processed fish food",
+    "ms": "processed fish food",
+    "dz": "processed fish food"
+  },
+  "country": [
+    "india",
+    "malaysia"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2023-12-09T11:31:35.724Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T11:54:23.241Z"
+  },
+  "__v": 0,
+  "type": "fishery"
+},
+{
+  "_id": {
+    "$oid": "65f61882202690a6a862b2f2"
+  },
+  "name": {
+    "en": "new fish feed",
+    "ms": "new fish feed",
+    "dz": "new fish feed"
+  },
+  "country": [
+    "malaysia",
+    "nepal"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-03-16T22:09:06.213Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T11:54:38.861Z"
+  },
+  "__v": 0,
+  "type": "fishery"
+},
+{
+  "_id": {
+    "$oid": "67b0f9adb9aa2904b4d000ff"
+  },
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-15T20:31:41.899Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:31:41.899Z"
+  },
+  "__v": 0
+}]

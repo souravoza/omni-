@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "name": {
+    "en": "grains and nuts",
+    "ms": "bijirin dan kacang",
+    "dz": "སྦྲགུངས་ལ་རྒིན་ས་སྦྲམ་སིཊ།"
+  },
+  "createdAt": {
+    "$date": "2023-09-17T11:26:59.112Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T11:26:59.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e28381f75fd724a743b9"
+  },
+  "name": {
+    "en": "legumes",
+    "ms": "kekacang",
+    "dz": "མདོ་སྦྱུར།"
+  },
+  "createdAt": {
+    "$date": "2023-09-17T11:26:59.647Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T11:26:59.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "name": {
+    "en": "fruits, vegetables & herbs",
+    "ms": "buah-buahan, sayur-sayuran & herba",
+    "dz": "རྟ་རྒྱས་དང་ཚིག་སྐྱོད་དང་རྟ་རྒྱས་དང་སྐད་སྒྲིག"
+  },
+  "createdAt": {
+    "$date": "2023-09-17T11:26:59.747Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T11:26:59.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "name": {
+    "en": "dairy & animal based",
+    "ms": "berasaskan tenusu & haiwan",
+    "dz": "མཚོ་བླུག དང་ སེང་གེའི རྒྱས་གནས།"
+  },
+  "createdAt": {
+    "$date": "2023-09-17T11:26:59.843Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T11:26:59.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "name": {
+    "en": "meat & seafood",
+    "ms": "daging & makanan laut",
+    "dz": "སྟོང་སྟོང་གསུངས།"
+  },
+  "createdAt": {
+    "$date": "2023-09-17T11:26:59.938Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T11:26:59.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e28481f75fd724a743c3"
+  },
+  "name": {
+    "en": "sauce",
+    "ms": "sos",
+    "dz": "ཆོས་ཚོགས།"
+  },
+  "createdAt": {
+    "$date": "2023-09-17T11:27:00.201Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T11:27:00.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e28481f75fd724a743c5"
+  },
+  "name": {
+    "en": "tea or coffee",
+    "ms": "teh atau kopi",
+    "dz": "ཇ་དང་ཀོ་ཕྱི།"
+  },
+  "createdAt": {
+    "$date": "2023-09-17T11:27:00.328Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T11:27:00.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "name": {
+    "en": "oils",
+    "ms": "minyak",
+    "dz": "རླུང་ནས།"
+  },
+  "createdAt": {
+    "$date": "2023-09-17T11:27:00.432Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T11:27:00.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "name": {
+    "en": "processed foods & beverages",
+    "ms": "makanan & minuman yang diproses",
+    "dz": "འཛིན་ཁང་གཏན་འགྱུར་དང་བཟུང་གཏན་འགྱུར་སྦྱིན་སྦྱིན་འབད།"
+  },
+  "createdAt": {
+    "$date": "2023-09-17T11:27:00.540Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T11:27:00.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "name": {
+    "en": "tobacco and alcohol",
+    "ms": "tembakau dan alkohol",
+    "dz": "དགོས་སྡུག་དང་སྨིན་བཟང་ལམ་དང་ལམ་དང་གཉིས་པོ།"
+  },
+  "createdAt": {
+    "$date": "2023-09-17T11:27:00.726Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T11:27:00.726Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "name": "common storage",
+  "type": "poultry",
+  "createdAt": {
+    "$date": "2023-09-12T12:02:59.548Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:02:59.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500537d3868bad9d967185d"
+  },
+  "name": "refrigeration",
+  "type": "poultry",
+  "createdAt": {
+    "$date": "2023-09-12T12:03:09.395Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:03:09.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "name": "refrigeration",
+  "type": "meat",
+  "createdAt": {
+    "$date": "2023-09-12T12:03:22.074Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:03:22.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650053973868bad9d9671863"
+  },
+  "name": "common storage",
+  "type": "meat",
+  "createdAt": {
+    "$date": "2023-09-12T12:03:35.920Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:03:35.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650053b93868bad9d9671866"
+  },
+  "name": "drying",
+  "type": "vegetables & fruits",
+  "createdAt": {
+    "$date": "2023-09-12T12:04:09.961Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:04:09.961Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650053c13868bad9d9671869"
+  },
+  "name": "canning",
+  "type": "vegetables & fruits",
+  "createdAt": {
+    "$date": "2023-09-12T12:04:17.973Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:04:17.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650053cb3868bad9d967186c"
+  },
+  "name": "curing",
+  "type": "vegetables & fruits",
+  "createdAt": {
+    "$date": "2023-09-12T12:04:27.434Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:04:27.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650053d33868bad9d967186f"
+  },
+  "name": "salting",
+  "type": "vegetables & fruits",
+  "createdAt": {
+    "$date": "2023-09-12T12:04:35.818Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:04:35.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650053de3868bad9d9671872"
+  },
+  "name": "freezing",
+  "type": "vegetables & fruits",
+  "createdAt": {
+    "$date": "2023-09-12T12:04:46.097Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:04:46.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650053e83868bad9d9671875"
+  },
+  "name": "common storage",
+  "type": "vegetables & fruits",
+  "createdAt": {
+    "$date": "2023-09-12T12:04:56.535Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:04:56.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "name": "bags",
+  "type": "grain",
+  "createdAt": {
+    "$date": "2023-09-12T12:05:16.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:05:16.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650054033868bad9d967187b"
+  },
+  "name": "silos",
+  "type": "grain",
+  "createdAt": {
+    "$date": "2023-09-12T12:05:23.059Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:05:23.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6500540c3868bad9d967187e"
+  },
+  "name": "containers",
+  "type": "grain",
+  "createdAt": {
+    "$date": "2023-09-12T12:05:32.799Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:05:32.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650054183868bad9d9671881"
+  },
+  "name": "piles",
+  "type": "grain",
+  "createdAt": {
+    "$date": "2023-09-12T12:05:44.973Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:05:44.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650054263868bad9d9671884"
+  },
+  "name": "warehouse",
+  "type": "grain",
+  "createdAt": {
+    "$date": "2023-09-12T12:05:58.436Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-12T12:05:58.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65012051298b65daa332d6ed"
+  },
+  "name": "dummy",
+  "type": "grain",
+  "createdAt": {
+    "$date": "2023-09-13T02:37:05.950Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T02:37:05.950Z"
+  },
+  "__v": 0
+}]

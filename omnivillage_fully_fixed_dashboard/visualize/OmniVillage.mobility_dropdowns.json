@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "6739df18a4cfd8cc1f107ef9"
+  },
+  "type": "methods_of_mobility",
+  "name": {
+    "en": "- dominantly for the work (transportation of people and goods, agricultural activities)",
+    "ms": "- dominantly for the work (transportation of people and goods, agricultural activities)",
+    "dz": "- dominantly for the work (transportation of people and goods, agricultural activities)"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:18:32.331Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T10:10:50.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739df1da4cfd8cc1f107efb"
+  },
+  "type": "methods_of_mobility",
+  "name": {
+    "en": "- dominantly for recreation and socialising (personal use)",
+    "ms": "- dominantly for recreation and socialising (personal use)",
+    "dz": "- dominantly for recreation and socialising (personal use)"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:18:37.244Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T10:10:59.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739df21a4cfd8cc1f107efd"
+  },
+  "type": "methods_of_mobility",
+  "name": {
+    "en": " - balanced equally between work and recreation",
+    "ms": " - balanced equally between work and recreation",
+    "dz": " - balanced equally between work and recreation"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:18:41.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T10:11:13.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739df56a4cfd8cc1f107f0b"
+  },
+  "type": "type_of_vehicles",
+  "name": {
+    "en": "suv",
+    "ms": "suv",
+    "dz": "suv"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:19:34.530Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T12:19:34.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739df5ca4cfd8cc1f107f0d"
+  },
+  "type": "type_of_vehicles",
+  "name": {
+    "en": "camper",
+    "ms": "camper",
+    "dz": "camper"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:19:40.182Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T12:19:40.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739df60a4cfd8cc1f107f0f"
+  },
+  "type": "type_of_vehicles",
+  "name": {
+    "en": "sedan",
+    "ms": "sedan",
+    "dz": "sedan"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:19:44.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T12:19:44.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739df64a4cfd8cc1f107f11"
+  },
+  "type": "type_of_vehicles",
+  "name": {
+    "en": "hatchback",
+    "ms": "hatchback",
+    "dz": "hatchback"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:19:48.458Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T12:19:48.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739df67a4cfd8cc1f107f13"
+  },
+  "type": "type_of_vehicles",
+  "name": {
+    "en": "electric car",
+    "ms": "electric car",
+    "dz": "electric car"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:19:51.789Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T12:19:51.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739df6da4cfd8cc1f107f15"
+  },
+  "type": "type_of_vehicles",
+  "name": {
+    "en": "cycle",
+    "ms": "cycle",
+    "dz": "cycle"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:19:57.605Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T12:19:57.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739df71a4cfd8cc1f107f17"
+  },
+  "type": "type_of_vehicles",
+  "name": {
+    "en": "moped",
+    "ms": "moped",
+    "dz": "moped"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:20:01.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T12:20:01.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739df79a4cfd8cc1f107f1b"
+  },
+  "type": "type_of_vehicles",
+  "name": {
+    "en": "motorbike",
+    "ms": "motorbike",
+    "dz": "motorbike"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:20:09.258Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T12:20:09.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6739df7ea4cfd8cc1f107f1d"
+  },
+  "type": "type_of_vehicles",
+  "name": {
+    "en": "boat",
+    "ms": "boat",
+    "dz": "boat"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T12:20:14.587Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-17T12:20:14.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786d3ad854845415d4a8149"
+  },
+  "type": "type_of_vehicles",
+  "name": {
+    "en": "diesel/petrol car  ",
+    "ms": "diesel/petrol car  ",
+    "dz": "diesel/petrol car  "
+  },
+  "createdAt": {
+    "$date": "2025-01-14T21:14:21.485Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T21:14:21.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786d3ef854845415d4a814c"
+  },
+  "type": "type_of_vehicles",
+  "name": {
+    "en": "other (specify)",
+    "ms": "other (specify)",
+    "dz": "other (specify)"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T21:15:27.086Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T21:15:27.086Z"
+  },
+  "__v": 0
+}]

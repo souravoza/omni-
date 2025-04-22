@@ -1,0 +1,749 @@
+[{
+  "_id": {
+    "$oid": "679b44e218939a6c582e0414"
+  },
+  "user_id": {
+    "$oid": "678dfe492f36950c8ce7b330"
+  },
+  "land_requirements": false,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-01-30T09:22:42.277Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T09:22:49.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b44e918939a6c582e043b"
+  },
+  "user_id": {
+    "$oid": "678dfe492f36950c8ce7b330"
+  },
+  "land_requirements": false,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-01-30T09:22:49.072Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T09:22:49.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b889418939a6c582e0662"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "land_requirements": true,
+  "required_area": 4,
+  "purpose_for_required_land": "6734990e91b3b513db393756",
+  "urgency_required_land": "673499a891b3b513db393762",
+  "createdAt": {
+    "$date": "2025-01-30T14:11:32.032Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:39:27.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c4780e6b5e001dd4c7ed0"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "land_requirements": true,
+  "required_area": 847,
+  "purpose_for_required_land": "6734991c91b3b513db393758",
+  "urgency_required_land": "673499a891b3b513db393762",
+  "createdAt": {
+    "$date": "2025-01-31T03:46:08.693Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T04:25:40.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c4eb3e6b5e001dd4c8077"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "land_requirements": true,
+  "required_area": 25,
+  "purpose_for_required_land": "6734993891b3b513db39375e",
+  "urgency_required_land": "673499b091b3b513db393764",
+  "createdAt": {
+    "$date": "2025-01-31T04:16:51.417Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:47:58.486Z"
+  },
+  "__v": 0,
+  "other_purpose_of_land": ""
+},
+{
+  "_id": {
+    "$oid": "679c4ec5e6b5e001dd4c80cb"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "land_requirements": true,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-01-31T04:17:09.563Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T04:17:09.563Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c4ec7e6b5e001dd4c8104"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "land_requirements": true,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-01-31T04:17:11.763Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T04:17:11.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cb22ae6b5e001dd4c9ba7"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "land_requirements": false,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-01-31T11:21:14.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:21:14.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cb231e6b5e001dd4c9c24"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "land_requirements": true,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-01-31T11:21:21.400Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:21:21.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaeab045495d1ec9701a4c"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "land_requirements": true,
+  "required_area": 258,
+  "purpose_for_required_land": "6734993e91b3b513db393760",
+  "urgency_required_land": "673499a891b3b513db393762",
+  "createdAt": {
+    "$date": "2025-02-11T06:14:08.895Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T06:18:53.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaeac845495d1ec9701a72"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "land_requirements": true,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-11T06:14:32.486Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T06:14:32.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adc1dd76793a6ad3158ecb"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "land_requirements": true,
+  "required_area": 25,
+  "purpose_for_required_land": "679cb664e6b5e001dd4c9d73",
+  "urgency_required_land": "673499be91b3b513db393768",
+  "createdAt": {
+    "$date": "2025-02-13T09:56:45.157Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T03:01:31.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b03aa601f33d7cb6707fe5"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "land_requirements": false,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-15T06:56:38.786Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T06:56:38.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10b5cb9aa2904b4d009b3"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "land_requirements": true,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-15T21:47:08.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:47:08.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b17db5b9aa2904b4d00cd8"
+  },
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "land_requirements": true,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-16T05:55:01.474Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T05:56:55.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b17e27b9aa2904b4d00d30"
+  },
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "land_requirements": true,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-16T05:56:55.944Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T05:56:55.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b19151b9aa2904b4d019a4"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "land_requirements": true,
+  "required_area": 45,
+  "purpose_for_required_land": "673498d2c5f7d418500fb4ff",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "673499b091b3b513db393764",
+  "createdAt": {
+    "$date": "2025-02-16T07:18:41.384Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T07:18:59.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1aba5db1ebb70cb7e0f55"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "land_requirements": false,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-16T09:11:01.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:11:01.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1c98665a8ac9a674a7f1a"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "land_requirements": false,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-16T11:18:30.576Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:18:30.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1ce3765a8ac9a674a81d2"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "land_requirements": true,
+  "required_area": 43655,
+  "purpose_for_required_land": "6734990e91b3b513db393756",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "673499b091b3b513db393764",
+  "createdAt": {
+    "$date": "2025-02-16T11:38:31.526Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:44:27.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bed765a8ac9a674ab0ba"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "land_requirements": false,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-17T04:45:11.941Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:49:51.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bff065a8ac9a674ab279"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "land_requirements": false,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-17T04:49:52.015Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:49:52.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c96865a8ac9a674ac81d"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "land_requirements": false,
+  "required_area": 130680,
+  "purpose_for_required_land": "6734990e91b3b513db393756",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "673499a891b3b513db393762",
+  "createdAt": {
+    "$date": "2025-02-17T05:30:16.929Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:35:57.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cabd65a8ac9a674aca02"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "land_requirements": false,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-17T05:35:57.637Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:35:57.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cb9065a8ac9a674accb5"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "land_requirements": true,
+  "required_area": 217780,
+  "purpose_for_required_land": "6734990e91b3b513db393756",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "673499b091b3b513db393764",
+  "createdAt": {
+    "$date": "2025-02-17T05:39:28.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:58:36.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cf7265a8ac9a674ada55"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "land_requirements": true,
+  "required_area": 2,
+  "purpose_for_required_land": "679cb63fe6b5e001dd4c9d6a",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "673499a891b3b513db393762",
+  "createdAt": {
+    "$date": "2025-02-17T05:56:02.446Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:04:25.847Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f81365a8ac9a674b25b7"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "land_requirements": false,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-17T08:49:23.803Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:49:23.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fa7665a8ac9a674b2a57"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "land_requirements": true,
+  "required_area": 217800,
+  "purpose_for_required_land": "6734990e91b3b513db393756",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "673499a891b3b513db393762",
+  "createdAt": {
+    "$date": "2025-02-17T08:59:34.540Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:05:34.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b301db65a8ac9a674b42ed"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "land_requirements": true,
+  "required_area": 217780,
+  "purpose_for_required_land": "6734991c91b3b513db393758",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "673499b791b3b513db393766",
+  "createdAt": {
+    "$date": "2025-02-17T09:31:07.279Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:03:34.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3034b65a8ac9a674b46ce"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "land_requirements": true,
+  "required_area": 45733,
+  "purpose_for_required_land": "6734990e91b3b513db393756",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "673499a891b3b513db393762",
+  "createdAt": {
+    "$date": "2025-02-17T09:37:15.638Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:47:58.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b311b265a8ac9a674b715f"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "land_requirements": true,
+  "required_area": 43655,
+  "purpose_for_required_land": "6734990e91b3b513db393756",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "673499a891b3b513db393762",
+  "createdAt": {
+    "$date": "2025-02-17T10:38:42.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:39:29.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3196e535126c1f565e44a"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "land_requirements": true,
+  "required_area": 5662,
+  "purpose_for_required_land": "679cb63fe6b5e001dd4c9d6a",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "673499a891b3b513db393762",
+  "createdAt": {
+    "$date": "2025-02-17T11:11:42.067Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:14:09.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31979535126c1f565e485"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "land_requirements": true,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-17T11:11:53.650Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:11:53.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b342be5e4b738d894cf187"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "land_requirements": false,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-17T14:07:58.088Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:07:58.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b408f15e4b738d894d0f4e"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "land_requirements": true,
+  "required_area": 1306,
+  "purpose_for_required_land": "6734990e91b3b513db393756",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "673499a891b3b513db393762",
+  "createdAt": {
+    "$date": "2025-02-18T04:13:37.794Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:22:25.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b409cd5e4b738d894d10c5"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "land_requirements": true,
+  "required_area": 43556,
+  "purpose_for_required_land": "6734990e91b3b513db393756",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "673499a891b3b513db393762",
+  "createdAt": {
+    "$date": "2025-02-18T04:17:17.595Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:18:52.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40b6c5e4b738d894d13d7"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "land_requirements": true,
+  "required_area": 43560,
+  "purpose_for_required_land": "6734990e91b3b513db393756",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "673499a891b3b513db393762",
+  "createdAt": {
+    "$date": "2025-02-18T04:24:12.672Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:28:59.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43b3a5e4b738d894d39d4"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "land_requirements": true,
+  "required_area": null,
+  "purpose_for_required_land": "",
+  "other_purpose_of_land": "",
+  "urgency_required_land": "",
+  "createdAt": {
+    "$date": "2025-02-18T07:48:10.736Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T07:48:10.736Z"
+  },
+  "__v": 0
+}]

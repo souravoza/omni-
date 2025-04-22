@@ -1,0 +1,2951 @@
+[{
+  "_id": {
+    "$oid": "679c530ce6b5e001dd4c83e6"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "name_of_the_house": "Personal Residence ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 2000,
+  "no_of_units_built": 0,
+  "total_built_area": 1900,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2018,
+  "year_renovated": 2020,
+  "year_last_expanded": 2021,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1738298123647.png",
+  "back_photo": "uploads/1738298123806.png",
+  "neighbourhood_photo": "uploads/1738298124266.png",
+  "inside_living_photo": "uploads/1738298124451.png",
+  "kitchen_photo": "uploads/1738298124531.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    },
+    {
+      "$oid": "67338083346494a9ba551a2f"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "673380c0346494a9ba551a3f"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "6786bd92854845415d4a803b"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-31T04:35:24.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T04:35:24.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c530de6b5e001dd4c83fa"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "name_of_the_house": "personal resident ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 1000,
+  "no_of_units_built": 0,
+  "total_built_area": 1258,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2017,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "67338052346494a9ba551a23",
+  "front_photo": "uploads/1738298124041.png",
+  "back_photo": "uploads/1738298124305.png",
+  "neighbourhood_photo": "uploads/1738298124597.png",
+  "inside_living_photo": "uploads/1738298124927.png",
+  "kitchen_photo": "uploads/1738298124928.png",
+  "amenities": [
+    {
+      "$oid": "67338083346494a9ba551a2f"
+    },
+    {
+      "$oid": "6786b852854845415d4a7ff8"
+    },
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "673380c0346494a9ba551a3f"
+    },
+    {
+      "$oid": "6786c08e854845415d4a807e"
+    },
+    {
+      "$oid": "6786b8d3854845415d4a8001"
+    },
+    {
+      "$oid": "6786bffb854845415d4a806f"
+    },
+    {
+      "$oid": "6786bb4a854845415d4a801e"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786c3fa854845415d4a808f"
+    },
+    {
+      "$oid": "6786bd5d854845415d4a8031"
+    },
+    {
+      "$oid": "6786b860854845415d4a7ffb"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "6786b873854845415d4a7ffe"
+    },
+    {
+      "$oid": "6786bfd0854845415d4a8065"
+    },
+    {
+      "$oid": "6786bd7f854845415d4a8038"
+    },
+    {
+      "$oid": "6786bd33854845415d4a802b"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b8fd854845415d4a8007"
+    },
+    {
+      "$oid": "6786c0c9854845415d4a8081"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "6734be340429a6a54b1c0b7f"
+    },
+    {
+      "$oid": "6786bd92854845415d4a803b"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729446196fc5e6c322316"
+    },
+    {
+      "$oid": "679729786196fc5e6c322325"
+    },
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797298d6196fc5e6c32232b"
+    },
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "679729966196fc5e6c32232e"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-31T04:35:25.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T04:35:25.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a447593e7696ea7339b65c"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "name_of_the_house": "home",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 20,
+  "no_of_units_built": 2,
+  "total_built_area": 20,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2017,
+  "year_renovated": 2019,
+  "year_last_expanded": 1909,
+  "type": "67338037346494a9ba551a1d",
+  "front_photo": "uploads/1738819397785.png",
+  "back_photo": "uploads/1738819401374.png",
+  "neighbourhood_photo": "uploads/1738819404299.png",
+  "inside_living_photo": "uploads/1738819408359.png",
+  "kitchen_photo": "uploads/1738819413269.png",
+  "amenities": [
+    {
+      "$oid": "67338083346494a9ba551a2f"
+    },
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "6786bd92854845415d4a803b"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    },
+    {
+      "$oid": "6797298d6196fc5e6c32232b"
+    },
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "679729786196fc5e6c322325"
+    },
+    {
+      "$oid": "679729446196fc5e6c322316"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-06T05:23:37.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T05:23:37.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0c2f5b9aa2904b4cfe777"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "name_of_the_house": "hdhd",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 25,
+  "no_of_units_built": 2,
+  "total_built_area": 25,
+  "no_of_floors": 25,
+  "living_area": 0,
+  "year_built": 2015,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739637599128.png",
+  "back_photo": "uploads/1739637599332.png",
+  "neighbourhood_photo": "uploads/1739637599620.png",
+  "inside_living_photo": "uploads/1739637599640.png",
+  "kitchen_photo": "uploads/1739637600508.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    },
+    {
+      "$oid": "67338083346494a9ba551a2f"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbb13a0c8b7971db00f9"
+    },
+    {
+      "$oid": "67aedc2b3a0c8b7971db0118"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    },
+    {
+      "$oid": "679729786196fc5e6c322325"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380ee346494a9ba551a49"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380ee346494a9ba551a49"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-15T16:38:13.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:40:01.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b193b1b9aa2904b4d01b47"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "name_of_the_house": "Quraishi Mansion ",
+  "type_of_house": "Farm House",
+  "land_utilised_for_family_housing": 36,
+  "no_of_units_built": 25,
+  "total_built_area": 14,
+  "no_of_floors": 23,
+  "living_area": 0,
+  "year_built": 2025,
+  "year_renovated": 2021,
+  "year_last_expanded": 2016,
+  "type": "67338042346494a9ba551a1f",
+  "front_photo": "uploads/1739690928798.png",
+  "back_photo": "uploads/1739690928798.png",
+  "neighbourhood_photo": "uploads/1739690928935.png",
+  "inside_living_photo": "uploads/1739690929176.png",
+  "kitchen_photo": "uploads/1739690929177.png",
+  "amenities": [
+    {
+      "$oid": "67338083346494a9ba551a2f"
+    },
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbb13a0c8b7971db00f9"
+    },
+    {
+      "$oid": "67aedc223a0c8b7971db0114"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729446196fc5e6c322316"
+    },
+    {
+      "$oid": "679729786196fc5e6c322325"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380ee346494a9ba551a49"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T07:28:49.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T07:28:49.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1ad96db1ebb70cb7e108e"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "name_of_the_house": "family house ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 4355,
+  "no_of_units_built": 4,
+  "total_built_area": 3000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2007,
+  "year_renovated": 2023,
+  "year_last_expanded": 2007,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739697552121.png",
+  "back_photo": "uploads/1739697553980.png",
+  "neighbourhood_photo": "uploads/1739697555030.png",
+  "inside_living_photo": "uploads/1739697556031.png",
+  "kitchen_photo": "uploads/1739697557150.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    },
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "673380c0346494a9ba551a3f"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786c0d4854845415d4a8084"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "67338064346494a9ba551a25"
+    },
+    {
+      "$oid": "6786ba4b854845415d4a8011"
+    },
+    {
+      "$oid": "6733807c346494a9ba551a2d"
+    },
+    {
+      "$oid": "6786c00a854845415d4a8072"
+    },
+    {
+      "$oid": "673380a7346494a9ba551a39"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbd83a0c8b7971db0102"
+    },
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "679729966196fc5e6c32232e"
+    },
+    {
+      "$oid": "679729586196fc5e6c32231c"
+    },
+    {
+      "$oid": "6797294e6196fc5e6c322319"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T09:19:18.506Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:19:18.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d14265a8ac9a674a82b4"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "name_of_the_house": "family house ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 3000,
+  "no_of_units_built": 3,
+  "total_built_area": 3000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739706669215.png",
+  "back_photo": "uploads/1739706672608.png",
+  "neighbourhood_photo": "uploads/1739706675930.png",
+  "inside_living_photo": "uploads/1739706679055.png",
+  "kitchen_photo": "uploads/1739706685475.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbf73a0c8b7971db0108"
+    },
+    {
+      "$oid": "67aedbb13a0c8b7971db00f9"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "679729446196fc5e6c322316"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T11:51:30.586Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:51:30.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d15265a8ac9a674a82d1"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "name_of_the_house": "family house ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 3000,
+  "no_of_units_built": 3,
+  "total_built_area": 3000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739706675166.png",
+  "back_photo": "uploads/1739706683037.png",
+  "neighbourhood_photo": "uploads/1739706686996.png",
+  "inside_living_photo": "uploads/1739706690827.png",
+  "kitchen_photo": "uploads/1739706698490.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbf73a0c8b7971db0108"
+    },
+    {
+      "$oid": "67aedbb13a0c8b7971db00f9"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "679729446196fc5e6c322316"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T11:51:46.024Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:51:46.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d16965a8ac9a674a82dc"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "name_of_the_house": "family house ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 3000,
+  "no_of_units_built": 3,
+  "total_built_area": 3000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739706682947.png",
+  "back_photo": "uploads/1739706691664.png",
+  "neighbourhood_photo": "uploads/1739706701958.png",
+  "inside_living_photo": "uploads/1739706709769.png",
+  "kitchen_photo": "uploads/1739706719935.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbf73a0c8b7971db0108"
+    },
+    {
+      "$oid": "67aedbb13a0c8b7971db00f9"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "679729446196fc5e6c322316"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-16T11:52:09.224Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:52:09.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d17165a8ac9a674a82e4"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "name_of_the_house": "family house ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 3000,
+  "no_of_units_built": 3,
+  "total_built_area": 3000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739706685239.png",
+  "back_photo": "uploads/1739706698151.png",
+  "neighbourhood_photo": "uploads/1739706707423.png",
+  "inside_living_photo": "uploads/1739706716066.png",
+  "kitchen_photo": "uploads/1739706730148.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbf73a0c8b7971db0108"
+    },
+    {
+      "$oid": "67aedbb13a0c8b7971db00f9"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "679729446196fc5e6c322316"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-16T11:52:17.609Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:52:17.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d17265a8ac9a674a82e9"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "name_of_the_house": "family house ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 3000,
+  "no_of_units_built": 3,
+  "total_built_area": 3000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739706692013.png",
+  "back_photo": "uploads/1739706703175.png",
+  "neighbourhood_photo": "uploads/1739706711621.png",
+  "inside_living_photo": "uploads/1739706718199.png",
+  "kitchen_photo": "uploads/1739706731537.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbf73a0c8b7971db0108"
+    },
+    {
+      "$oid": "67aedbb13a0c8b7971db00f9"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "679729446196fc5e6c322316"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-16T11:52:18.877Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:52:18.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d17465a8ac9a674a82f7"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "name_of_the_house": "family house ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 3000,
+  "no_of_units_built": 3,
+  "total_built_area": 3000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739706691712.png",
+  "back_photo": "uploads/1739706701049.png",
+  "neighbourhood_photo": "uploads/1739706709112.png",
+  "inside_living_photo": "uploads/1739706718527.png",
+  "kitchen_photo": "uploads/1739706734328.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbf73a0c8b7971db0108"
+    },
+    {
+      "$oid": "67aedbb13a0c8b7971db00f9"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "679729446196fc5e6c322316"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-16T11:52:20.180Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:52:20.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d17565a8ac9a674a830c"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "name_of_the_house": "family house ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 3000,
+  "no_of_units_built": 3,
+  "total_built_area": 3000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739706707144.png",
+  "back_photo": "uploads/1739706718531.png",
+  "neighbourhood_photo": "uploads/1739706729377.png",
+  "inside_living_photo": "uploads/1739706734575.png",
+  "kitchen_photo": "uploads/1739706739629.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbf73a0c8b7971db0108"
+    },
+    {
+      "$oid": "67aedbb13a0c8b7971db00f9"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "679729446196fc5e6c322316"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-16T11:52:21.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:52:21.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1d17965a8ac9a674a8358"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "name_of_the_house": "family house ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 3000,
+  "no_of_units_built": 3,
+  "total_built_area": 3000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739706730509.png",
+  "back_photo": "uploads/1739706738144.png",
+  "neighbourhood_photo": "uploads/1739706741894.png",
+  "inside_living_photo": "uploads/1739706742865.png",
+  "kitchen_photo": "uploads/1739706744101.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbf73a0c8b7971db0108"
+    },
+    {
+      "$oid": "67aedbb13a0c8b7971db00f9"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "679729446196fc5e6c322316"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-16T11:52:25.069Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:52:25.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cc1b65a8ac9a674acea6"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "name_of_the_house": "Personal",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 7404,
+  "no_of_units_built": 3,
+  "total_built_area": 3048,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2008,
+  "year_last_expanded": 2008,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739771142295.png",
+  "back_photo": "uploads/1739771162309.png",
+  "neighbourhood_photo": "uploads/1739771190731.png",
+  "inside_living_photo": "uploads/1739771215994.png",
+  "kitchen_photo": "uploads/1739771231623.png",
+  "amenities": [
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "67338099346494a9ba551a35"
+    },
+    {
+      "$oid": "6733807c346494a9ba551a2d"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedc423a0c8b7971db011e"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T05:41:47.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:47:27.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ccdd65a8ac9a674acffb"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "name_of_the_house": "kinzang ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 5662,
+  "no_of_units_built": 6,
+  "total_built_area": 5662,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2013,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739771091165.png",
+  "back_photo": "uploads/1739771094548.png",
+  "neighbourhood_photo": "uploads/1739771096985.png",
+  "inside_living_photo": "uploads/1739771097358.png",
+  "kitchen_photo": "uploads/1739771099195.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    },
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "6786c08e854845415d4a807e"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbb13a0c8b7971db00f9"
+    },
+    {
+      "$oid": "6786bd92854845415d4a803b"
+    },
+    {
+      "$oid": "67aedc4f3a0c8b7971db0121"
+    },
+    {
+      "$oid": "67aedc373a0c8b7971db011b"
+    },
+    {
+      "$oid": "67aedbf73a0c8b7971db0108"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T05:45:01.626Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:45:01.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d3bc65a8ac9a674ae3b4"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "name_of_the_house": "Family house",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 4000,
+  "no_of_units_built": 5,
+  "total_built_area": 4000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2017,
+  "year_last_expanded": 2017,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739772848075.png",
+  "back_photo": "uploads/1739772850085.png",
+  "neighbourhood_photo": "uploads/1739772851239.png",
+  "inside_living_photo": "uploads/1739772853427.png",
+  "kitchen_photo": "uploads/1739772855756.png",
+  "amenities": [
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "673380c0346494a9ba551a3f"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786c0d4854845415d4a8084"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "67338064346494a9ba551a25"
+    },
+    {
+      "$oid": "6733809f346494a9ba551a37"
+    },
+    {
+      "$oid": "6786ba4b854845415d4a8011"
+    },
+    {
+      "$oid": "6733807c346494a9ba551a2d"
+    },
+    {
+      "$oid": "6786c00a854845415d4a8072"
+    },
+    {
+      "$oid": "673380a7346494a9ba551a39"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbd83a0c8b7971db0102"
+    },
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    },
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "6797298d6196fc5e6c32232b"
+    },
+    {
+      "$oid": "679729966196fc5e6c32232e"
+    },
+    {
+      "$oid": "679729586196fc5e6c32231c"
+    },
+    {
+      "$oid": "6797294e6196fc5e6c322319"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T06:14:20.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:14:20.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d3cd65a8ac9a674ae408"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "name_of_the_house": "Family house",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 4000,
+  "no_of_units_built": 5,
+  "total_built_area": 4000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2017,
+  "year_last_expanded": 2017,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739772856269.png",
+  "back_photo": "uploads/1739772860951.png",
+  "neighbourhood_photo": "uploads/1739772862911.png",
+  "inside_living_photo": "uploads/1739772866391.png",
+  "kitchen_photo": "uploads/1739772870962.png",
+  "amenities": [
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "673380c0346494a9ba551a3f"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786c0d4854845415d4a8084"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "67338064346494a9ba551a25"
+    },
+    {
+      "$oid": "6733809f346494a9ba551a37"
+    },
+    {
+      "$oid": "6786ba4b854845415d4a8011"
+    },
+    {
+      "$oid": "6733807c346494a9ba551a2d"
+    },
+    {
+      "$oid": "6786c00a854845415d4a8072"
+    },
+    {
+      "$oid": "673380a7346494a9ba551a39"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbd83a0c8b7971db0102"
+    },
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    },
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "6797298d6196fc5e6c32232b"
+    },
+    {
+      "$oid": "679729966196fc5e6c32232e"
+    },
+    {
+      "$oid": "679729586196fc5e6c32231c"
+    },
+    {
+      "$oid": "6797294e6196fc5e6c322319"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T06:14:37.823Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:14:37.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d3d065a8ac9a674ae42d"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "name_of_the_house": "Family house",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 4000,
+  "no_of_units_built": 5,
+  "total_built_area": 4000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2017,
+  "year_last_expanded": 2017,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739772857345.png",
+  "back_photo": "uploads/1739772862635.png",
+  "neighbourhood_photo": "uploads/1739772866198.png",
+  "inside_living_photo": "uploads/1739772869642.png",
+  "kitchen_photo": "uploads/1739772874747.png",
+  "amenities": [
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "673380c0346494a9ba551a3f"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786c0d4854845415d4a8084"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "67338064346494a9ba551a25"
+    },
+    {
+      "$oid": "6733809f346494a9ba551a37"
+    },
+    {
+      "$oid": "6786ba4b854845415d4a8011"
+    },
+    {
+      "$oid": "6733807c346494a9ba551a2d"
+    },
+    {
+      "$oid": "6786c00a854845415d4a8072"
+    },
+    {
+      "$oid": "673380a7346494a9ba551a39"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbd83a0c8b7971db0102"
+    },
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    },
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "6797298d6196fc5e6c32232b"
+    },
+    {
+      "$oid": "679729966196fc5e6c32232e"
+    },
+    {
+      "$oid": "679729586196fc5e6c32231c"
+    },
+    {
+      "$oid": "6797294e6196fc5e6c322319"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T06:14:40.417Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:14:40.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d3d165a8ac9a674ae44f"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "name_of_the_house": "Family house",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 4000,
+  "no_of_units_built": 5,
+  "total_built_area": 4000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2017,
+  "year_last_expanded": 2017,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739772852984.png",
+  "back_photo": "uploads/1739772858301.png",
+  "neighbourhood_photo": "uploads/1739772862761.png",
+  "inside_living_photo": "uploads/1739772870352.png",
+  "kitchen_photo": "uploads/1739772877517.png",
+  "amenities": [
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "673380c0346494a9ba551a3f"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786c0d4854845415d4a8084"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "67338064346494a9ba551a25"
+    },
+    {
+      "$oid": "6733809f346494a9ba551a37"
+    },
+    {
+      "$oid": "6786ba4b854845415d4a8011"
+    },
+    {
+      "$oid": "6733807c346494a9ba551a2d"
+    },
+    {
+      "$oid": "6786c00a854845415d4a8072"
+    },
+    {
+      "$oid": "673380a7346494a9ba551a39"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbd83a0c8b7971db0102"
+    },
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    },
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "6797298d6196fc5e6c32232b"
+    },
+    {
+      "$oid": "679729966196fc5e6c32232e"
+    },
+    {
+      "$oid": "679729586196fc5e6c32231c"
+    },
+    {
+      "$oid": "6797294e6196fc5e6c322319"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T06:14:41.672Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:14:41.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fab165a8ac9a674b2b1a"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "name_of_the_house": "Personal Resident ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 22649,
+  "no_of_units_built": 4,
+  "total_built_area": 4791,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2009,
+  "year_renovated": 2008,
+  "year_last_expanded": 2008,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739782822098.png",
+  "back_photo": "uploads/1739782824925.png",
+  "neighbourhood_photo": "uploads/1739782826998.png",
+  "inside_living_photo": "uploads/1739782829341.png",
+  "kitchen_photo": "uploads/1739782831663.png",
+  "amenities": [
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    },
+    {
+      "$oid": "67aedc423a0c8b7971db011e"
+    },
+    {
+      "$oid": "67aedb753a0c8b7971db00f3"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:00:33.459Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:00:33.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fb2565a8ac9a674b2c9f"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "name_of_the_house": "Personal Resident ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 22649,
+  "no_of_units_built": 4,
+  "total_built_area": 4791,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2009,
+  "year_renovated": 2008,
+  "year_last_expanded": 2008,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739784096335.png",
+  "back_photo": "uploads/1739784100256.png",
+  "neighbourhood_photo": "uploads/1739784103153.png",
+  "inside_living_photo": "uploads/1739784106219.png",
+  "kitchen_photo": "uploads/1739784108160.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    },
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "6733807c346494a9ba551a2d"
+    },
+    {
+      "$oid": "67338099346494a9ba551a35"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    },
+    {
+      "$oid": "67aedc423a0c8b7971db011e"
+    },
+    {
+      "$oid": "67aedb753a0c8b7971db00f3"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:02:29.446Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:21:50.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fe1465a8ac9a674b3764"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "name_of_the_house": "yeshi lham ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 5662,
+  "no_of_units_built": 4,
+  "total_built_area": 5662,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 1970,
+  "year_renovated": 2007,
+  "year_last_expanded": 1970,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739783661377.png",
+  "back_photo": "uploads/1739783670592.png",
+  "neighbourhood_photo": "uploads/1739783675520.png",
+  "inside_living_photo": "uploads/1739783678933.png",
+  "kitchen_photo": "uploads/1739783685918.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    },
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "67338064346494a9ba551a25"
+    },
+    {
+      "$oid": "6733809f346494a9ba551a37"
+    },
+    {
+      "$oid": "6786ba4b854845415d4a8011"
+    },
+    {
+      "$oid": "67338099346494a9ba551a35"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbd83a0c8b7971db0102"
+    },
+    {
+      "$oid": "67aedc423a0c8b7971db011e"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    },
+    {
+      "$oid": "679729586196fc5e6c32231c"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:15:00.677Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:15:00.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31b85535126c1f565e84a"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "name_of_the_house": "peldon ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 5662,
+  "no_of_units_built": 3,
+  "total_built_area": 5662,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2007,
+  "year_renovated": 2016,
+  "year_last_expanded": 2007,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739791218927.png",
+  "back_photo": "uploads/1739791224081.png",
+  "neighbourhood_photo": "uploads/1739791229076.png",
+  "inside_living_photo": "uploads/1739791232576.png",
+  "kitchen_photo": "uploads/1739791234773.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    },
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "67338064346494a9ba551a25"
+    },
+    {
+      "$oid": "6733809f346494a9ba551a37"
+    },
+    {
+      "$oid": "6786ba4b854845415d4a8011"
+    },
+    {
+      "$oid": "67338099346494a9ba551a35"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbd83a0c8b7971db0102"
+    },
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    },
+    {
+      "$oid": "67aedc423a0c8b7971db011e"
+    },
+    {
+      "$oid": "67aedbf73a0c8b7971db0108"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    },
+    {
+      "$oid": "679729786196fc5e6c322325"
+    },
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "679729586196fc5e6c32231c"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T11:20:37.925Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:20:37.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31be3535126c1f565e8c7"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "name_of_the_house": "peldon ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 5662,
+  "no_of_units_built": 3,
+  "total_built_area": 5662,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2007,
+  "year_renovated": 2016,
+  "year_last_expanded": 2007,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739791316210.png",
+  "back_photo": "uploads/1739791319924.png",
+  "neighbourhood_photo": "uploads/1739791324143.png",
+  "inside_living_photo": "uploads/1739791326925.png",
+  "kitchen_photo": "uploads/1739791328790.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    },
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "6733809f346494a9ba551a37"
+    },
+    {
+      "$oid": "6786ba4b854845415d4a8011"
+    },
+    {
+      "$oid": "67338099346494a9ba551a35"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbd83a0c8b7971db0102"
+    },
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    },
+    {
+      "$oid": "67aedc423a0c8b7971db011e"
+    },
+    {
+      "$oid": "67aedbf73a0c8b7971db0108"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    },
+    {
+      "$oid": "679729786196fc5e6c322325"
+    },
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "679729586196fc5e6c32231c"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-17T11:22:11.492Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:22:11.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b31c49dc3db6dd0af9db32"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "name_of_the_house": "Family house",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 5675,
+  "no_of_units_built": 3,
+  "total_built_area": 5675,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2025,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": null,
+  "back_photo": null,
+  "neighbourhood_photo": null,
+  "inside_living_photo": null,
+  "kitchen_photo": null,
+  "amenities": [
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "673380c0346494a9ba551a3f"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786c0c9854845415d4a8081"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "67338064346494a9ba551a25"
+    },
+    {
+      "$oid": "6786ba4b854845415d4a8011"
+    },
+    {
+      "$oid": "6733809f346494a9ba551a37"
+    },
+    {
+      "$oid": "67338099346494a9ba551a35"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbd83a0c8b7971db0102"
+    },
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797298d6196fc5e6c32232b"
+    }
+  ],
+  "renovation_requirement": false,
+  "renovation_urgency": null,
+  "expansion_requirement": false,
+  "expansion_urgency": null,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T11:23:53.757Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:35:44.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3200eec71d17af3627c2f"
+  },
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "name_of_the_house": "Family house",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 5675,
+  "no_of_units_built": 3,
+  "total_built_area": 5675,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2025,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": null,
+  "back_photo": null,
+  "neighbourhood_photo": null,
+  "inside_living_photo": null,
+  "kitchen_photo": null,
+  "amenities": [
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "673380c0346494a9ba551a3f"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786c0c9854845415d4a8081"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "67338064346494a9ba551a25"
+    },
+    {
+      "$oid": "6786ba4b854845415d4a8011"
+    },
+    {
+      "$oid": "6733809f346494a9ba551a37"
+    },
+    {
+      "$oid": "67338099346494a9ba551a35"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbd83a0c8b7971db0102"
+    },
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797298d6196fc5e6c32232b"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "expansion_requirement": false,
+  "expansion_urgency": null,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T11:39:58.492Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:39:58.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b344bf5e4b738d894cf210"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "name_of_the_house": "family house ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 5662,
+  "no_of_units_built": 3,
+  "total_built_area": 5662,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2007,
+  "year_renovated": 2007,
+  "year_last_expanded": 2007,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739801782279.png",
+  "back_photo": "uploads/1739801785648.png",
+  "neighbourhood_photo": "uploads/1739801787583.png",
+  "inside_living_photo": "uploads/1739801789133.png",
+  "kitchen_photo": "uploads/1739801790771.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786c0d4854845415d4a8084"
+    },
+    {
+      "$oid": "67338064346494a9ba551a25"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "679729966196fc5e6c32232e"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T14:16:31.983Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:16:31.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b348335e4b738d894cf4c6"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "name_of_the_house": "personal residence ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 6533,
+  "no_of_units_built": 1,
+  "total_built_area": 3048,
+  "no_of_floors": 1,
+  "living_area": 0,
+  "year_built": 2024,
+  "year_renovated": 2025,
+  "year_last_expanded": 2024,
+  "type": "67338052346494a9ba551a23",
+  "front_photo": "uploads/1739845605638.png",
+  "back_photo": "uploads/1739845610722.png",
+  "neighbourhood_photo": "uploads/1739845614063.png",
+  "inside_living_photo": "uploads/1739845618388.png",
+  "kitchen_photo": "uploads/1739845622844.png",
+  "amenities": [
+    {
+      "$oid": "67338077346494a9ba551a2b"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "6733809f346494a9ba551a37"
+    },
+    {
+      "$oid": "6733807c346494a9ba551a2d"
+    },
+    {
+      "$oid": "6786c00a854845415d4a8072"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "6786bd92854845415d4a803b"
+    },
+    {
+      "$oid": "67aedbd83a0c8b7971db0102"
+    },
+    {
+      "$oid": "67aedbc03a0c8b7971db00fc"
+    },
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    },
+    {
+      "$oid": "67aedc423a0c8b7971db011e"
+    },
+    {
+      "$oid": "67aedb823a0c8b7971db00f6"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    },
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "679729826196fc5e6c322328"
+    },
+    {
+      "$oid": "679729966196fc5e6c32232e"
+    },
+    {
+      "$oid": "6797294e6196fc5e6c322319"
+    },
+    {
+      "$oid": "679729586196fc5e6c32231c"
+    }
+  ],
+  "renovation_requirement": true,
+  "renovation_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "expansion_requirement": true,
+  "expansion_urgency": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T14:31:15.293Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T02:27:07.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40df05e4b738d894d18bf"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "name_of_the_house": "migmar lham",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 435,
+  "no_of_units_built": 4,
+  "total_built_area": 435,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2017,
+  "year_renovated": 2017,
+  "year_last_expanded": 2017,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739853289344.png",
+  "back_photo": "uploads/1739853290309.png",
+  "neighbourhood_photo": "uploads/1739853290662.png",
+  "inside_living_photo": "uploads/1739853295769.png",
+  "kitchen_photo": "uploads/1739853296041.png",
+  "amenities": [
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedc423a0c8b7971db011e"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "679729826196fc5e6c322328"
+    }
+  ],
+  "renovation_requirement": false,
+  "renovation_urgency": null,
+  "expansion_requirement": false,
+  "expansion_urgency": null,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T04:34:56.308Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:34:56.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40e355e4b738d894d1a20"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "name_of_the_house": "migmar lham",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 435,
+  "no_of_units_built": 4,
+  "total_built_area": 435,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2017,
+  "year_renovated": 2017,
+  "year_last_expanded": 2017,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739853358383.png",
+  "back_photo": "uploads/1739853359350.png",
+  "neighbourhood_photo": "uploads/1739853359709.png",
+  "inside_living_photo": "uploads/1739853364749.png",
+  "kitchen_photo": "uploads/1739853364984.png",
+  "amenities": [
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "6733809f346494a9ba551a37"
+    },
+    {
+      "$oid": "67338099346494a9ba551a35"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedc423a0c8b7971db011e"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "679729826196fc5e6c322328"
+    }
+  ],
+  "renovation_requirement": false,
+  "renovation_urgency": null,
+  "expansion_requirement": false,
+  "expansion_urgency": null,
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-18T04:36:05.209Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:36:05.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40e415e4b738d894d1a27"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "name_of_the_house": "family residence ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 435,
+  "no_of_units_built": 6,
+  "total_built_area": 21778,
+  "no_of_floors": 6,
+  "living_area": 0,
+  "year_built": 2008,
+  "year_renovated": 2025,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739853124113.png",
+  "back_photo": "uploads/1739853160868.png",
+  "neighbourhood_photo": "uploads/1739853204629.png",
+  "inside_living_photo": "uploads/1739853263247.png",
+  "kitchen_photo": "uploads/1739853317857.png",
+  "amenities": [
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "67338064346494a9ba551a25"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedc5c3a0c8b7971db0124"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "67aedcab3a0c8b7971db0167"
+    }
+  ],
+  "renovation_requirement": false,
+  "renovation_urgency": null,
+  "expansion_requirement": false,
+  "expansion_urgency": null,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T04:36:17.883Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:36:17.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40e525e4b738d894d1a95"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "name_of_the_house": "migmar lham",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 435,
+  "no_of_units_built": 4,
+  "total_built_area": 435,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2017,
+  "year_renovated": 2017,
+  "year_last_expanded": 2017,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739853386634.png",
+  "back_photo": "uploads/1739853387569.png",
+  "neighbourhood_photo": "uploads/1739853388318.png",
+  "inside_living_photo": "uploads/1739853393602.png",
+  "kitchen_photo": "uploads/1739853393902.png",
+  "amenities": [
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "6733809f346494a9ba551a37"
+    },
+    {
+      "$oid": "67338099346494a9ba551a35"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedc423a0c8b7971db011e"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "679729826196fc5e6c322328"
+    }
+  ],
+  "renovation_requirement": false,
+  "renovation_urgency": null,
+  "expansion_requirement": false,
+  "expansion_urgency": null,
+  "status": 0,
+  "createdAt": {
+    "$date": "2025-02-18T04:36:34.175Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:36:34.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b42d505e4b738d894d3827"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "name_of_the_house": "family residence ",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 5226,
+  "no_of_units_built": 4,
+  "total_built_area": 5226,
+  "no_of_floors": 4,
+  "living_area": 0,
+  "year_built": 2007,
+  "year_renovated": 2007,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739861298794.png",
+  "back_photo": "uploads/1739861305516.png",
+  "neighbourhood_photo": "uploads/1739861309969.png",
+  "inside_living_photo": "uploads/1739861316356.png",
+  "kitchen_photo": "uploads/1739861321069.png",
+  "amenities": [
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786c0d4854845415d4a8084"
+    },
+    {
+      "$oid": "67338064346494a9ba551a25"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "6733807c346494a9ba551a2d"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "6786bd92854845415d4a803b"
+    },
+    {
+      "$oid": "67aedbd83a0c8b7971db0102"
+    },
+    {
+      "$oid": "67aedc013a0c8b7971db010b"
+    },
+    {
+      "$oid": "67aedbf73a0c8b7971db0108"
+    },
+    {
+      "$oid": "67aedb823a0c8b7971db00f6"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "679729096196fc5e6c322310"
+    },
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    },
+    {
+      "$oid": "679729966196fc5e6c32232e"
+    }
+  ],
+  "renovation_requirement": false,
+  "renovation_urgency": null,
+  "expansion_requirement": false,
+  "expansion_urgency": null,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T06:48:48.029Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T06:48:48.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b46f785e4b738d894d4de5"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "name_of_the_house": "Family house",
+  "type_of_house": "Family House",
+  "land_utilised_for_family_housing": 5000,
+  "no_of_units_built": 4,
+  "total_built_area": 5000,
+  "no_of_floors": 2,
+  "living_area": 0,
+  "year_built": 2007,
+  "year_renovated": 2018,
+  "year_last_expanded": 2025,
+  "type": "6733802b346494a9ba551a1b",
+  "front_photo": "uploads/1739878263009.png",
+  "back_photo": "uploads/1739878263454.png",
+  "neighbourhood_photo": "uploads/1739878263719.png",
+  "inside_living_photo": "uploads/1739878263738.png",
+  "kitchen_photo": "uploads/1739878263975.png",
+  "amenities": [
+    {
+      "$oid": "6733808f346494a9ba551a31"
+    },
+    {
+      "$oid": "6786bfe1854845415d4a8069"
+    },
+    {
+      "$oid": "673380c0346494a9ba551a3f"
+    },
+    {
+      "$oid": "6786c08e854845415d4a807e"
+    },
+    {
+      "$oid": "6786b9ed854845415d4a800e"
+    },
+    {
+      "$oid": "6786bb83854845415d4a8021"
+    },
+    {
+      "$oid": "67338072346494a9ba551a29"
+    },
+    {
+      "$oid": "6786b776854845415d4a7fe8"
+    },
+    {
+      "$oid": "6786c0c9854845415d4a8081"
+    },
+    {
+      "$oid": "6733806a346494a9ba551a27"
+    },
+    {
+      "$oid": "6786c0d4854845415d4a8084"
+    },
+    {
+      "$oid": "6786b8e8854845415d4a8004"
+    },
+    {
+      "$oid": "67338064346494a9ba551a25"
+    },
+    {
+      "$oid": "6733809f346494a9ba551a37"
+    },
+    {
+      "$oid": "6786ba4b854845415d4a8011"
+    },
+    {
+      "$oid": "67338099346494a9ba551a35"
+    }
+  ],
+  "equipment": [
+    {
+      "$oid": "67aedbd83a0c8b7971db0102"
+    },
+    {
+      "$oid": "67aedc183a0c8b7971db0111"
+    }
+  ],
+  "furnishing": [
+    {
+      "$oid": "6797296e6196fc5e6c322322"
+    },
+    {
+      "$oid": "679729446196fc5e6c322316"
+    },
+    {
+      "$oid": "679729586196fc5e6c32231c"
+    }
+  ],
+  "renovation_requirement": false,
+  "renovation_urgency": null,
+  "expansion_requirement": false,
+  "expansion_urgency": null,
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T11:31:04.259Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:31:04.259Z"
+  },
+  "__v": 0
+}]

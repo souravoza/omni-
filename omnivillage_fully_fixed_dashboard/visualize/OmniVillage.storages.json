@@ -1,0 +1,2288 @@
+[{
+  "_id": {
+    "$oid": "659a5ebf718211331fc184ee"
+  },
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "stock_name": "for meat",
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0.2"
+  },
+  "createdAt": {
+    "$date": "2024-01-07T08:20:15.078Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T09:31:27.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5ebf718211331fc184ec"
+  },
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "stock_name": "for poultry",
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0.5"
+  },
+  "createdAt": {
+    "$date": "2024-01-07T08:20:15.074Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T09:31:27.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5ebf718211331fc184ea"
+  },
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "stock_name": "for grain",
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2024-01-07T08:20:15.071Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T09:31:27.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a7abcc294c751f99ee0f2"
+  },
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2024-01-07T10:19:40.969Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T05:53:51.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5ebf718211331fc184f0"
+  },
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_name": "freezing",
+  "stock_quantity": {
+    "$numberDecimal": "0.3"
+  },
+  "createdAt": {
+    "$date": "2024-01-07T08:20:15.080Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T09:31:27.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a7abcc294c751f99ee0ee"
+  },
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2024-01-07T10:19:40.955Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T05:53:51.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a7abcc294c751f99ee0f4"
+  },
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053c13868bad9d9671869"
+  },
+  "storage_method_name": "canning",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2024-01-07T10:19:40.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T05:53:52.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a7abcc294c751f99ee0f0"
+  },
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "6500537d3868bad9d967185d"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2024-01-07T10:19:40.968Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T05:53:52.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660ce3d13f978ca00b8c2abe"
+  },
+  "user_id": {
+    "$oid": "65869b1b8306c4041de0c2b2"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "0.5"
+  },
+  "createdAt": {
+    "$date": "2024-04-03T05:06:25.140Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T05:06:25.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660ce3d13f978ca00b8c2ac0"
+  },
+  "user_id": {
+    "$oid": "65869b1b8306c4041de0c2b2"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0.5"
+  },
+  "createdAt": {
+    "$date": "2024-04-03T05:06:25.383Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T05:06:25.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660ce3d13f978ca00b8c2ac2"
+  },
+  "user_id": {
+    "$oid": "65869b1b8306c4041de0c2b2"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "650053973868bad9d9671863"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0.5"
+  },
+  "createdAt": {
+    "$date": "2024-04-03T05:06:25.598Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T05:06:25.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660ce3d13f978ca00b8c2ac4"
+  },
+  "user_id": {
+    "$oid": "65869b1b8306c4041de0c2b2"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053b93868bad9d9671866"
+  },
+  "storage_method_name": "drying",
+  "stock_quantity": {
+    "$numberDecimal": "0.5"
+  },
+  "createdAt": {
+    "$date": "2024-04-03T05:06:25.814Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T05:06:25.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614ede026e1647c6caee74e"
+  },
+  "user_id": {
+    "$oid": "6614d32bb949a41cf1de2539"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "5"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T07:27:28.992Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T07:27:28.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614ede126e1647c6caee750"
+  },
+  "user_id": {
+    "$oid": "6614d32bb949a41cf1de2539"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "6500537d3868bad9d967185d"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "5"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T07:27:29.207Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T07:27:29.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614ede126e1647c6caee752"
+  },
+  "user_id": {
+    "$oid": "6614d32bb949a41cf1de2539"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "5"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T07:27:29.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T07:27:29.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614ede126e1647c6caee754"
+  },
+  "user_id": {
+    "$oid": "6614d32bb949a41cf1de2539"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053b93868bad9d9671866"
+  },
+  "storage_method_name": "drying",
+  "stock_quantity": {
+    "$numberDecimal": "5"
+  },
+  "createdAt": {
+    "$date": "2024-04-09T07:27:29.637Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T07:27:29.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799f4b28bbdaac5708ec5d0"
+  },
+  "user_id": {
+    "$oid": "664397de2395171e7da3dc73"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "6500540c3868bad9d967187e"
+  },
+  "storage_method_name": "containers",
+  "stock_quantity": {
+    "$numberDecimal": "500"
+  },
+  "createdAt": {
+    "$date": "2025-01-29T09:28:18.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:28:18.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799f4b28bbdaac5708ec5d2"
+  },
+  "user_id": {
+    "$oid": "664397de2395171e7da3dc73"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "6500537d3868bad9d967185d"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "500"
+  },
+  "createdAt": {
+    "$date": "2025-01-29T09:28:18.709Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:28:18.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799f4b28bbdaac5708ec5d5"
+  },
+  "user_id": {
+    "$oid": "664397de2395171e7da3dc73"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "500"
+  },
+  "createdAt": {
+    "$date": "2025-01-29T09:28:18.899Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:28:18.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799f4b38bbdaac5708ec5d7"
+  },
+  "user_id": {
+    "$oid": "664397de2395171e7da3dc73"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053de3868bad9d9671872"
+  },
+  "storage_method_name": "freezing",
+  "stock_quantity": {
+    "$numberDecimal": "500"
+  },
+  "createdAt": {
+    "$date": "2025-01-29T09:28:19.089Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:28:19.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a441993e7696ea7339b2a4"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "20"
+  },
+  "createdAt": {
+    "$date": "2025-02-06T04:59:05.311Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T04:59:05.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a441993e7696ea7339b2a6"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "40"
+  },
+  "createdAt": {
+    "$date": "2025-02-06T04:59:05.520Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T04:59:05.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a441993e7696ea7339b2a8"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "50"
+  },
+  "createdAt": {
+    "$date": "2025-02-06T04:59:05.723Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T04:59:05.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a441993e7696ea7339b2aa"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053b93868bad9d9671866"
+  },
+  "storage_method_name": "drying",
+  "stock_quantity": {
+    "$numberDecimal": "58"
+  },
+  "createdAt": {
+    "$date": "2025-02-06T04:59:05.924Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T04:59:05.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae47a45495d1ec97018aa"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650054263868bad9d9671884"
+  },
+  "storage_method_name": "warehouse",
+  "stock_quantity": {
+    "$numberDecimal": "20"
+  },
+  "createdAt": {
+    "$date": "2025-02-11T05:47:38.541Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T05:47:38.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae47a45495d1ec97018ac"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "6500537d3868bad9d967185d"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "5"
+  },
+  "createdAt": {
+    "$date": "2025-02-11T05:47:38.740Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T05:47:38.740Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae47a45495d1ec97018ae"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "650053973868bad9d9671863"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "20"
+  },
+  "createdAt": {
+    "$date": "2025-02-11T05:47:38.929Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T05:47:38.929Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae47b45495d1ec97018b0"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053d33868bad9d967186f"
+  },
+  "storage_method_name": "salting",
+  "stock_quantity": {
+    "$numberDecimal": "5"
+  },
+  "createdAt": {
+    "$date": "2025-02-11T05:47:39.119Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T05:47:39.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adbfd0f2e352cfd5e0be58"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "6500540c3868bad9d967187e"
+  },
+  "storage_method_name": "containers",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-13T09:48:00.467Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:48:00.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adbfd31af3159cf5d562c3"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "6500540c3868bad9d967187e"
+  },
+  "storage_method_name": "containers",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-13T09:48:03.688Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:48:03.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adbfe6f2e352cfd5e0be5f"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "6500540c3868bad9d967187e"
+  },
+  "storage_method_name": "containers",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-13T09:48:22.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:48:22.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adbfe6f2e352cfd5e0be61"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-13T09:48:22.610Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:48:22.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adbfe6f2e352cfd5e0be63"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "650053973868bad9d9671863"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-13T09:48:22.803Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:48:22.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adbfe6f2e352cfd5e0be65"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053b93868bad9d9671866"
+  },
+  "storage_method_name": "drying",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-13T09:48:22.998Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:48:22.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0e6d5b9aa2904b4cff574"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "6500540c3868bad9d967187e"
+  },
+  "storage_method_name": "containers",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T19:11:17.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:41:18.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0e6d5b9aa2904b4cff576"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "6500537d3868bad9d967185d"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T19:11:17.434Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:41:18.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0e6d5b9aa2904b4cff578"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T19:11:17.622Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:41:18.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0e6d5b9aa2904b4cff57a"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053de3868bad9d9671872"
+  },
+  "storage_method_name": "freezing",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T19:11:17.811Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:41:18.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1894db9aa2904b4d01290"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650054033868bad9d967187b"
+  },
+  "storage_method_name": "silos",
+  "stock_quantity": {
+    "$numberDecimal": "60"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T06:44:29.863Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:17:12.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1894eb9aa2904b4d01292"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "6500537d3868bad9d967185d"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "50"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T06:44:30.052Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:17:12.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1894eb9aa2904b4d01295"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "40"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T06:44:30.240Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:17:13.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1894eb9aa2904b4d0129c"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053cb3868bad9d967186c"
+  },
+  "storage_method_name": "curing",
+  "stock_quantity": {
+    "$numberDecimal": "30"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T06:44:30.428Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:17:13.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b189beb9aa2904b4d012fd"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T06:46:22.289Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:46:22.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b189beb9aa2904b4d012ff"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "6500537d3868bad9d967185d"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T06:46:22.479Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:46:22.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b189beb9aa2904b4d01301"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T06:46:22.669Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:46:22.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b189c1b9aa2904b4d01310"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T06:46:25.630Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:46:25.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b189c1b9aa2904b4d01312"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "6500537d3868bad9d967185d"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T06:46:25.819Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:46:25.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b189c2b9aa2904b4d01314"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T06:46:26.008Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:46:26.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b189c7b9aa2904b4d01323"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T06:46:31.095Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:46:31.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b189c7b9aa2904b4d01325"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "6500537d3868bad9d967185d"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T06:46:31.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:46:31.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b189c7b9aa2904b4d01327"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T06:46:31.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:46:31.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1bfe165a8ac9a674a7b34"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T10:37:21.568Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:37:21.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1bfe165a8ac9a674a7b36"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "6500537d3868bad9d967185d"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T10:37:21.759Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:37:21.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1bfe165a8ac9a674a7b38"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "650053973868bad9d9671863"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T10:37:21.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:37:21.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1bfe265a8ac9a674a7b3a"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053de3868bad9d9671872"
+  },
+  "storage_method_name": "freezing",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T10:37:22.138Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:37:22.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1f21c65a8ac9a674a8dfc"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650054263868bad9d9671884"
+  },
+  "storage_method_name": "warehouse",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T14:11:40.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T14:11:40.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1f21c65a8ac9a674a8dfe"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T14:11:40.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T14:11:40.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1f21c65a8ac9a674a8e00"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T14:11:40.630Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T14:11:40.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1f21c65a8ac9a674a8e02"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053b93868bad9d9671866"
+  },
+  "storage_method_name": "drying",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T14:11:40.819Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T14:11:40.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b1eb65a8ac9a674a9a2e"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T03:50:03.035Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:50:03.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b1eb65a8ac9a674a9a30"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T03:50:03.227Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:50:03.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b1eb65a8ac9a674a9a32"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T03:50:03.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:50:03.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b1eb65a8ac9a674a9a35"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053de3868bad9d9671872"
+  },
+  "storage_method_name": "freezing",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T03:50:03.606Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:50:03.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2be4165a8ac9a674aaedf"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "8000"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T04:42:41.400Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:42:41.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2be4165a8ac9a674aaee1"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "20"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T04:42:41.589Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:42:41.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2be4165a8ac9a674aaee3"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T04:42:41.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:42:41.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2be4165a8ac9a674aaee5"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053b93868bad9d9671866"
+  },
+  "storage_method_name": "drying",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T04:42:41.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:42:41.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c27165a8ac9a674ab5ae"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "6500540c3868bad9d967187e"
+  },
+  "storage_method_name": "containers",
+  "stock_quantity": {
+    "$numberDecimal": "2"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T05:00:33.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:00:33.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c27665a8ac9a674ab5c2"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "6500540c3868bad9d967187e"
+  },
+  "storage_method_name": "containers",
+  "stock_quantity": {
+    "$numberDecimal": "2"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T05:00:38.111Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:00:38.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c27865a8ac9a674ab5d2"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "6500540c3868bad9d967187e"
+  },
+  "storage_method_name": "containers",
+  "stock_quantity": {
+    "$numberDecimal": "2"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T05:00:40.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:00:40.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c28465a8ac9a674ab5e6"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "6500540c3868bad9d967187e"
+  },
+  "storage_method_name": "containers",
+  "stock_quantity": {
+    "$numberDecimal": "2"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T05:00:52.888Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:00:52.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c28565a8ac9a674ab5e8"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "2"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T05:00:53.077Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:00:53.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c28565a8ac9a674ab5ea"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "650053973868bad9d9671863"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T05:00:53.265Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:00:53.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c28565a8ac9a674ab5ec"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053de3868bad9d9671872"
+  },
+  "storage_method_name": "freezing",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T05:00:53.454Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:00:53.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ed3565a8ac9a674b02a6"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "6500540c3868bad9d967187e"
+  },
+  "storage_method_name": "containers",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T08:03:01.757Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:03:01.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ed3565a8ac9a674b02a8"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "6500537d3868bad9d967185d"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T08:03:01.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:03:01.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ed3665a8ac9a674b02aa"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T08:03:02.142Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:03:02.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ed3665a8ac9a674b02ac"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053b93868bad9d9671866"
+  },
+  "storage_method_name": "drying",
+  "stock_quantity": {
+    "$numberDecimal": "2"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T08:03:02.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:03:02.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f07765a8ac9a674b08ec"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T08:16:55.456Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:16:55.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f07765a8ac9a674b08ee"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T08:16:55.656Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:16:55.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f07765a8ac9a674b08f0"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "650053973868bad9d9671863"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T08:16:55.850Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:16:55.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f07865a8ac9a674b08f2"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053b93868bad9d9671866"
+  },
+  "storage_method_name": "drying",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T08:16:56.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:16:56.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f48165a8ac9a674b18d6"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "6500540c3868bad9d967187e"
+  },
+  "storage_method_name": "containers",
+  "stock_quantity": {
+    "$numberDecimal": "2"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T08:34:09.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:34:09.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f48165a8ac9a674b18d8"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "5"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T08:34:09.834Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:34:09.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f48265a8ac9a674b18da"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "6500538a3868bad9d9671860"
+  },
+  "storage_method_name": "refrigeration",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T08:34:10.029Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:34:10.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f48265a8ac9a674b18dc"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053de3868bad9d9671872"
+  },
+  "storage_method_name": "freezing",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T08:34:10.223Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:34:10.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b406f25e4b738d894d0ceb"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T04:05:06.851Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:05:06.851Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b406f35e4b738d894d0ced"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T04:05:07.041Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:05:07.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b406f35e4b738d894d0cef"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "650053973868bad9d9671863"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T04:05:07.231Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:05:07.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b406f35e4b738d894d0cf1"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053b93868bad9d9671866"
+  },
+  "storage_method_name": "drying",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T04:05:07.421Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:05:07.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4085d5e4b738d894d0e68"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "6500540c3868bad9d967187e"
+  },
+  "storage_method_name": "containers",
+  "stock_quantity": {
+    "$numberDecimal": "2"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T04:11:09.461Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:11:09.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4085d5e4b738d894d0e6a"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T04:11:09.658Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:11:09.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4085d5e4b738d894d0e6c"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "650053973868bad9d9671863"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T04:11:09.849Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:11:09.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4085e5e4b738d894d0e6e"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "stock_name": "for vegetables & fruits",
+  "storage_method_id": {
+    "$oid": "650053b93868bad9d9671866"
+  },
+  "storage_method_name": "drying",
+  "stock_quantity": {
+    "$numberDecimal": "1"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T04:11:10.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:11:10.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b458265e4b738d894d47a5"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T09:51:34.991Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:51:34.991Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b458275e4b738d894d47a7"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T09:51:35.189Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:51:35.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b458275e4b738d894d47a9"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "650053973868bad9d9671863"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T09:51:35.385Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:51:35.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4582a5e4b738d894d47b8"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "stock_name": "for grain",
+  "storage_method_id": {
+    "$oid": "650053fc3868bad9d9671878"
+  },
+  "storage_method_name": "bags",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T09:51:38.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:51:38.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4582a5e4b738d894d47ba"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "stock_name": "for poultry",
+  "storage_method_id": {
+    "$oid": "650053733868bad9d967185a"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T09:51:38.855Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:51:38.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4582b5e4b738d894d47bc"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "stock_name": "for meat",
+  "storage_method_id": {
+    "$oid": "650053973868bad9d9671863"
+  },
+  "storage_method_name": "common storage",
+  "stock_quantity": {
+    "$numberDecimal": "0"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T09:51:39.051Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:51:39.051Z"
+  },
+  "__v": 0
+}]

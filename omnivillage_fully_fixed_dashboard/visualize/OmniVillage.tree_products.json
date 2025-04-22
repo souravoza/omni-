@@ -1,0 +1,3132 @@
+[{
+  "_id": {
+    "$oid": "659a52d7718211331fc1811d"
+  },
+  "name": "Something 5",
+  "production_output": 10,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06f1"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 2,
+  "fed_to_livestock": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 4,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:29:27.636Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:29:27.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5129718211331fc1806f"
+  },
+  "name": "Something 2",
+  "production_output": 25,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06e9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 5,
+  "fed_to_livestock": 5,
+  "sold_to_neighbours": 5,
+  "sold_for_industrial_use": 5,
+  "wastage": 5,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:22:17.198Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:22:17.198Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a569f718211331fc18240"
+  },
+  "name": "Nothing ",
+  "production_output": 10,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c0703"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 2,
+  "fed_to_livestock": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 2,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:45:35.529Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:45:35.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a57c6718211331fc18266"
+  },
+  "name": "Nothing ",
+  "production_output": 116,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c0707"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 10,
+  "sold_to_neighbours": 76,
+  "sold_for_industrial_use": 10,
+  "wastage": 10,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:50:30.479Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:50:30.479Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5847718211331fc1827d"
+  },
+  "name": "Nothing ",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c0709"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 20,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:52:39.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:52:39.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a522b718211331fc180f9"
+  },
+  "name": "Something 3",
+  "production_output": 17,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06ed"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 4,
+  "fed_to_livestock": 4,
+  "sold_to_neighbours": 4,
+  "sold_for_industrial_use": 4,
+  "wastage": 1,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:26:35.787Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:26:35.787Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a54c5718211331fc181a2"
+  },
+  "name": "Something 10",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06f9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 5,
+  "fed_to_livestock": 5,
+  "sold_to_neighbours": 5,
+  "sold_for_industrial_use": 5,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:37:41.515Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:37:41.515Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5547718211331fc181e7"
+  },
+  "name": "Something 11",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 5,
+  "fed_to_livestock": 5,
+  "sold_to_neighbours": 5,
+  "sold_for_industrial_use": 5,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:39:51.614Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:39:51.614Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a559a718211331fc181fa"
+  },
+  "name": "Something 12",
+  "production_output": 100,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fd"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 20,
+  "fed_to_livestock": 20,
+  "sold_to_neighbours": 20,
+  "sold_for_industrial_use": 30,
+  "wastage": 10,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:41:14.921Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:41:14.921Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a55f4718211331fc1820f"
+  },
+  "name": "Something 13",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 2,
+  "fed_to_livestock": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 12,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:42:44.333Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:42:44.333Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a564b718211331fc18222"
+  },
+  "name": "Something 14",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c0701"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 2,
+  "fed_to_livestock": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 12,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:44:11.041Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:44:11.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5722718211331fc18253"
+  },
+  "name": "Nothing ",
+  "production_output": 10,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c0705"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 2,
+  "fed_to_livestock": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 2,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:47:46.583Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:47:46.583Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a58a0718211331fc18290"
+  },
+  "name": "Nothing 3",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070b"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 20,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:54:08.044Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:54:08.044Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a58ee718211331fc182a3"
+  },
+  "name": "Nothing ",
+  "production_output": 29,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 29,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:55:26.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:55:26.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a59f2718211331fc182dd"
+  },
+  "name": "Starfruit product ",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0713"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 4,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:59:46.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:59:46.187Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a51a7718211331fc180e6"
+  },
+  "name": "Something 22",
+  "production_output": 201,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06eb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 50,
+  "fed_to_livestock": 50,
+  "sold_to_neighbours": 50,
+  "sold_for_industrial_use": 50,
+  "wastage": 1,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:24:23.629Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:24:23.629Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5297718211331fc1810a"
+  },
+  "name": "Something 4",
+  "production_output": 10,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06ef"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 2,
+  "fed_to_livestock": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 2,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:28:23.499Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:28:23.499Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5479718211331fc1818d"
+  },
+  "name": "Something 9",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06f7"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 13,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 7,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:36:25.176Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:36:25.176Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5a3f718211331fc182ff"
+  },
+  "name": "Berry product ",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0715"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 10,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T08:01:03.442Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:01:03.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5a8f718211331fc18312"
+  },
+  "name": "Tamarind ",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0717"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 2,
+  "fed_to_livestock": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 12,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T08:02:23.586Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:02:23.586Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a50e0718211331fc1802c"
+  },
+  "name": "Something 1",
+  "production_output": 10,
+  "tree_crop_id": {
+    "$oid": "657450ae87c70be81f1c06db"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 2,
+  "fed_to_livestock": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 2,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:21:04.486Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:21:04.486Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a533d718211331fc18137"
+  },
+  "name": "Some",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06f3"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 2,
+  "fed_to_livestock": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 12,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:31:09.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:31:09.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a53ee718211331fc1817c"
+  },
+  "name": "Something 7",
+  "production_output": 12,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06f5"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 2,
+  "fed_to_livestock": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 4,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:34:06.543Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:34:06.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a593e718211331fc182b4"
+  },
+  "name": "Nothing 92",
+  "production_output": 15,
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c070f"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 3,
+  "fed_to_livestock": 3,
+  "sold_to_neighbours": 3,
+  "sold_for_industrial_use": 3,
+  "wastage": 3,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:56:46.757Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:56:46.757Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5988718211331fc182ca"
+  },
+  "name": "Mango Product ",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0711"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 2,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 2,
+  "wastage": 4,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T07:58:01.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T07:58:01.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "659a5ad5718211331fc18330"
+  },
+  "name": "Pomegranate product ",
+  "production_output": 200,
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0719"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 50,
+  "fed_to_livestock": 20,
+  "sold_to_neighbours": 30,
+  "sold_for_industrial_use": 50,
+  "wastage": 50,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-01-07T08:03:33.412Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:03:33.412Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6614d80db949a41cf1de2652"
+  },
+  "name": "Cocoa fruit",
+  "production_output": 100,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06eb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 20,
+  "sold_for_industrial_use": 70,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-04-09T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-09T05:54:21.827Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T05:54:21.827Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6614d8ebb949a41cf1de269f"
+  },
+  "name": "Durian fruit ",
+  "production_output": 200,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06ed"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 15,
+  "fed_to_livestock": 15,
+  "sold_to_neighbours": 50,
+  "sold_for_industrial_use": 120,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-04-09T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-04-09T05:58:03.394Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T05:58:03.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645b2f6fa1cfb172f42bac8"
+  },
+  "name": "Orange",
+  "production_output": 450,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 440,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:17:10.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:17:10.973Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645b4addf633f228df3f416"
+  },
+  "name": "Avacado",
+  "production_output": 300,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 20,
+  "fed_to_livestock": 20,
+  "sold_to_neighbours": 10,
+  "sold_for_industrial_use": 200,
+  "wastage": 50,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:24:29.918Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:24:29.918Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645baa712fdfcb0f5d7121c"
+  },
+  "name": "Orange",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:49:59.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:49:59.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645bc8a12fdfcb0f5d71384"
+  },
+  "name": "Avocado",
+  "production_output": 11,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 11,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:58:02.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:58:02.527Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645bcd312fdfcb0f5d713b5"
+  },
+  "name": "Orange ",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 20,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:59:15.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:59:15.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645bd14cae777c16e946c0c"
+  },
+  "name": "Peach ",
+  "production_output": 8,
+  "tree_crop_id": {
+    "$oid": "6645bce2cae777c16e946c02"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 8,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:00:20.848Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:00:20.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645bd6fcae777c16e946c38"
+  },
+  "name": "Guava ",
+  "production_output": 12,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 12,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:01:51.197Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:01:51.197Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645c1b7df633f228df3fa21"
+  },
+  "name": "Rice ",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:20:07.743Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:28:18.567Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645c3a2df633f228df3fc4a"
+  },
+  "name": "Rice ",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "createdAt": {
+    "$date": "2024-05-16T08:28:18.105Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:28:18.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671205fbda853fdf9e4409e7"
+  },
+  "name": "Coco Powder ",
+  "production_output": 100,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06eb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 5,
+  "sold_to_neighbours": 20,
+  "sold_for_industrial_use": 55,
+  "wastage": 10,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-10-03T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-18T06:53:47.942Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T06:53:47.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67120f3dda853fdf9e440b3d"
+  },
+  "name": "Coco Powder ",
+  "production_output": 200,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06eb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 50,
+  "fed_to_livestock": 20,
+  "sold_to_neighbours": 30,
+  "sold_for_industrial_use": 100,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-10-11T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-10-18T07:33:17.304Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T07:33:17.304Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799f1a38bbdaac5708ec437"
+  },
+  "name": "Gauva",
+  "production_output": 50,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 5,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 30,
+  "sold_for_industrial_use": 10,
+  "wastage": 5,
+  "other": "0",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-01-29T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-29T09:15:15.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T15:41:45.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799f1a38bbdaac5708ec438"
+  },
+  "name": "Timber",
+  "production_output": 10,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 5,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 5,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-01-29T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-29T09:15:15.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T15:41:45.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799f1ac8bbdaac5708ec44f"
+  },
+  "name": "Guava",
+  "production_output": 200,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 30,
+  "fed_to_livestock": 5,
+  "sold_to_neighbours": 50,
+  "sold_for_industrial_use": 100,
+  "wastage": 15,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-10-18T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-29T09:15:24.711Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:15:24.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6799f1ac8bbdaac5708ec450"
+  },
+  "name": "Guava Timber",
+  "production_output": 500,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 100,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 100,
+  "sold_for_industrial_use": 200,
+  "wastage": 100,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-12-19T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-01-29T09:15:24.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:15:24.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a43d203e7696ea7339b203"
+  },
+  "name": "Fruit",
+  "production_output": 50,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06f3"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 25,
+  "fed_to_livestock": 10,
+  "sold_to_neighbours": 5,
+  "sold_for_industrial_use": 5,
+  "wastage": 5,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-06T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-06T04:40:00.649Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T04:40:00.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a4b7203e7696ea7339bef6"
+  },
+  "name": "Fruits",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "6706525f10b1aaf64dc323ed"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-06T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-06T13:20:32.182Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T13:20:32.182Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a4b7543e7696ea7339bf19"
+  },
+  "name": "Fruit",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06ed"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 5,
+  "sold_to_neighbours": 1,
+  "sold_for_industrial_use": 1,
+  "wastage": 3,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-06T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-06T13:21:24.814Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T13:21:24.814Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67adbdc81af3159cf5d56295"
+  },
+  "name": "Bananabanana",
+  "production_output": 12,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06eb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 2,
+  "fed_to_livestock": 5,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 3,
+  "wastage": 0,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-13T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-13T09:39:20.334Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:39:20.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67adbeccc12fa16a4a078cfb"
+  },
+  "name": "Guava",
+  "production_output": 100,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 86,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 14,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-09-01T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-13T09:43:40.552Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:43:40.552Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67adbfbac12fa16a4a078d11"
+  },
+  "name": "Banana ",
+  "production_output": 800,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 800,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-13T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-13T09:47:38.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:47:38.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67adc050f2e352cfd5e0be6e"
+  },
+  "name": "None",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-13T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-13T09:50:08.377Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:50:08.377Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67adc1181af3159cf5d562df"
+  },
+  "name": "0",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0711"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-13T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-13T09:53:28.794Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:53:28.794Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67adc1641af3159cf5d562ee"
+  },
+  "name": "None",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-13T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-13T09:54:44.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:54:44.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67adc1c6f2e352cfd5e0be79"
+  },
+  "name": "Peach",
+  "production_output": 15,
+  "tree_crop_id": {
+    "$oid": "6645bce2cae777c16e946c02"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 15,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-13T09:56:22.179Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T09:56:22.179Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b0badfb9aa2904b4cfe40a"
+  },
+  "name": "Oragne ",
+  "production_output": 25,
+  "tree_crop_id": {
+    "$oid": "67ab9f4d45495d1ec97023a9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 25,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-15T16:03:43.091Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:03:43.091Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b1873bb9aa2904b4d0119c"
+  },
+  "name": "None as of now",
+  "production_output": 1,
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0711"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 1,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "0",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T06:35:39.506Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:35:39.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b187d3b9aa2904b4d011db"
+  },
+  "name": "Guava",
+  "production_output": 50,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 25,
+  "fed_to_livestock": 25,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-11-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T06:38:11.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:38:11.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b1883ab9aa2904b4d0121c"
+  },
+  "name": "Pomegranate ",
+  "production_output": 15,
+  "tree_crop_id": {
+    "$oid": "657450b187c70be81f1c0719"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 15,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-11-30T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T06:39:54.476Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:39:54.476Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b188e6b9aa2904b4d01275"
+  },
+  "name": "Banana ",
+  "production_output": 200,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 200,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T06:42:46.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:42:46.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b18979b9aa2904b4d012b2"
+  },
+  "name": "Orange ",
+  "production_output": 50,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 50,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2026-01-01T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T06:45:13.188Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:45:13.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b1bb49db1ebb70cb7e18e1"
+  },
+  "name": "Orange ",
+  "production_output": 25,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 25,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-12-30T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T10:17:45.005Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:17:45.005Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b1bbb0db1ebb70cb7e18f8"
+  },
+  "name": "Banana",
+  "production_output": 50,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 50,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T10:19:28.491Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:19:28.491Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b1bc2edb1ebb70cb7e190f"
+  },
+  "name": "Guava",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 20,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-08-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T10:21:34.943Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:21:34.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b1f18265a8ac9a674a8dc5"
+  },
+  "name": "Gauva",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-16T14:09:06.141Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T14:09:06.141Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2a9c965a8ac9a674a931e"
+  },
+  "name": "Banana",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T03:15:21.018Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:15:21.018Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2aa2965a8ac9a674a934b"
+  },
+  "name": "Orange ",
+  "production_output": 300,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 300,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T03:16:57.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:16:57.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ac1b65a8ac9a674a9430"
+  },
+  "name": "Avocado ",
+  "production_output": 10,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-09-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T03:25:15.500Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:25:15.500Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2acd765a8ac9a674a9467"
+  },
+  "name": "None",
+  "production_output": 0.1,
+  "tree_crop_id": {
+    "$oid": "6645bce2cae777c16e946c02"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0.1,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-03-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T03:28:23.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:28:23.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ad8765a8ac9a674a94ce"
+  },
+  "name": "Guava",
+  "production_output": 10,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-09-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T03:31:19.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:31:19.060Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ae3a65a8ac9a674a959f"
+  },
+  "name": "Bamboo",
+  "production_output": 800,
+  "tree_crop_id": {
+    "$oid": "67ab9c6b45495d1ec9702346"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 800,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T03:34:18.524Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:34:18.524Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ae6f65a8ac9a674a95f0"
+  },
+  "name": "None",
+  "production_output": 0.1,
+  "tree_crop_id": {
+    "$oid": "67b0e0c6b9aa2904b4cff1c4"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0.1,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T03:35:11.714Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:35:11.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2b5c065a8ac9a674aa01a"
+  },
+  "name": "Orange",
+  "production_output": 3000,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 1000,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 1500,
+  "sold_for_industrial_use": 0,
+  "wastage": 500,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:06:24.586Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:06:24.586Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2b80665a8ac9a674aa2c7"
+  },
+  "name": "Orange ",
+  "production_output": 40,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 40,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-11-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "createdAt": {
+    "$date": "2025-02-17T04:16:06.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:16:06.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b84565a8ac9a674aa30a"
+  },
+  "name": "Guave",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 20,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "createdAt": {
+    "$date": "2025-02-17T04:17:09.430Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:17:09.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b96365a8ac9a674aa4da"
+  },
+  "name": "Banana ",
+  "production_output": 100,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 100,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:21:55.115Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:21:55.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2b9da65a8ac9a674aa549"
+  },
+  "name": "Avacado",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:23:54.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:23:54.514Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ba4a65a8ac9a674aa60e"
+  },
+  "name": "Orange ",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:25:46.554Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:25:46.554Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2e92d65a8ac9a674afe2d"
+  },
+  "name": "Orange ",
+  "production_output": 10,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T07:45:49.778Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:45:49.778Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2e9f565a8ac9a674afefb"
+  },
+  "name": "Guava ",
+  "production_output": 5,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 5,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-11-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T07:49:09.276Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:49:09.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ea7565a8ac9a674aff79"
+  },
+  "name": "Pear ",
+  "production_output": 5,
+  "tree_crop_id": {
+    "$oid": "67ab9d5c45495d1ec9702371"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 5,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-11T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T07:51:17.528Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T07:51:17.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ecb765a8ac9a674b021f"
+  },
+  "name": "Guava",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 20,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-10-01T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:00:55.708Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:00:55.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ed0165a8ac9a674b0286"
+  },
+  "name": "Banana ",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 20,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:02:09.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:02:09.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ed4865a8ac9a674b02d0"
+  },
+  "name": "Guava",
+  "production_output": 60,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 50,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-07-01T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:03:20.020Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:03:20.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ed4e65a8ac9a674b02e9"
+  },
+  "name": "Orange ",
+  "production_output": 50,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 50,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-10-01T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:03:26.749Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:03:26.749Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2ed9a65a8ac9a674b032e"
+  },
+  "name": "Papaya",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fd"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:04:42.566Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:04:42.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2edb265a8ac9a674b034e"
+  },
+  "name": "Bamboo",
+  "production_output": 80,
+  "tree_crop_id": {
+    "$oid": "67ab9c6b45495d1ec9702346"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 40,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 40,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-12-11T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:05:06.057Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:05:06.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2edd465a8ac9a674b03a7"
+  },
+  "name": "Banana",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T08:05:40.735Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:05:40.735Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2fc6b65a8ac9a674b3284"
+  },
+  "name": "Papaya",
+  "production_output": 100,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fd"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 100,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T09:07:55.461Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:07:55.461Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2fcc665a8ac9a674b33c6"
+  },
+  "name": "Banana",
+  "production_output": 60,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 60,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-09-19T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T09:09:26.879Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:09:26.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2fd4365a8ac9a674b349a"
+  },
+  "name": "Orange ",
+  "production_output": 30,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 30,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T09:11:31.423Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:11:31.423Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2fd9465a8ac9a674b358e"
+  },
+  "name": "Guava",
+  "production_output": 40,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 40,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-11-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T09:12:52.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:12:52.100Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2fe1565a8ac9a674b376e"
+  },
+  "name": "Bamboo",
+  "production_output": 80,
+  "tree_crop_id": {
+    "$oid": "67ab9c6b45495d1ec9702346"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 80,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T09:15:01.135Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:15:01.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b2fe6765a8ac9a674b3844"
+  },
+  "name": "Pear",
+  "production_output": 1,
+  "tree_crop_id": {
+    "$oid": "67ab9d5c45495d1ec9702371"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 1,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-08-15T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T09:16:23.972Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:16:23.972Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b315682bd26840a697a31a"
+  },
+  "name": "Orange ",
+  "production_output": 50,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 50,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-12-02T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T10:54:32.057Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:54:32.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b315c52bd26840a697a369"
+  },
+  "name": "Avacado",
+  "production_output": 0,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c070d"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 0,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "Retain",
+  "other_value": 0,
+  "month_harvested": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T10:56:05.002Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:56:05.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b331c25e4b738d894ce6bc"
+  },
+  "name": "Orange",
+  "production_output": 50,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 20,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 30,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-03-11T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T12:55:30.684Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T12:55:30.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b3323f5e4b738d894ce70e"
+  },
+  "name": "Jackfruit ",
+  "production_output": 15,
+  "tree_crop_id": {
+    "$oid": "657450af87c70be81f1c06f3"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 15,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-06-14T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T12:57:35.488Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T12:57:35.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b332d05e4b738d894ce75f"
+  },
+  "name": "Guava",
+  "production_output": 5,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 5,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-06-06T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T13:00:00.025Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T13:00:00.025Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b3337f5e4b738d894ce796"
+  },
+  "name": "Peach",
+  "production_output": 10,
+  "tree_crop_id": {
+    "$oid": "6645bce2cae777c16e946c02"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-03-07T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-17T13:02:55.932Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T13:02:55.932Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b4068c5e4b738d894d0c33"
+  },
+  "name": "Orange",
+  "production_output": 150,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 50,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 5,
+  "other": "Market (Thimphu)",
+  "other_value": 95,
+  "month_harvested": {
+    "$date": "2025-11-01T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T04:03:24.068Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:03:24.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b406925e4b738d894d0c4b"
+  },
+  "name": "Guava",
+  "production_output": 100,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 1,
+  "fed_to_livestock": 90,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 9,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T04:03:30.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:03:30.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b4072d5e4b738d894d0d5d"
+  },
+  "name": "Orange",
+  "production_output": 60,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 5,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 55,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T04:06:05.503Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:06:05.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b4081f5e4b738d894d0e16"
+  },
+  "name": "Pear",
+  "production_output": 200,
+  "tree_crop_id": {
+    "$oid": "67ab9d5c45495d1ec9702371"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 2,
+  "fed_to_livestock": 150,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 48,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-10-01T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T04:10:07.518Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:10:07.518Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b41a475e4b738d894d2dcd"
+  },
+  "name": "Orange ",
+  "production_output": 500,
+  "tree_crop_id": {
+    "$oid": "6645b1bbba80bcf5f9947ce9"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 100,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 400,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-01-02T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T05:27:35.751Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:27:35.751Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b41b3e5e4b738d894d2e35"
+  },
+  "name": "Banana",
+  "production_output": 100,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06ff"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 20,
+  "fed_to_livestock": 80,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-04-08T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T05:31:42.643Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:31:42.643Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b41c325e4b738d894d2f03"
+  },
+  "name": "Lemon🍋",
+  "production_output": 4,
+  "tree_crop_id": {
+    "$oid": "67ab9f0c45495d1ec97023a0"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 3,
+  "fed_to_livestock": 1,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-03-03T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T05:35:46.526Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:35:46.526Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b41d615e4b738d894d305c"
+  },
+  "name": "Guava",
+  "production_output": 30,
+  "tree_crop_id": {
+    "$oid": "657450b087c70be81f1c06fb"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 20,
+  "sold_to_neighbours": 0,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-11-20T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T05:40:49.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:40:49.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b4208d5e4b738d894d31ab"
+  },
+  "name": "Bamboo",
+  "production_output": 10,
+  "tree_crop_id": {
+    "$oid": "67ab9c6b45495d1ec9702346"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 8,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 2,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-01-08T00:00:00.000Z"
+  },
+  "processing_method": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T05:54:21.048Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:54:21.048Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b454535e4b738d894d43b8"
+  },
+  "name": "Sugar cane",
+  "production_output": 20,
+  "tree_crop_id": {
+    "$oid": "67b453525e4b738d894d436c"
+  },
+  "tree_crop_name": "",
+  "self_consumed": 10,
+  "fed_to_livestock": 0,
+  "sold_to_neighbours": 10,
+  "sold_for_industrial_use": 0,
+  "wastage": 0,
+  "other": "",
+  "other_value": null,
+  "month_harvested": {
+    "$date": "2025-01-02T00:00:00.000Z"
+  },
+  "processing_method": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-02-18T09:35:15.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:35:15.123Z"
+  }
+}]

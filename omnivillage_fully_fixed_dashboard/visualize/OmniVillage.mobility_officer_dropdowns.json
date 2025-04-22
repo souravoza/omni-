@@ -1,0 +1,414 @@
+[{
+  "_id": {
+    "$oid": "676174fb7c844e272b1b5410"
+  },
+  "type": "mobility_requirements",
+  "name": {
+    "en": "personal / household travel",
+    "ms": "personal / household travel",
+    "dz": "personal / household travel"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:56:27.346Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:35:06.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676175007c844e272b1b5413"
+  },
+  "type": "frequency_of_road_damage",
+  "name": {
+    "en": "rarely (once every few years)",
+    "ms": "rarely (once every few years)",
+    "dz": "rarely (once every few years)"
+  },
+  "createdAt": {
+    "$date": "2024-12-17T12:56:32.409Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:39:28.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6767c53d7aa921de9e461030"
+  },
+  "type": "connectivity_to_healthcare_facilities",
+  "name": {
+    "en": "within walking distance",
+    "ms": "within walking distance",
+    "dz": "within walking distance"
+  },
+  "createdAt": {
+    "$date": "2024-12-22T07:52:30.004Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:36:39.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ab955e4b738d894d0451"
+  },
+  "type": "mobility_requirements",
+  "name": {
+    "en": "school / educational transport",
+    "ms": "school / educational transport",
+    "dz": "school / educational transport"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:35:17.403Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:35:17.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aba05e4b738d894d0454"
+  },
+  "type": "mobility_requirements",
+  "name": {
+    "en": "healthcare / medical transport",
+    "ms": "healthcare / medical transport",
+    "dz": "healthcare / medical transport"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:35:28.740Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:35:28.740Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3aba95e4b738d894d0457"
+  },
+  "type": "mobility_requirements",
+  "name": {
+    "en": "agricultural / livestock transport",
+    "ms": "agricultural / livestock transport",
+    "dz": "agricultural / livestock transport"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:35:37.414Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:35:37.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3abb45e4b738d894d045a"
+  },
+  "type": "mobility_requirements",
+  "name": {
+    "en": "goods / freight transport",
+    "ms": "goods / freight transport",
+    "dz": "goods / freight transport"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:35:48.873Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:35:48.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3abbe5e4b738d894d045d"
+  },
+  "type": "mobility_requirements",
+  "name": {
+    "en": "public or shared transport services",
+    "ms": "public or shared transport services",
+    "dz": "public or shared transport services"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:35:58.923Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:35:58.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3abc75e4b738d894d0460"
+  },
+  "type": "mobility_requirements",
+  "name": {
+    "en": "emergency / utility services",
+    "ms": "emergency / utility services",
+    "dz": "emergency / utility services"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:36:07.831Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:36:07.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3abcf5e4b738d894d0463"
+  },
+  "type": "mobility_requirements",
+  "name": {
+    "en": "special events / community gatherings",
+    "ms": "special events / community gatherings",
+    "dz": "special events / community gatherings"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:36:15.254Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:36:15.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3abd75e4b738d894d0466"
+  },
+  "type": "mobility_requirements",
+  "name": {
+    "en": "tourism / visitor transport",
+    "ms": "tourism / visitor transport",
+    "dz": "tourism / visitor transport"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:36:23.349Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:36:23.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3abf45e4b738d894d046b"
+  },
+  "type": "connectivity_to_healthcare_facilities",
+  "name": {
+    "en": "local transport available",
+    "ms": "local transport available",
+    "dz": "local transport available"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:36:52.583Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:36:52.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3abfa5e4b738d894d046e"
+  },
+  "type": "connectivity_to_healthcare_facilities",
+  "name": {
+    "en": "public bus service / regular transport",
+    "ms": "public bus service / regular transport",
+    "dz": "public bus service / regular transport"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:36:58.988Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:36:58.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ac045e4b738d894d0471"
+  },
+  "type": "connectivity_to_healthcare_facilities",
+  "name": {
+    "en": "private vehicle access only",
+    "ms": "private vehicle access only",
+    "dz": "private vehicle access only"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:37:08.375Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:37:08.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ac0b5e4b738d894d0474"
+  },
+  "type": "connectivity_to_healthcare_facilities",
+  "name": {
+    "en": "ambulance / specialized medical transport",
+    "ms": "ambulance / specialized medical transport",
+    "dz": "ambulance / specialized medical transport"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:37:15.667Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:37:15.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ac125e4b738d894d0477"
+  },
+  "type": "connectivity_to_healthcare_facilities",
+  "name": {
+    "en": "mobile clinic / telemedicine access",
+    "ms": "mobile clinic / telemedicine access",
+    "dz": "mobile clinic / telemedicine access"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:37:22.996Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:37:22.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ac1b5e4b738d894d047b"
+  },
+  "type": "connectivity_to_healthcare_facilities",
+  "name": {
+    "en": "minimal or no direct access",
+    "ms": "minimal or no direct access",
+    "dz": "minimal or no direct access"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:37:31.326Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:37:31.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3ac9d5e4b738d894d0480"
+  },
+  "type": "frequency_of_road_damage",
+  "name": {
+    "en": "occasionally (once a year)",
+    "ms": "occasionally (once a year)",
+    "dz": "occasionally (once a year)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:39:41.946Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:39:41.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3acad5e4b738d894d0483"
+  },
+  "type": "frequency_of_road_damage",
+  "name": {
+    "en": "seasonally (a few times a year)",
+    "ms": "seasonally (a few times a year)",
+    "dz": "seasonally (a few times a year)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:39:57.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:39:57.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3acb65e4b738d894d0486"
+  },
+  "type": "frequency_of_road_damage",
+  "name": {
+    "en": "frequently (every month)",
+    "ms": "frequently (every month)",
+    "dz": "frequently (every month)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:40:06.980Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:40:06.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3acc15e4b738d894d0489"
+  },
+  "type": "frequency_of_road_damage",
+  "name": {
+    "en": "constantly (almost always damaged)",
+    "ms": "constantly (almost always damaged)",
+    "dz": "constantly (almost always damaged)"
+  },
+  "createdAt": {
+    "$date": "2025-02-17T21:40:17.627Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T21:40:17.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4402d5e4b738d894d4184"
+  },
+  "type": "mobility_requirements",
+  "name": {
+    "en": " other",
+    "ms": " other",
+    "dz": " other"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T08:09:17.043Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:09:17.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b445595e4b738d894d4215"
+  },
+  "type": "connectivity_to_healthcare_facilities",
+  "name": {
+    "en": " other",
+    "ms": " other",
+    "dz": " other"
+  },
+  "createdAt": {
+    "$date": "2025-02-18T08:31:21.606Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T08:31:21.606Z"
+  },
+  "__v": 0
+}]

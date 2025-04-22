@@ -1,0 +1,1422 @@
+[{
+  "_id": {
+    "$oid": "6733802b346494a9ba551a1b"
+  },
+  "type": "type",
+  "name": {
+    "en": "traditional bhutanese house ",
+    "ms": "traditional bhutanese house ",
+    "dz": "traditional bhutanese house "
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:19:55.275Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T05:44:36.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338037346494a9ba551a1d"
+  },
+  "type": "type",
+  "name": {
+    "en": "concrete cement",
+    "ms": "concrete cement",
+    "dz": "concrete cement"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:20:07.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:20:07.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338042346494a9ba551a1f"
+  },
+  "type": "type",
+  "name": {
+    "en": "modern traditional house ",
+    "ms": "modern traditional house ",
+    "dz": "modern traditional house "
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:20:18.582Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T05:45:29.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733804d346494a9ba551a21"
+  },
+  "type": "type",
+  "name": {
+    "en": "stone",
+    "ms": "stone",
+    "dz": "stone"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:20:29.060Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:20:29.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338052346494a9ba551a23"
+  },
+  "type": "type",
+  "name": {
+    "en": "wooden house",
+    "ms": "wooden house",
+    "dz": "wooden house"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:20:34.938Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T05:45:46.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338064346494a9ba551a25"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "rooms",
+    "ms": "rooms",
+    "dz": "rooms"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:20:52.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:20:52.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733806a346494a9ba551a27"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "living hall",
+    "ms": "living hall",
+    "dz": "living hall"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:20:58.051Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:20:58.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338072346494a9ba551a29"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "kitchen",
+    "ms": "kitchen",
+    "dz": "kitchen"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:21:06.753Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:21:06.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338077346494a9ba551a2b"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "altar",
+    "ms": "altar",
+    "dz": "altar"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:21:11.322Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:21:11.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733807c346494a9ba551a2d"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "store",
+    "ms": "store",
+    "dz": "store"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:21:16.659Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:21:16.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338083346494a9ba551a2f"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "bathrooms inside",
+    "ms": "bathrooms inside",
+    "dz": "bathrooms inside"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:21:23.993Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:21:23.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733808f346494a9ba551a31"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "bathrooms outside",
+    "ms": "bathrooms outside",
+    "dz": "bathrooms outside"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:21:35.949Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:21:35.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338095346494a9ba551a33"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "parking",
+    "ms": "parking",
+    "dz": "parking"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:21:41.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:21:41.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67338099346494a9ba551a35"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "terrace",
+    "ms": "terrace",
+    "dz": "terrace"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:21:45.823Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:21:45.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733809f346494a9ba551a37"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "running water",
+    "ms": "running water",
+    "dz": "running water"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:21:51.630Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:21:51.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673380a7346494a9ba551a39"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "water storage tanks",
+    "ms": "water storage tanks",
+    "dz": "water storage tanks"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:21:59.325Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:21:59.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673380b7346494a9ba551a3d"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "water pump",
+    "ms": "water pump",
+    "dz": "water pump"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:22:15.976Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:22:15.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673380c0346494a9ba551a3f"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "connection to stp",
+    "ms": "connection to stp",
+    "dz": "connection to stp"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:22:24.142Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:22:24.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673380c8346494a9ba551a41"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "micro grid",
+    "ms": "micro grid",
+    "dz": "micro grid"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:22:32.017Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:22:32.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673380d8346494a9ba551a43"
+  },
+  "type": "urgency",
+  "name": {
+    "en": "within 1 year",
+    "ms": "within 1 year",
+    "dz": "within 1 year"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:22:48.805Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:22:48.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673380e0346494a9ba551a45"
+  },
+  "type": "urgency",
+  "name": {
+    "en": "within 2-5 years",
+    "ms": "within 2-5 years",
+    "dz": "within 2-5 years"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:22:56.593Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:22:56.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673380e8346494a9ba551a47"
+  },
+  "type": "urgency",
+  "name": {
+    "en": "within 5-10 years",
+    "ms": "within 5-10 years",
+    "dz": "within 5-10 years"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:23:04.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:23:04.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673380ee346494a9ba551a49"
+  },
+  "type": "urgency",
+  "name": {
+    "en": "after- 10 years",
+    "ms": "after- 10 years",
+    "dz": "after- 10 years"
+  },
+  "createdAt": {
+    "$date": "2024-11-12T16:23:10.814Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:23:10.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786b776854845415d4a7fe8"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "living area",
+    "ms": "living area",
+    "dz": "living area"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:13:58.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:13:58.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786b8e8854845415d4a8004"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "roofing ",
+    "ms": "roofing ",
+    "dz": "roofing "
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:20:08.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:20:08.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786b9ed854845415d4a800e"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "electricity",
+    "ms": "electricity",
+    "dz": "electricity"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:24:29.171Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:24:29.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786ba4b854845415d4a8011"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "sanitation",
+    "ms": "sanitation",
+    "dz": "sanitation"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:26:03.263Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:26:03.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786bb83854845415d4a8021"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "firewood",
+    "ms": "firewood",
+    "dz": "firewood"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:31:15.542Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:31:15.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786bd33854845415d4a802b"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "home security systems (cctv, alarms)",
+    "ms": "home security systems (cctv, alarms)",
+    "dz": "home security systems (cctv, alarms)"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:38:27.471Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:38:27.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786bd5d854845415d4a8031"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "fire extinguishers",
+    "ms": "fire extinguishers",
+    "dz": "fire extinguishers"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:39:09.931Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:39:09.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786bd7f854845415d4a8038"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "generators",
+    "ms": "generators",
+    "dz": "generators"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:39:43.882Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:39:43.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786bd92854845415d4a803b"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "dishwashers",
+    "ms": "dishwashers",
+    "dz": "dishwashers"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:40:02.102Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:40:02.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786bfe1854845415d4a8069"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "beds and mattresses",
+    "ms": "beds and mattresses",
+    "dz": "beds and mattresses"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:49:53.609Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:49:53.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786bff0854845415d4a806c"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "sofas and armchairs",
+    "ms": "sofas and armchairs",
+    "dz": "sofas and armchairs"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:50:08.300Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:50:08.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786bffb854845415d4a806f"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "dining tables and chairs",
+    "ms": "dining tables and chairs",
+    "dz": "dining tables and chairs"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:50:19.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:50:19.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786c00a854845415d4a8072"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "wardrobes/closets",
+    "ms": "wardrobes/closets",
+    "dz": "wardrobes/closets"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:50:34.561Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:50:34.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786c06b854845415d4a8078"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "storage units",
+    "ms": "storage units",
+    "dz": "storage units"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:52:11.591Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:52:11.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786c08e854845415d4a807e"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "curtains/blinds",
+    "ms": "curtains/blinds",
+    "dz": "curtains/blinds"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:52:46.339Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:52:46.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786c0c9854845415d4a8081"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "lighting fixtures (chandeliers, wall lamps)",
+    "ms": "lighting fixtures (chandeliers, wall lamps)",
+    "dz": "lighting fixtures (chandeliers, wall lamps)"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:53:45.487Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:53:45.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786c0d4854845415d4a8084"
+  },
+  "type": "amenities",
+  "name": {
+    "en": "mirrors",
+    "ms": "mirrors",
+    "dz": "mirrors"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T19:53:56.822Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T19:53:56.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679729096196fc5e6c322310"
+  },
+  "type": "furnishing",
+  "name": {
+    "en": "beds and mattresses",
+    "ms": "beds and mattresses",
+    "dz": "beds and mattresses"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T06:34:49.478Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T06:34:49.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679729346196fc5e6c322313"
+  },
+  "type": "furnishing",
+  "name": {
+    "en": "sofas and armchairs",
+    "ms": "sofas and armchairs",
+    "dz": "sofas and armchairs"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T06:35:32.159Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T06:35:32.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679729446196fc5e6c322316"
+  },
+  "type": "furnishing",
+  "name": {
+    "en": "dining tables and chairs",
+    "ms": "dining tables and chairs",
+    "dz": "dining tables and chairs"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T06:35:48.450Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T06:35:48.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797294e6196fc5e6c322319"
+  },
+  "type": "furnishing",
+  "name": {
+    "en": "wardrobes/closets",
+    "ms": "wardrobes/closets",
+    "dz": "wardrobes/closets"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T06:35:58.469Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T06:35:58.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679729586196fc5e6c32231c"
+  },
+  "type": "furnishing",
+  "name": {
+    "en": "tv units and entertainment consoles",
+    "ms": "tv units and entertainment consoles",
+    "dz": "tv units and entertainment consoles"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T06:36:08.030Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T06:36:08.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679729616196fc5e6c32231f"
+  },
+  "type": "furnishing",
+  "name": {
+    "en": "storage units",
+    "ms": "storage units",
+    "dz": "storage units"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T06:36:17.558Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T06:36:17.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797296e6196fc5e6c322322"
+  },
+  "type": "furnishing",
+  "name": {
+    "en": "carpets/rugs",
+    "ms": "carpets/rugs",
+    "dz": "carpets/rugs"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T06:36:30.337Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T06:36:30.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679729786196fc5e6c322325"
+  },
+  "type": "furnishing",
+  "name": {
+    "en": "curtains/blinds",
+    "ms": "curtains/blinds",
+    "dz": "curtains/blinds"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T06:36:40.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T06:36:40.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679729826196fc5e6c322328"
+  },
+  "type": "furnishing",
+  "name": {
+    "en": "kitchen cabinets",
+    "ms": "kitchen cabinets",
+    "dz": "kitchen cabinets"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T06:36:50.806Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T06:36:50.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797298d6196fc5e6c32232b"
+  },
+  "type": "furnishing",
+  "name": {
+    "en": "lighting fixtures (chandeliers, wall lamps)",
+    "ms": "lighting fixtures (chandeliers, wall lamps)",
+    "dz": "lighting fixtures (chandeliers, wall lamps)"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T06:37:01.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T06:37:01.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679729966196fc5e6c32232e"
+  },
+  "type": "furnishing",
+  "name": {
+    "en": "mirrors",
+    "ms": "mirrors",
+    "dz": "mirrors"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T06:37:10.755Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T06:37:10.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cb6a6e6b5e001dd4c9dd8"
+  },
+  "type": "type",
+  "name": {
+    "en": "special purpose (vacation, retirement home etc)",
+    "ms": "special purpose (vacation, retirement home etc)",
+    "dz": "special purpose (vacation, retirement home etc)"
+  },
+  "createdAt": {
+    "$date": "2025-01-31T11:40:22.425Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:40:22.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedb753a0c8b7971db00f3"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "solar panels",
+    "ms": "solar panels",
+    "dz": "solar panels"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T05:58:13.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T05:58:13.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedb823a0c8b7971db00f6"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "water heaters",
+    "ms": "water heaters",
+    "dz": "water heaters"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T05:58:26.572Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T05:58:26.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedbb13a0c8b7971db00f9"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "air conditioning units",
+    "ms": "air conditioning units",
+    "dz": "air conditioning units"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T05:59:13.643Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T05:59:13.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedbc03a0c8b7971db00fc"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "heating systems (radiators, heat pumps)",
+    "ms": "heating systems (radiators, heat pumps)",
+    "dz": "heating systems (radiators, heat pumps)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T05:59:28.623Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T05:59:28.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedbce3a0c8b7971db00ff"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "ceiling fans",
+    "ms": "ceiling fans",
+    "dz": "ceiling fans"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T05:59:42.405Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T05:59:42.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedbd83a0c8b7971db0102"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "gas stoves/induction cooktops",
+    "ms": "gas stoves/induction cooktops",
+    "dz": "gas stoves/induction cooktops"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T05:59:52.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T05:59:52.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedbea3a0c8b7971db0105"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "water purifiers",
+    "ms": "water purifiers",
+    "dz": "water purifiers"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:00:10.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:00:10.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedbf73a0c8b7971db0108"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "washing machines",
+    "ms": "washing machines",
+    "dz": "washing machines"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:00:23.070Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:00:23.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedc013a0c8b7971db010b"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "refrigerators",
+    "ms": "refrigerators",
+    "dz": "refrigerators"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:00:33.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:00:33.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedc0d3a0c8b7971db010e"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "generators",
+    "ms": "generators",
+    "dz": "generators"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:00:45.515Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:00:45.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedc183a0c8b7971db0111"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "rainwater harvesting systems",
+    "ms": "rainwater harvesting systems",
+    "dz": "rainwater harvesting systems"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:00:56.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:00:56.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedc223a0c8b7971db0114"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "biogas units",
+    "ms": "biogas units",
+    "dz": "biogas units"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:01:06.819Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:01:06.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedc2b3a0c8b7971db0118"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "borewell systems",
+    "ms": "borewell systems",
+    "dz": "borewell systems"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:01:15.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:01:15.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedc373a0c8b7971db011b"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "home security systems (cctv, alarms)",
+    "ms": "home security systems (cctv, alarms)",
+    "dz": "home security systems (cctv, alarms)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:01:27.359Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:01:27.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedc423a0c8b7971db011e"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "smart home devices (thermostats, smart plugs)",
+    "ms": "smart home devices (thermostats, smart plugs)",
+    "dz": "smart home devices (thermostats, smart plugs)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:01:38.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:01:38.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedc4f3a0c8b7971db0121"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "fire extinguishers",
+    "ms": "fire extinguishers",
+    "dz": "fire extinguishers"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:01:51.149Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:01:51.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedc5c3a0c8b7971db0124"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "other  ",
+    "ms": "other  ",
+    "dz": "other  "
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:02:04.144Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:02:04.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedc653a0c8b7971db0127"
+  },
+  "type": "equipment",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:02:13.922Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:02:13.922Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedcab3a0c8b7971db0167"
+  },
+  "type": "furnishing",
+  "name": {
+    "en": "none",
+    "ms": "none",
+    "dz": "none"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:03:23.527Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:03:23.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aede013a0c8b7971db0213"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "residential",
+    "ms": "residential",
+    "dz": "residential"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:09:05.504Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:09:05.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aede0e3a0c8b7971db0216"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "commercial",
+    "ms": "commercial",
+    "dz": "commercial"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:09:18.139Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:09:18.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aede173a0c8b7971db0219"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "rental income",
+    "ms": "rental income",
+    "dz": "rental income"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:09:27.876Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:09:27.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aede233a0c8b7971db021c"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "mixed use (residential + commercial)",
+    "ms": "mixed use (residential + commercial)",
+    "dz": "mixed use (residential + commercial)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:09:39.982Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:09:39.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aede2e3a0c8b7971db021f"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "agricultural (farmhouse, storage)",
+    "ms": "agricultural (farmhouse, storage)",
+    "dz": "agricultural (farmhouse, storage)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:09:50.475Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:09:50.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aede383a0c8b7971db0222"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "community housing",
+    "ms": "community housing",
+    "dz": "community housing"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:10:00.442Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:10:00.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aedff03a0c8b7971db02c4"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "emergency housing (disaster recovery, temporary shelter)",
+    "ms": "emergency housing (disaster recovery, temporary shelter)",
+    "dz": "emergency housing (disaster recovery, temporary shelter)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:17:20.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:17:20.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aee0fa3a0c8b7971db02c7"
+  },
+  "type": "purpose",
+  "name": {
+    "en": "upgrading existing infrastructure",
+    "ms": "upgrading existing infrastructure",
+    "dz": "upgrading existing infrastructure"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T06:21:46.053Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T06:21:46.053Z"
+  },
+  "__v": 0
+}]

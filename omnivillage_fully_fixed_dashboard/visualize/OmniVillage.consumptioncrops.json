@@ -1,0 +1,892 @@
+[{
+  "_id": {
+    "$oid": "6645b6712428727d93b6ca99"
+  },
+  "name": {
+    "en": "tobacco",
+    "ms": "tobacco",
+    "dz": "tobacco"
+  },
+  "country": [
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T07:32:01.049Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T07:32:01.049Z"
+  },
+  "__v": 0,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "6645c328df633f228df3fbe0"
+  },
+  "name": {
+    "en": "coffee",
+    "ms": "coffee",
+    "dz": "coffee"
+  },
+  "country": [
+    "malaysia",
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c5"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:26:16.819Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T08:26:16.819Z"
+  },
+  "__v": 0,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "6645c33e7662e6b08cb74e20"
+  },
+  "name": {
+    "en": "tea leaves",
+    "ms": "tea leaves",
+    "dz": "tea leaves"
+  },
+  "country": [
+    "malaysia",
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c5"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2024-05-16T08:26:38.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:03:05.886Z"
+  },
+  "__v": 0,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "67b0f5c3b9aa2904b4cffe8f"
+  },
+  "name": {
+    "en": "canned foods (tuna, corn pea, mushroom, fish, etc)",
+    "ms": "canned foods (tuna, corn pea, mushroom, fish, etc)",
+    "dz": "canned foods (tuna, corn pea, mushroom, fish, etc)"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:14:59.496Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:14:59.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f5ceb9aa2904b4cffe92"
+  },
+  "name": {
+    "en": "frozen foods (chicken, fish, samosa, spring rolls, etc)",
+    "ms": "frozen foods (chicken, fish, samosa, spring rolls, etc)",
+    "dz": "frozen foods (chicken, fish, samosa, spring rolls, etc)"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:15:10.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:15:10.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f604b9aa2904b4cffe95"
+  },
+  "name": {
+    "en": "packaged snacks (chips, biscuits, cereals, etc)",
+    "ms": "packaged snacks (chips, biscuits, cereals, etc)",
+    "dz": "packaged snacks (chips, biscuits, cereals, etc)"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:16:04.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:16:04.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f64ab9aa2904b4cffe98"
+  },
+  "name": {
+    "en": "processed cheese",
+    "ms": "processed cheese",
+    "dz": "processed cheese"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:17:14.037Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:17:14.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f652b9aa2904b4cffe9b"
+  },
+  "name": {
+    "en": " juice/energy drinks",
+    "ms": " juice/energy drinks",
+    "dz": " juice/energy drinks"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:17:22.516Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:17:22.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f659b9aa2904b4cffe9e"
+  },
+  "name": {
+    "en": "instant coffee & tea bags",
+    "ms": "instant coffee & tea bags",
+    "dz": "instant coffee & tea bags"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:17:29.976Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:17:29.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f664b9aa2904b4cffea1"
+  },
+  "name": {
+    "en": "bottled water",
+    "ms": "bottled water",
+    "dz": "bottled water"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:17:40.719Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:17:40.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f66fb9aa2904b4cffea4"
+  },
+  "name": {
+    "en": "milk-based beverages",
+    "ms": "milk-based beverages",
+    "dz": "milk-based beverages"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:17:51.921Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:17:51.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f677b9aa2904b4cffea7"
+  },
+  "name": {
+    "en": "krematop",
+    "ms": "krematop",
+    "dz": "krematop"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:17:59.879Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:17:59.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f681b9aa2904b4cffeaa"
+  },
+  "name": {
+    "en": "papar",
+    "ms": "papar",
+    "dz": "papar"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:18:09.402Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:18:09.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f68bb9aa2904b4cffead"
+  },
+  "name": {
+    "en": "milk powder ",
+    "ms": "milk powder ",
+    "dz": "milk powder "
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:18:19.048Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:18:19.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f692b9aa2904b4cffeb0"
+  },
+  "name": {
+    "en": "finger chips",
+    "ms": "finger chips",
+    "dz": "finger chips"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:18:26.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:18:26.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f69ab9aa2904b4cffeb3"
+  },
+  "name": {
+    "en": "sugar",
+    "ms": "sugar",
+    "dz": "sugar"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:18:34.146Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:18:34.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f6a2b9aa2904b4cffeb6"
+  },
+  "name": {
+    "en": "jaggery",
+    "ms": "jaggery",
+    "dz": "jaggery"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:18:42.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:18:42.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f6abb9aa2904b4cffeb9"
+  },
+  "name": {
+    "en": "soya chunk ",
+    "ms": "soya chunk ",
+    "dz": "soya chunk "
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:18:51.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:18:51.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f8b8b9aa2904b4cffffa"
+  },
+  "name": {
+    "en": "ara (locally made alcohol from grains)",
+    "ms": "ara (locally made alcohol from grains)",
+    "dz": "ara (locally made alcohol from grains)"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:27:36.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:27:36.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f8c0b9aa2904b4cffffd"
+  },
+  "name": {
+    "en": "beer (local and international brands)",
+    "ms": "beer (local and international brands)",
+    "dz": "beer (local and international brands)"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:27:44.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:27:44.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f8c8b9aa2904b4d00000"
+  },
+  "name": {
+    "en": "whisky (local and imported)",
+    "ms": "whisky (local and imported)",
+    "dz": "whisky (local and imported)"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:27:52.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:27:52.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f8ceb9aa2904b4d00003"
+  },
+  "name": {
+    "en": "vodka",
+    "ms": "vodka",
+    "dz": "vodka"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:27:58.784Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:27:58.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f8d6b9aa2904b4d00006"
+  },
+  "name": {
+    "en": "gin",
+    "ms": "gin",
+    "dz": "gin"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:28:06.594Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:28:06.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f8dbb9aa2904b4d00009"
+  },
+  "name": {
+    "en": "rum",
+    "ms": "rum",
+    "dz": "rum"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:28:11.873Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:28:11.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f8e3b9aa2904b4d0000c"
+  },
+  "name": {
+    "en": "wine (imported varieties)",
+    "ms": "wine (imported varieties)",
+    "dz": "wine (imported varieties)"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:28:19.622Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:28:19.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f8ebb9aa2904b4d0000f"
+  },
+  "name": {
+    "en": "cigarettes ",
+    "ms": "cigarettes ",
+    "dz": "cigarettes "
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:28:27.006Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:28:27.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f8f4b9aa2904b4d00012"
+  },
+  "name": {
+    "en": "chewing tobacco ",
+    "ms": "chewing tobacco ",
+    "dz": "chewing tobacco "
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:28:36.092Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:28:36.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f902b9aa2904b4d00015"
+  },
+  "name": {
+    "en": "snuff (powdered tobacco, often sniffed)",
+    "ms": "snuff (powdered tobacco, often sniffed)",
+    "dz": "snuff (powdered tobacco, often sniffed)"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:28:50.083Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:28:50.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f90cb9aa2904b4d00018"
+  },
+  "name": {
+    "en": "betal nut (doma)",
+    "ms": "betal nut (doma)",
+    "dz": "betal nut (doma)"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:29:00.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:29:00.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0f91fb9aa2904b4d0001b"
+  },
+  "name": {
+    "en": "biri",
+    "ms": "biri",
+    "dz": "biri"
+  },
+  "country": [
+    "india",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-15T20:29:19.740Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T20:29:19.740Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bcc565a8ac9a674aaaaf"
+  },
+  "name": {
+    "en": "canned paneer",
+    "ms": "canned paneer",
+    "dz": "canned paneer"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:36:21.157Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:36:21.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bcd365a8ac9a674aaac5"
+  },
+  "name": {
+    "en": "paneer",
+    "ms": "paneer",
+    "dz": "paneer"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:36:35.695Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:36:35.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bd0365a8ac9a674aabac"
+  },
+  "name": {
+    "en": "salt",
+    "ms": "salt",
+    "dz": "salt"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:37:23.023Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:37:23.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bfb365a8ac9a674ab1c4"
+  },
+  "name": {
+    "en": "almond oil",
+    "ms": "almond oil",
+    "dz": "almond oil"
+  },
+  "country": [
+    "india",
+    "malaysia",
+    "bhutan"
+  ],
+  "label": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "status": 1,
+  "ideal_consumption_per_person": 0,
+  "createdAt": {
+    "$date": "2025-02-17T04:48:51.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:48:51.645Z"
+  },
+  "__v": 0
+}]

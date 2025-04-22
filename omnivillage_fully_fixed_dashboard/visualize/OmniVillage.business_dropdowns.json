@@ -1,0 +1,1170 @@
+[{
+  "_id": {
+    "$oid": "673db1248310fcf665ad688b"
+  },
+  "type": "type_of_business",
+  "name": {
+    "en": "agriculture & farming",
+    "ms": "agriculture & farming",
+    "dz": "agriculture & farming"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:51:32.273Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:37:30.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673db1288310fcf665ad688e"
+  },
+  "type": "type_of_business",
+  "name": {
+    "en": "education & training",
+    "ms": "education & training",
+    "dz": "education & training"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:51:36.318Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:37:40.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673db12d8310fcf665ad6891"
+  },
+  "type": "type_of_business",
+  "name": {
+    "en": "financial & banking",
+    "ms": "financial & banking",
+    "dz": "financial & banking"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:51:41.957Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:37:57.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673db1328310fcf665ad6894"
+  },
+  "type": "type_of_business",
+  "name": {
+    "en": "government & public sector",
+    "ms": "government & public sector",
+    "dz": "government & public sector"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:51:46.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:38:14.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673db1378310fcf665ad6897"
+  },
+  "type": "type_of_business",
+  "name": {
+    "en": "healthcare & medical",
+    "ms": "healthcare & medical",
+    "dz": "healthcare & medical"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:51:51.369Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:38:40.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673db13b8310fcf665ad689a"
+  },
+  "type": "type_of_business",
+  "name": {
+    "en": "hospitality & food services",
+    "ms": "hospitality & food services",
+    "dz": "hospitality & food services"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:51:55.193Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:38:51.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6788078c650d18f99ddadd7a"
+  },
+  "type": "type_of_business",
+  "name": {
+    "en": "households / individual consumers",
+    "ms": "households / individual consumers",
+    "dz": "households / individual consumers"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T19:07:56.170Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:39:14.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6788079a650d18f99ddadd7d"
+  },
+  "type": "type_of_business",
+  "name": {
+    "en": "manufacturing & industrial",
+    "ms": "manufacturing & industrial",
+    "dz": "manufacturing & industrial"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T19:08:10.005Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:39:34.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67880886650d18f99ddadd9e"
+  },
+  "type": "type_of_infrastructure",
+  "name": {
+    "en": "transportation (roads, bridges, rail, etc.)",
+    "ms": "transportation (roads, bridges, rail, etc.)",
+    "dz": "transportation (roads, bridges, rail, etc.)"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T19:12:06.675Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T11:02:12.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679777ac44c8777e0ba63523"
+  },
+  "type": "legal_structure",
+  "name": {
+    "en": "sole proprietor",
+    "ms": "sole proprietor",
+    "dz": "sole proprietor"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T12:10:20.789Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T12:10:20.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679777b644c8777e0ba63526"
+  },
+  "type": "legal_structure",
+  "name": {
+    "en": "partnership",
+    "ms": "partnership",
+    "dz": "partnership"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T12:10:30.883Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T12:10:30.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679777c144c8777e0ba63529"
+  },
+  "type": "legal_structure",
+  "name": {
+    "en": "private company",
+    "ms": "private company",
+    "dz": "private company"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T12:10:41.169Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T12:10:41.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679777c944c8777e0ba6352c"
+  },
+  "type": "legal_structure",
+  "name": {
+    "en": "public company",
+    "ms": "public company",
+    "dz": "public company"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T12:10:49.052Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T12:10:49.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679777d144c8777e0ba6352f"
+  },
+  "type": "legal_structure",
+  "name": {
+    "en": "non profit",
+    "ms": "non profit",
+    "dz": "non profit"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T12:10:57.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-27T12:10:57.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797783944c8777e0ba63532"
+  },
+  "type": "raw_materials",
+  "name": {
+    "en": "agricultural produce (grains, fruits, vegetables, meat, dairy, etc.)",
+    "ms": "agricultural produce (grains, fruits, vegetables, meat, dairy, etc.)",
+    "dz": "agricultural produce (grains, fruits, vegetables, meat, dairy, etc.)"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T12:12:41.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T01:10:25.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797784044c8777e0ba63535"
+  },
+  "type": "fuel_sources",
+  "name": {
+    "en": "firewood",
+    "ms": "firewood",
+    "dz": "firewood"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T12:12:48.814Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:48:39.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6797784744c8777e0ba63538"
+  },
+  "type": "type_of_infrastructure",
+  "name": {
+    "en": "water supply & sanitation",
+    "ms": "water supply & sanitation",
+    "dz": "water supply & sanitation"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T12:12:55.364Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T11:02:29.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799c9f80e76731996b85bba"
+  },
+  "type": "raw_consumption_unit",
+  "name": {
+    "en": "dozen",
+    "ms": "dozen",
+    "dz": "dozen"
+  },
+  "createdAt": {
+    "$date": "2025-01-29T06:26:00.832Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:44:39.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799ca020e76731996b85bbd"
+  },
+  "type": "fuel_source_unit",
+  "name": {
+    "en": "cubic meters (m³)",
+    "ms": "cubic meters (m³)",
+    "dz": "cubic meters (m³)"
+  },
+  "createdAt": {
+    "$date": "2025-01-29T06:26:10.998Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:46:58.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe8e001f33d7cb6707b22"
+  },
+  "type": "segment_served",
+  "name": {
+    "en": "b2g",
+    "ms": "b2g",
+    "dz": "b2g"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:07:44.661Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:42:42.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe8ef01f33d7cb6707b25"
+  },
+  "type": "segment_served",
+  "name": {
+    "en": "b2c",
+    "ms": "b2c",
+    "dz": "b2c"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:07:59.432Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:41:55.917Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe8f901f33d7cb6707b28"
+  },
+  "type": "segment_served",
+  "name": {
+    "en": "b2b",
+    "ms": "b2b",
+    "dz": "b2b"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:08:09.102Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:41:32.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe98a01f33d7cb6707b70"
+  },
+  "type": "raw_materials",
+  "name": {
+    "en": "metals / plastics / chemicals",
+    "ms": "metals / plastics / chemicals",
+    "dz": "metals / plastics / chemicals"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:10:34.615Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T01:10:34.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe99401f33d7cb6707b73"
+  },
+  "type": "raw_materials",
+  "name": {
+    "en": "wood, bamboo, rattan, or other forest-based materials",
+    "ms": "wood, bamboo, rattan, or other forest-based materials",
+    "dz": "wood, bamboo, rattan, or other forest-based materials"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:10:44.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T01:10:44.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe99c01f33d7cb6707b76"
+  },
+  "type": "raw_materials",
+  "name": {
+    "en": "textiles, yarns, fabrics",
+    "ms": "textiles, yarns, fabrics",
+    "dz": "textiles, yarns, fabrics"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:10:52.159Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T01:10:52.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe9a501f33d7cb6707b79"
+  },
+  "type": "raw_materials",
+  "name": {
+    "en": "packaging & shipping supplies (boxes, bags, wrapping, pallets)",
+    "ms": "packaging & shipping supplies (boxes, bags, wrapping, pallets)",
+    "dz": "packaging & shipping supplies (boxes, bags, wrapping, pallets)"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:11:01.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T01:11:01.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe9ae01f33d7cb6707b7c"
+  },
+  "type": "raw_materials",
+  "name": {
+    "en": "office & stationery supplies",
+    "ms": "office & stationery supplies",
+    "dz": "office & stationery supplies"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:11:10.102Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T01:11:10.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe9b601f33d7cb6707b7f"
+  },
+  "type": "raw_materials",
+  "name": {
+    "en": "cleaning / housekeeping supplies",
+    "ms": "cleaning / housekeeping supplies",
+    "dz": "cleaning / housekeeping supplies"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:11:18.535Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T01:11:18.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe9bf01f33d7cb6707b82"
+  },
+  "type": "raw_materials",
+  "name": {
+    "en": "spare parts / repair materials",
+    "ms": "spare parts / repair materials",
+    "dz": "spare parts / repair materials"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:11:27.423Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T01:11:27.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe9c701f33d7cb6707b85"
+  },
+  "type": "raw_materials",
+  "name": {
+    "en": "fuel / energy sources (e.g., diesel, gas, electricity)",
+    "ms": "fuel / energy sources (e.g., diesel, gas, electricity)",
+    "dz": "fuel / energy sources (e.g., diesel, gas, electricity)"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:11:35.372Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T01:11:35.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe9d001f33d7cb6707b88"
+  },
+  "type": "raw_materials",
+  "name": {
+    "en": "food & beverage ingredients (spices, condiments, water)",
+    "ms": "food & beverage ingredients (spices, condiments, water)",
+    "dz": "food & beverage ingredients (spices, condiments, water)"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:11:44.023Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T01:11:44.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe9d901f33d7cb6707b8b"
+  },
+  "type": "raw_materials",
+  "name": {
+    "en": "paints, dyes, adhesives",
+    "ms": "paints, dyes, adhesives",
+    "dz": "paints, dyes, adhesives"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:11:53.567Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T01:11:53.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afe9e301f33d7cb6707b8e"
+  },
+  "type": "raw_materials",
+  "name": {
+    "en": "resins / gums / other specialty materials",
+    "ms": "resins / gums / other specialty materials",
+    "dz": "resins / gums / other specialty materials"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T01:12:03.112Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T01:12:03.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06f021f93ee4d2d06c192"
+  },
+  "type": "type_of_business",
+  "name": {
+    "en": "non-profit & ngo",
+    "ms": "non-profit & ngo",
+    "dz": "non-profit & ngo"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:40:02.946Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:40:02.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06f0d1f93ee4d2d06c195"
+  },
+  "type": "type_of_business",
+  "name": {
+    "en": "real estate & construction",
+    "ms": "real estate & construction",
+    "dz": "real estate & construction"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:40:13.990Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:40:13.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06f221f93ee4d2d06c198"
+  },
+  "type": "type_of_business",
+  "name": {
+    "en": "retail & wholesale",
+    "ms": "retail & wholesale",
+    "dz": "retail & wholesale"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:40:34.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:40:34.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06f2e1f93ee4d2d06c19b"
+  },
+  "type": "type_of_business",
+  "name": {
+    "en": "technology & it",
+    "ms": "technology & it",
+    "dz": "technology & it"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:40:46.800Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:40:46.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06f401f93ee4d2d06c19e"
+  },
+  "type": "type_of_business",
+  "name": {
+    "en": "transportation & logistics",
+    "ms": "transportation & logistics",
+    "dz": "transportation & logistics"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:41:04.050Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:41:04.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b070261f93ee4d2d06c205"
+  },
+  "type": "raw_consumption_unit",
+  "name": {
+    "en": "drums",
+    "ms": "drums",
+    "dz": "drums"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:44:54.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:44:54.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b070301f93ee4d2d06c208"
+  },
+  "type": "raw_consumption_unit",
+  "name": {
+    "en": "kg",
+    "ms": "kg",
+    "dz": "kg"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:45:04.881Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:45:04.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0703a1f93ee4d2d06c20b"
+  },
+  "type": "raw_consumption_unit",
+  "name": {
+    "en": "litres",
+    "ms": "litres",
+    "dz": "litres"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:45:14.938Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:45:14.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0704d1f93ee4d2d06c20e"
+  },
+  "type": "raw_consumption_unit",
+  "name": {
+    "en": "basket",
+    "ms": "basket",
+    "dz": "basket"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:45:33.874Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:45:33.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b070ae1f93ee4d2d06c281"
+  },
+  "type": "fuel_source_unit",
+  "name": {
+    "en": "litres",
+    "ms": "litres",
+    "dz": "litres"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:47:10.443Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:47:10.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b071131f93ee4d2d06c296"
+  },
+  "type": "fuel_sources",
+  "name": {
+    "en": "charcoal",
+    "ms": "charcoal",
+    "dz": "charcoal"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:48:51.380Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:48:51.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0711a1f93ee4d2d06c299"
+  },
+  "type": "fuel_sources",
+  "name": {
+    "en": "coal",
+    "ms": "coal",
+    "dz": "coal"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:48:58.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:48:58.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b071231f93ee4d2d06c29c"
+  },
+  "type": "fuel_sources",
+  "name": {
+    "en": "kerosene",
+    "ms": "kerosene",
+    "dz": "kerosene"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:49:07.879Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:49:07.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0712c1f93ee4d2d06c29f"
+  },
+  "type": "fuel_sources",
+  "name": {
+    "en": "lpg / propane",
+    "ms": "lpg / propane",
+    "dz": "lpg / propane"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:49:16.647Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:49:16.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b071351f93ee4d2d06c2a2"
+  },
+  "type": "fuel_sources",
+  "name": {
+    "en": "biogas / biomethane",
+    "ms": "biogas / biomethane",
+    "dz": "biogas / biomethane"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:49:25.113Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:49:25.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0713d1f93ee4d2d06c2a5"
+  },
+  "type": "fuel_sources",
+  "name": {
+    "en": "crop residues / biomass briquettes",
+    "ms": "crop residues / biomass briquettes",
+    "dz": "crop residues / biomass briquettes"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:49:33.047Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:49:33.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b071451f93ee4d2d06c2a8"
+  },
+  "type": "fuel_sources",
+  "name": {
+    "en": "dung cakes / animal waste",
+    "ms": "dung cakes / animal waste",
+    "dz": "dung cakes / animal waste"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:49:41.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:49:41.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0714d1f93ee4d2d06c2ab"
+  },
+  "type": "fuel_sources",
+  "name": {
+    "en": "solar (thermal)",
+    "ms": "solar (thermal)",
+    "dz": "solar (thermal)"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:49:49.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:49:49.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b074561f93ee4d2d06c2b3"
+  },
+  "type": "type_of_infrastructure",
+  "name": {
+    "en": "power / electricity infrastructure",
+    "ms": "power / electricity infrastructure",
+    "dz": "power / electricity infrastructure"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T11:02:46.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T11:02:46.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0745f1f93ee4d2d06c2b6"
+  },
+  "type": "type_of_infrastructure",
+  "name": {
+    "en": "communication (telecom, internet)",
+    "ms": "communication (telecom, internet)",
+    "dz": "communication (telecom, internet)"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T11:02:55.589Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T11:02:55.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b074691f93ee4d2d06c2b9"
+  },
+  "type": "type_of_infrastructure",
+  "name": {
+    "en": "healthcare facilities (clinics, hospitals)",
+    "ms": "healthcare facilities (clinics, hospitals)",
+    "dz": "healthcare facilities (clinics, hospitals)"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T11:03:05.181Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T11:03:05.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b074731f93ee4d2d06c2bc"
+  },
+  "type": "type_of_infrastructure",
+  "name": {
+    "en": "educational facilities (schools, colleges)",
+    "ms": "educational facilities (schools, colleges)",
+    "dz": "educational facilities (schools, colleges)"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T11:03:15.639Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T11:03:15.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0747c1f93ee4d2d06c2bf"
+  },
+  "type": "type_of_infrastructure",
+  "name": {
+    "en": "housing / residential",
+    "ms": "housing / residential",
+    "dz": "housing / residential"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T11:03:24.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T11:03:24.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b074831f93ee4d2d06c2c2"
+  },
+  "type": "type_of_infrastructure",
+  "name": {
+    "en": "government / administrative buildings",
+    "ms": "government / administrative buildings",
+    "dz": "government / administrative buildings"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T11:03:31.746Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T11:03:31.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0748b1f93ee4d2d06c2c5"
+  },
+  "type": "type_of_infrastructure",
+  "name": {
+    "en": "solid waste management",
+    "ms": "solid waste management",
+    "dz": "solid waste management"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T11:03:39.654Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T11:03:39.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b074931f93ee4d2d06c2c8"
+  },
+  "type": "type_of_infrastructure",
+  "name": {
+    "en": "recreational & sports facilities (parks, stadiums)",
+    "ms": "recreational & sports facilities (parks, stadiums)",
+    "dz": "recreational & sports facilities (parks, stadiums)"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T11:03:47.378Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T11:03:47.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0b50eb9aa2904b4cfe2e1"
+  },
+  "type": "urgency",
+  "name": {
+    "en": "within 1 year",
+    "ms": "within 1 year",
+    "dz": "within 1 year"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T15:38:54.753Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T15:38:54.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0b51db9aa2904b4cfe2e4"
+  },
+  "type": "urgency",
+  "name": {
+    "en": "within 2-5 years",
+    "ms": "within 2-5 years",
+    "dz": "within 2-5 years"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T15:39:09.950Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T15:39:09.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0b529b9aa2904b4cfe2e7"
+  },
+  "type": "urgency",
+  "name": {
+    "en": "within 5-10 years",
+    "ms": "within 5-10 years",
+    "dz": "within 5-10 years"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T15:39:21.485Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T15:39:21.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0b534b9aa2904b4cfe2ea"
+  },
+  "type": "urgency",
+  "name": {
+    "en": "after- 10 years",
+    "ms": "after- 10 years",
+    "dz": "after- 10 years"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T15:39:32.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T15:39:32.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10942b9aa2904b4d00615"
+  },
+  "type": "fuel_source_unit",
+  "name": {
+    "en": "kg",
+    "ms": "kg",
+    "dz": "kg"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:38:10.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:38:10.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10950b9aa2904b4d00618"
+  },
+  "type": "fuel_source_unit",
+  "name": {
+    "en": "kw",
+    "ms": "kw",
+    "dz": "kw"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:38:24.510Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:38:24.510Z"
+  },
+  "__v": 0
+}]

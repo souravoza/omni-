@@ -1,0 +1,497 @@
+[{
+  "_id": {
+    "$oid": "659a7aeec294c751f99ee11f"
+  },
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "selling_channel_names": [
+    "export",
+    "ecommerce"
+  ],
+  "createdAt": {
+    "$date": "2024-01-07T10:20:30.960Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T10:20:30.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659a5dd3718211331fc1843a"
+  },
+  "user_id": {
+    "$oid": "659a4f90718211331fc17fd8"
+  },
+  "selling_channel_names": [
+    "local market",
+    "ecommerce",
+    "agent",
+    "export"
+  ],
+  "createdAt": {
+    "$date": "2024-01-07T08:16:19.372Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T08:16:41.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660ce2e23f978ca00b8c2a3f"
+  },
+  "user_id": {
+    "$oid": "65869b1b8306c4041de0c2b2"
+  },
+  "selling_channel_names": [
+    "local market",
+    "agent"
+  ],
+  "createdAt": {
+    "$date": "2024-04-03T05:02:26.359Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-03T05:02:26.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614ee4b26e1647c6caee7ef"
+  },
+  "user_id": {
+    "$oid": "6614d32bb949a41cf1de2539"
+  },
+  "selling_channel_names": [
+    "local market",
+    "agent",
+    "export"
+  ],
+  "createdAt": {
+    "$date": "2024-04-09T07:29:15.887Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-09T07:29:15.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6644ac978427d264f6dea064"
+  },
+  "user_id": {
+    "$oid": "6644a603ec0250e8267b7259"
+  },
+  "selling_channel_names": [
+    "local market"
+  ],
+  "createdAt": {
+    "$date": "2024-05-15T12:37:43.339Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T12:37:43.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645adc7ba80bcf5f99475c9"
+  },
+  "user_id": {
+    "$oid": "6645ab85ba80bcf5f994743f"
+  },
+  "selling_channel_names": [
+    "none",
+    "local market"
+  ],
+  "createdAt": {
+    "$date": "2024-05-16T06:55:03.458Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-16T06:55:03.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645b322fa1cfb172f42bb6c"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "selling_channel_names": [
+    "local market"
+  ],
+  "createdAt": {
+    "$date": "2024-05-16T07:17:54.479Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:06:06.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6645c10712fdfcb0f5d71508"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "selling_channel_names": [
+    "none"
+  ],
+  "createdAt": {
+    "$date": "2024-05-16T08:17:11.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:34:45.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66659a0314629051d1f17f7e"
+  },
+  "user_id": {
+    "$oid": "66658d9e14629051d1f17ef3"
+  },
+  "selling_channel_names": [
+    "local market",
+    "agent",
+    "ecommerce",
+    "export"
+  ],
+  "createdAt": {
+    "$date": "2024-06-09T12:03:15.925Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T12:03:15.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6700bacc8faceddf0d29b81f"
+  },
+  "user_id": {
+    "$oid": "66fb840899e480595db8fe92"
+  },
+  "selling_channel_names": [
+    "local market",
+    "agent",
+    "ecommerce",
+    "export"
+  ],
+  "createdAt": {
+    "$date": "2024-10-05T04:04:28.953Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-05T04:04:28.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67120635da853fdf9e440a15"
+  },
+  "user_id": {
+    "$oid": "671203e6da853fdf9e440986"
+  },
+  "selling_channel_names": [
+    "local market",
+    "agent",
+    "ecommerce"
+  ],
+  "createdAt": {
+    "$date": "2024-10-18T06:54:45.614Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T06:54:45.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6790ffb8854b12a936ff7fe3"
+  },
+  "user_id": {
+    "$oid": "678dfe492f36950c8ce7b330"
+  },
+  "selling_channel_names": [
+    "agent",
+    "ecommerce",
+    "export",
+    "none",
+    "local market"
+  ],
+  "createdAt": {
+    "$date": "2025-01-22T14:24:56.200Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T14:42:38.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799f5188bbdaac5708ec63b"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "selling_channel_names": [
+    "local market",
+    "export"
+  ],
+  "createdAt": {
+    "$date": "2025-01-29T09:30:00.939Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-29T09:30:00.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679b851718939a6c582e056b"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "selling_channel_names": [
+    "local market",
+    "agent",
+    "ecommerce",
+    "export"
+  ],
+  "createdAt": {
+    "$date": "2025-01-30T13:56:39.906Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T05:05:27.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aae52445495d1ec97018d5"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "selling_channel_names": [
+    "local market"
+  ],
+  "createdAt": {
+    "$date": "2025-02-11T05:50:28.570Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T05:50:28.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67adc01c1af3159cf5d562d5"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "selling_channel_names": [
+    "none",
+    "export",
+    "ecommerce",
+    "agent",
+    "local market"
+  ],
+  "createdAt": {
+    "$date": "2025-02-13T09:49:16.679Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:12:36.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0ef7ab9aa2904b4cff97c"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "selling_channel_names": [
+    "agent",
+    "ecommerce"
+  ],
+  "createdAt": {
+    "$date": "2025-02-15T19:48:10.509Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T19:48:10.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b189d8b9aa2904b4d0135d"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "selling_channel_names": [
+    "none"
+  ],
+  "createdAt": {
+    "$date": "2025-02-16T06:46:48.042Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T06:46:48.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1bfef65a8ac9a674a7b50"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "selling_channel_names": [
+    "none"
+  ],
+  "createdAt": {
+    "$date": "2025-02-16T10:37:35.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T10:37:35.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1f23a65a8ac9a674a8e1c"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "selling_channel_names": [
+    "local market"
+  ],
+  "createdAt": {
+    "$date": "2025-02-16T14:12:10.089Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T14:12:10.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2b1f865a8ac9a674a9a58"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "selling_channel_names": [
+    "local market"
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T03:50:16.973Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T03:50:16.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2c2ba65a8ac9a674ab61f"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "selling_channel_names": [
+    "local market"
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T05:01:46.520Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:01:46.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3029665a8ac9a674b43e8"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "selling_channel_names": [
+    "local market"
+  ],
+  "createdAt": {
+    "$date": "2025-02-17T09:34:14.455Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:34:18.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4087d5e4b738d894d0e96"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "selling_channel_names": [
+    "local market"
+  ],
+  "createdAt": {
+    "$date": "2025-02-18T04:11:41.091Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:11:41.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b409455e4b738d894d0fdc"
+  },
+  "user_id": {
+    "$oid": "6645be19df633f228df3f916"
+  },
+  "selling_channel_names": [
+    "none"
+  ],
+  "createdAt": {
+    "$date": "2025-02-18T04:15:01.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:15:01.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b426dc5e4b738d894d3327"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "selling_channel_names": [
+    "local market"
+  ],
+  "createdAt": {
+    "$date": "2025-02-18T06:21:16.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T09:51:59.160Z"
+  },
+  "__v": 0
+}]

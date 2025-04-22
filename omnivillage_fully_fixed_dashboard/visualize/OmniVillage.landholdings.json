@@ -1,0 +1,1508 @@
+[{
+  "_id": {
+    "$oid": "679b453418939a6c582e045c"
+  },
+  "user_id": {
+    "$oid": "678dfe492f36950c8ce7b330"
+  },
+  "land_located": "Outside village",
+  "total_land_area": 25,
+  "year_purchased": 2025,
+  "geotag": "21.1779507,72.7359619",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd47f53352d0caa91731"
+        }
+      ],
+      "total_land_area_utilised": 25,
+      "_id": {
+        "$oid": "679b453418939a6c582e045d"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-30T09:24:04.652Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T09:24:04.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c4f98e6b5e001dd4c8179"
+  },
+  "user_id": {
+    "$oid": "6614c882b949a41cf1de2502"
+  },
+  "land_located": "Outside village",
+  "total_land_area": 15,
+  "year_purchased": 2020,
+  "geotag": "22.639784140080764,88.41111604124308",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd47f53352d0caa91731"
+        },
+        {
+          "$oid": "6731cd50f53352d0caa91733"
+        },
+        {
+          "$oid": "6731cd59f53352d0caa91735"
+        }
+      ],
+      "total_land_area_utilised": 2,
+      "_id": {
+        "$oid": "67ac42193f049b9f2622f091"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc1b08481af7fe774200"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cccef53352d0caa9171f"
+        },
+        {
+          "$oid": "6731cca7f53352d0caa91715"
+        },
+        {
+          "$oid": "6731ccb9f53352d0caa91719"
+        }
+      ],
+      "total_land_area_utilised": 5,
+      "_id": {
+        "$oid": "67ac42193f049b9f2622f092"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc4fbcd99b23b57b1a08"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd19f53352d0caa9172b"
+        }
+      ],
+      "total_land_area_utilised": 5,
+      "_id": {
+        "$oid": "67ac42193f049b9f2622f093"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc68bcd99b23b57b1a10"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cddbf53352d0caa9174b"
+        }
+      ],
+      "total_land_area_utilised": 3,
+      "_id": {
+        "$oid": "67ac42193f049b9f2622f094"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-31T04:20:40.999Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T06:39:21.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679c5017e6b5e001dd4c819d"
+  },
+  "user_id": {
+    "$oid": "6798a01f6e3cf28b76c4b650"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 299,
+  "year_purchased": 1907,
+  "geotag": "27.478765559754468,89.63948428630829",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd47f53352d0caa91731"
+        },
+        {
+          "$oid": "6731cd3ff53352d0caa9172f"
+        },
+        {
+          "$oid": "6731cd59f53352d0caa91735"
+        }
+      ],
+      "total_land_area_utilised": 885,
+      "_id": {
+        "$oid": "679c9801e6b5e001dd4c96a4"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc61bcd99b23b57b1a0e"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cdabf53352d0caa91743"
+        }
+      ],
+      "total_land_area_utilised": 858,
+      "_id": {
+        "$oid": "679c9801e6b5e001dd4c96a5"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc1b08481af7fe774200"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cccef53352d0caa9171f"
+        }
+      ],
+      "total_land_area_utilised": 96,
+      "_id": {
+        "$oid": "679c9801e6b5e001dd4c96a6"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-31T04:22:47.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T09:29:37.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679cb52fe6b5e001dd4c9cdc"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 10,
+  "year_purchased": 2025,
+  "geotag": "21.1442972,72.7899955",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc4fbcd99b23b57b1a08"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd10f53352d0caa91729"
+        }
+      ],
+      "total_land_area_utilised": 10,
+      "_id": {
+        "$oid": "679cb52fe6b5e001dd4c9cdd"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd47f53352d0caa91731"
+        }
+      ],
+      "total_land_area_utilised": 10,
+      "_id": {
+        "$oid": "679cb52fe6b5e001dd4c9cde"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-01-31T11:34:07.498Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-31T11:34:07.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a4464b3e7696ea7339b58e"
+  },
+  "user_id": {
+    "$oid": "679b82c318939a6c582e04e2"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 20,
+  "year_purchased": 2019,
+  "geotag": "21.1780124,72.7360923",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd47f53352d0caa91731"
+        }
+      ],
+      "total_land_area_utilised": 20,
+      "_id": {
+        "$oid": "67a4464b3e7696ea7339b58f"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-06T05:19:07.707Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-06T05:19:07.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aaeb9045495d1ec9701ab4"
+  },
+  "user_id": {
+    "$oid": "67aadcdd45495d1ec9701770"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 200,
+  "year_purchased": 1928,
+  "geotag": "27.4788999,89.6392634",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd3ff53352d0caa9172f"
+        }
+      ],
+      "total_land_area_utilised": 25,
+      "_id": {
+        "$oid": "67aaeb9045495d1ec9701ab5"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc1b08481af7fe774200"
+      },
+      "type_category": [
+        {
+          "$oid": "6731ccb1f53352d0caa91717"
+        }
+      ],
+      "total_land_area_utilised": 25,
+      "_id": {
+        "$oid": "67aaeb9045495d1ec9701ab6"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc61bcd99b23b57b1a0e"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cdabf53352d0caa91743"
+        }
+      ],
+      "total_land_area_utilised": 25,
+      "_id": {
+        "$oid": "67aaeb9045495d1ec9701ab7"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc4fbcd99b23b57b1a08"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd10f53352d0caa91729"
+        }
+      ],
+      "total_land_area_utilised": 55,
+      "_id": {
+        "$oid": "67aaeb9045495d1ec9701ab8"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-11T06:17:52.506Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-11T06:17:52.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aeb1d33a0c8b7971daf6a9"
+  },
+  "user_id": {
+    "$oid": "67aadde545495d1ec9701782"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 25,
+  "year_purchased": 2018,
+  "geotag": "47.602012359360806,-122.32683565467596",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc4fbcd99b23b57b1a08"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd19f53352d0caa9172b"
+        }
+      ],
+      "total_land_area_utilised": 25,
+      "_id": {
+        "$oid": "67b0c083b9aa2904b4cfe69c"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc61bcd99b23b57b1a0e"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cdabf53352d0caa91743"
+        }
+      ],
+      "total_land_area_utilised": 2,
+      "_id": {
+        "$oid": "67b0c083b9aa2904b4cfe69d"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-14T03:00:35.288Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T16:27:47.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b17e20b9aa2904b4d00cf3"
+  },
+  "user_id": {
+    "$oid": "65913e95d270c346d7d193ad"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 23,
+  "year_purchased": 2025,
+  "geotag": "22.5322346,88.3790568",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc61bcd99b23b57b1a0e"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cdc0f53352d0caa91747"
+        }
+      ],
+      "total_land_area_utilised": 23,
+      "_id": {
+        "$oid": "67b17e20b9aa2904b4d00cf4"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc1b08481af7fe774200"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cca7f53352d0caa91715"
+        }
+      ],
+      "total_land_area_utilised": 65,
+      "_id": {
+        "$oid": "67b17e20b9aa2904b4d00cf5"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T05:56:48.014Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T05:56:48.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1abffdb1ebb70cb7e0f96"
+  },
+  "user_id": {
+    "$oid": "67b17f14b9aa2904b4d00e39"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 88000,
+  "year_purchased": 2003,
+  "geotag": "27.2179772,90.18558",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd3ff53352d0caa9172f"
+        }
+      ],
+      "total_land_area_utilised": 88000,
+      "_id": {
+        "$oid": "67b1abffdb1ebb70cb7e0f97"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T09:12:31.557Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T09:12:31.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1cb2365a8ac9a674a7fd9"
+  },
+  "user_id": {
+    "$oid": "6645b546df633f228df3f4c8"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 217800,
+  "year_purchased": 1990,
+  "geotag": "27.21468349581016,90.18373735249043",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd3ff53352d0caa9172f"
+        }
+      ],
+      "total_land_area_utilised": 8711,
+      "_id": {
+        "$oid": "67b1cb2365a8ac9a674a7fda"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc1b08481af7fe774200"
+      },
+      "type_category": [
+        {
+          "$oid": "6731ccc6f53352d0caa9171d"
+        }
+      ],
+      "total_land_area_utilised": 6533,
+      "_id": {
+        "$oid": "67b1cb2365a8ac9a674a7fdb"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc68bcd99b23b57b1a10"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cde3f53352d0caa9174d"
+        },
+        {
+          "$oid": "6731cdd3f53352d0caa91749"
+        },
+        {
+          "$oid": "6731cdecf53352d0caa9174f"
+        }
+      ],
+      "total_land_area_utilised": 4355,
+      "_id": {
+        "$oid": "67b1cb2365a8ac9a674a7fdc"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc4fbcd99b23b57b1a08"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd10f53352d0caa91729"
+        }
+      ],
+      "total_land_area_utilised": 8711,
+      "_id": {
+        "$oid": "67b1cb2365a8ac9a674a7fdd"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T11:25:23.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:25:23.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1cf4565a8ac9a674a8211"
+  },
+  "user_id": {
+    "$oid": "67b1b6e0db1ebb70cb7e1853"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 43560,
+  "year_purchased": 2005,
+  "geotag": "27.216957246806146,90.18601018935442",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd59f53352d0caa91735"
+        }
+      ],
+      "total_land_area_utilised": 43650,
+      "_id": {
+        "$oid": "67b1cf4565a8ac9a674a8212"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-16T11:43:01.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-16T11:43:01.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2bfd865a8ac9a674ab214"
+  },
+  "user_id": {
+    "$oid": "67b2af3c65a8ac9a674a9679"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 64730,
+  "year_purchased": 2006,
+  "geotag": "27.2169357796652,90.18763326108456",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd3ff53352d0caa9172f"
+        }
+      ],
+      "total_land_area_utilised": 64730,
+      "_id": {
+        "$oid": "67b2bfd865a8ac9a674ab215"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T04:49:28.867Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T04:49:28.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2ca6165a8ac9a674ac938"
+  },
+  "user_id": {
+    "$oid": "67b2b01265a8ac9a674a973d"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 87120,
+  "year_purchased": 1997,
+  "geotag": "27.21639701270358,90.18594782799482",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd59f53352d0caa91735"
+        }
+      ],
+      "total_land_area_utilised": 87120,
+      "_id": {
+        "$oid": "67b2ca6165a8ac9a674ac939"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T05:34:25.350Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:34:25.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2cef365a8ac9a674ad94f"
+  },
+  "user_id": {
+    "$oid": "6645b2f0fa1cfb172f42bab3"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 85805,
+  "year_purchased": 1990,
+  "geotag": "27.2177067,90.1804967",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc4fbcd99b23b57b1a08"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd10f53352d0caa91729"
+        }
+      ],
+      "total_land_area_utilised": 390,
+      "_id": {
+        "$oid": "67b2cef365a8ac9a674ad950"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc1b08481af7fe774200"
+      },
+      "type_category": [
+        {
+          "$oid": "6731ccb1f53352d0caa91717"
+        }
+      ],
+      "total_land_area_utilised": 7404,
+      "_id": {
+        "$oid": "67b2cef365a8ac9a674ad951"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd3ff53352d0caa9172f"
+        }
+      ],
+      "total_land_area_utilised": 78400,
+      "_id": {
+        "$oid": "67b2cef365a8ac9a674ad952"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc68bcd99b23b57b1a10"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cdd3f53352d0caa91749"
+        },
+        {
+          "$oid": "6731cde3f53352d0caa9174d"
+        },
+        {
+          "$oid": "6731cddbf53352d0caa9174b"
+        }
+      ],
+      "total_land_area_utilised": 435,
+      "_id": {
+        "$oid": "67b2cef365a8ac9a674ad953"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T05:53:55.994Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T05:53:55.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2d11265a8ac9a674adf5f"
+  },
+  "user_id": {
+    "$oid": "67b2a5ff65a8ac9a674a9257"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 104772,
+  "year_purchased": 1997,
+  "geotag": "27.215574098535612,90.18655937165022",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd3ff53352d0caa9172f"
+        }
+      ],
+      "total_land_area_utilised": 52386,
+      "_id": {
+        "$oid": "67b2d11265a8ac9a674adf60"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc61bcd99b23b57b1a0e"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cdabf53352d0caa91743"
+        }
+      ],
+      "total_land_area_utilised": 4365,
+      "_id": {
+        "$oid": "67b2d11265a8ac9a674adf61"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc1b08481af7fe774200"
+      },
+      "type_category": [
+        {
+          "$oid": "6731ccb1f53352d0caa91717"
+        }
+      ],
+      "total_land_area_utilised": 4000,
+      "_id": {
+        "$oid": "67b2d11265a8ac9a674adf62"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc68bcd99b23b57b1a10"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cdd3f53352d0caa91749"
+        }
+      ],
+      "total_land_area_utilised": 0,
+      "_id": {
+        "$oid": "67b2d11265a8ac9a674adf63"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc4fbcd99b23b57b1a08"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd19f53352d0caa9172b"
+        }
+      ],
+      "total_land_area_utilised": 21000,
+      "_id": {
+        "$oid": "67b2d11265a8ac9a674adf64"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T06:02:58.428Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T06:02:58.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2f8d765a8ac9a674b270e"
+  },
+  "user_id": {
+    "$oid": "67b2e7a865a8ac9a674afd18"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 174240,
+  "year_purchased": 1990,
+  "geotag": "27.217837992328235,90.18415544182062",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd3ff53352d0caa9172f"
+        }
+      ],
+      "total_land_area_utilised": 174240,
+      "_id": {
+        "$oid": "67b2f8d765a8ac9a674b270f"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T08:52:39.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T08:52:39.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b2fbac65a8ac9a674b2eb4"
+  },
+  "user_id": {
+    "$oid": "67b2e60d65a8ac9a674afc03"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 65340,
+  "year_purchased": 1987,
+  "geotag": "27.216833214379115,90.18680848181248",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd59f53352d0caa91735"
+        }
+      ],
+      "total_land_area_utilised": 65340,
+      "_id": {
+        "$oid": "67b2fbac65a8ac9a674b2eb5"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:04:44.605Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:04:44.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b302f765a8ac9a674b44e0"
+  },
+  "user_id": {
+    "$oid": "6645abcfba80bcf5f994745b"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 426848,
+  "year_purchased": 1990,
+  "geotag": "27.21798050906013,90.18192987889051",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd50f53352d0caa91733"
+        }
+      ],
+      "total_land_area_utilised": 322089,
+      "_id": {
+        "$oid": "67b302f765a8ac9a674b44e1"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:35:51.521Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:35:51.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3055c65a8ac9a674b50d1"
+  },
+  "user_id": {
+    "$oid": "6645bd3b5f92efa587c87f28"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 87896,
+  "year_purchased": 1990,
+  "geotag": "27.218193389361943,90.18395394086838",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc4fbcd99b23b57b1a08"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd10f53352d0caa91729"
+        }
+      ],
+      "total_land_area_utilised": 13066,
+      "_id": {
+        "$oid": "67b3055c65a8ac9a674b50d2"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd3ff53352d0caa9172f"
+        }
+      ],
+      "total_land_area_utilised": 8711,
+      "_id": {
+        "$oid": "67b3055c65a8ac9a674b50d3"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc1b08481af7fe774200"
+      },
+      "type_category": [
+        {
+          "$oid": "6731ccb1f53352d0caa91717"
+        }
+      ],
+      "total_land_area_utilised": 5226,
+      "_id": {
+        "$oid": "67b3055c65a8ac9a674b50d4"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc68bcd99b23b57b1a10"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cde3f53352d0caa9174d"
+        },
+        {
+          "$oid": "6731cdd3f53352d0caa91749"
+        }
+      ],
+      "total_land_area_utilised": 0,
+      "_id": {
+        "$oid": "67b3055c65a8ac9a674b50d5"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T09:46:04.908Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T09:46:04.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b3126465a8ac9a674b725a"
+  },
+  "user_id": {
+    "$oid": "67b2f29565a8ac9a674b1147"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 43655,
+  "year_purchased": 2000,
+  "geotag": "27.218120640396982,90.18295716494322",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd3ff53352d0caa9172f"
+        }
+      ],
+      "total_land_area_utilised": 43655,
+      "_id": {
+        "$oid": "67b3126465a8ac9a674b725b"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T10:41:40.345Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T10:41:40.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b319d3535126c1f565e57e"
+  },
+  "user_id": {
+    "$oid": "67b30cc465a8ac9a674b6b61"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 217800,
+  "year_purchased": 1970,
+  "geotag": "27.217687127137204,90.18500871956348",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd59f53352d0caa91735"
+        }
+      ],
+      "total_land_area_utilised": 217800,
+      "_id": {
+        "$oid": "67b319d3535126c1f565e57f"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T11:13:23.191Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T11:13:23.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b343b35e4b738d894cf1ae"
+  },
+  "user_id": {
+    "$oid": "67b30ccc65a8ac9a674b6b69"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 210481,
+  "year_purchased": 2005,
+  "geotag": "27.217782535977403,90.18235232681037",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd59f53352d0caa91735"
+        },
+        {
+          "$oid": "6731cd3ff53352d0caa9172f"
+        }
+      ],
+      "total_land_area_utilised": 210481,
+      "_id": {
+        "$oid": "67b343b35e4b738d894cf1af"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-17T14:12:03.452Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-17T14:12:03.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40a385e4b738d894d1153"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 118472,
+  "year_purchased": 1990,
+  "geotag": "27.217325169106676,90.17513684928417",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc1b08481af7fe774200"
+      },
+      "type_category": [
+        {
+          "$oid": "6731ccb1f53352d0caa91717"
+        }
+      ],
+      "total_land_area_utilised": 4791,
+      "_id": {
+        "$oid": "67b40a385e4b738d894d1154"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd3ff53352d0caa9172f"
+        }
+      ],
+      "total_land_area_utilised": 71916,
+      "_id": {
+        "$oid": "67b40a385e4b738d894d1155"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc68bcd99b23b57b1a10"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cde3f53352d0caa9174d"
+        },
+        {
+          "$oid": "6731cdd3f53352d0caa91749"
+        }
+      ],
+      "total_land_area_utilised": 1306,
+      "_id": {
+        "$oid": "67b40a385e4b738d894d1156"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc4fbcd99b23b57b1a08"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd10f53352d0caa91729"
+        }
+      ],
+      "total_land_area_utilised": 4355,
+      "_id": {
+        "$oid": "67b40a385e4b738d894d1157"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T04:19:04.109Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:19:04.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40b025e4b738d894d12ce"
+  },
+  "user_id": {
+    "$oid": "67b3f9755e4b738d894d071d"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 118472,
+  "year_purchased": 1990,
+  "geotag": "27.217325169106676,90.17513684928417",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc4fbcd99b23b57b1a08"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd10f53352d0caa91729"
+        }
+      ],
+      "total_land_area_utilised": 1306,
+      "_id": {
+        "$oid": "67b40b025e4b738d894d12cf"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd3ff53352d0caa9172f"
+        }
+      ],
+      "total_land_area_utilised": 74916,
+      "_id": {
+        "$oid": "67b40b025e4b738d894d12d0"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc1b08481af7fe774200"
+      },
+      "type_category": [
+        {
+          "$oid": "6731ccb1f53352d0caa91717"
+        }
+      ],
+      "total_land_area_utilised": 4355,
+      "_id": {
+        "$oid": "67b40b025e4b738d894d12d1"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cc68bcd99b23b57b1a10"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cde3f53352d0caa9174d"
+        },
+        {
+          "$oid": "6731cdd3f53352d0caa91749"
+        }
+      ],
+      "total_land_area_utilised": 1306,
+      "_id": {
+        "$oid": "67b40b025e4b738d894d12d2"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T04:22:26.737Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:22:26.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b40c715e4b738d894d1437"
+  },
+  "user_id": {
+    "$oid": "67b400e15e4b738d894d0966"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 435,
+  "year_purchased": 1998,
+  "geotag": "27.217621533512165,90.18278986215591",
+  "land_under_use": true,
+  "purpose_land_utilised_for": [
+    {
+      "type": {
+        "$oid": "6731cc55bcd99b23b57b1a0a"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cd59f53352d0caa91735"
+        }
+      ],
+      "total_land_area_utilised": 43560,
+      "_id": {
+        "$oid": "67b40c715e4b738d894d1438"
+      }
+    }
+  ],
+  "purpose_status_of_land": [],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T04:28:33.730Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T04:28:33.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b41f335e4b738d894d311c"
+  },
+  "user_id": {
+    "$oid": "6721ac07748754e18df4a179"
+  },
+  "land_located": "Outside village",
+  "total_land_area": 859,
+  "year_purchased": 2017,
+  "geotag": "22.6125649,88.3757739",
+  "land_under_use": false,
+  "purpose_land_utilised_for": [],
+  "purpose_status_of_land": [
+    {
+      "type": {
+        "$oid": "6731cfb196e51ebd60699bf4"
+      },
+      "type_category": [
+        {
+          "$oid": "6731d00196e51ebd60699c01"
+        },
+        {
+          "$oid": "6731cff196e51ebd60699bfd"
+        }
+      ],
+      "total_land_area_utilised": 589,
+      "_id": {
+        "$oid": "67b41f335e4b738d894d311d"
+      }
+    },
+    {
+      "type": {
+        "$oid": "6731cfbb96e51ebd60699bf6"
+      },
+      "type_category": [
+        {
+          "$oid": "6731d04496e51ebd60699c0d"
+        },
+        {
+          "$oid": "6731d03196e51ebd60699c09"
+        }
+      ],
+      "total_land_area_utilised": 358,
+      "_id": {
+        "$oid": "67b41f335e4b738d894d311e"
+      }
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T05:48:35.730Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T05:48:35.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b43c2e5e4b738d894d3a29"
+  },
+  "user_id": {
+    "$oid": "67b405035e4b738d894d0b16"
+  },
+  "land_located": "Inside village",
+  "total_land_area": 43560,
+  "year_purchased": 1975,
+  "geotag": "27.2157980152753,90.1856430619955",
+  "land_under_use": false,
+  "purpose_land_utilised_for": [],
+  "purpose_status_of_land": [
+    {
+      "type": {
+        "$oid": "6731cfb196e51ebd60699bf4"
+      },
+      "type_category": [
+        {
+          "$oid": "6731cffa96e51ebd60699bff"
+        }
+      ],
+      "total_land_area_utilised": 53609,
+      "_id": {
+        "$oid": "67b471a55e4b738d894d5416"
+      }
+    }
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2025-02-18T07:52:14.680Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T11:40:21.084Z"
+  },
+  "__v": 0
+}]

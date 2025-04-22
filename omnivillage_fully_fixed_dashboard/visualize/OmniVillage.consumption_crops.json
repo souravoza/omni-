@@ -1,0 +1,2592 @@
+[{
+  "_id": {
+    "$oid": "65131cbdc1d8c598c82682e8"
+  },
+  "name": "wheat / gandum",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:37.571Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:37.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbdc1d8c598c82682ea"
+  },
+  "name": "corn / jagung",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:37.675Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:37.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbdc1d8c598c82682ec"
+  },
+  "name": "peanuts / kacang tanah",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:37.788Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:37.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbdc1d8c598c82682ee"
+  },
+  "name": "betel nut / pinang",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:37.923Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:37.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbec1d8c598c82682f0"
+  },
+  "name": "barley / barli",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:38.016Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:38.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbec1d8c598c82682f2"
+  },
+  "name": "oats / oat",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:38.107Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:38.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbec1d8c598c82682f4"
+  },
+  "name": "quinoa",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:38.190Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:38.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbec1d8c598c82682f6"
+  },
+  "name": "flaxseed / biji rami",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:38.279Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:38.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbec1d8c598c82682f8"
+  },
+  "name": "sunflower seed / kuaci",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:38.371Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:38.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbec1d8c598c82682fa"
+  },
+  "name": "soybean / kacang soya",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:38.457Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:38.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbec1d8c598c82682fc"
+  },
+  "name": "lentils / lentil",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:38.543Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:38.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbec1d8c598c82682fe"
+  },
+  "name": "bean sprouts / taugeh",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:38.631Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:38.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbec1d8c598c8268300"
+  },
+  "name": "pumpkin / labu",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:38.714Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:38.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbec1d8c598c8268302"
+  },
+  "name": "chillies / cili",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:38.801Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:38.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbec1d8c598c8268304"
+  },
+  "name": "sweet potato / ubi manis",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:38.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:38.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbec1d8c598c8268306"
+  },
+  "name": "oranges / oren",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:38.984Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:38.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbfc1d8c598c8268308"
+  },
+  "name": "coconut / kelapa",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:39.069Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:39.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbfc1d8c598c826830a"
+  },
+  "name": "banana / pisang",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:39.152Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:39.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbfc1d8c598c826830c"
+  },
+  "name": "beetroot / ubi bit merah",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:39.236Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:39.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbfc1d8c598c826830e"
+  },
+  "name": "ginger / halia",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:39.320Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:39.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbfc1d8c598c8268310"
+  },
+  "name": "bitter gourd / peria",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:39.407Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:39.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbfc1d8c598c8268312"
+  },
+  "name": "tomato / tommato",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:39.495Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:39.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbfc1d8c598c8268314"
+  },
+  "name": "yam / keladi",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:39.585Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:39.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbfc1d8c598c8268316"
+  },
+  "name": "cassava / ubi kayu",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:39.670Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:39.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbfc1d8c598c8268318"
+  },
+  "name": "coriander",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:39.760Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:39.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbfc1d8c598c826831a"
+  },
+  "name": "onion / bawang merah",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:39.852Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:39.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cbfc1d8c598c826831c"
+  },
+  "name": "garlic / bawang putih",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:39.943Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:39.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc0c1d8c598c826831e"
+  },
+  "name": "lemongrass / serai",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:40.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:40.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc0c1d8c598c8268320"
+  },
+  "name": "turmeric / kunyit",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:40.127Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:40.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc0c1d8c598c8268322"
+  },
+  "name": "cabbage / kobis",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:40.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:40.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc0c1d8c598c8268324"
+  },
+  "name": "long bean / kacang panjang",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:40.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:40.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc0c1d8c598c8268326"
+  },
+  "name": "okra",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:40.386Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:40.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc0c1d8c598c8268328"
+  },
+  "name": "cucumber / timun",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:40.471Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:40.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc0c1d8c598c826832a"
+  },
+  "name": "bottle gourd / labu air",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:40.555Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:40.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc0c1d8c598c826832c"
+  },
+  "name": "eggplant / terung",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:40.639Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:40.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc0c1d8c598c826832e"
+  },
+  "name": "broccoli / brokoli",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:40.728Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:40.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc0c1d8c598c8268330"
+  },
+  "name": "mushroom / cendawan",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:40.817Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:40.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc0c1d8c598c8268332"
+  },
+  "name": "bakchoi",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:40.918Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:40.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc1c1d8c598c8268334"
+  },
+  "name": "spinach",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:41.007Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:41.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc1c1d8c598c8268336"
+  },
+  "name": "choy sum",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:41.105Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:41.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc1c1d8c598c8268338"
+  },
+  "name": "kangkung",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:41.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:41.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc1c1d8c598c826833a"
+  },
+  "name": "spring onion / daun sup",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:41.324Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:41.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc1c1d8c598c826833c"
+  },
+  "name": "potato / ubi kentang",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:41.412Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:41.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc1c1d8c598c826833e"
+  },
+  "name": "pineapple / nenas",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:41.501Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:41.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc1c1d8c598c8268340"
+  },
+  "name": "watermelon / tembikai",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:41.592Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:41.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc1c1d8c598c8268342"
+  },
+  "name": "melon",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:41.698Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:41.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc1c1d8c598c8268344"
+  },
+  "name": "pepper / lada",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:41.795Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:41.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc1c1d8c598c8268346"
+  },
+  "name": "sawi",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:41.903Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:41.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc1c1d8c598c8268348"
+  },
+  "name": "keriting",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:41.994Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:41.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc2c1d8c598c826834a"
+  },
+  "name": "misai kucing",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:42.083Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:42.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc2c1d8c598c826834c"
+  },
+  "name": "curry leaves / daun kari",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:42.213Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:42.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc2c1d8c598c826834e"
+  },
+  "name": "pandan",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:42.344Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:42.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc2c1d8c598c8268350"
+  },
+  "name": "vanilla",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:42.433Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:42.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc2c1d8c598c8268352"
+  },
+  "name": "dragonfruit / buah naga",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:42.531Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:42.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc2c1d8c598c8268354"
+  },
+  "name": "kundul",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:42.622Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:42.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc2c1d8c598c8268356"
+  },
+  "name": "durian",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:42.710Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:42.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc2c1d8c598c8268358"
+  },
+  "name": "tarap",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:42.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:42.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc2c1d8c598c826835a"
+  },
+  "name": "rambutan",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:42.891Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:42.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc2c1d8c598c826835c"
+  },
+  "name": "jackfruit / nangka",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:42.984Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:42.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc3c1d8c598c826835e"
+  },
+  "name": "agarwood / kayu gaharu",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:43.076Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:43.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc3c1d8c598c8268360"
+  },
+  "name": "lanzones / langsat",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:43.163Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:43.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc3c1d8c598c8268362"
+  },
+  "name": "mangosteen",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:43.246Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:43.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc3c1d8c598c8268364"
+  },
+  "name": "guava / jambu",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:43.332Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:43.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cc3c1d8c598c8268366"
+  },
+  "name": "papaya / betik",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:02:43.414Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:02:43.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cf2610533a12fefcedf"
+  },
+  "name": "mata kucing / longan",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:30.843Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:30.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cf3610533a12fefcee2"
+  },
+  "name": "apple",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:31.879Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:31.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cf4610533a12fefcee5"
+  },
+  "name": "lemon / lemon",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:32.033Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:32.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cf4610533a12fefcee7"
+  },
+  "name": "lime / limau",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:32.157Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:32.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cf4610533a12fefcee9"
+  },
+  "name": "pamelo / limau kapas",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:32.317Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:32.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131cf4610533a12fefceeb"
+  },
+  "name": "soursop / durian belanda",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:32.418Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:32.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0ded26d44a01d3d9d3"
+  },
+  "name": "avacado / buah lemak / avokado",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:57.792Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:57.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0ded26d44a01d3d9d5"
+  },
+  "name": "cempedak",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:57.937Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:57.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0eed26d44a01d3d9d7"
+  },
+  "name": "mango",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:58.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:58.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0eed26d44a01d3d9d9"
+  },
+  "name": "starfruit / belimbing",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:58.417Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:58.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0eed26d44a01d3d9db"
+  },
+  "name": "berry / beri",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:58.511Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:58.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0eed26d44a01d3d9dd"
+  },
+  "name": "tamarind / asam jawa",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:59.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:59.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0fed26d44a01d3d9df"
+  },
+  "name": "pomegranate / buah delima",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:59.095Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:59.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0fed26d44a01d3d9e1"
+  },
+  "name": "petola",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:59.197Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:59.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0fed26d44a01d3d9e3"
+  },
+  "name": "milk / susu",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:59.292Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:59.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0fed26d44a01d3d9e5"
+  },
+  "name": "butter / mentega",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:59.389Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:59.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0fed26d44a01d3d9e7"
+  },
+  "name": "cheese / keju",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:59.487Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:59.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0fed26d44a01d3d9e9"
+  },
+  "name": "tofu",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:59.582Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:59.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0fed26d44a01d3d9eb"
+  },
+  "name": "eggs / telur",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:59.675Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:59.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0fed26d44a01d3d9ed"
+  },
+  "name": "yogurt",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:59.772Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:59.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0fed26d44a01d3d9ef"
+  },
+  "name": "cottage cheese",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:59.868Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:59.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d0fed26d44a01d3d9f1"
+  },
+  "name": "honey / madu",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bd"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:03:59.967Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:03:59.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d10ed26d44a01d3d9f3"
+  },
+  "name": "chicken / ayam",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:00.074Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:00.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d10ed26d44a01d3d9f5"
+  },
+  "name": "duck / itik",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:00.165Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:00.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d10ed26d44a01d3d9f7"
+  },
+  "name": "pig / khinzir",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:00.255Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:00.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d10ed26d44a01d3d9f9"
+  },
+  "name": "deer / rusa",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:00.350Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:00.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d10ed26d44a01d3d9fb"
+  },
+  "name": "wild boar / babi hutan",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:00.448Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:00.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d10ed26d44a01d3d9fd"
+  },
+  "name": "monkey / monyet",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:00.541Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:00.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d10ed26d44a01d3d9ff"
+  },
+  "name": "snake / ular",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:00.707Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:00.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d10ed26d44a01d3da01"
+  },
+  "name": "python / ular sawah",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:00.802Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:00.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d10ed26d44a01d3da03"
+  },
+  "name": "abalone / abalon",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:00.897Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:00.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d10ed26d44a01d3da05"
+  },
+  "name": "calamari / sotong",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:00.994Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:00.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d11ed26d44a01d3da07"
+  },
+  "name": "clam / kerang",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:01.087Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:01.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d11ed26d44a01d3da09"
+  },
+  "name": "crab / ketam",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:01.183Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:01.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d11ed26d44a01d3da0b"
+  },
+  "name": "crayfish / udang karang",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:01.280Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:01.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d11ed26d44a01d3da0d"
+  },
+  "name": "lobster / udang galah",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:01.375Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:01.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d11ed26d44a01d3da0f"
+  },
+  "name": "mussel / kupang",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:01.471Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:01.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d11ed26d44a01d3da11"
+  },
+  "name": "octopus / sotong",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:01.573Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:01.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d11ed26d44a01d3da13"
+  },
+  "name": "oyster / tiram",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:01.674Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:01.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d11ed26d44a01d3da15"
+  },
+  "name": "shrimp / prawn / udang",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:01.777Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:01.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d11ed26d44a01d3da17"
+  },
+  "name": "sea urchin / landak laut",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:01.872Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:01.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d11ed26d44a01d3da19"
+  },
+  "name": "pelian",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:01.966Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:01.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d12ed26d44a01d3da1b"
+  },
+  "name": "salarong",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:02.126Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:02.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d12ed26d44a01d3da1d"
+  },
+  "name": "tilapia",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:02.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:02.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d12ed26d44a01d3da1f"
+  },
+  "name": "sultan",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:02.328Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:02.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d12ed26d44a01d3da21"
+  },
+  "name": "gourami",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:02.425Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:02.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d12ed26d44a01d3da23"
+  },
+  "name": "catfish",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743bf"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:02.541Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:02.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d12ed26d44a01d3da25"
+  },
+  "name": "tea",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c5"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:02.635Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:02.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d12ed26d44a01d3da27"
+  },
+  "name": "coffee",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c5"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:02.731Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:02.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d12ed26d44a01d3da29"
+  },
+  "name": "coconut oil",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:02.830Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:02.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d12ed26d44a01d3da2b"
+  },
+  "name": "sunflower oil",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:02.927Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:02.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d13ed26d44a01d3da2d"
+  },
+  "name": "olive oil",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:03.025Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:03.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d13ed26d44a01d3da2f"
+  },
+  "name": "corn oil",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:03.141Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:03.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d13ed26d44a01d3da31"
+  },
+  "name": "soybean oil",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:03.238Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:03.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d13ed26d44a01d3da33"
+  },
+  "name": "palm oil",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c7"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:03.333Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:03.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d13ed26d44a01d3da35"
+  },
+  "name": "canned curry chicken / kari ayam dalam tin",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:03.433Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:03.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d13ed26d44a01d3da37"
+  },
+  "name": "instant noodles & pasta / mi segera & pasta",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:03.531Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:03.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d13ed26d44a01d3da39"
+  },
+  "name": "canned fish / kari ikan",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:03.631Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:03.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d13ed26d44a01d3da3b"
+  },
+  "name": "canned curry",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:03.724Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:03.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d13ed26d44a01d3da3d"
+  },
+  "name": "canned anchovies / sambal bilis dalam tin",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:03.821Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:03.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d13ed26d44a01d3da3f"
+  },
+  "name": "canned sambal",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:03.919Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:03.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d14ed26d44a01d3da41"
+  },
+  "name": "salted fish / ikan masin",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:04.013Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:04.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d14ed26d44a01d3da43"
+  },
+  "name": "fermented meats / jeruk",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:04.112Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:04.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d14ed26d44a01d3da45"
+  },
+  "name": "chips",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:04.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:04.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d14ed26d44a01d3da47"
+  },
+  "name": "biscuits",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:04.318Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:04.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d14ed26d44a01d3da49"
+  },
+  "name": "cakes / kek",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:04.413Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:04.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d14ed26d44a01d3da4b"
+  },
+  "name": "chocolates / coklat",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:04.514Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:04.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d14ed26d44a01d3da4d"
+  },
+  "name": "banana fritters / pisang goreng",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:04.609Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:04.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d14ed26d44a01d3da4f"
+  },
+  "name": "ice cream",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:04.701Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:04.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d14ed26d44a01d3da51"
+  },
+  "name": "bread / roti",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:04.805Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:04.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d14ed26d44a01d3da53"
+  },
+  "name": "milo",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:04.903Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:04.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d15ed26d44a01d3da55"
+  },
+  "name": "fishcake",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:05.013Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:05.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d15ed26d44a01d3da57"
+  },
+  "name": "fishball",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:05.109Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:05.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d15ed26d44a01d3da59"
+  },
+  "name": "pizza",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:05.204Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:05.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d15ed26d44a01d3da5b"
+  },
+  "name": "burger",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:05.303Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:05.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d15ed26d44a01d3da5d"
+  },
+  "name": "fries",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:05.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:05.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d15ed26d44a01d3da5f"
+  },
+  "name": "soft drinks",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:05.506Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:05.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d15ed26d44a01d3da61"
+  },
+  "name": "sausage",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:05.635Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:05.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d15ed26d44a01d3da63"
+  },
+  "name": "nuggets",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:05.761Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:05.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d15ed26d44a01d3da65"
+  },
+  "name": "packed juice",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:05.904Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:05.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d16ed26d44a01d3da67"
+  },
+  "name": "cereals",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:06.024Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:06.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d16ed26d44a01d3da69"
+  },
+  "name": "popcorn / popcorn",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:06.124Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:06.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d16ed26d44a01d3da6b"
+  },
+  "name": "pickles / acar",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:06.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:06.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d16ed26d44a01d3da6d"
+  },
+  "name": "chicken stock / stok ayam",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c9"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:06.322Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:06.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d3143d597cc5a3fb50d"
+  },
+  "name": "chilly",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:33.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:33.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d3143d597cc5a3fb511"
+  },
+  "name": "oyster",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:33.419Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:33.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d3143d597cc5a3fb514"
+  },
+  "name": "fish",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:33.508Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:33.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d3143d597cc5a3fb516"
+  },
+  "name": "barbeque",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:33.601Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:33.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d3143d597cc5a3fb518"
+  },
+  "name": "soybean",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:33.699Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:33.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d3143d597cc5a3fb51a"
+  },
+  "name": "vinegar",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743c3"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:33.784Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:33.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d3143d597cc5a3fb51c"
+  },
+  "name": "tobacco",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:33.877Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:33.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65131d3143d597cc5a3fb51e"
+  },
+  "name": "alcohol",
+  "consumption_type_id": {
+    "$oid": "6506e28481f75fd724a743cb"
+  },
+  "createdAt": {
+    "$date": "2023-09-26T18:04:33.965Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T18:04:33.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655cf06fc4b4f6f45f80698b"
+  },
+  "name": "test 1",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "createdAt": {
+    "$date": "2023-11-21T18:01:19.816Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T18:01:19.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655cf191c4b4f6f45f8069b6"
+  },
+  "name": "test 2",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "createdAt": {
+    "$date": "2023-11-21T18:06:09.067Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T18:06:09.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655cf253c4b4f6f45f8069f8"
+  },
+  "name": "test 3",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "createdAt": {
+    "$date": "2023-11-21T18:09:23.340Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T18:09:23.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655cf28ec4b4f6f45f806a2e"
+  },
+  "name": "test 4",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b3"
+  },
+  "createdAt": {
+    "$date": "2023-11-21T18:10:22.826Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T18:10:22.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e765dc4b4f6f45f806b2b"
+  },
+  "name": "test",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b9"
+  },
+  "createdAt": {
+    "$date": "2023-11-22T21:45:01.403Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T21:45:01.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e7689c4b4f6f45f806b7a"
+  },
+  "name": "new legumes ",
+  "consumption_type_id": {
+    "$oid": "6506e28381f75fd724a743b9"
+  },
+  "createdAt": {
+    "$date": "2023-11-22T21:45:45.850Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T21:45:45.850Z"
+  },
+  "__v": 0
+}]

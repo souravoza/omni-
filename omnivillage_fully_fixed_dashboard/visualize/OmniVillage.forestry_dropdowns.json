@@ -1,0 +1,1476 @@
+[{
+  "_id": {
+    "$oid": "673dac588310fcf665ad6828"
+  },
+  "type": "general_purpose",
+  "name": {
+    "en": "commercial trade / income generation",
+    "ms": "commercial trade / income generation",
+    "dz": "commercial trade / income generation"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:31:04.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:12:16.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673dacb78310fcf665ad682b"
+  },
+  "type": "general_purpose",
+  "name": {
+    "en": "construction / building materials",
+    "ms": "construction / building materials",
+    "dz": "construction / building materials"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:32:39.681Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:12:37.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673dae778310fcf665ad682f"
+  },
+  "type": "general_purpose",
+  "name": {
+    "en": "cultural / religious purposes",
+    "ms": "cultural / religious purposes",
+    "dz": "cultural / religious purposes"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:40:07.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:12:54.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673dae7e8310fcf665ad6832"
+  },
+  "type": "timber_needs_purpose",
+  "name": {
+    "en": "furniture / joinery",
+    "ms": "furniture / joinery",
+    "dz": "furniture / joinery"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:40:14.546Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T21:42:45.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673dae828310fcf665ad6835"
+  },
+  "type": "timber_needs_purpose",
+  "name": {
+    "en": "fuelwood / charcoal",
+    "ms": "fuelwood / charcoal",
+    "dz": "fuelwood / charcoal"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:40:18.941Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T21:42:56.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673dae898310fcf665ad6838"
+  },
+  "type": "timber_needs_purpose",
+  "name": {
+    "en": "crafts / handicrafts",
+    "ms": "crafts / handicrafts",
+    "dz": "crafts / handicrafts"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T09:40:25.481Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T21:43:09.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67880236650d18f99ddadd10"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "wild fruits / berries",
+    "ms": "wild fruits / berries",
+    "dz": "wild fruits / berries"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T18:45:10.324Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T20:45:41.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67880394650d18f99ddadd25"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "fuelwood / firewood",
+    "ms": "fuelwood / firewood",
+    "dz": "fuelwood / firewood"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T18:51:00.836Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T21:58:13.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678803a3650d18f99ddadd28"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "fodder / forage",
+    "ms": "fodder / forage",
+    "dz": "fodder / forage"
+  },
+  "createdAt": {
+    "$date": "2025-01-15T18:51:15.963Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T21:58:29.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6798997144c8777e0ba648b7"
+  },
+  "type": "timber_needs_urgency",
+  "name": {
+    "en": "within 1 year",
+    "ms": "within 1 year",
+    "dz": "within 1 year"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T08:46:41.593Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T21:46:38.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6798997a44c8777e0ba648ba"
+  },
+  "type": "timber_needs_urgency",
+  "name": {
+    "en": "within 2-5 years",
+    "ms": "within 2-5 years",
+    "dz": "within 2-5 years"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T08:46:50.437Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T21:47:04.335Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67989b2e44c8777e0ba648bf"
+  },
+  "type": "timber_needs_purpose",
+  "name": {
+    "en": "building / construction",
+    "ms": "building / construction",
+    "dz": "building / construction"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T08:54:06.476Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T21:42:17.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67989b3844c8777e0ba648c2"
+  },
+  "type": "other_needs_purpose",
+  "name": {
+    "en": "construction / building materials",
+    "ms": "construction / building materials",
+    "dz": "construction / building materials"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T08:54:16.558Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:07:55.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67989b4644c8777e0ba648c5"
+  },
+  "type": "general_purpose",
+  "name": {
+    "en": "energy / fuel",
+    "ms": "energy / fuel",
+    "dz": "energy / fuel"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T08:54:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:13:15.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6799c9e30e76731996b85bb1"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "cubic meters (m³)",
+    "ms": "cubic meters (m³)",
+    "dz": "cubic meters (m³)"
+  },
+  "createdAt": {
+    "$date": "2025-01-29T06:25:39.343Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:03:19.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679a25bcd3f2015639ef7c9c"
+  },
+  "type": "other_needs_urgency",
+  "name": {
+    "en": "within 1 year",
+    "ms": "within 1 year",
+    "dz": "within 1 year"
+  },
+  "createdAt": {
+    "$date": "2025-01-29T12:57:32.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:10:03.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afab7e01f33d7cb670772f"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "mushrooms",
+    "ms": "mushrooms",
+    "dz": "mushrooms"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T20:45:50.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T20:45:50.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afab8901f33d7cb6707732"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "honey / bee products",
+    "ms": "honey / bee products",
+    "dz": "honey / bee products"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T20:46:01.234Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T20:46:01.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afab9201f33d7cb6707735"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "medicinal herbs / plants",
+    "ms": "medicinal herbs / plants",
+    "dz": "medicinal herbs / plants"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T20:46:10.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T20:46:10.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afab9a01f33d7cb6707738"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "gums / resins",
+    "ms": "gums / resins",
+    "dz": "gums / resins"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T20:46:18.613Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T20:46:18.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afaba301f33d7cb670773b"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "nuts / seeds",
+    "ms": "nuts / seeds",
+    "dz": "nuts / seeds"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T20:46:27.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T20:46:27.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afabac01f33d7cb670773e"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "bamboo / rattan",
+    "ms": "bamboo / rattan",
+    "dz": "bamboo / rattan"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T20:46:36.637Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T20:46:36.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afabb801f33d7cb6707741"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "fodder / leaves",
+    "ms": "fodder / leaves",
+    "dz": "fodder / leaves"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T20:46:48.463Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T20:46:48.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afb85601f33d7cb6707753"
+  },
+  "type": "general_purpose",
+  "name": {
+    "en": "food & nutrition",
+    "ms": "food & nutrition",
+    "dz": "food & nutrition"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T21:40:38.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:13:41.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afb86001f33d7cb6707756"
+  },
+  "type": "general_purpose",
+  "name": {
+    "en": "handicrafts / furniture",
+    "ms": "handicrafts / furniture",
+    "dz": "handicrafts / furniture"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T21:40:48.512Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:14:01.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afb91601f33d7cb6707775"
+  },
+  "type": "timber_needs_purpose",
+  "name": {
+    "en": "paper / pulp",
+    "ms": "paper / pulp",
+    "dz": "paper / pulp"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T21:43:50.546Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T21:43:50.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afb92101f33d7cb6707778"
+  },
+  "type": "timber_needs_purpose",
+  "name": {
+    "en": "fencing / poles",
+    "ms": "fencing / poles",
+    "dz": "fencing / poles"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T21:44:01.201Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T21:44:01.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afb9f201f33d7cb6707780"
+  },
+  "type": "timber_needs_urgency",
+  "name": {
+    "en": "within 5-10 years",
+    "ms": "within 5-10 years",
+    "dz": "within 5-10 years"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T21:47:30.603Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T21:47:30.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afba0601f33d7cb6707783"
+  },
+  "type": "timber_needs_urgency",
+  "name": {
+    "en": "after 10 years",
+    "ms": "after 10 years",
+    "dz": "after 10 years"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T21:47:50.642Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T21:47:50.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbd1001f33d7cb67077af"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "bamboo / rattan",
+    "ms": "bamboo / rattan",
+    "dz": "bamboo / rattan"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:00:48.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:00:48.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbd1c01f33d7cb67077b2"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "resins / gums / latex",
+    "ms": "resins / gums / latex",
+    "dz": "resins / gums / latex"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:01:00.789Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:01:00.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbd2701f33d7cb67077b5"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "honey / bee products",
+    "ms": "honey / bee products",
+    "dz": "honey / bee products"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:01:11.270Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:01:11.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbdb601f33d7cb67077dc"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "cubic feet (ft³)",
+    "ms": "cubic feet (ft³)",
+    "dz": "cubic feet (ft³)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:03:34.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:03:34.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbdc401f33d7cb67077df"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "kg",
+    "ms": "kg",
+    "dz": "kg"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:03:48.398Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:03:48.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbdce01f33d7cb67077e2"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "metric tons (t)",
+    "ms": "metric tons (t)",
+    "dz": "metric tons (t)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:03:58.968Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:03:58.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbde001f33d7cb67077e5"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "bundles",
+    "ms": "bundles",
+    "dz": "bundles"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:04:16.276Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:04:16.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbdf101f33d7cb67077e8"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "baskets / bags / sacks",
+    "ms": "baskets / bags / sacks",
+    "dz": "baskets / bags / sacks"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:04:33.476Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:04:33.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbe0a01f33d7cb67077eb"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "liters (l)",
+    "ms": "liters (l)",
+    "dz": "liters (l)"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:04:58.301Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:04:58.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbe1801f33d7cb67077ef"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "drums",
+    "ms": "drums",
+    "dz": "drums"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:05:12.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:05:12.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbe2301f33d7cb67077f2"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "jars",
+    "ms": "jars",
+    "dz": "jars"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:05:23.974Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:05:23.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbecc01f33d7cb67077f7"
+  },
+  "type": "other_needs_purpose",
+  "name": {
+    "en": "energy / fuel",
+    "ms": "energy / fuel",
+    "dz": "energy / fuel"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:08:12.928Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:08:12.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbed601f33d7cb67077fa"
+  },
+  "type": "other_needs_purpose",
+  "name": {
+    "en": "livestock feed / fodder",
+    "ms": "livestock feed / fodder",
+    "dz": "livestock feed / fodder"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:08:22.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:08:22.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbee001f33d7cb67077fd"
+  },
+  "type": "other_needs_purpose",
+  "name": {
+    "en": "food & nutrition",
+    "ms": "food & nutrition",
+    "dz": "food & nutrition"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:08:32.964Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:08:32.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbeed01f33d7cb6707800"
+  },
+  "type": "other_needs_purpose",
+  "name": {
+    "en": "medicinal / health products",
+    "ms": "medicinal / health products",
+    "dz": "medicinal / health products"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:08:45.628Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:08:45.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbef801f33d7cb6707803"
+  },
+  "type": "other_needs_purpose",
+  "name": {
+    "en": "handicrafts / furniture",
+    "ms": "handicrafts / furniture",
+    "dz": "handicrafts / furniture"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:08:56.641Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:08:56.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbf0801f33d7cb6707806"
+  },
+  "type": "other_needs_purpose",
+  "name": {
+    "en": "industrial raw materials",
+    "ms": "industrial raw materials",
+    "dz": "industrial raw materials"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:09:12.635Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:09:12.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbf1301f33d7cb6707809"
+  },
+  "type": "other_needs_purpose",
+  "name": {
+    "en": "commercial trade / income generation",
+    "ms": "commercial trade / income generation",
+    "dz": "commercial trade / income generation"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:09:23.790Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:09:23.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbf1f01f33d7cb670780c"
+  },
+  "type": "other_needs_purpose",
+  "name": {
+    "en": "cultural / religious purposes",
+    "ms": "cultural / religious purposes",
+    "dz": "cultural / religious purposes"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:09:35.095Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:09:35.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbf5301f33d7cb6707812"
+  },
+  "type": "other_needs_urgency",
+  "name": {
+    "en": "within 2-5 years",
+    "ms": "within 2-5 years",
+    "dz": "within 2-5 years"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:10:27.612Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:10:27.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbf6301f33d7cb6707815"
+  },
+  "type": "other_needs_urgency",
+  "name": {
+    "en": "within 5-10 years",
+    "ms": "within 5-10 years",
+    "dz": "within 5-10 years"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:10:43.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:10:43.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67afbf7b01f33d7cb6707818"
+  },
+  "type": "other_needs_urgency",
+  "name": {
+    "en": "after 10 years",
+    "ms": "after 10 years",
+    "dz": "after 10 years"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T22:11:07.912Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-14T22:11:07.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0444801f33d7cb670865a"
+  },
+  "type": "dropdown",
+  "name": {
+    "en": "dozen",
+    "ms": "dozen",
+    "dz": "dozen"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:37:44.910Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:37:44.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b044dc01f33d7cb670869a"
+  },
+  "type": "timber_needs_purpose",
+  "name": {
+    "en": "other",
+    "ms": "other",
+    "dz": "other"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T07:40:12.786Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T07:40:12.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0690b1f93ee4d2d06bfeb"
+  },
+  "type": "general_purpose",
+  "name": {
+    "en": "industrial raw materials",
+    "ms": "industrial raw materials",
+    "dz": "industrial raw materials"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:14:35.763Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:14:35.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b0691f1f93ee4d2d06bfee"
+  },
+  "type": "general_purpose",
+  "name": {
+    "en": "livestock feed / fodder",
+    "ms": "livestock feed / fodder",
+    "dz": "livestock feed / fodder"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:14:55.093Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:14:55.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b069301f93ee4d2d06bff1"
+  },
+  "type": "general_purpose",
+  "name": {
+    "en": "medicinal / health products",
+    "ms": "medicinal / health products",
+    "dz": "medicinal / health products"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:15:12.289Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:15:12.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b069f01f93ee4d2d06c056"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "⁠fern shoots (nakey) ",
+    "ms": "⁠fern shoots (nakey) ",
+    "dz": "⁠fern shoots (nakey) "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:18:24.122Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:18:24.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b069fb1f93ee4d2d06c059"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "himalayan nettle",
+    "ms": "himalayan nettle",
+    "dz": "himalayan nettle"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:18:35.014Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:18:35.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06a0a1f93ee4d2d06c05c"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "⁠rhododendron flowers",
+    "ms": "⁠rhododendron flowers",
+    "dz": "⁠rhododendron flowers"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:18:50.864Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:18:50.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06a161f93ee4d2d06c05f"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "⁠honey  - wild mushrooms (matsutake) ",
+    "ms": "⁠honey  - wild mushrooms (matsutake) ",
+    "dz": "⁠honey  - wild mushrooms (matsutake) "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:19:02.725Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:19:02.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06a231f93ee4d2d06c062"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "bamboo shoots  ",
+    "ms": "bamboo shoots  ",
+    "dz": "bamboo shoots  "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:19:15.582Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:19:15.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06a2e1f93ee4d2d06c065"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "cordyceps sinensis (yartsa gunbu)",
+    "ms": "cordyceps sinensis (yartsa gunbu)",
+    "dz": "cordyceps sinensis (yartsa gunbu)"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:19:26.326Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:19:26.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06a371f93ee4d2d06c068"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "artemisia",
+    "ms": "artemisia",
+    "dz": "artemisia"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:19:35.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:19:35.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06a401f93ee4d2d06c06b"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "juniper",
+    "ms": "juniper",
+    "dz": "juniper"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:19:44.730Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:19:44.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06a4d1f93ee4d2d06c06e"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "⁠essential lemongrass oil ",
+    "ms": "⁠essential lemongrass oil ",
+    "dz": "⁠essential lemongrass oil "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:19:57.073Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:19:57.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06a561f93ee4d2d06c071"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "pine resin",
+    "ms": "pine resin",
+    "dz": "pine resin"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:20:06.532Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:20:06.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06a5f1f93ee4d2d06c074"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "bamboo",
+    "ms": "bamboo",
+    "dz": "bamboo"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:20:15.199Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:20:15.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06a6c1f93ee4d2d06c077"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "wild apples",
+    "ms": "wild apples",
+    "dz": "wild apples"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:20:28.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:20:28.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b06a761f93ee4d2d06c07a"
+  },
+  "type": "other_produce_from_forest",
+  "name": {
+    "en": "wild citrus fruits",
+    "ms": "wild citrus fruits",
+    "dz": "wild citrus fruits"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T10:20:38.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T10:20:38.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b107eeb9aa2904b4d004c0"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "fern shoots (nakey)  ",
+    "ms": "fern shoots (nakey)  ",
+    "dz": "fern shoots (nakey)  "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:32:30.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:32:30.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b107fdb9aa2904b4d004c3"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "⁠himalayan nettle",
+    "ms": "⁠himalayan nettle",
+    "dz": "⁠himalayan nettle"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:32:45.594Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:32:45.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10813b9aa2904b4d004c6"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "rhododendron flowers  ",
+    "ms": "rhododendron flowers  ",
+    "dz": "rhododendron flowers  "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:33:07.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:33:07.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1081eb9aa2904b4d004c9"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "⁠honey  - wild mushrooms (matsutake)  ",
+    "ms": "⁠honey  - wild mushrooms (matsutake)  ",
+    "dz": "⁠honey  - wild mushrooms (matsutake)  "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:33:18.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:33:18.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10828b9aa2904b4d004cc"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "bamboo shoots  ",
+    "ms": "bamboo shoots  ",
+    "dz": "bamboo shoots  "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:33:28.809Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:33:28.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10832b9aa2904b4d004cf"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "cordyceps sinensis (yartsa gunbu)  ",
+    "ms": "cordyceps sinensis (yartsa gunbu)  ",
+    "dz": "cordyceps sinensis (yartsa gunbu)  "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:33:38.818Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:33:38.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1083db9aa2904b4d004d2"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "artemisia",
+    "ms": "artemisia",
+    "dz": "artemisia"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:33:49.642Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:33:49.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10848b9aa2904b4d004d5"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "juniper",
+    "ms": "juniper",
+    "dz": "juniper"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:34:00.356Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:34:00.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10851b9aa2904b4d004d8"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "essential lemongrass oil  ",
+    "ms": "essential lemongrass oil  ",
+    "dz": "essential lemongrass oil  "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:34:09.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:34:09.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b1085cb9aa2904b4d004db"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": " ⁠pine resin",
+    "ms": " ⁠pine resin",
+    "dz": " ⁠pine resin"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:34:20.872Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:34:20.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10865b9aa2904b4d004de"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "bamboo",
+    "ms": "bamboo",
+    "dz": "bamboo"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:34:29.617Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:34:29.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10870b9aa2904b4d004e1"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "wild apples  ",
+    "ms": "wild apples  ",
+    "dz": "wild apples  "
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:34:40.519Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:34:40.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b10879b9aa2904b4d004e4"
+  },
+  "type": "other_needs_type",
+  "name": {
+    "en": "wild citrus fruits",
+    "ms": "wild citrus fruits",
+    "dz": "wild citrus fruits"
+  },
+  "createdAt": {
+    "$date": "2025-02-15T21:34:49.821Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-15T21:34:49.821Z"
+  },
+  "__v": 0
+}]
